@@ -1,4 +1,4 @@
-# Vulnerable Servers and Websites
+# Vulnerable Apps, Servers, and Websites
 The following is a collection of vulnerable servers (VMs) or websites that you can use to practice your skills.
 
 * bWAPP : https://sourceforge.net/projects/bwapp/files/bWAPP
