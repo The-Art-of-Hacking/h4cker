@@ -10,3 +10,9 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 * Hack This Site: https://www.hackthissite.org
 * HellBound Hackers: https://www.hellboundhackers.org
 * OWASP Mutillidae II: https://sourceforge.net/projects/mutillidae
+* Over The Wire Wargames: http://overthewire.org/wargames
+* Peruggia: https://sourceforge.net/projects/peruggia
+* RootMe: https://www.root-me.org
+* Try2Hack: http://www.try2hack.nl
+* Vicnum: http://vicnum.ciphertechs.com
+* WebGoat: http://webappsecmovies.sourceforge.net/webgoat
