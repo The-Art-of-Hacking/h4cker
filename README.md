@@ -4,8 +4,8 @@ The Art of Hacking is a series of video courses that is a complete guide to help
 The following are the different video courses that will be part of the Art of Hacking series:
 
 * Security Penetration Testing (The Art of Hacking Series) LiveLessons
-* Creating Red Teams and Hacking the Enterprise (The Art of Hacking Series) LiveLessons
-* Wireless Networks and IoT Hacking Techniques (The Art of Hacking Series) LiveLessons
+* Enterprise Penetration Testing and Continuous Monitoring (the Art of Hacking Series)
+* Wireless Networks, IoT, and Mobile Devices Hacking (The Art of Hacking Series) LiveLessons
 * Advanced Web Applications Penetration Testing (The Art of Hacking Series) LiveLessons
 * Advanced Network Hacking (The Art of Hacking Series) LiveLessons
 
