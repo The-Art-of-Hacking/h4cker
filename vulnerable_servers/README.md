@@ -1,8 +1,10 @@
 # Vulnerable Apps, Servers, and Websites
 The following is a collection of vulnerable servers (VMs) or websites that you can use to practice your skills.
 
+* Hackazon : https://github.com/rapid7/hackazon
 * bWAPP : https://sourceforge.net/projects/bwapp/files/bWAPP
-* Metasploitable: https://community.rapid7.com/docs/DOC-1875
+* Metasploitable2 : https://community.rapid7.com/docs/DOC-1875
+* Metasploitable3 : https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/
 * Damn Vulnerable iOS Application (DVIA): http://damnvulnerableiosapp.com
 * Game of Hacks: http://www.gameofhacks.com
 * Gruyere: https://google-gruyere.appspot.com
