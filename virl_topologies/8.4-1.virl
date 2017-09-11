@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<topology xmlns="http://www.cisco.com/VIRL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="0.95" xsi:schemaLocation="http://www.cisco.com/VIRL https://raw.github.com/CiscoVIRL/schema/v0.95/virl.xsd">
+    <extensions>
+        <entry key="AutoNetkit.infrastructure_only" type="Boolean">false</entry>
+        <entry key="management_network" type="String">flat</entry>
+        <entry key="AutoNetkit.enable_cdp" type="Boolean">true</entry>
+        <entry key="AutoNetkit.IGP" type="String">ospf</entry>
+    </extensions>
+    <node name="iosvl2-1" type="SIMPLE" subtype="IOSvL2" location="296,180">
+        <extensions>
+            <entry key="config" type="string">! IOSvL2 Config generated on 2017-08-27 23:10
+! by autonetkit_0.23.5
+!
+version 15.2
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+service compress-config
+no service config
+enable password cisco
+ip classless
+ip subnet-zero
+no ip domain lookup
+!
+line vty 0 4
+transport input ssh telnet
+exec-timeout 720 0
+password cisco
+login
+!
+line con 0
+password cisco
+!
+hostname iosvl2-1
+!
+boot-start-marker
+boot-end-marker
+!
+!
+!
+no aaa new-model
+!
+vtp domain virl.lab
+vtp mode transparent
+!
+vlan 2
+  name ank_vlan2
+vlan 3
+  name ank_vlan3
+!
+!
+!
+!
+cdp run
+!
+!
+!
+ip cef
+no ipv6 cef
+!
+!
+spanning-tree mode pvst
+spanning-tree extend system-id
+!
+vlan internal allocation policy ascending
+!
+!
+!
+!
+vrf definition Mgmt-intf
+!
+ address-family ipv4
+ exit-address-family
+ !
+ address-family ipv6
+ exit-address-family
+!
+!
+!
+!
+!
+interface Loopback0
+  description Loopback
+!
+interface GigabitEthernet0/0
+  description OOB management
+  ! Configured on launch
+  no switchport
+  vrf forwarding Mgmt-intf
+  no ip address
+  no shutdown
+!
+interface GigabitEthernet0/1
+  description to iosvl2-2
+  switchport trunk encapsulation dot1q
+  switchport mode trunk
+  no shutdown
+!
+interface GigabitEthernet0/2
+  description to iosv-1
+  switchport access vlan 2
+  switchport mode access
+  no shutdown
+!
+interface GigabitEthernet0/3
+  description to kali-1
+  switchport access vlan 2
+  switchport mode access
+  no shutdown
+!
+interface GigabitEthernet1/0
+  description to iosv-2
+  switchport access vlan 2
+  switchport mode access
+  no shutdown
+!
+!
+ip forward-protocol nd
+!
+no ip http server
+no ip http secure-server
+!
+!
+!
+!
+!
+!
+control-plane
+!
+!
+!
+end
+        </entry>
+            <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+        </extensions>
+        <interface id="0" name="GigabitEthernet0/1"/>
+        <interface id="1" name="GigabitEthernet0/2"/>
+        <interface id="2" name="GigabitEthernet0/3"/>
+        <interface id="3" name="GigabitEthernet1/0"/>
+        <interface id="4" name="GigabitEthernet1/1"/>
+    </node>
+    <node name="iosvl2-2" type="SIMPLE" subtype="IOSvL2" location="520,177">
+        <extensions>
+            <entry key="config" type="string">! IOSvL2 Config generated on 2017-08-27 23:10
+! by autonetkit_0.23.5
+!
+version 15.2
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+service compress-config
+no service config
+enable password cisco
+ip classless
+ip subnet-zero
+no ip domain lookup
+!
+line vty 0 4
+transport input ssh telnet
+exec-timeout 720 0
+password cisco
+login
+!
+line con 0
+password cisco
+!
+hostname iosvl2-2
+!
+boot-start-marker
+boot-end-marker
+!
+!
+!
+no aaa new-model
+!
+vtp domain virl.lab
+vtp mode transparent
+!
+vlan 2
+  name ank_vlan2
+vlan 3
+  name ank_vlan3
+!
+!
+!
+!
+cdp run
+!
+!
+!
+ip cef
+no ipv6 cef
+!
+!
+spanning-tree mode pvst
+spanning-tree extend system-id
+!
+vlan internal allocation policy ascending
+!
+!
+!
+!
+vrf definition Mgmt-intf
+!
+ address-family ipv4
+ exit-address-family
+ !
+ address-family ipv6
+ exit-address-family
+!
+!
+!
+!
+!
+interface Loopback0
+  description Loopback
+!
+interface GigabitEthernet0/0
+  description OOB management
+  ! Configured on launch
+  no switchport
+  vrf forwarding Mgmt-intf
+  no ip address
+  no shutdown
+!
+interface GigabitEthernet0/1
+  description to iosvl2-1
+  switchport trunk encapsulation dot1q
+  switchport mode trunk
+  no shutdown
+!
+interface GigabitEthernet0/2
+  description to iosv-1
+  switchport access vlan 3
+  switchport mode access
+  no shutdown
+!
+interface GigabitEthernet0/3
+  description to server-1
+  switchport access vlan 3
+  switchport mode access
+  no shutdown
+!
+!
+ip forward-protocol nd
+!
+no ip http server
+no ip http secure-server
+!
+!
+!
+!
+!
+!
+control-plane
+!
+!
+!
+end
+        </entry>
+            <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+        </extensions>
+        <interface id="0" name="GigabitEthernet0/1"/>
+        <interface id="1" name="GigabitEthernet0/2"/>
+        <interface id="2" name="GigabitEthernet0/3"/>
+    </node>
+    <node name="kali-1" type="SIMPLE" subtype="kali" location="193,282">
+        <extensions>
+            <entry key="config" type="String">#cloud-config
+bootcmd:
+- ln -s -t /etc/rc.d /etc/rc.local
+hostname: kali-1
+manage_etc_hosts: true
+package_update: true
+packages:
+- quagga
+runcmd:
+- start ttyS0
+- systemctl start getty@ttyS0.service
+- systemctl start rc-local
+- sed -i '/^\s*PasswordAuthentication\s\+no/d' /etc/ssh/sshd_config
+- echo "UseDNS no" &gt;&gt; /etc/ssh/sshd_config
+- service ssh restart
+- service sshd restart
+users:
+- default
+- gecos: User configured by VIRL Configuration Engine 0.23.10
+  lock-passwd: false
+  name: cisco
+  plain-text-passwd: cisco
+  shell: /bin/bash
+  ssh-authorized-keys:
+  - VIRL-USER-SSH-PUBLIC-KEY
+  sudo: ALL=(ALL) ALL
+write_files:
+- path: /etc/init/ttyS0.conf
+  owner: root:root
+  content: |
+    # ttyS0 - getty
+    # This service maintains a getty on ttyS0 from the point the system is
+    # started until it is shut down again.
+    start on stopped rc or RUNLEVEL=[12345]
+    stop on runlevel [!12345]
+    respawn
+    exec /sbin/getty -L 115200 ttyS0 vt102
+  permissions: '0644'
+- path: /etc/systemd/system/dhclient@.service
+  content: |
+    [Unit]
+    Description=Run dhclient on %i interface
+    After=network.target
+    [Service]
+    Type=oneshot
+    ExecStart=/sbin/dhclient %i -pf /var/run/dhclient.%i.pid -lf /var/lib/dhclient/dhclient.%i.lease
+    RemainAfterExit=yes
+  owner: root:root
+  permissions: '0644'
+- path: /etc/network/interfaces
+  owner: root:root
+  permissions: '0644'
+  content: |-
+    source-directory /etc/network/interfaces.d
+    auto eth0
+    iface eth0 inet dhcp
+      gateway 172.16.1.2
+- path: /etc/rc.local
+  owner: root:root
+  permissions: '0755'
+  content: |-
+    #!/bin/sh
+    ip route del default
+    ip route add default via 172.16.1.2
+    ip link set eth1 up
+    ip addr add 10.0.0.1/17 dev eth1
+    # Use routes from Quagga instead
+    #route add -host 192.168.0.1 gw 10.0.0.2 dev eth1
+    #route add -host 192.168.0.4 gw 10.0.0.2 dev eth1
+    #route add -net 10.0.0.0/17 gw 10.0.0.2 dev eth1
+    #route add -net 10.0.128.0/30 gw 10.0.0.2 dev eth1
+    #route add -host 192.168.0.1 gw 10.0.0.3 dev eth1
+    #route add -host 192.168.0.4 gw 10.0.0.3 dev eth1
+    #route add -net 10.0.0.0/17 gw 10.0.0.3 dev eth1
+    #route add -net 10.0.128.0/30 gw 10.0.0.3 dev eth1
+    exit 0
+- path: /etc/network/interfaces.d/eth1
+  owner: root:root
+  permissions: '0644'
+  content: |-
+    iface eth1 inet manual
+- path: /etc/quagga/zebra.conf
+  owner: root:root
+  permissions: '0644'
+  content: |-
+    hostname kali-1
+    password cisco
+    enable password cisco
+    interface eth0
+    interface eth1
+    line vty
+- path: /etc/quagga/ospfd.conf
+  owner: root:root
+  permissions: '0644'
+  content: |-
+    hostname kali-1
+    password cisco
+    log stdout
+    interface eth1
+      ip ospf cost 1
+    router ospf
+      ospf router-id 10.0.0.1
+      network 10.0.0.1/17 area 0.0.0.0
+      network 192.168.0.4/32 area 0.0.0.0
+    line vty
+- path: /root/get-cisco-config.py
+  owner: root:root
+  permissions: '0755'
+  content: |-
+    #!/usr/bin/env python
+    
+    # See
+    # http://www.cisco.com/c/en/us/support/docs/ip/simple-network-management-protocol-snmp/15217-copy-configs-snmp.html
+    # and
+    # http://tools.cisco.com/Support/SNMP/do/BrowseMIB.do?local=en&amp;mibName=CISCO-CONFIG-COPY-MIB
+    # for details
+    
+    from optparse import OptionParser
+    from scapy.all import conf,IP,SNMP,SNMPset,ASN1_OID,ASN1_IPADDRESS,UDP,SNMPvarbind,send
+    
+    parser = OptionParser()
+    parser.add_option("-i", "--iface", dest="iface", help="Interface",
+                      default="eth1")
+    parser.add_option("-s", "--src", dest="srcip", help="Source IP Address",
+                      default="192.168.1.2")
+    parser.add_option("-d", "--dst", dest="dstip", help="Destination IP Address",
+                      default="192.168.1.1")
+    parser.add_option("-t", "--tftp", dest="tftpip", help="TFTP Server IP Address",
+                      default="192.168.1.2")
+    parser.add_option("-f", "--cfg", dest="cfg_file", help="Configuration Filename")
+    parser.add_option("-c", "--community", dest="snmpstring",
+                      help="SNMP Community Set String", default="secret")
+    
+    (options, args) = parser.parse_args()
+    
+    if options.cfg_file is None:
+        options.cfg_file = "%s-config" % (options.dstip)
+    
+    print "Attempting to download IOS config from %s" % (options.dstip)
+    
+    conf.iface = options.iface
+    
+    i=IP(src=options.srcip,dst=options.dstip)/UDP(sport=161,dport=161)
+    s1=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyEntryRowStatus(14) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.14.112"),value=6)]
+            )
+        )
+    
+    s2=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyProtocol(2) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.2.112"),value=1)]
+            )
+        )
+    
+    s3=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopySourceFileType(3) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.3.112"),value=4)]
+            )
+        )
+    
+    s4=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyDestFileType(4) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.4.112"),value=1)]
+            )
+        )
+    
+    s5=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyServerAddress(5) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.5.112"),value=ASN1_IPADDRESS(options.tftpip))]
+            )
+        )
+    
+    s6=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyFileName(6) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.6.112"),value=options.cfg_file)]
+            )
+        )
+    
+    s7=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyEntryRowStatus(14) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.14.112"),value=1)]
+            )
+        )
+    
+    send(i/s1)
+    send(i/s2)
+    send(i/s3)
+    send(i/s4)
+    send(i/s5)
+    send(i/s6)
+    send(i/s7)
+- path: /root/merge-cisco-config.py
+  owner: root:root
+  permissions: '0755'
+  content: |-
+    #!/usr/bin/env python
+    
+    # See
+    # http://www.cisco.com/c/en/us/support/docs/ip/simple-network-management-protocol-snmp/15217-copy-configs-snmp.html
+    # and
+    # http://tools.cisco.com/Support/SNMP/do/BrowseMIB.do?local=en&amp;mibName=CISCO-CONFIG-COPY-MIB
+    # for details
+    
+    from optparse import OptionParser
+    from scapy.all import conf,IP,SNMP,SNMPset,ASN1_OID,ASN1_IPADDRESS,UDP,SNMPvarbind,send
+    
+    parser = OptionParser()
+    parser.add_option("-i", "--iface", dest="iface", help="Interface",
+                      default="eth1")
+    parser.add_option("-s", "--src", dest="srcip", help="Source IP Address",
+                      default="192.168.1.2")
+    parser.add_option("-d", "--dst", dest="dstip", help="Destination IP Address",
+                      default="192.168.1.1")
+    parser.add_option("-t", "--tftp", dest="tftpip", help="TFTP Server IP Address",
+                      default="192.168.1.2")
+    parser.add_option("-f", "--cfg", dest="cfg_file", help="Configuration Filename")
+    parser.add_option("-c", "--community", dest="snmpstring",
+                      help="SNMP Community Set String", default="secret")
+    
+    (options, args) = parser.parse_args()
+    
+    if options.cfg_file is None:
+        options.cfg_file = "%s-config" % (options.dstip)
+    
+    print "Attempting to upload IOS config to %s" % (options.dstip)
+    
+    conf.iface = options.iface
+    
+    i=IP(src=options.srcip,dst=options.dstip)/UDP(sport=161,dport=161)
+    s1=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyEntryRowStatus(14) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.14.112"),value=6)]
+            )
+        )
+    
+    s2=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyProtocol(2) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.2.112"),value=1)]
+            )
+        )
+    
+    s3=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopySourceFileType(3) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.3.112"),value=1)]
+            )
+        )
+    
+    s4=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyDestFileType(4) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.4.112"),value=4)]
+            )
+        )
+    
+    s5=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyServerAddress(5) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.5.112"),value=ASN1_IPADDRESS(options.tftpip))]
+            )
+        )
+    
+    s6=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyFileName(6) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.6.112"),value=options.cfg_file)]
+            )
+        )
+    
+    s7=SNMP(
+            community=options.snmpstring,
+            PDU=SNMPset(
+                # iso(1) identified-organization(3) dod(6) internet(1) private(4)
+                # enterprise(1) cisco (9) ciscoMgmt(9) ciscoConfigCopyMIB(96)
+                # ciscoConfigCopyMIBObjects(1) ccCopy(1) ccCopyTable(1) ccCopyEntry(1)
+                # ccCopyEntryRowStatus(14) RANDOM(112)
+                varbindlist=[SNMPvarbind(oid=ASN1_OID("1.3.6.1.4.1.9.9.96.1.1.1.1.14.112"),value=1)]
+            )
+        )
+    
+    send(i/s1)
+    send(i/s2)
+    send(i/s3)
+    send(i/s4)
+    send(i/s5)
+    send(i/s6)
+    send(i/s7)
+- path: /etc/default/atftpd
+  owner: root:root
+  permissions: '0644'
+  content: |-
+    USE_INETD=false
+    # OPTIONS below are used only with init script
+    OPTIONS="--tftpd-timeout 300 --retry-timeout 5 --mcast-port 1758 --mcast-addr 239.239.239.0-255 --mcast-ttl 1 --maxthread 100 --verbose=5 /srv/tftp"</entry>
+        </extensions>
+        <interface id="0" name="eth1" ipv4="10.0.0.1" netPrefixLenV4="17">
+            <extensions>
+                <entry key="AutoNetkit.vlan" type="Integer">2</entry>
+            </extensions>
+        </interface>
+    </node>
+    <node name="iosv-1" type="SIMPLE" subtype="IOSv" location="417,76" ipv4="192.168.0.1">
+        <extensions>
+            <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="config" type="String">! IOS Config generated on 2017-08-27 23:10
+! by autonetkit_0.23.5
+!
+hostname iosv-1
+boot-start-marker
+boot-end-marker
+!
+vrf definition Mgmt-intf
+!
+ address-family ipv4
+ exit-address-family
+ !
+ address-family ipv6
+ exit-address-family
+!
+!
+!
+no aaa new-model
+!
+!
+ip cef
+ipv6 unicast-routing
+ipv6 cef
+!
+!
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+no service config
+enable password cisco
+ip classless
+ip subnet-zero
+no ip domain lookup
+ip domain name virl.info
+crypto key generate rsa modulus 768
+ip ssh server algorithm authentication password
+username cisco privilege 15 secret cisco
+ip access-list standard IN-VTY
+  permit 172.16.1.0 0.0.0.255
+  permit 192.168.0.0 0.0.0.255
+  permit 10.0.128.0 0.0.0.255
+ip access-list standard SNMP-RW
+  permit 172.16.1.0 0.0.0.255
+  permit 192.168.0.0 0.0.0.255
+  permit 10.0.128.0 0.0.0.3
+snmp-server community supersecret rw SNMP-RW
+line vty 0 4
+   transport input ssh telnet
+   access-class IN-VTY in vrf-also
+   exec-timeout 720 0
+   password cisco
+   login local
+ line con 0
+   password cisco
+!
+cdp run
+!
+!
+interface Loopback0
+  description Loopback
+  ip address 192.168.0.1 255.255.255.255
+!
+interface GigabitEthernet0/0
+  description OOB Management
+  vrf forwarding Mgmt-intf
+  ! Configured on launch
+  no ip address
+  cdp enable
+  duplex full
+  speed auto
+  no shutdown
+!
+interface GigabitEthernet0/1
+  description to iosvl2-1
+  ip address 10.0.0.2 255.255.128.0
+  cdp enable
+  ip ospf cost 1
+  duplex full
+  speed auto
+  no shutdown
+!
+interface GigabitEthernet0/2
+  description to iosvl2-2
+  ip address 10.0.128.1 255.255.255.252
+  cdp enable
+  ip ospf cost 1
+  duplex full
+  speed auto
+  no shutdown
+!
+interface GigabitEthernet0/3
+  description to admin-1
+  ip address 10.0.128.5 255.255.255.252
+  cdp enable
+  ip ospf cost 1
+  duplex full
+  speed auto
+  no shutdown
+!
+!
+!
+router ospf 1
+  network 192.168.0.1 0.0.0.0 area 0
+  log-adjacency-changes
+  passive-interface Loopback0
+  network 10.0.0.0 0.0.127.255 area 0
+  network 10.0.128.0 0.0.0.3 area 0
+  network 10.0.128.4 0.0.0.3 area 0
+!
+!
+router bgp 1
+  bgp router-id 192.168.0.1
+  no synchronization
+! ibgp
+  ! ibgp peers
+  !
+  neighbor 192.168.0.4 remote-as 1
+  neighbor 192.168.0.4 description iBGP peer iosv-2
+  neighbor 192.168.0.4 update-source Loopback0
+!
+!
+ !
+ address-family ipv4
+  network 192.168.0.1 mask 255.255.255.255
+  neighbor 192.168.0.4 activate
+ exit-address-family
+!
+!
+!
+end</entry>
+        </extensions>
+        <interface id="0" name="GigabitEthernet0/1" ipv4="10.0.0.2" netPrefixLenV4="17">
+            <extensions>
+                <entry key="AutoNetkit.vlan" type="Integer">2</entry>
+            </extensions>
+        </interface>
+        <interface id="1" name="GigabitEthernet0/2" ipv4="10.0.128.1" netPrefixLenV4="30">
+            <extensions>
+                <entry key="AutoNetkit.vlan" type="Integer">3</entry>
+            </extensions>
+        </interface>
+        <interface id="2" name="GigabitEthernet0/3"/>
+    </node>
+    <node name="server-1" type="SIMPLE" subtype="server" location="592,287">
+        <extensions>
+            <entry key="config" type="String">#cloud-config
+bootcmd:
+- ln -s -t /etc/rc.d /etc/rc.local
+hostname: server-1
+manage_etc_hosts: true
+package_update: true
+packages:
+- snmp
+- freeradius
+runcmd:
+- start ttyS0
+- systemctl start getty@ttyS0.service
+- systemctl start rc-local
+- sed -i '/^\s*PasswordAuthentication\s\+no/d' /etc/ssh/sshd_config
+- echo "UseDNS no" &gt;&gt; /etc/ssh/sshd_config
+- service ssh restart
+- service sshd restart
+users:
+- default
+- gecos: User configured by VIRL Configuration Engine 0.23.10
+  lock-passwd: false
+  name: cisco
+  plain-text-passwd: cisco
+  shell: /bin/bash
+  ssh-authorized-keys:
+  - VIRL-USER-SSH-PUBLIC-KEY
+  sudo: ALL=(ALL) ALL
+write_files:
+- path: /etc/init/ttyS0.conf
+  owner: root:root
+  content: |
+    # ttyS0 - getty
+    # This service maintains a getty on ttyS0 from the point the system is
+    # started until it is shut down again.
+    start on stopped rc or RUNLEVEL=[12345]
+    stop on runlevel [!12345]
+    respawn
+    exec /sbin/getty -L 115200 ttyS0 vt102
+  permissions: '0644'
+- path: /etc/systemd/system/dhclient@.service
+  content: |
+    [Unit]
+    Description=Run dhclient on %i interface
+    After=network.target
+    [Service]
+    Type=oneshot
+    ExecStart=/sbin/dhclient %i -pf /var/run/dhclient.%i.pid -lf /var/lib/dhclient/dhclient.%i.lease
+    RemainAfterExit=yes
+  owner: root:root
+  permissions: '0644'
+- path: /etc/rc.local
+  owner: root:root
+  permissions: '0755'
+  content: |-
+    #!/bin/sh
+    ip route del default
+    ip route add default via 172.16.1.2
+    ifconfig eth1 up 10.0.128.2 netmask 255.255.255.252
+    route add -host 192.168.0.1 gw 10.0.128.1 dev eth1
+    route add -host 192.168.0.4 gw 10.0.128.1 dev eth1
+    route add -net 10.0.0.0/17 gw 10.0.128.1 dev eth1
+    route add -net 10.0.128.0/30 gw 10.0.128.1 dev eth1
+    exit 0
+- path: /home/cisco/snmp-chatter.sh
+  content: |
+    #!/bin/bash
+    while true; do
+      snmpget -v 2c -c supersecret 192.168.0.4 1.3.6.1.2.1.1.1.0
+      sleep 15
+    done
+  owner: "cisco:cisco"
+  permissions: '0755'
+</entry>
+        </extensions>
+        <interface id="0" name="eth1" ipv4="10.0.128.2" netPrefixLenV4="30">
+            <extensions>
+                <entry key="AutoNetkit.vlan" type="Integer">3</entry>
+            </extensions>
+        </interface>
+    </node>
+    <node name="iosv-2" type="SIMPLE" subtype="IOSv" location="370,291" ipv4="192.168.0.4">
+        <extensions>
+            <entry key="AutoNetkit.mgmt_ip" type="string"></entry>
+            <entry key="config" type="String">! IOS Config generated on 2017-08-27 23:10
+! by autonetkit_0.23.5
+!
+hostname iosv-2
+boot-start-marker
+boot-end-marker
+!
+vrf definition Mgmt-intf
+!
+ address-family ipv4
+ exit-address-family
+ !
+ address-family ipv6
+ exit-address-family
+!
+!
+!
+no aaa new-model
+!
+!
+ip cef
+ipv6 unicast-routing
+ipv6 cef
+!
+!
+service timestamps debug datetime msec
+service timestamps log datetime msec
+service password-encryption
+no service config
+enable password cisco
+ip classless
+ip subnet-zero
+no ip domain lookup
+ip domain name virl.info
+crypto key generate rsa modulus 768
+ip ssh server algorithm authentication password
+username cisco privilege 15 secret cisco
+username admin privilege 15 password 12345
+ip access-list standard IN-VTY
+  permit 172.16.1.0 0.0.0.255
+  permit 192.168.0.0 0.0.0.255
+  permit 10.0.128.0 0.0.0.255
+ip access-list standard SNMP-RW
+  permit 172.16.1.0 0.0.0.255
+  permit 192.168.0.0 0.0.0.255
+  permit 10.0.128.0 0.0.0.3
+snmp-server community supersecret rw SNMP-RW
+line vty 0 4
+ transport input ssh telnet
+ access-class IN-VTY in vrf-also
+line vty 0 4
+ transport input ssh telnet
+ exec-timeout 720 0
+ password cisco
+ login local
+line con 0
+ password cisco
+!
+cdp run
+!
+!
+interface Loopback0
+  description Loopback
+  ip address 192.168.0.4 255.255.255.255
+!
+interface GigabitEthernet0/0
+  description OOB Management
+  vrf forwarding Mgmt-intf
+  ! Configured on launch
+  no ip address
+  cdp enable
+  duplex full
+  speed auto
+  no shutdown
+!
+interface GigabitEthernet0/1
+  description to iosvl2-1
+  ip address 10.0.0.3 255.255.128.0
+  cdp enable
+  ip ospf cost 1
+  duplex full
+  speed auto
+  no shutdown
+!
+!
+!
+router ospf 1
+  network 192.168.0.4 0.0.0.0 area 0
+  log-adjacency-changes
+  passive-interface Loopback0
+  network 10.0.0.0 0.0.127.255 area 0
+!
+!
+router bgp 1
+  bgp router-id 192.168.0.4
+  no synchronization
+! ibgp
+  ! ibgp peers
+  !
+  neighbor 192.168.0.1 remote-as 1
+  neighbor 192.168.0.1 description iBGP peer iosv-1
+  neighbor 192.168.0.1 update-source Loopback0
+!
+!
+ !
+ address-family ipv4
+  network 192.168.0.4 mask 255.255.255.255
+  neighbor 192.168.0.1 activate
+ exit-address-family
+!
+!
+!
+end</entry>
+        </extensions>
+        <interface id="0" name="GigabitEthernet0/1" ipv4="10.0.0.3" netPrefixLenV4="17">
+            <extensions>
+                <entry key="AutoNetkit.vlan" type="Integer">2</entry>
+            </extensions>
+        </interface>
+    </node>
+    <node name="admin-1" type="SIMPLE" subtype="lxc" location="605,72">
+        <extensions>
+            <entry key="config" type="String">#cloud-config
+bootcmd:
+- ln -s -t /etc/rc.d /etc/rc.local
+hostname: admin-1
+manage_etc_hosts: true
+runcmd:
+- systemctl start rc-local
+- sed -i '/^\s*PasswordAuthentication\s\+no/d' /etc/ssh/sshd_config
+- echo "UseDNS no" &gt;&gt; /etc/ssh/sshd_config
+- service ssh restart
+- service sshd restart
+users:
+- default
+- gecos: User configured by VIRL Configuration Engine 0.23.10
+  lock-passwd: false
+  name: cisco
+  plain-text-passwd: cisco
+  shell: /bin/bash
+  ssh-authorized-keys:
+  - VIRL-USER-SSH-PUBLIC-KEY
+  sudo: ALL=(ALL) ALL
+write_files:
+- path: /etc/systemd/system/dhclient@.service
+  content: |
+    [Unit]
+    Description=Run dhclient on %i interface
+    After=network.target
+    [Service]
+    Type=oneshot
+    ExecStart=/sbin/dhclient %i -pf /var/run/dhclient.%i.pid -lf /var/lib/dhclient/dhclient.%i.lease
+    RemainAfterExit=yes
+  owner: root:root
+  permissions: '0644'
+- path: /etc/rc.local
+  owner: root:root
+  permissions: '0755'
+  content: |-
+    #!/bin/sh
+    ifconfig eth1 up 10.0.128.6 netmask 255.255.255.252
+    route add -host 192.168.0.1 gw 10.0.128.5 dev eth1
+    route add -host 192.168.0.4 gw 10.0.128.5 dev eth1
+    route add -net 10.0.0.0/16 gw 10.0.128.5 dev eth1
+    route add -host 192.168.0.1 gw 10.0.128.5 dev eth1
+    route add -host 192.168.0.4 gw 10.0.128.5 dev eth1
+    exit 0
+</entry>
+        </extensions>
+        <interface id="0" name="eth1"/>
+    </node>
+    <annotations/>
+    <connection dst="/virl:topology/virl:node[2]/virl:interface[1]" src="/virl:topology/virl:node[1]/virl:interface[1]"/>
+    <connection dst="/virl:topology/virl:node[1]/virl:interface[2]" src="/virl:topology/virl:node[4]/virl:interface[1]"/>
+    <connection dst="/virl:topology/virl:node[4]/virl:interface[2]" src="/virl:topology/virl:node[2]/virl:interface[2]"/>
+    <connection dst="/virl:topology/virl:node[1]/virl:interface[3]" src="/virl:topology/virl:node[3]/virl:interface[1]"/>
+    <connection dst="/virl:topology/virl:node[2]/virl:interface[3]" src="/virl:topology/virl:node[5]/virl:interface[1]"/>
+    <connection dst="/virl:topology/virl:node[6]/virl:interface[1]" src="/virl:topology/virl:node[1]/virl:interface[4]"/>
+    <connection dst="/virl:topology/virl:node[7]/virl:interface[1]" src="/virl:topology/virl:node[4]/virl:interface[3]"/>
+</topology>
