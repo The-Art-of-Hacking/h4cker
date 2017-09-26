@@ -3,7 +3,7 @@ The Art of Hacking is a series of video courses that is a complete guide to help
 
 The following are the different video courses that will be part of the Art of Hacking series:
 
-* Security Penetration Testing (The Art of Hacking Series) LiveLessons
+* [Security Penetration Testing (The Art of Hacking Series) LiveLessons](http://www.ciscopress.com/store/security-penetration-testing-the-art-of-hacking-series-9780134834498)
 * Enterprise Penetration Testing and Continuous Monitoring (the Art of Hacking Series)
 * Wireless Networks, IoT, and Mobile Devices Hacking (The Art of Hacking Series) LiveLessons
 * Advanced Web Applications Penetration Testing (The Art of Hacking Series) LiveLessons
