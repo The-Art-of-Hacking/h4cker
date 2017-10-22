@@ -25,13 +25,10 @@ The following are several of the resources covered in the Wireless Networks, IoT
 
 ### Damn Vulnerable iOS Application (DVIA)
 * DVIA Home Page
- * http://damnvulnerableiosapp.com
-
+  * http://damnvulnerableiosapp.com
 * DVIA OWASP Project Page
- * https://www.owasp.org/index.php/OWASP_DVIA
-
+  * https://www.owasp.org/index.php/OWASP_DVIA
 * DVIA Github Source
- * https://github.com/prateek147/DVIA
-
+  * https://github.com/prateek147/DVIA
 * DVIA Learning Resources
- * http://damnvulnerableiosapp.com/#learn
+  * http://damnvulnerableiosapp.com/#learn
