@@ -27,6 +27,11 @@ The following are several of the resources covered in the Wireless Networks, IoT
 ### APK Tool
 * http://ibotpeaches.github.io/Apktool/
 
+### Dex2jar and JD-GUI
+Dex2jar and JD-GUI are two different tools that are often used for reverse engineering Android apps. Dex2jar converts .dex files to .jar. JD-GUI is a Java decompiler that can decompile .jar files to the original Java source.
+* http://sourceforge.net/projects/dex2jar/
+* http://jd.benow.ca
+
 ## Apple iOS
 
 ### Damn Vulnerable iOS Application (DVIA)
