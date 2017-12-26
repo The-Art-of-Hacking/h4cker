@@ -18,8 +18,13 @@ The following are several of the resources covered in the Wireless Networks, IoT
 
 ## Android
 
-### Android Studio
-* https://developer.android.com/sdk/index.html
+### Android Research and Reverse Tools
+* [Android Developer Studio](http://developer.android.com/sdk/index.html)
+* [APKtool](http://ibotpeaches.github.io/Apktool/)
+* [dex2jar](https://github.com/pxb1988/dex2jar)
+* [Bytecode Viewer](https://bytecodeviewer.com/)
+* [IDA Pro](https://www.hex-rays.com/products/ida/index.shtml)
+
 
 ### Android Reverse Engineering Arsenals
 * https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=M-Tools
