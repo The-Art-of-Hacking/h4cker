@@ -7,3 +7,4 @@
 * Yardstick One - see [Yardstick One and RFCat Resources](https://github.com/The-Art-of-Hacking/art-of-hacking/blob/master/wireless_resources/yardstick_one_rfcat.md)
 * HackRF One - https://greatscottgadgets.com/hackrf
 * Z-Attack - https://github.com/advens/Z-Attack
+* rfpwnon - https://github.com/exploitagency/github-rfpwnon
