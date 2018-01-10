@@ -9,6 +9,9 @@
 ### Capturing traffic to specific IP address excluding specific subnet
 `tcpdump -I ethO -tttt dst ip and not net 10.10.10.0/24`
 
+### Capturing traffic for a specific host
+`tcpdump host 10.1.1.1`
+
 ### Capturing traffic for a specific subnet
 `tcpdump net 10.1.1`
 
