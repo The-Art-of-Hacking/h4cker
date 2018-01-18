@@ -18,6 +18,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 * Over The Wire Wargames: http://overthewire.org/wargames
 * Peruggia: https://sourceforge.net/projects/peruggia
 * RootMe: https://www.root-me.org
+* Samurai Web Testing Framework: http://www.samurai-wtf.org/
 * Try2Hack: http://www.try2hack.nl
 * Vicnum: http://vicnum.ciphertechs.com
 * WebGoat: http://webappsecmovies.sourceforge.net/webgoat
