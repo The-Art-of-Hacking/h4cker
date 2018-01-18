@@ -7,7 +7,8 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 * Metasploitable3 : https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/
 * Damn Vulnerable iOS Application (DVIA): http://damnvulnerableiosapp.com
 * Damn Vulnerable Web App (DVWA): https://github.com/ethicalhack3r/DVWA
-* Damn Vulnerable Linux (DVL): https://osdn.net/projects/sfnet_virtualhacking/downloads/os/dvl/DVL_1.5_Infectious_Disease.iso/
+* Damn Vulnerable Linux (DVL): https://osdn.net/projects/sfnet_virtualhacking/downloads/os/dvl/DVL_1.5_Infectious_Disease.iso
+* Damn Vulnerable ARM Router (DVAR): http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
 * Game of Hacks: http://www.gameofhacks.com
 * Gruyere: https://google-gruyere.appspot.com
 * Hack This: https://www.hackthis.co.uk
