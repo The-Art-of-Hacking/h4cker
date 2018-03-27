@@ -17,3 +17,7 @@ The following are a few popular tools that you learned in the video courses part
 You can integrate ZAP with Jenkins and even automatically create Jira issues based on your findings. You can download the [ZAP plug in here](https://wiki.jenkins.io/display/JENKINS/zap+plugin).
 
 [This video](https://www.youtube.com/watch?v=mmHZLSffCUg) provides an overview of how to integrate  
+
+## Popular Commercial Tools
+* [Qualys Web Scanning](https://www.qualys.com/apps/web-app-scanning/)
+* [IBM Security AppScan](https://www.ibm.com/security/application-security/appscan)
