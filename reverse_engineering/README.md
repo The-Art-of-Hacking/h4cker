@@ -19,6 +19,21 @@
 * [objdump](http://linux.die.net/man/1/objdump)
 * [Radare](http://www.radare.org/r/)
 
+## Dynamic Analysis
+
+* [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
+* [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+* [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+* [Process Hacker](https://processhacker.sourceforge.io/)
+* [Noriben - Portable, Simple, Malware Analysis Sandbox](https://github.com/Rurik/Noriben)
+* [API Monitor](http://www.rohitab.com/apimonitor)
+* [INetSim: Internet Services Simulation Suite](http://www.inetsim.org/)
+* [FakeNet](https://practicalmalwareanalysis.com/fakenet/)
+* [Volatility Framework](https://github.com/volatilityfoundation/volatility)
+* [Stardust](https://my.comae.io/login)
+* [LiME: Linux Memory Extractor](https://github.com/504ensicsLabs/LiME)
+
+
 ## Awesome Reversing
 * https://github.com/fdivrp/awesome-reversing - a plethora of references of tools, practice sites, and other reverse engineering information
 
