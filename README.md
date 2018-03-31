@@ -12,3 +12,5 @@ The following are the different video courses that will be part of the Art of Ha
 These courses serve as comprehensive guide for any network and security professional who is starting a career in ethical hacking and penetration testing. It also can help individuals preparing for the Offensive Security Certified Professional (OSCP), the Certified Ethical Hacker (CEH), and any other ethical hacking certification. This course helps any cyber security professional that want to learn the skills required to becoming a professional ethical hacker or that want to learn more about general hacking methodologies and concepts.
 
 These video courses are published by Pearson, but this GitHub repository is maintained and supported by the lead author of the series [Omar Santos](https://omarsantos.io/). 
+
+
