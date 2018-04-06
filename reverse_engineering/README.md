@@ -19,6 +19,40 @@
 * [objdump](http://linux.die.net/man/1/objdump)
 * [Radare](http://www.radare.org/r/)
 
+## Dynamic Analysis
+
+* [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns)
+* [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon)
+* [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+* [Process Hacker](https://processhacker.sourceforge.io/)
+* [Noriben - Portable, Simple, Malware Analysis Sandbox](https://github.com/Rurik/Noriben)
+* [API Monitor](http://www.rohitab.com/apimonitor)
+* [INetSim: Internet Services Simulation Suite](http://www.inetsim.org/)
+* [FakeNet](https://practicalmalwareanalysis.com/fakenet/)
+* [Volatility Framework](https://github.com/volatilityfoundation/volatility)
+* [Stardust](https://my.comae.io/login)
+* [LiME: Linux Memory Extractor](https://github.com/504ensicsLabs/LiME)
+
+## Sandbox and Stuff
+* [Cuckoo](https://cuckoosandbox.org/)
+
+## Deobfuscation
+
+* [Balbuzard](https://bitbucket.org/decalage/balbuzard/wiki/Home)
+* [de4dot](https://github.com/0xd4d/de4dot)
+* [ex_pe_xor](ex_pe_xor)
+* [iheartxor](http://hooked-on-mnemonics.blogspot.com/p/iheartxor.html)
+* [FLOSS](https://github.com/fireeye/flare-floss)
+* [NoMoreXOR](https://github.com/hiddenillusion/NoMoreXOR)
+* [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker)
+* [unpacker](https://github.com/malwaremusings/unpacker/)
+* [unxor](https://github.com/tomchop/unxor/)
+* [VirtualDeobfuscator](https://github.com/jnraber/VirtualDeobfuscator)
+* [XORBruteForcer](http://eternal-todo.com/var/scripts/xorbruteforcer)
+* [XORSearch & XORStrings](https://blog.didierstevens.com/programs/xorsearch/)
+* [xortool](https://github.com/hellman/xortool)
+
+
 ## Awesome Reversing
 * https://github.com/fdivrp/awesome-reversing - a plethora of references of tools, practice sites, and other reverse engineering information
 
