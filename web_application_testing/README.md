@@ -21,3 +21,6 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 ## Popular Commercial Tools
 * [Qualys Web Scanning](https://www.qualys.com/apps/web-app-scanning/)
 * [IBM Security AppScan](https://www.ibm.com/security/application-security/appscan)
+
+## TONS of #AWESOME Web Security Resources
+* https://github.com/qazbnm456/awesome-web-security
