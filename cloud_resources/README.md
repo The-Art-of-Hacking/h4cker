@@ -1,10 +1,10 @@
 # Cloud Security Resources
 
-* [Cloud Security Resources from AWS](https://aws.amazon.com/security/security-resources/)
+* [Cloud Security Resources from AWS](https://aws.amazon.com/security/security-resources)
 * [Penetration Testing in Microsoft Azure](https://docs.microsoft.com/en-us/azure/security/azure-security-pen-testing)
-* [Penetration Testing in AWS](https://aws.amazon.com/security/penetration-testing/)
-* [Penetration Testing in Google Cloud Platform](https://cloud.google.com/security/overview/)
-* [Google Cloud Security Center](https://cloud.google.com/security/)
+* [Penetration Testing in AWS](https://aws.amazon.com/security/penetration-testing)
+* [Penetration Testing in Google Cloud Platform](https://cloud.google.com/security/overview)
+* [Google Cloud Security Center](https://cloud.google.com/security)
 
 # Kali in AWS
 Kali Linux is already available at Amazon's AWS marketplace at:
