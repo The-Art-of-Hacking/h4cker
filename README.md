@@ -5,7 +5,7 @@ The following are the different video courses that will be part of the Art of Ha
 
 * [Security Penetration Testing (The Art of Hacking Series) LiveLessons](https://www.safaribooksonline.com/library/view/security-penetration-testing/9780134833989/)
 * [Wireless Networks, IoT, and Mobile Devices Hacking (The Art of Hacking Series) LiveLessons](https://www.safaribooksonline.com/library/view/wireless-networks-iot/9780134854632/)
-* Enterprise Penetration Testing and Continuous Monitoring (the Art of Hacking Series) - Available in May 2018.
+* [Enterprise Penetration Testing and Continuous Monitoring (the Art of Hacking Series)](https://www.safaribooksonline.com/library/view/enterprise-penetration-testing/9780134854748/).
 * Advanced Web Applications Penetration Testing (The Art of Hacking Series) LiveLessons - Coming Soon!
 * Advanced Network Hacking (The Art of Hacking Series) LiveLessons - Coming Soon!
 
