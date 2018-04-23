@@ -6,7 +6,7 @@ Awesome curated list of Fuzz-related topics maintained by
 [@secfigo](https://twitter.com/secfigo).  Includes tools, books, free and paid
 courses, videos, and tutorials.
 
-* [Github Repo](https://github.com/secfigo/Awesome-Fuzzing)
+* [GitHub Repo](https://github.com/secfigo/Awesome-Fuzzing)
 
 ## Commercial Fuzzers
 
@@ -17,6 +17,7 @@ courses, videos, and tutorials.
 ## Community-supported/Open Source Fuzzers
 
 * [Peach Fuzzer Community Edition](http://www.peach.tech/resources/peachcommunity/)
+* [Munity Fuzzer](https://github.com/Cisco-Talos/mutiny-fuzzer)
 * [Sulley](https://github.com/OpenRCE/sulley)
 * [Boofuzz](https://github.com/jtpereyda/boofuzz)
 * [Radamsa](https://github.com/aoh/radamsa)
