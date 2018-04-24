@@ -6,14 +6,11 @@
 * [Penetration Testing in Google Cloud Platform](https://cloud.google.com/security/overview)
 * [Google Cloud Security Center](https://cloud.google.com/security)
 
-# Kali in AWS
+## Additional AWS Pen Testing References
+- [PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/) - Written by Dwight Hohnstein from [Rhino Security Labs](https://rhinosecuritylabs.com/).
+- [AWS PENETRATION TESTING PART 1. S3 BUCKETS](https://www.virtuesecurity.com/blog/aws-penetration-testing-s3-buckets/) - Written by [@VirtueSecurity](https://twitter.com/VirtueSecurity).
+- [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/blog/aws-penetration-testing-part-2-s3-iam-ec2/) - Written by [@VirtueSecurity](https://twitter.com/VirtueSecurity).
+
+## Kali in AWS
 Kali Linux is already available at Amazon's AWS marketplace at:
 https://aws.amazon.com/marketplace/pp/B01M26MMTT
-
-Important note from Amazon:
-
-  Once your instance is running, connect to it with your SSH private key using the "ec2-user" account. Don't forget to update your Kali instance to get the latest packages and bug fixes. Type as root (or sudo): apt update && apt dist-upgrade.
-
-  If you are performing penetration testing, please refer to the AWS Testing Request for more information. http://aws.amazon.com/security/penetration-testing/
-
-  
