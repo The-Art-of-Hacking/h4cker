@@ -217,3 +217,26 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform) - Tool for building, changing, and versioning infrastructure.
+
+## Databases
+
+- [Database](https://github.com/numetriclabz/awesome-db)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
+- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
+- [Neo4j](https://github.com/neueda/awesome-neo4j)
+- [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
+- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
+- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
+- [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
+
+## Content Management Systems
+
+- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
+- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
+- [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
+- [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
