@@ -2,8 +2,7 @@
 
 <center><img src="https://raw.githubusercontent.com/The-Art-of-Hacking/web/master/img/logo%20black.png" width="200" height="300" /> </center>
 
-
-The [Art of Hacking](http://theartofhacking.org) is a series of video courses that is a complete guide to help you get up and running with your cybersecurity career. You will learn the key tenets and the fundamentals of ethical hacking and security penetration testing techniques. These video courses provide step-by-step real-life scenarios. You will see first hand how an ethical hacker performs initial reconnaissance of a victim and assess systems and network security controls security posture. This website has been created to provide supplemental material to reinforce some of the critical concepts and techniques that the student has learned and links a GitHub repository that hosts scripts and code that help you build your own hacking environment, examples of real-life penetration testing reports, and more.
+The [Art of Hacking](http://theartofhacking.org) is a series of video courses that is a complete guide to help you get up and running with your cybersecurity career. This GitHub repository has been created to provide supplemental material, tons of references, scripts, and code that help you build your own hacking environment, examples of real-life penetration testing reports, and more.
 
 The following are the different video courses that will be part of the Art of Hacking series:
 
