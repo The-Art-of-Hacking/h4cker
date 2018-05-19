@@ -1,32 +1,6 @@
-# Vulnerable Apps, Servers, and Websites
-The following is a collection of vulnerable servers (VMs) or websites that you can use to practice your skills.
+# Docker Resources
 
-* Hackazon : https://github.com/rapid7/hackazon
-* bWAPP : https://sourceforge.net/projects/bwapp/files/bWAPP
-* Metasploitable2 : https://community.rapid7.com/docs/DOC-1875
-* Metasploitable3 : https://blog.rapid7.com/2016/11/15/test-your-might-with-the-shiny-new-metasploitable3/
-* Damn Vulnerable iOS Application (DVIA): http://damnvulnerableiosapp.com
-* Damn Vulnerable Web App (DVWA): https://github.com/ethicalhack3r/DVWA
-* Damn Vulnerable Linux (DVL): https://osdn.net/projects/sfnet_virtualhacking/downloads/os/dvl/DVL_1.5_Infectious_Disease.iso
-* Damn Vulnerable ARM Router (DVAR): http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
-* Game of Hacks: http://www.gameofhacks.com
-* Gruyere: https://google-gruyere.appspot.com
-* Hack This: https://www.hackthis.co.uk
-* Hack This Site: https://www.hackthissite.org
-* HellBound Hackers: https://www.hellboundhackers.org
-* OWASP Mutillidae II: https://sourceforge.net/projects/mutillidae
-* Over The Wire Wargames: http://overthewire.org/wargames
-* Peruggia: https://sourceforge.net/projects/peruggia
-* RootMe: https://www.root-me.org
-* Samurai Web Testing Framework: http://www.samurai-wtf.org/
-* Try2Hack: http://www.try2hack.nl
-* Vicnum: http://vicnum.ciphertechs.com
-* WebGoat: https://github.com/WebGoat/WebGoat
-* Web Security Dojo: https://www.mavensecurity.com/resources/web-security-dojo
-
-## Docker Resources
-
-# Where to start
+## Where to start
 
 - [Basics – Docker, Containers, Hypervisors, CoreOS](http://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
 - [Dive Into Docker: From "What is Docker?" to "Hello World"](https://www.youtube.com/watch?v=XeSD17YRijk&list=PL-v3vdeWVEsXT-u0JDQZnM90feU3NE3v8) (60:25) by [@nickjanetakis][nickjanetakis]
@@ -48,7 +22,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [@JensPiegsa](http://docker.jens-piegsa.com)
 - [@wsargent][docker-cheat-sheet]
 
-### Container Composition
+## Container Composition
 
 - [bocker](https://github.com/icy/bocker) (2) - Write Dockerfile completely in Bash. Extensible and simple. --> Reusable by [@icy](https://github.com/icy)
 - [box](https://github.com/box-builder/box) - Build Dockerfile images with a mruby DSL, includes flattening and layer manipulation
@@ -65,7 +39,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [rocker](https://github.com/grammarly/rocker) - Extended Dockerfile builder. Supports multiple FROMs, MOUNTS, templates, etc. by [grammarly](grammarly).
 - [Stacker](https://github.com/stacker/stacker-cli) - Docker Compose Templates. Stacker provides an abstraction layer over Docker Compose and a better DX (developer experience).
 
-### Deployment and Infrastructure
+## Deployment and Infrastructure
 
 - [blackfish](https://gitlab.com/blackfish/blackfish) - a CoreOS VM to build swarm clusters for Dev & Production by [@DataMC](http://datamc.io/)
 - [Centurion](https://github.com/newrelic/centurion) - Centurion is a mass deployment tool for Docker fleets. It takes containers from a Docker registry and runs them on a fleet of hosts with the correct environment variables, host volume mappings, and port mappings. By [@newrelic](https://github.com/newrelic)
@@ -74,7 +48,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [depcon](https://github.com/gondor/depcon) - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes.  By [@gonodr][gondor]
 - [Grafeas](https://github.com/Grafeas/Grafeas) - A common API for metadata about containers, from image and build details to security vulnerabilities. By [Grafeas](https://github.com/Grafeas)
 
-### Monitoring
+## Monitoring
 
 - [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/Solutions/docker) - Axibase Collector streams performance counters, configuration changes and lifecycle events from the Docker engine(s) into Axibase Time Series Database for roll-up dashboards and integration with upstream monitoring systems.
 - [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. Created by [@Google](https://github.com/google)
@@ -91,14 +65,14 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring) - Zabbix module that provides discovery of running containers, CPU/memory/blk IO/net container metrics. Systemd Docker and LXC execution driver is also supported. It's a dynamically linked shared object library, so its performance is (~10x) better, than any script solution.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) - Monitor containers automatically using zabbix LLD feature.
 
-### Networking
+## Networking
 
 - [Calico-Docker][calico] - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
 - [Flannel](https://github.com/coreos/flannel/) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes. By [@coreos][coreos]
 - [netshoot](https://github.com/nicolaka/netshoot) - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues by [@nicolaka](https://github.com/nicolaka)
 - [Weave][weave] (The Docker network) - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
 
-### Orchestration
+## Orchestration
 
 - [athena](https://github.com/athena-oss/athena) - An automation platform with a plugin architecture that allows you to easily create and share services.
 - [CloudSlang](https://github.com/CloudSlang/cloud-slang) - CloudSlang is a workflow engine to create Docker process automation
@@ -119,7 +93,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Rancher](https://github.com/rancher/rancher) - An open source project that provides a complete platform for operating Docker in production by [@rancher][rancher].
 - [Swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight Docker Swarm orchestration. Swarmpit provides clean way to manage your Docker Swarm cluster with various handful features such Service management, smart search, shared access and private registries.
 
-### PaaS
+## PaaS
 
 - [CaptainDuckDuck](https://github.com/githubsaturn/captainduckduck) - Open source Heroku-like platform with a one-liner installer and a GUI for managing apps - with serveral one-click databases and apps.
 - [Convox Rack](https://github.com/convox/rack) - Convox Rack is open source PaaS built on top of expert infrastructure automation and devops best practices.
@@ -143,7 +117,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Swarm Router](https://github.com/flavioaiello/swarm-router) - A «zero config» service name based router for docker swarm mode with a fresh and more secure approach. By [@flavioaiello](https://twitter.com/flavioaiello)
 - [Træfɪk](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
 
-### Security
+## Security
 
 - [Anchor Engine](https://github.com/anchore/anchore) - Analyze images for CVE vulnerabilities and against custom security policies by [@Anchor][anchore]
 - [bane](https://github.com/genuinetools/bane) - AppArmor profile generator for Docker containers by [@genuinetools][genuinetools]
@@ -155,14 +129,14 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [oscap-docker](https://github.com/OpenSCAP/openscap) - OpenSCAP provides oscap-docker tool which is used to scan Docker containers and images. By RedHat
 - [Sysdig Falco](https://github.com/draios/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
 
-### Service Discovery
+## Service Discovery
 
 - [docker-consul](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
 - [etcd](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery by [@coreOS][coreos]
 - [istio](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](istio)
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
 
-### Volume Management / Data
+## Volume Management / Data
 
 - [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume) - The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By [@blockbridge][blockbridge]
 - [Convoy](https://github.com/rancher/convoy) - an open-source Docker volume driver that can snapshot, backup and restore Docker volumes anywhere. By [@rancher][rancher]
