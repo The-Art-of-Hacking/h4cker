@@ -2,7 +2,7 @@
 
 <center><img src="https://raw.githubusercontent.com/The-Art-of-Hacking/web/master/img/logo%20black.png" width="200" height="300" /> </center>
 
-The [Art of Hacking](http://theartofhacking.org) is a series of video courses that is a complete guide to help you get up and running with your cybersecurity career. This GitHub repository has been created to provide supplemental material, tons of references, scripts, and code that help you build your own hacking environment, examples of real-life penetration testing reports, and more.
+The [Art of Hacking](http://theartofhacking.org) is a series of video courses that is a complete guide to help you get up and running with your cybersecurity career. This GitHub repository has been created to provide supplemental material, tons of references, scripts, and code that help you build your own hacking environment, examples of real-life penetration testing reports, DFIR, vuln research, exploit development, reverse engineering, and more.
 
 The following are the different video courses that will be part of the Art of Hacking series:
 
