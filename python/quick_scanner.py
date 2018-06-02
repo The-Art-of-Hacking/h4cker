@@ -9,6 +9,11 @@ from __future__ import print_function
 
 import socket, subprocess, sys
 
+try:
+   raw_input          # Python 2
+except NameError:
+   raw_input = input  # Python 3
+
 subprocess.call('clear', shell=True)
 
 print('''\t
@@ -25,9 +30,9 @@ print('''\t
 
 ''')
 
-target_ip = raw_input("\t Please enter the IP address of the target host:")
-port_1 = int(raw_input("\t Enter the first port to scan:\t"))
-port_2 = int(raw_input("\t Enter the last port to scan:\t"))
+target_ip = raw_input("\t Please enter the IP address of the target host:").strip()
+port_1 = int(raw_input("\t Enter the first port to scan:\t").strip())
+port_2 = int(raw_input("\t Enter the last port to scan:\t").strip())
 print("~"*50)
 print("\n ...scanning target now. ", target_ip)
 print("~"*50)
