@@ -6,3 +6,5 @@
 * [CimSweep](https://github.com/PowerShellMafia/CimSweep)
 * [PowerSCCM](https://github.com/PowerShellMafia/PowerSCCM)
 * [SANS PowerShell Cheat Sheet](https://pen-testing.sans.org/blog/2016/05/25/sans-powershell-cheat-sheet/)
+* [PaulSec Windows Resource Repository](https://github.com/PaulSec/awesome-windows-domain-hardening)
+
