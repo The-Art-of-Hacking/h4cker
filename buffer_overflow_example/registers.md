@@ -1,14 +1,8 @@
 # Good Information about Registers
 
-x64 extends x86's 8 general-purpose registers to be 64-bit, and adds 8 new 64-bit registers. 
+- Intel's Architecture Documentation: https://software.intel.com/en-us/articles/intel-sdm
 
-The 64-bit registers have names beginning with "r", so for example the 64-bit extension of **eax** is called **rax**. 
-
-The lower 32 bits, 16 bits, and 8 bits of each register are directly addressable in operands. 
-
-This includes registers, like **esi**, whose lower 8 bits were not previously addressable. 
-
-The following table specifies the assembly-language names for the lower portions of 64-bit registers.
+Additional Notes: The x64 architecture extends x86's 8 general-purpose registers to be 64-bit, and adds 8 new 64-bit registers.  The 64-bit registers have names beginning with "r", so for example the 64-bit extension of **eax** is called **rax**.  The lower 32 bits, 16 bits, and 8 bits of each register are directly addressable in operands.  This includes registers, like **esi**, whose lower 8 bits were not previously addressable.  The following table specifies the assembly-language names for the lower portions of 64-bit registers.
 
 <table><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup>
 
