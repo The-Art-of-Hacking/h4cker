@@ -17,6 +17,9 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 
 [This video](https://www.youtube.com/watch?v=mmHZLSffCUg) provides an overview of how to integrate  
 
+## Javascript Tools
+* [Retire.js](https://retirejs.github.io/retire.js)
+
 ## Popular Commercial Tools
 * [Qualys Web Scanning](https://www.qualys.com/apps/web-app-scanning/)
 * [IBM Security AppScan](https://www.ibm.com/security/application-security/appscan)
