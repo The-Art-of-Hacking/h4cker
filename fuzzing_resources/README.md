@@ -12,7 +12,7 @@ courses, videos, and tutorials.
 
 * [Codenomicon Defensics](http://www.codenomicon.com)
 * [Spirent CyberFlood](https://www.spirent.com/Products/CyberFlood)
-* [Peach Fuzzer](https://www.peach.tech/)
+* [Peach Fuzzer](https://www.peach.tech)
 
 ## Community-supported/Open Source Fuzzers
 
