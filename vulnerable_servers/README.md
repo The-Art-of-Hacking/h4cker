@@ -17,6 +17,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - Hack This Site: <https://www.hackthissite.org>
 - HellBound Hackers: <https://www.hellboundhackers.org>
 - OWASP Mutillidae II: <https://sourceforge.net/projects/mutillidae>
+- OWASP  Juice Shop : https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
 - Over The Wire Wargames: <http://overthewire.org/wargames>
 - Peruggia: <https://sourceforge.net/projects/peruggia>
 - RootMe: <https://www.root-me.org>
