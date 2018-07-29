@@ -8,7 +8,6 @@ The following are a few popular tools that you learned in the video courses part
 * [Burp Suite](https://portswigger.net/burp)
 * [OWASP Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy)
 * [sqlmap](http://sqlmap.org/)
-* [Paros Proxy](http://sectools.org/tool/paros/)
 * [httrack](https://www.httrack.com/)
 * [skipfish](https://code.google.com/archive/p/skipfish/)
 
