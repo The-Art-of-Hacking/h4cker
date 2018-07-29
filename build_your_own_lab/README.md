@@ -22,7 +22,7 @@ Go to the [Vulnerable Servers Section](https://github.com/The-Art-of-Hacking/art
 
 ## WebSploit
 
-[WebSploit](http://h4cker.org/websploit) is a virtual machine (VM) created by [Omar Santos](https://omarsantos.io) for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions delivered at [DEFCON](https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized), [Live Training in Safari](https://www.safaribooksonline.com/search/?query=omar%20santos&extended_publisher_data=true&highlight=true&is_academic_institution_account=false&source=user&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&formats=live%20online%20training&sort=relevance), [video on demand LiveLessons](https://www.safaribooksonline.com/search/?query=omar%20santos&extended_publisher_data=true&highlight=true&is_academic_institution_account=false&source=user&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&formats=video&sort=relevance), and others. 
+[WebSploit](https://websploit.h4cker.org/) is a virtual machine (VM) created by [Omar Santos](https://omarsantos.io) for different Cybersecurity Ethical Hacking (Web Penetration Testing) training sessions delivered at [DEFCON](https://www.wallofsheep.com/blogs/news/packet-hacking-village-workshops-at-def-con-26-finalized), [Live Training in Safari](https://www.safaribooksonline.com/search/?query=omar%20santos&extended_publisher_data=true&highlight=true&is_academic_institution_account=false&source=user&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&formats=live%20online%20training&sort=relevance), [video on demand LiveLessons](https://www.safaribooksonline.com/search/?query=omar%20santos&extended_publisher_data=true&highlight=true&is_academic_institution_account=false&source=user&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&formats=video&sort=relevance), and others. 
 
 The purpose of this VM is to have a lightweight (single VM) with a few web application penetration testing tools, as well as vulnerable applications.
 
@@ -31,7 +31,7 @@ The purpose of this VM is to have a lightweight (single VM) with a few web appli
 1. Download VirtualBox. 
 2. Download the .ova file from http://h4cker.org/websploit and import it in VirtualBox. 
 
-The following are the vulnerable applications included in [WebSploit](http://h4cker.org/websploit):
+The following are the vulnerable applications included in [WebSploit](https://websploit.h4cker.org/):
 - Damn Vulnerable Web Application (DVWA)
 - WebGoat
 - Hackazon
