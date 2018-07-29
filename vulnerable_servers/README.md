@@ -24,5 +24,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - Samurai Web Testing Framework: <http://www.samurai-wtf.org/>
 - Try2Hack: <http://www.try2hack.nl>
 - Vicnum: <http://vicnum.ciphertechs.com>
+- VulnHub:https://www.vulnhub.com
 - Web Security Dojo: <https://www.mavensecurity.com/resources/web-security-dojo>
+- **WebSploit** (maintained by Omar Santos): https://websploit.h4cker.org
 - WebGoat: <https://github.com/WebGoat/WebGoat>
