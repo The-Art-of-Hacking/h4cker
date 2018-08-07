@@ -1,4 +1,4 @@
-# Open Source
+# Open-source intelligence (OSINT)
 
 Open-source intelligence (OSINT) is data collected from open source and publicly available sources. The following are a few OSINT resources and references:
 
@@ -15,4 +15,8 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Scrapy](https://scrapy.org)
 - [Screaming Frog](https://www.screamingfrog.co.uk)
 - [Xenu](http://home.snafu.de)
+- [ExtractMetadata](http://www.extractmetadata.com)
+- [FOCA](https://elevenpaths.com)
+- [Exiftool](http://www.sno.phy.queensu.ca)
+- [Web Data Extractor](http://www.webextractor.com)
 
