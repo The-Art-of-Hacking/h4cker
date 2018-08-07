@@ -14,4 +14,5 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Visual SEO Studio](https://visual-seo.com/)
 - [Scrapy](https://scrapy.org)
 - [Screaming Frog](https://www.screamingfrog.co.uk)
-- [Xenu](http://home.snafu.de]
+- [Xenu](http://home.snafu.de)
+
