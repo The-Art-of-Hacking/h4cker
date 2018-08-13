@@ -5,6 +5,12 @@
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
 - [OWASP IoT Testing Guides](https://www.owasp.org/index.php/IoT_Testing_Guides)
 
+## IoT Hacking Communities
+
+- [IoT Village](https://www.iotvillage.org/)
+- [BuildItSecure.ly](http://builditsecure.ly/)
+- [Secure Internet of Things Project (Stanford)](http://iot.stanford.edu/people.html)
+
 ## Interesting Blogs
 
 - <http://iotpentest.com/>
