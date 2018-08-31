@@ -17,6 +17,6 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Xenu](http://home.snafu.de)
 - [ExtractMetadata](http://www.extractmetadata.com)
 - [FOCA](https://elevenpaths.com)
-- [Exiftool](http://www.sno.phy.queensu.ca)
+- [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [Web Data Extractor](http://www.webextractor.com)
 
