@@ -15,4 +15,4 @@ These courses serve as comprehensive guide for any network and security professi
 
 These video courses are published by Pearson, but this GitHub repository is maintained and supported by the lead author of the series [Omar Santos](https://omarsantos.io/). 
 
-Other Live Training and Video Courses: https://theartofhacking.org/go/training_resources.pdf 
+Other Live Training and Video Courses: https://theartofhacking.org/training
