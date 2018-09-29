@@ -1,7 +1,7 @@
 # Insecure Protocols and Services
 
 ## Insecure Protocols
-The following are also some of the services that are considered insecure:
+The following are also some of the protocols that are considered insecure:
 
 - Rlogin: https://linux.die.net/man/1/rlogin
 - Rsh: https://linux.die.net/man/1/rsh
