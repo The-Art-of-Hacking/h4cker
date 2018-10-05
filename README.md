@@ -4,7 +4,7 @@
 
 This repository includes thousands of cybersecurity-related references and resources and it is maintained by [Omar Santos](https://omarsantos.io/). The [Art of Hacking](http://theartofhacking.org) is a series of video courses and live training that help you get up and running with your cybersecurity career. This GitHub repository has been created to provide supplemental material, tons of references, scripts, and code that help you build your own hacking environment, examples of real-life penetration testing reports, DFIR, vuln research, exploit development, reverse engineering, and more.
 
-The following are the different video courses that will be part of the Art of Hacking series:
+The following are the different video courses that are part of the Art of Hacking series:
 
 * [Security Penetration Testing (The Art of Hacking Series)](https://www.safaribooksonline.com/library/view/security-penetration-testing/9780134833989)
 * [Wireless Networks, IoT, and Mobile Devices Hacking (The Art of Hacking Series)](https://www.safaribooksonline.com/library/view/wireless-networks-iot/9780134854632/)
