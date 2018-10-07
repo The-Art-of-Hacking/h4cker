@@ -1,10 +1,11 @@
-# The Art of Hacking Series
+# H4cker Repository
 
-<center><img src="https://raw.githubusercontent.com/The-Art-of-Hacking/web/master/img/logo%20black.png" width="200" height="300" /> </center>
+<center><img src="https://raw.githubusercontent.com/The-Art-of-Hacking/web/master/img/h4cker2.PNG" width="200" height="300" /> </center>
 
-This repository includes thousands of cybersecurity-related references and resources and it is maintained by [Omar Santos](https://omarsantos.io/). The [Art of Hacking](http://theartofhacking.org) is a series of video courses and live training that help you get up and running with your cybersecurity career. This GitHub repository has been created to provide supplemental material, tons of references, scripts, and code that help you build your own hacking environment, examples of real-life penetration testing reports, DFIR, vuln research, exploit development, reverse engineering, and more.
+This repository includes thousands of cybersecurity-related references and resources and it is maintained by [Omar Santos](https://omarsantos.io/). This GitHub repository has been created to provide supplemental material to several books, video courses, and live training created by Omar Santos and other co-authors. It provides over 6,000 references, scripts, tools, code, and other resources that help offensive and defensive security professionals learn and develop new skills. This GitHub repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat hunting, digital forensics and incident response (DFIR), includes examples of real-life penetration testing reports, and more.
 
-The following are the different video courses that are part of the Art of Hacking series:
+## The Art of Hacking Series
+The [Art of Hacking Series](http://theartofhacking.org) is a series of video courses and live training that help you get up and running with your cybersecurity career.  The following are the different video courses that are part of the Art of Hacking series:
 
 * [Security Penetration Testing (The Art of Hacking Series)](https://www.safaribooksonline.com/library/view/security-penetration-testing/9780134833989)
 * [Wireless Networks, IoT, and Mobile Devices Hacking (The Art of Hacking Series)](https://www.safaribooksonline.com/library/view/wireless-networks-iot/9780134854632/)
@@ -15,4 +16,5 @@ These courses serve as comprehensive guide for any network and security professi
 
 These video courses are published by Pearson, but this GitHub repository is maintained and supported by the lead author of the series [Omar Santos](https://omarsantos.io/). 
 
+## Live Training
 Other Live Training and Video Courses: https://h4cker.org/training
