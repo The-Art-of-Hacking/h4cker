@@ -6,12 +6,12 @@ The following are some tips and instructions on how you can build your own lab f
 
 While most of the penetration testing tools can be downloaded in isolation and installed in many different operating systems, several popular security-related Linux distributions package hundreds of tools. These distributions make it easy for you to get started and not having to worry about many dependencies, libraries, and compatibility issues you may encounter. The following are the three most popular Linux distributions for ethical hacking (penetration testing): 
 
-- Kali Linux: probably the most popular distribution of the three. This distribution is primarily supported and maintained by Offensive Security and can be downloaded from https://www.kali.org. You can easily install it in bare-metal systems, virtual machines, and even in devices like the Raspberry Pi, Chromebooks, and many others.
+- [Kali Linux](https://www.kali.org): probably the most popular distribution of the three. This distribution is primarily supported and maintained by Offensive Security and can be downloaded from https://www.kali.org. You can easily install it in bare-metal systems, virtual machines, and even in devices like the Raspberry Pi, Chromebooks, and many others.
 Note: The folks at Offensive Security have created a free training and book that guides you how to install it in your system. Those resources can be accessed at: https://kali.training 
 
-- Parrot: is another popular Linux distribution used by many pen testers and security researchers. You can also install it in bare-metal and in virtual machines. You can download Parrot from https://www.parrotsec.org
+- [Parrot](https://www.parrotsec.org): is another popular Linux distribution used by many pen testers and security researchers. You can also install it in bare-metal and in virtual machines. You can download Parrot from https://www.parrotsec.org
 
-- BlackArch Linux: this distribution comes with over 1900 different tools and packages and it is also gaining popularity. You can download BlackArch Linux from: https://blackarch.org
+- [BlackArch Linux](https://blackarch.org): this distribution comes with over 1900 different tools and packages and it is also gaining popularity. You can download BlackArch Linux from: https://blackarch.org
 
 ## Vulnerable Servers and Applications
 
