@@ -27,6 +27,16 @@ If no port range is specified, Nmap scans the 1,000 most popular ports.
 - Open/Filtered: This indicates that the port was filtered or open but Nmap couldn’t establish the state.
 - Closed/Filtered: This indicates that the port was filtered or closed but Nmap couldn’t establish the state.
 
+## Scan Types
+
+-`-sn`: Probe only (host discovery, not port scan)
+-`-sS`: SYN Scan
+-`-sT`: TCP Connect Scan
+-`-sU`: UDP Scan
+-`-sV`: Version Scan
+-`-O`: Used for OS Detection/fingerprinting
+-`--scanflags`: Sets custom list of TCP using `URG ACK PSH RST SYN FIN` in any order
+
 ## Probing Options
 
 - `-Pn`: Don't probe (assume all hosts are up)
@@ -35,6 +45,25 @@ If no port range is specified, Nmap scans the 1,000 most popular ports.
 - `-PE`: Using ICMP Echo Request
 - `-PP`: Using ICMP Timestamp Request
 - `-PM`: Using ICMP Netmask Request
+
+## Timing Options
+`-T0` (Paranoid): Very slow, used for IDS evasion
+`-T1` (Sneaky): Quite slow, used for IDS evasion
+`-T2` (Polite): Slows down to consume less bandwidth, runs ~10 times slower than default
+`-T3` (Normal): Default, a dynamic timing model based on target responsiveness
+`-T4` (Aggressive): Assumes a fast and reliable network and may overwhelm targets
+`-T5` (Insane): Very aggressive; will likely overwhelm targets or miss open ports
+
+## Fine-Grained Timing Options
+
+`--min-hostgroup/max-hostgroup <size> `: Parallel host scan group sizes
+`--min-parallelism/max-parallelism <numprobes>`: Probes parallelization
+`--min-rtt-timeout/max-rtttimeout/initial-rtt-timeout <time>`: Specifies probe round trip time.
+`--max-retries <tries>`: Caps number of port scan probe retransmissions.
+`--host-timeout <time>`: Gives up on target after this long
+`--scan-delay/--max-scan-delay <time>`: Adjusts delay between probes
+`--min-rate <number>`: Send packets no slower than `<number>` per second
+`--max-rate <number>`: Send packets no faster than `<number>` per second
 
 ## Nmap Scripting Engine
 
@@ -91,4 +120,16 @@ The most common Nmap scripting engine categories:
 - version: Measure the version of software or protocols on the target hosts.
 - vul: Measure whether target systems have a known vulnerability.
 
+## Output Options
 
+`-oN`: Standard Nmap output
+`-oG`: Greppable format
+`-oX`: XML format
+`-oA`: <basename> Generate Nmap, Greppable, and XML output files using basename for files
+  
+ ## Additional Options
+ 
+ `-n`: Disables reverse IP address lookups
+`-6`: Uses IPv6 only
+`-A`: Uses several features, including OS Detection, Version Detection, Script Scanning (default), and traceroute
+`--reason`: Displays the reason Nmap thinks that the port is open, closed, or filtered
