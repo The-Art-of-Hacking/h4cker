@@ -129,7 +129,7 @@ The most common Nmap scripting engine categories:
   
  ## Additional Options
  
- `-n`: Disables reverse IP address lookups
+`-n`: Disables reverse IP address lookups
 `-6`: Uses IPv6 only
 `-A`: Uses several features, including OS Detection, Version Detection, Script Scanning (default), and traceroute
 `--reason`: Displays the reason Nmap thinks that the port is open, closed, or filtered
