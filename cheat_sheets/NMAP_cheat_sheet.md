@@ -7,16 +7,13 @@ nmap [ScanType] [Options] {targets}
 ```
 If no port range is specified, Nmap scans the 1,000 most popular ports.
 
-```
--F Scan 100 most popular ports
--p <port1>-<port2> Port range
--p <port1>,<port2>,... Port List
--pU:53,U:110,T20-445 Mix TCP and UDP
--r Scan linearly (do not randomize ports)
---top-ports <n> Scan n most popular ports
--p-65535 Leaving off initial port in range makes Nmap scan start at port 1
--p0- Leaving off end port in range makes Nmap scan through p
-```
+- `-p <port1>-<port2>`: Scans a port range
+- `-p <port1>,<port2>,...`: Scans a port list
+- `-pU:53,U:110,T20-445`: Mix TCP and UDP
+- `-r`: Scans linearly (does not randomize ports)
+- `--top-ports <n>`: Scan n most popular ports
+- `-p-65535`: Leaving off the initial port in range makes Nmap scan start at port 1
+- `-p0-`: Leaving off the end port in range makes Nmap scan through p
 
 ## Port Status
 
