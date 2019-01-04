@@ -11,6 +11,7 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Recon-NG](https://bitbucket.org/LaNMaSteR53/recon-ng)
 - [Shodan](https://shodan.io)
 - [SpiderFoot](http://spiderfoot.net)
+- [Buscador VM](https://inteltechniques.com/buscador)
 - [Visual SEO Studio](https://visual-seo.com/)
 - [Scrapy](https://scrapy.org)
 - [Screaming Frog](https://www.screamingfrog.co.uk)
@@ -19,4 +20,5 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [FOCA](https://elevenpaths.com)
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [Web Data Extractor](http://www.webextractor.com)
+- [IntelTechniques](https://inteltechniques.com)
 
