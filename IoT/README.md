@@ -11,6 +11,9 @@
 - [BuildItSecure.ly](http://builditsecure.ly/)
 - [Secure Internet of Things Project (Stanford)](http://iot.stanford.edu/people.html)
 
+## Training Available Through ICS-CERT
+- https://ics-cert.us-cert.gov/Training-Available-Through-ICS-CERT
+
 ## Interesting Blogs
 
 - <http://iotpentest.com/>
