@@ -5,7 +5,6 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - bWAPP : <https://sourceforge.net/projects/bwapp/files/bWAPP>
 - Damn Vulnerable ARM Router (DVAR): <http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html>
 - Damn Vulnerable iOS Application (DVIA): <http://damnvulnerableiosapp.com>
-- Damn Vulnerable Linux (DVL): <https://osdn.net/projects/sfnet_virtualhacking/downloads/os/dvl/DVL_1.5_Infectious_Disease.iso>
 - Damn Vulnerable Web App (DVWA): <https://github.com/ethicalhack3r/DVWA>
 - DOMXSS: <http://www.domxss.com/domxss/>
 - Game of Hacks: <http://www.gameofhacks.com>
