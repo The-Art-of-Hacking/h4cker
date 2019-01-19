@@ -3,4 +3,7 @@ The following are a collection of recently-released pen test tools. I update thi
 
 ----
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> bae64fd2130574de5e46b8c0475cc51106ab3602
