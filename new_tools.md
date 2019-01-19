@@ -28,3 +28,4 @@ The following are a collection of recently-released pen test tools. I update thi
 - [Tool-X - A Kali Linux Hacking Tool Installer](http://feedproxy.google.com/~r/PentestTools/~3/JqzGZm7j4JQ/tool-x-kali-linux-hacking-tool-installer.html)
 - [Crashcast-Exploit - This Tool Allows You Mass Play Any YouTube Video With Chromecasts Obtained From Shodan.io](http://feedproxy.google.com/~r/PentestTools/~3/xeXSGXnN_xA/crashcast-exploit-this-tool-allows-you.html)
 - [Exrex - Irregular Methods On Regular Expressions](http://feedproxy.google.com/~r/PentestTools/~3/Ec04s7GUw1c/exrex-irregular-methods-on-regular.html)
+- [dnSpy - .NET Debugger And Assembly Editor](http://feedproxy.google.com/~r/PentestTools/~3/JZaPW594CQE/dnspy-net-debugger-and-assembly-editor.html)
