@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Remot3d - An Simple Exploit for PHP Language](http://feedproxy.google.com/~r/PentestTools/~3/MfRDXGlJowM/remot3d-simple-exploit-for-php-language.html)
 - [Tyton - Linux Kernel-Mode Rootkit Hunter for 4.4.0-31+](http://feedproxy.google.com/~r/PentestTools/~3/-SpNjyLloZM/tyton-linux-kernel-mode-rootkit-hunter.html)
 - [Crashcast-Exploit - This Tool Allows You Mass Play Any YouTube Video With Chromecasts Obtained From Shodan.io](http://feedproxy.google.com/~r/PentestTools/~3/xeXSGXnN_xA/crashcast-exploit-this-tool-allows-you.html)
 - [Tool-X - A Kali Linux Hacking Tool Installer](http://feedproxy.google.com/~r/PentestTools/~3/JqzGZm7j4JQ/tool-x-kali-linux-hacking-tool-installer.html)
