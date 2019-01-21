@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WPintel - Chrome Extension Designed For WordPress Vulnerability Scanning And Information Gathering](http://feedproxy.google.com/~r/PentestTools/~3/NYfoNh5N9zM/wpintel-chrome-extension-designed-for.html)
 - [Malice - VirusTotal Wanna Be (Now With 100% More Hipster)](http://feedproxy.google.com/~r/PentestTools/~3/MYaRxSE3IIE/malice-virustotal-wanna-be-now-with-100.html)
 - [Htcap - A Web Application Scanner Able To Crawl Single Page Application (SPA) In A Recursive Manner By Intercepting Ajax Calls And DOM Changes](http://feedproxy.google.com/~r/PentestTools/~3/aJgXuqnKFus/htcap-web-application-scanner-able-to.html)
 - [Remot3d - An Simple Exploit for PHP Language](http://feedproxy.google.com/~r/PentestTools/~3/MfRDXGlJowM/remot3d-simple-exploit-for-php-language.html)
