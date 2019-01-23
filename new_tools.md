@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Jok3R - Network And Web Pentest Framework](http://feedproxy.google.com/~r/PentestTools/~3/dhiTfm3fEdk/jok3r-network-and-web-pentest-framework.html)
 - [Beebug - A Tool For Checking Exploitability](http://feedproxy.google.com/~r/PentestTools/~3/lAJoFUTmlNs/beebug-tool-for-checking-exploitability.html)
 - [Conpot - An Open Industrial Control Honeypot](http://feedproxy.google.com/~r/PentestTools/~3/Khos5GRsxrw/conpot-open-industrial-control-honeypot.html)
 - [WPintel - Chrome Extension Designed For WordPress Vulnerability Scanning And Information Gathering](http://feedproxy.google.com/~r/PentestTools/~3/NYfoNh5N9zM/wpintel-chrome-extension-designed-for.html)
