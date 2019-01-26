@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sh00T - A Testing Environment for Manual Security Testers](http://feedproxy.google.com/~r/PentestTools/~3/9c76MO4aIn0/sh00t-testing-environment-for-manual.html)
 - [WiGLE - Wifi Wardriving (Nethugging Client For Android)](http://feedproxy.google.com/~r/PentestTools/~3/gDQEZOV06DY/wigle-wifi-wardriving-nethugging-client.html)
 - [LeakLooker - Find Open Databases With Shodan](http://feedproxy.google.com/~r/PentestTools/~3/IenFsQWmHbY/leaklooker-find-open-databases-with.html)
 - [SecureTea Project - The Purpose Of This Application Is To Warn The User (Via Various Communication Mechanisms) Whenever Their Laptop Accessed](http://feedproxy.google.com/~r/PentestTools/~3/BUlZL0iZhGQ/securetea-project-purpose-of-this.html)
