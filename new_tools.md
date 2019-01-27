@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sn0Int - Semi-automatic OSINT Framework And Package Manager](http://feedproxy.google.com/~r/PentestTools/~3/K08LwvEQi2o/sn0int-semi-automatic-osint-framework.html)
 - [FTW - Framework For Testing WAFs](http://feedproxy.google.com/~r/PentestTools/~3/vosO_nniiiI/ftw-framework-for-testing-wafs.html)
 - [identYwaf - Blind WAF Identification Tool](http://feedproxy.google.com/~r/PentestTools/~3/UgxDsRiPrIY/identywaf-blind-waf-identification-tool.html)
 - [Sh00T - A Testing Environment for Manual Security Testers](http://feedproxy.google.com/~r/PentestTools/~3/9c76MO4aIn0/sh00t-testing-environment-for-manual.html)
