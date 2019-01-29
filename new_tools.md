@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Uncle Spufus - A Tool That Automates Mac Address Spoofing](http://feedproxy.google.com/~r/PentestTools/~3/MtP954n5vhQ/uncle-spufus-tool-that-automates-mac.html)
 - [CIRTKit - Tools For The Computer Incident Response Team](http://feedproxy.google.com/~r/PentestTools/~3/w0zubUkg6ms/cirtkit-tools-for-computer-incident.html)
 - [ADAPT - Tool That Performs Automated Penetration Testing For WebApps](http://feedproxy.google.com/~r/PentestTools/~3/c3ObjGg1ce8/adapt-tool-that-performs-automated.html)
 - [Scanner-Cli - A Project Security/Vulnerability/Risk Scanning Tool](http://feedproxy.google.com/~r/PentestTools/~3/JoL8_BBnrhQ/scanner-cli-project-securityvulnerabili.html)
