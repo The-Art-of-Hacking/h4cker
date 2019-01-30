@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pwndb - Search For Creadentials Leaked On Pwndb](http://feedproxy.google.com/~r/PentestTools/~3/StIgYaSXjQ8/pwndb-search-for-creadentials-leaked-on.html)
 - [Pown Recon - A Powerful Target Reconnaissance Framework Powered By Graph Theory](http://feedproxy.google.com/~r/PentestTools/~3/P1jfEtHTWpY/pown-recon-powerful-target.html)
 - [Uncle Spufus - A Tool That Automates Mac Address Spoofing](http://feedproxy.google.com/~r/PentestTools/~3/MtP954n5vhQ/uncle-spufus-tool-that-automates-mac.html)
 - [CIRTKit - Tools For The Computer Incident Response Team](http://feedproxy.google.com/~r/PentestTools/~3/w0zubUkg6ms/cirtkit-tools-for-computer-incident.html)
