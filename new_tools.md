@@ -2,6 +2,8 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [XIP - Tool To Generate A List Of IP Addresses By Applying A Set Of Transformations Used To Bypass Security Measures E.G. Blacklist Filtering, WAF, Etc.](http://feedproxy.google.com/~r/PentestTools/~3/7I5CFPFXxWo/xip-tool-to-generate-list-of-ip.html)
+- [Stenographer - A Packet Capture Solution Which Aims To Quickly Spool All Packets To Disk, Then Provide Simple, Fast Access To Subsets Of Those Packets](http://feedproxy.google.com/~r/PentestTools/~3/jbklI8CeJpA/stenographer-packet-capture-solution.html)
 - [Fierce - Semi-Lightweight Scanner That Helps Locate Non-Contiguous IP Space And Hostnames Against Specified Domains](http://feedproxy.google.com/~r/PentestTools/~3/X8Fc7tY8OFI/fierce-semi-lightweight-scanner-that.html)
 - [Bolt - CSRF Scanning Suite](http://feedproxy.google.com/~r/PentestTools/~3/vu2sbgER-jY/bolt-csrf-scanning-suite.html)
 - [Pwndb - Search For Creadentials Leaked On Pwndb](http://feedproxy.google.com/~r/PentestTools/~3/StIgYaSXjQ8/pwndb-search-for-creadentials-leaked-on.html)
