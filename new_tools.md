@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Electronegativity - Tool To Identify Misconfigurations And Security Anti-Patterns In Electron Applications](http://feedproxy.google.com/~r/PentestTools/~3/zp7KJ0Mg0-A/electronegativity-tool-to-identify.html)
 - [LOLBAS - Living Off The Land Binaries And Scripts (LOLBins And LOLScripts)](http://feedproxy.google.com/~r/PentestTools/~3/jRBNy3dl0p4/lolbas-living-off-land-binaries-and.html)
 - [XIP - Tool To Generate A List Of IP Addresses By Applying A Set Of Transformations Used To Bypass Security Measures E.G. Blacklist Filtering, WAF, Etc.](http://feedproxy.google.com/~r/PentestTools/~3/7I5CFPFXxWo/xip-tool-to-generate-list-of-ip.html)
 - [Stenographer - A Packet Capture Solution Which Aims To Quickly Spool All Packets To Disk, Then Provide Simple, Fast Access To Subsets Of Those Packets](http://feedproxy.google.com/~r/PentestTools/~3/jbklI8CeJpA/stenographer-packet-capture-solution.html)
