@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Modlishka - An Open Source Phishing Tool With 2FA Authentication](http://feedproxy.google.com/~r/PentestTools/~3/Z2CV9SS3UmA/modlishka-open-source-phishing-tool.html)
+- [Fwknop - Single Packet Authorization & Port Knocking](http://feedproxy.google.com/~r/PentestTools/~3/Ty69-sAkBMw/fwknop-single-packet-authorization-port.html)
+- [Netsniff-Ng - A Swiss Army Knife For Your Daily Linux Network Plumbing](http://feedproxy.google.com/~r/PentestTools/~3/i86oZPByzMQ/netsniff-ng-swiss-army-knife-for-your.html)
 - [Electronegativity - Tool To Identify Misconfigurations And Security Anti-Patterns In Electron Applications](http://feedproxy.google.com/~r/PentestTools/~3/zp7KJ0Mg0-A/electronegativity-tool-to-identify.html)
 - [LOLBAS - Living Off The Land Binaries And Scripts (LOLBins And LOLScripts)](http://feedproxy.google.com/~r/PentestTools/~3/jRBNy3dl0p4/lolbas-living-off-land-binaries-and.html)
 - [XIP - Tool To Generate A List Of IP Addresses By Applying A Set Of Transformations Used To Bypass Security Measures E.G. Blacklist Filtering, WAF, Etc.](http://feedproxy.google.com/~r/PentestTools/~3/7I5CFPFXxWo/xip-tool-to-generate-list-of-ip.html)
