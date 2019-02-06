@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fnord - Pattern Extractor For Obfuscated Code](http://feedproxy.google.com/~r/PentestTools/~3/kM2-_TEV7fY/fnord-pattern-extractor-for-obfuscated.html)
+- [Bincat - Binary Code Static Analyser, With IDA Integration](http://feedproxy.google.com/~r/PentestTools/~3/M4xJHHI1nlw/bincat-binary-code-static-analyser-with.html)
+- [Bscan - An Asynchronous Target Enumeration Tool](http://feedproxy.google.com/~r/PentestTools/~3/nmAEkhGVeYk/bscan-asynchronous-target-enumeration.html)
 - [Modlishka - An Open Source Phishing Tool With 2FA Authentication](http://feedproxy.google.com/~r/PentestTools/~3/Z2CV9SS3UmA/modlishka-open-source-phishing-tool.html)
 - [Fwknop - Single Packet Authorization & Port Knocking](http://feedproxy.google.com/~r/PentestTools/~3/Ty69-sAkBMw/fwknop-single-packet-authorization-port.html)
 - [Netsniff-Ng - A Swiss Army Knife For Your Daily Linux Network Plumbing](http://feedproxy.google.com/~r/PentestTools/~3/i86oZPByzMQ/netsniff-ng-swiss-army-knife-for-your.html)
