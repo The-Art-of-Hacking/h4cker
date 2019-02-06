@@ -11,6 +11,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - Gruyere: <https://google-gruyere.appspot.com>
 - Hack This Site: <https://www.hackthissite.org>
 - Hack This: <https://www.hackthis.co.uk>
+- Hack Yourself first <https://hack-yourself-first.com/>
 - Hackazon : <https://github.com/rapid7/hackazon>
 - HellBound Hackers: <https://www.hellboundhackers.org>
 - Metasploitable2 : <https://community.rapid7.com/docs/DOC-1875>
