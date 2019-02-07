@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CANalyzat0r - Security Analysis Toolkit For Proprietary Car Protocols](http://feedproxy.google.com/~r/PentestTools/~3/KPeA8qxDNEk/canalyzat0r-security-analysis-toolkit.html)
 - [DFIRTrack - The Incident Response Tracking Application](http://feedproxy.google.com/~r/PentestTools/~3/vHFBZOQWsMA/dfirtrack-incident-response-tracking.html)
 - [Goscan - Interactive Network Scanner](http://feedproxy.google.com/~r/PentestTools/~3/uz1Ra9_76sE/goscan-interactive-network-scanner.html)
 - [RedELK - Easy Deployable Tool For Red Teams Used For Tracking And Alarming About Blue Team Activities As Well As Better Usability In Long Term Operations](http://feedproxy.google.com/~r/PentestTools/~3/v3TIGlliuHU/redelk-easy-deployable-tool-for-red.html)
