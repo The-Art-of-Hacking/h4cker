@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hontel - Telnet Honeypot](http://feedproxy.google.com/~r/PentestTools/~3/7Qv62zGn_mo/hontel-telnet-honeypot.html)
 - [Volatility Workbench - A GUI For Volatility Memory Forensics](http://feedproxy.google.com/~r/PentestTools/~3/OzWarBRi5YU/volatility-workbench-gui-for-volatility.html)
 - [HTTrack Website Copier -  Web Crawler And Offline Browser](http://feedproxy.google.com/~r/PentestTools/~3/-iUl75kJzG4/httrack-website-copier-web-crawler-and.html)
 - [OSFMount - Mount Disk Images & Create RAM Drives](http://feedproxy.google.com/~r/PentestTools/~3/b1UlY7C2tko/osfmount-mount-disk-images-create-ram.html)
