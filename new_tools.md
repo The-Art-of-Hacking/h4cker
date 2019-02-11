@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PF_RING - High-Speed Packet Capture, Filtering And Analysis](http://feedproxy.google.com/~r/PentestTools/~3/JHNjKGg4NWI/pfring-high-speed-packet-capture.html)
 - [Pftriage - Python Tool And Library To Help Analyze Files During Malware Triage And Analysis](http://feedproxy.google.com/~r/PentestTools/~3/ZjjYohz9GbE/pftriage-python-tool-and-library-to.html)
 - [nDPI - Open Source Deep Packet Inspection Software Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/Ehj6aq0lpFg/ndpi-open-source-deep-packet-inspection.html)
 - [Hontel - Telnet Honeypot](http://feedproxy.google.com/~r/PentestTools/~3/7Qv62zGn_mo/hontel-telnet-honeypot.html)
