@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CDF - Crypto Differential Fuzzing](http://feedproxy.google.com/~r/PentestTools/~3/QWrOPl4RtZg/cdf-crypto-differential-fuzzing.html)
 - [Justniffer - Network TCP Packet Sniffer](http://feedproxy.google.com/~r/PentestTools/~3/ZeOTT8XrMaE/justniffer-network-tcp-packet-sniffer.html)
 - [UEFI Firmware Parser - Parse BIOS/Intel ME/UEFI Firmware Related Structures: Volumes, FileSystems, Files, Etc](http://feedproxy.google.com/~r/PentestTools/~3/vrw7ce1SeJ0/uefi-firmware-parser-parse-biosintel.html)
 - [PF_RING - High-Speed Packet Capture, Filtering And Analysis](http://feedproxy.google.com/~r/PentestTools/~3/JHNjKGg4NWI/pfring-high-speed-packet-capture.html)
