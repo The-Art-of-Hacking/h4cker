@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DCOMrade - Powershell Script For Enumerating Vulnerable DCOM Applications](http://feedproxy.google.com/~r/PentestTools/~3/xaHJPu0lHk0/dcomrade-powershell-script-for.html)
 - [Ponce - IDA Plugin For Symbolic Execution Just One-Click Away!](http://feedproxy.google.com/~r/PentestTools/~3/rD4UX2khHlQ/ponce-ida-plugin-for-symbolic-execution.html)
 - [Kaboom - Automatic Pentest](http://feedproxy.google.com/~r/PentestTools/~3/dpBcPFYIccU/kaboom-automatic-pentest.html)
 - [SSRFmap - Automatic SSRF Fuzzer And Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/sNJOEPAhpEU/ssrfmap-automatic-ssrf-fuzzer-and.html)
