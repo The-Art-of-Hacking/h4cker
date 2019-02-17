@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fibratus - Tool For Exploration And Tracing Of The Windows Kernel](http://feedproxy.google.com/~r/PentestTools/~3/_sRsUUcl2vU/fibratus-tool-for-exploration-and.html)
 - [TROMMEL - Sift Through Embedded Device Files To Identify Potential Vulnerable Indicators](http://feedproxy.google.com/~r/PentestTools/~3/UW_LBgpwYX4/trommel-sift-through-embedded-device.html)
 - [DCOMrade - Powershell Script For Enumerating Vulnerable DCOM Applications](http://feedproxy.google.com/~r/PentestTools/~3/xaHJPu0lHk0/dcomrade-powershell-script-for.html)
 - [Ponce - IDA Plugin For Symbolic Execution Just One-Click Away!](http://feedproxy.google.com/~r/PentestTools/~3/rD4UX2khHlQ/ponce-ida-plugin-for-symbolic-execution.html)
