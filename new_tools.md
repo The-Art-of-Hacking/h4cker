@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Egress-Assess - Tool Used To Test Egress Data Detection Capabilities](http://feedproxy.google.com/~r/PentestTools/~3/rKdOLuFB10w/egress-assess-tool-used-to-test-egress.html)
 - [Fibratus - Tool For Exploration And Tracing Of The Windows Kernel](http://feedproxy.google.com/~r/PentestTools/~3/_sRsUUcl2vU/fibratus-tool-for-exploration-and.html)
 - [TROMMEL - Sift Through Embedded Device Files To Identify Potential Vulnerable Indicators](http://feedproxy.google.com/~r/PentestTools/~3/UW_LBgpwYX4/trommel-sift-through-embedded-device.html)
 - [DCOMrade - Powershell Script For Enumerating Vulnerable DCOM Applications](http://feedproxy.google.com/~r/PentestTools/~3/xaHJPu0lHk0/dcomrade-powershell-script-for.html)
