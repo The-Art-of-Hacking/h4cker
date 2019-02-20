@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OSINT-SPY - Search using OSINT (Open Source Intelligence)](http://feedproxy.google.com/~r/PentestTools/~3/-x63Tn8Ij2w/osint-spy-search-using-osint-open.html)
 - [Maltego CE - An Interactive Data Mining Tool That Renders Directed Graphs For Link Analysis](http://feedproxy.google.com/~r/PentestTools/~3/up3tM_gz8JE/maltego-ce-interactive-data-mining-tool.html)
 - [BoNeSi - The DDoS Botnet Simulator](http://feedproxy.google.com/~r/PentestTools/~3/C0CY4Q1tSyk/bonesi-ddos-botnet-simulator.html)
 - [HoneyPy - A Low To Medium Interaction Honeypot](http://feedproxy.google.com/~r/PentestTools/~3/Tb-oc6uz-nw/honeypy-low-to-medium-interaction.html)
