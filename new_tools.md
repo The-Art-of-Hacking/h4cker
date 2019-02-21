@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Eraser - Secure Erase Files from Hard Drives on Windows](http://feedproxy.google.com/~r/PentestTools/~3/94Y32zmk1ws/eraser-secure-erase-files-from-hard.html)
 - [SecLists - A Collection Of Multiple Types Of Lists Used During Security Assessments, Collected In One Place (Usernames, Passwords, URLs, Sensitive Data Patterns, Fuzzing Payloads, Web Shells, And Many More)](http://feedproxy.google.com/~r/PentestTools/~3/oN0YzDUFStg/seclists-collection-of-multiple-types.html)
 - [GameGuardian - Android Game Hack/Alteration Tool](http://feedproxy.google.com/~r/PentestTools/~3/6ReYL4igg7Q/gameguardian-android-game.html)
 - [OSINT-SPY - Search using OSINT (Open Source Intelligence)](http://feedproxy.google.com/~r/PentestTools/~3/-x63Tn8Ij2w/osint-spy-search-using-osint-open.html)
