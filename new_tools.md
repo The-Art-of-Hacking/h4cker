@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cheat Engine - A Development Environment Focused On Modding](http://feedproxy.google.com/~r/PentestTools/~3/hmyT4ewgMO8/cheat-engine-development-environment.html)
 - [BeEF - The Browser Exploitation Framework Project](http://feedproxy.google.com/~r/PentestTools/~3/W1UXPoIIVbg/beef-browser-exploitation-framework.html)
 - [Eraser - Secure Erase Files from Hard Drives on Windows](http://feedproxy.google.com/~r/PentestTools/~3/94Y32zmk1ws/eraser-secure-erase-files-from-hard.html)
 - [SecLists - A Collection Of Multiple Types Of Lists Used During Security Assessments, Collected In One Place (Usernames, Passwords, URLs, Sensitive Data Patterns, Fuzzing Payloads, Web Shells, And Many More)](http://feedproxy.google.com/~r/PentestTools/~3/oN0YzDUFStg/seclists-collection-of-multiple-types.html)
