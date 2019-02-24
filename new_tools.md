@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Iptables Essentials - Common Firewall Rules And Commands](http://feedproxy.google.com/~r/PentestTools/~3/QxQzNFl9P6o/iptables-essentials-common-firewall.html)
 - [HexRaysCodeXplorer - Hex-Rays Decompiler Plugin For Better Code Navigation](http://feedproxy.google.com/~r/PentestTools/~3/nViFOGTghjU/hexrayscodexplorer-hex-rays-decompiler.html)
 - [PHP Security Check List](http://feedproxy.google.com/~r/PentestTools/~3/Fz-b3ysARp4/php-security-check-list.html)
 - [OSFClone - Open Source Utility To Create And Clone Forensic Disk Images](http://feedproxy.google.com/~r/PentestTools/~3/MtkDht4BEQY/osfclone-open-source-utility-to-create.html)
