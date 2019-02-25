@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Command Injection Payload List](http://feedproxy.google.com/~r/PentestTools/~3/YXW6UlJA36g/command-injection-payload-list.html)
 - [Reko - A General Purpose Binary Decompiler](http://feedproxy.google.com/~r/PentestTools/~3/nwLk-LG8bbo/reko-general-purpose-binary-decompiler.html)
 - [Iptables Essentials - Common Firewall Rules And Commands](http://feedproxy.google.com/~r/PentestTools/~3/QxQzNFl9P6o/iptables-essentials-common-firewall.html)
 - [HexRaysCodeXplorer - Hex-Rays Decompiler Plugin For Better Code Navigation](http://feedproxy.google.com/~r/PentestTools/~3/nViFOGTghjU/hexrayscodexplorer-hex-rays-decompiler.html)
