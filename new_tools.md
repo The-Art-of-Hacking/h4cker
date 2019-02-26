@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Metasploit Cheat Sheet](http://feedproxy.google.com/~r/PentestTools/~3/o__OH665w5U/metasploit-cheat-sheet.html)
 - [SALT - SLUB ALlocator Tracer For The Linux Kernel](http://feedproxy.google.com/~r/PentestTools/~3/841MbWBL0_8/salt-slub-allocator-tracer-for-linux.html)
 - [Command Injection Payload List](http://feedproxy.google.com/~r/PentestTools/~3/YXW6UlJA36g/command-injection-payload-list.html)
 - [Reko - A General Purpose Binary Decompiler](http://feedproxy.google.com/~r/PentestTools/~3/nwLk-LG8bbo/reko-general-purpose-binary-decompiler.html)
