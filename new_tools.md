@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ophcrack - A Windows Password Cracker Based On Rainbow Tables](http://feedproxy.google.com/~r/PentestTools/~3/24cbWRaWa8k/ophcrack-windows-password-cracker-based.html)
 - [Metasploit Cheat Sheet](http://feedproxy.google.com/~r/PentestTools/~3/o__OH665w5U/metasploit-cheat-sheet.html)
 - [SALT - SLUB ALlocator Tracer For The Linux Kernel](http://feedproxy.google.com/~r/PentestTools/~3/841MbWBL0_8/salt-slub-allocator-tracer-for-linux.html)
 - [Command Injection Payload List](http://feedproxy.google.com/~r/PentestTools/~3/YXW6UlJA36g/command-injection-payload-list.html)
