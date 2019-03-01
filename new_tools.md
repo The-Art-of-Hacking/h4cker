@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Imago Forensics - Imago Is A Python Tool That Extract Digital Evidences From Images](http://feedproxy.google.com/~r/PentestTools/~3/JzmwiCsLTtY/imago-forensics-imago-is-python-tool.html)
 - [VSHG - Hardware resistance & enhanced security for GnuPG](http://feedproxy.google.com/~r/PentestTools/~3/6L_0uMuwloY/vshg-hardware-resistance-enhanced.html)
 - [Angr - A Powerful And User-Friendly Binary Analysis Platform](http://feedproxy.google.com/~r/PentestTools/~3/d91K9L2OVN8/angr-powerful-and-user-friendly-binary.html)
 - [Ntopng - Web-based Traffic And Security Network Traffic Monitoring](http://feedproxy.google.com/~r/PentestTools/~3/3TSYk971DW0/ntopng-web-based-traffic-and-security.html)
