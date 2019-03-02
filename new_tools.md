@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Phantom Evasion - Python AV Evasion Tool Capable To Generate FUD Executable Even With The Most Common 32 Bit Metasploit Payload (Exe/Elf/Dmg/Apk)](http://feedproxy.google.com/~r/PentestTools/~3/u2lYO11vEuc/phantom-evasion-python-av-evasion-tool.html)
 - [Strelka - Scanning Files At Scale With Python And ZeroMQ](http://feedproxy.google.com/~r/PentestTools/~3/J5e-Il60yXg/strelka-scanning-files-at-scale-with.html)
 - [Imago Forensics - Imago Is A Python Tool That Extract Digital Evidences From Images](http://feedproxy.google.com/~r/PentestTools/~3/JzmwiCsLTtY/imago-forensics-imago-is-python-tool.html)
 - [VSHG - Hardware resistance & enhanced security for GnuPG](http://feedproxy.google.com/~r/PentestTools/~3/6L_0uMuwloY/vshg-hardware-resistance-enhanced.html)
