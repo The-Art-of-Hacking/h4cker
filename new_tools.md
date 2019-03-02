@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Strelka - Scanning Files At Scale With Python And ZeroMQ](http://feedproxy.google.com/~r/PentestTools/~3/J5e-Il60yXg/strelka-scanning-files-at-scale-with.html)
 - [Imago Forensics - Imago Is A Python Tool That Extract Digital Evidences From Images](http://feedproxy.google.com/~r/PentestTools/~3/JzmwiCsLTtY/imago-forensics-imago-is-python-tool.html)
 - [VSHG - Hardware resistance & enhanced security for GnuPG](http://feedproxy.google.com/~r/PentestTools/~3/6L_0uMuwloY/vshg-hardware-resistance-enhanced.html)
 - [Angr - A Powerful And User-Friendly Binary Analysis Platform](http://feedproxy.google.com/~r/PentestTools/~3/d91K9L2OVN8/angr-powerful-and-user-friendly-binary.html)
