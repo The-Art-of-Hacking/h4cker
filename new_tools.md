@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Rpi-Hunter - Automate Discovering And Dropping Payloads On LAN Raspberry Pi's Via SSH](http://feedproxy.google.com/~r/PentestTools/~3/cPYvAMXfbJo/rpi-hunter-automate-discovering-and.html)
 - [CMSeeK v1.1.1 - CMS Detection And Exploitation Suite (Scan WordPress, Joomla, Drupal And 150 Other CMSs)](http://feedproxy.google.com/~r/PentestTools/~3/8EDnhSxC2Hw/cmseek-v111-cms-detection-and.html)
 - [Faraday v3.6 - Collaborative Penetration Test and Vulnerability Management Platform](http://feedproxy.google.com/~r/PentestTools/~3/xuC5gpNVqec/faraday-v36-collaborative-penetration.html)
 - [Phantom Evasion - Python AV Evasion Tool Capable To Generate FUD Executable Even With The Most Common 32 Bit Metasploit Payload (Exe/Elf/Dmg/Apk)](http://feedproxy.google.com/~r/PentestTools/~3/u2lYO11vEuc/phantom-evasion-python-av-evasion-tool.html)
