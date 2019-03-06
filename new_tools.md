@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Legion - An Easy-To-Use, Super-Extensible And Semi-Automated Network Penetration Testing Tool That Aids In Discovery, Reconnaissance And Exploitation Of Information Systems](http://feedproxy.google.com/~r/PentestTools/~3/jDSvXwEafjY/legion-easy-to-use-super-extensible-and.html)
 - [Reload.sh - Reinstall, Restore And Wipe Your System Via SSH, Without Rebooting](http://feedproxy.google.com/~r/PentestTools/~3/FFaKm01Nscg/reloadsh-reinstall-restore-and-wipe.html)
 - [UserLAnd - The Easiest Way To Run A Linux Distribution or Application on Android](http://feedproxy.google.com/~r/PentestTools/~3/Z6GCKCBT-sI/userland-easiest-way-to-run-linux.html)
 - [Cuteit v0.2.1 - IP Obfuscator Made To Make A Malicious Ip A Bit Cuter](http://feedproxy.google.com/~r/PentestTools/~3/SmoBE9chyxU/cuteit-v021-ip-obfuscator-made-to-make.html)
