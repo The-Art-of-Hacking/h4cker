@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Turbinia - Automation And Scaling Of Digital Forensics Tools](http://feedproxy.google.com/~r/PentestTools/~3/fVMVv8I43F4/turbinia-automation-and-scaling-of.html)
 - [Ghidra - Software Reverse Engineering Framework](http://feedproxy.google.com/~r/PentestTools/~3/3UcCac0PJA4/ghidra-software-reverse-engineering.html)
 - [Legion - An Easy-To-Use, Super-Extensible And Semi-Automated Network Penetration Testing Tool That Aids In Discovery, Reconnaissance And Exploitation Of Information Systems](http://feedproxy.google.com/~r/PentestTools/~3/jDSvXwEafjY/legion-easy-to-use-super-extensible-and.html)
 - [Reload.sh - Reinstall, Restore And Wipe Your System Via SSH, Without Rebooting](http://feedproxy.google.com/~r/PentestTools/~3/FFaKm01Nscg/reloadsh-reinstall-restore-and-wipe.html)
