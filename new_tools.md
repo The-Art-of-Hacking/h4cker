@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cat-Nip - Automated Basic Pentest Tool (Designed For Kali Linux)](http://feedproxy.google.com/~r/PentestTools/~3/8By2_tKKSAQ/cat-nip-automated-basic-pentest-tool.html)
 - [Goca Scanner - FOCA fork written in Go](http://feedproxy.google.com/~r/PentestTools/~3/fyg9c9PUyTc/goca-scanner-foca-fork-written-in-go.html)
 - [Chomp Scan - A Scripted Pipeline Of Tools To Streamline The Bug Bounty/Penetration Test Reconnaissance Phase](http://feedproxy.google.com/~r/PentestTools/~3/tYTe2G8JkeM/chomp-scan-scripted-pipeline-of-tools.html)
 - [Turbinia - Automation And Scaling Of Digital Forensics Tools](http://feedproxy.google.com/~r/PentestTools/~3/fVMVv8I43F4/turbinia-automation-and-scaling-of.html)
