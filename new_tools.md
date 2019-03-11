@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [rootOS - macOS Root Helper](http://feedproxy.google.com/~r/PentestTools/~3/DYTj2i_s_Hs/rootos-macos-root-helper.html)
+- [Vuls - Vulnerability Scanner For Linux/FreeBSD, Agentless, Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/LeiEkChMh4Y/vuls-vulnerability-scanner-for.html)
+- [Reverse Shell Cheat Sheet](http://feedproxy.google.com/~r/PentestTools/~3/Ygxu7rgH7jo/reverse-shell-cheat-sheet.html)
 - [AutoRDPwn v4.8 - The Shadow Attack Framework](http://feedproxy.google.com/~r/PentestTools/~3/jFXs4Lm9-_8/autordpwn-v48-shadow-attack-framework.html)
 - [Cat-Nip - Automated Basic Pentest Tool (Designed For Kali Linux)](http://feedproxy.google.com/~r/PentestTools/~3/8By2_tKKSAQ/cat-nip-automated-basic-pentest-tool.html)
 - [Goca Scanner - FOCA fork written in Go](http://feedproxy.google.com/~r/PentestTools/~3/fyg9c9PUyTc/goca-scanner-foca-fork-written-in-go.html)
