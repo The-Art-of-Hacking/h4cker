@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Acunetix Web Application Vulnerability Report 2019](http://feedproxy.google.com/~r/PentestTools/~3/pkuHKauhESU/acunetix-web-application-vulnerability.html)
 - [Kage - Graphical User Interface For Metasploit Meterpreter And Session Handler](http://feedproxy.google.com/~r/PentestTools/~3/tRooyJ9gO2o/kage-graphical-user-interface-for.html)
 - [rootOS - macOS Root Helper](http://feedproxy.google.com/~r/PentestTools/~3/DYTj2i_s_Hs/rootos-macos-root-helper.html)
 - [Vuls - Vulnerability Scanner For Linux/FreeBSD, Agentless, Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/LeiEkChMh4Y/vuls-vulnerability-scanner-for.html)
