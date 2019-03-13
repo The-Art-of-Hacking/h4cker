@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Decker - Declarative Penetration Testing Orchestration Framework](http://feedproxy.google.com/~r/PentestTools/~3/v-JzhQO-i2Q/decker-declarative-penetration-testing.html)
 - [PFQ - Functional Network Framework For Multi-Core Architectures](http://feedproxy.google.com/~r/PentestTools/~3/lHrferXOPnc/pfq-functional-network-framework-for.html)
 - [Hostintel - A Modular Python Application To Collect Intelligence For Malicious Hosts](http://feedproxy.google.com/~r/PentestTools/~3/MPHA1vA45o0/hostintel-modular-python-application-to.html)
 - [IoT-Home-Guard - A Tool For Malicious Behavior Detection In IoT Devices](http://feedproxy.google.com/~r/PentestTools/~3/00rK4kMhDhs/iot-home-guard-tool-for-malicious.html)
