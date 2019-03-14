@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SocialFish v2 - Educational Phishing Tool & Information Collector](http://feedproxy.google.com/~r/PentestTools/~3/UIciopFruGI/socialfish-v2-educational-phishing-tool.html)
 - [DNS-Shell - An Interactive Shell Over DNS Channel](http://feedproxy.google.com/~r/PentestTools/~3/-RbwR0s6j4w/dns-shell-interactive-shell-over-dns.html)
 - [Decker - Declarative Penetration Testing Orchestration Framework](http://feedproxy.google.com/~r/PentestTools/~3/v-JzhQO-i2Q/decker-declarative-penetration-testing.html)
 - [PFQ - Functional Network Framework For Multi-Core Architectures](http://feedproxy.google.com/~r/PentestTools/~3/lHrferXOPnc/pfq-functional-network-framework-for.html)
