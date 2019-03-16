@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hashboy-Tool - A Hash Query Tool](http://feedproxy.google.com/~r/PentestTools/~3/WF_Ut4LqVas/hashboy-tool-hash-query-tool.html)
 - [CarbonCopy - A Tool Which Creates A Spoofed Certificate Of Any Online Website And Signs An Executable For AV Evasion](http://feedproxy.google.com/~r/PentestTools/~3/696PzvX73MM/carboncopy-tool-which-creates-spoofed.html)
 - [Karma - Search of Emails and Passwords on Pwndb](http://feedproxy.google.com/~r/PentestTools/~3/Z2_HhIVSkSU/karma-search-of-emails-and-passwords-on.html)
 - [Arjun v1.3 - HTTP Parameter Discovery Suite](http://feedproxy.google.com/~r/PentestTools/~3/zWZXsOUSOfk/arjun-v13-http-parameter-discovery-suite.html)
