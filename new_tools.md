@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dnsdmpstr - Unofficial API & Client For Dnsdumpster.Com And Hackertarget.Com](http://feedproxy.google.com/~r/PentestTools/~3/cJrHa_dhIkQ/dnsdmpstr-unofficial-api-client-for.html)
 - [Freevulnsearch - Free And Open NMAP NSE Script To Query Vulnerabilities Via The cve-search.org API](http://feedproxy.google.com/~r/PentestTools/~3/hRdoLgffwbs/freevulnsearch-free-and-open-nmap-nse.html)
 - [Armory - A Tool Meant To Take In A Lot Of External And Discovery Data From A Lot Of Tools, Add It To A Database And Correlate All Of Related Information](http://feedproxy.google.com/~r/PentestTools/~3/Dxhfc9Rx4sk/armory-tool-meant-to-take-in-lot-of.html)
 - [DOGE - Darknet Osint Graph Explorer](http://feedproxy.google.com/~r/PentestTools/~3/Ugv1-a3xlrQ/doge-darknet-osint-graph-explorer.html)
