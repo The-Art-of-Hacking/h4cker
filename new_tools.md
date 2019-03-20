@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Goscan - Interactive Network Scanner](http://feedproxy.google.com/~r/PentestTools/~3/QvZdo-L3mC8/goscan-interactive-network-scanner.html)
 - [Remot3d v2.0 - Tool Created For Large Pentesters As Well As Just For The Pleasure Of Defacers To Control Server By Backdoors](http://feedproxy.google.com/~r/PentestTools/~3/yLlm2OQbWtE/remot3d-v20-tool-created-for-large.html)
 - [Dnsdmpstr - Unofficial API & Client For Dnsdumpster.Com And Hackertarget.Com](http://feedproxy.google.com/~r/PentestTools/~3/cJrHa_dhIkQ/dnsdmpstr-unofficial-api-client-for.html)
 - [Freevulnsearch - Free And Open NMAP NSE Script To Query Vulnerabilities Via The cve-search.org API](http://feedproxy.google.com/~r/PentestTools/~3/hRdoLgffwbs/freevulnsearch-free-and-open-nmap-nse.html)
