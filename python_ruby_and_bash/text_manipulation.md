@@ -8,3 +8,5 @@
 - [grep + regex cheatsheet](https://staff.washington.edu/weller/grep.html)
 - [nixCraft Tutorial](https://www.cyberciti.biz/faq/grep-regular-expressions/)
 
+## Converters
+-   [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
