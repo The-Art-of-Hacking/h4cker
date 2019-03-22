@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SMS-Stack - Framework to provided TPC/IP based characteristics to the GSM Short Message Service](http://feedproxy.google.com/~r/PentestTools/~3/9hceL_jtpCY/sms-stack-framework-to-provided-tpcip.html)
 - [Xerxes - DoS Tool Enhanced](http://feedproxy.google.com/~r/PentestTools/~3/FKQz_c3NmhA/xerxes-dos-tool-enhanced.html)
 - [mXtract - Memory Extractor & Analyzer](http://feedproxy.google.com/~r/PentestTools/~3/klmJCxzlVRA/mxtract-memory-extractor-analyzer.html)
 - [RapidRepoPull - Tool To Quickly Pull And Install Repos From A List](http://feedproxy.google.com/~r/PentestTools/~3/eSN79pCheoQ/rapidrepopull-tool-to-quickly-pull-and.html)
