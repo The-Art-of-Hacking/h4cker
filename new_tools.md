@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WPScan v3.4.5 - Black Box WordPress Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/36ioKYj1ExE/wpscan-v345-black-box-wordpress.html)
 - [Androwarn - Yet Another Static Code Analyzer For Malicious Android Applications](http://feedproxy.google.com/~r/PentestTools/~3/CXJc4Zacvso/androwarn-yet-another-static-code.html)
 - [FIR - Fast Incident Response](http://feedproxy.google.com/~r/PentestTools/~3/ppBJPOSeiE4/fir-fast-incident-response.html)
 - [Webtech - Identify Technologies Used On Websites](http://feedproxy.google.com/~r/PentestTools/~3/bguM2uPOwiU/webtech-identify-technologies-used-on.html)
