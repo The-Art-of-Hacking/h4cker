@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [H2T - Scans A Website And Suggests Security Headers To Apply](http://feedproxy.google.com/~r/PentestTools/~3/LaZLa7zlv9k/h2t-scans-website-and-suggests-security.html)
 - [Got-Responded - A Simple Tool To Detect NBT-NS And LLMNR Spoofing](http://feedproxy.google.com/~r/PentestTools/~3/JiuGZeJ1OoU/got-responded-simple-tool-to-detect-nbt.html)
 - [WPScan v3.4.5 - Black Box WordPress Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/36ioKYj1ExE/wpscan-v345-black-box-wordpress.html)
 - [Androwarn - Yet Another Static Code Analyzer For Malicious Android Applications](http://feedproxy.google.com/~r/PentestTools/~3/CXJc4Zacvso/androwarn-yet-another-static-code.html)
