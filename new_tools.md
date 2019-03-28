@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Mutiny Fuzzing Framework - Network Fuzzer That Operates By Replaying PCAPs Through A Mutational Fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/2MWStTlswIE/mutiny-fuzzing-framework-network-fuzzer.html)
 - [Flightsim - A Utility To Generate Malicious Network Traffic And Evaluate Controls](http://feedproxy.google.com/~r/PentestTools/~3/iP4qxku8k_8/flightsim-utility-to-generate-malicious.html)
 - [LAPSToolkit - Tool To Audit And Attack LAPS Environments](http://feedproxy.google.com/~r/PentestTools/~3/0JNW5bf6UGc/lapstoolkit-tool-to-audit-and-attack.html)
 - [Xori - An Automation-Ready Disassembly And Static Analysis Library For PE32, 32+ And Shellcode](http://feedproxy.google.com/~r/PentestTools/~3/4m8ecBSKkZc/xori-automation-ready-disassembly-and.html)
