@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [phpMussel - PHP-based Anti-Virus Anti-Trojan Anti-Malware Solution](http://feedproxy.google.com/~r/PentestTools/~3/GyXiM5XXkzc/phpmussel-php-based-anti-virus-anti.html)
 - [WinPwn - Automation For Internal Windows Penetrationtest](http://feedproxy.google.com/~r/PentestTools/~3/9lPHNu1cvU8/winpwn-automation-for-internal-windows.html)
 - [Reconerator - C# Targeted Attack Reconnaissance Tools](http://feedproxy.google.com/~r/PentestTools/~3/ijyKtK7r7jk/reconerator-c-targeted-attack.html)
 - [Mutiny Fuzzing Framework - Network Fuzzer That Operates By Replaying PCAPs Through A Mutational Fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/2MWStTlswIE/mutiny-fuzzing-framework-network-fuzzer.html)
