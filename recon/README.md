@@ -43,3 +43,5 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 
 ## Active Recon
 * Tons of references to scanners and vulnerability management software for active reconnaissance - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Vulnerability_Analysis
+
+* [Osmedeus](https://github.com/j3ssie/Osmedeus) Fully automated offensive security tool for reconnaissance and vulnerability scanning
