@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IDArling - Collaborative Reverse Engineering Plugin For IDA Pro & Hex-Rays](http://feedproxy.google.com/~r/PentestTools/~3/iENP1YvFAOE/idarling-collaborative-reverse.html)
 - [Wireshark Cheatsheet](http://feedproxy.google.com/~r/PentestTools/~3/I1DdQx4THpA/wireshark-cheatsheet.html)
 - [FFM (Freedom Fighting Mode) - Open Source Hacking Harness](http://feedproxy.google.com/~r/PentestTools/~3/0T8msrFGIbE/ffm-freedom-fighting-mode-open-source.html)
 - [Just-Metadata - Tool That Gathers And Analyzes Metadata About IP Addresses](http://feedproxy.google.com/~r/PentestTools/~3/woImI_1gz9Y/just-metadata-tool-that-gathers-and.html)
