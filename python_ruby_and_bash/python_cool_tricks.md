@@ -3,24 +3,35 @@
 ## Starting a quick web server to serve some files (useful for post exploitation)
 
 ### In Python 2.x
-`python -m SimpleHTTPServer 1337`
+```
+python -m SimpleHTTPServer 1337
+```
 
 ### In Python 3.x
-`python3 -m http.server 1337`
+```
+python3 -m http.server 1337
+```
 
 ----
 ## Pythonic Web Client
 
 ### In Python 2.x
-`python -c 'import urllib2; print urllib2.urlopen("http://h4cker.org/web").read()' | tee /tmp/file.html`
+```
+python -c 'import urllib2; print urllib2.urlopen("http://h4cker.org/web").read()' | tee /tmp/file.html
+```
+
 ### In Python 3.x
-`python3 -c 'import urllib.request; urllib.request.urlretrieve ("http://h4cker.org/web","/tmp/h4cker.html")'`
+```
+python3 -c 'import urllib.request; urllib.request.urlretrieve ("http://h4cker.org/web","/tmp/h4cker.html")'
+```
 
 ----
 ## Python Debugger
 This imports a Python file and runs the debugger automatically. This is useful for debugging Python-based malware and for post-exploitation.
 
-`python -m pdb <some_python_file>`
+```
+python -m pdb <some_python_file>
+```
 
 Refer to this [Python Debugger cheatsheet](https://kapeli.com/cheat_sheets/Python_Debugger.docset/Contents/Resources/Documents/index) if you are not familiar with the Python Debugger.
 
@@ -29,7 +40,9 @@ Refer to this [Python Debugger cheatsheet](https://kapeli.com/cheat_sheets/Pytho
 ## Shell to Terminal
 This is useful after exploitation and getting a shell. It allows you to use Linux commands that require a terminal session (e.g., su, sudo, vi, etc.)
 
-`python -c 'import pty; pty.spawn("/bin/bash")'`
+```
+python -c 'import pty; pty.spawn("/bin/bash")'
+```
 
 ----
 
