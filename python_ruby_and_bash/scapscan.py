@@ -169,7 +169,6 @@ def start(your_target,your_ports,your_timeout):
 def banner():
     bannerTxt = """
 ************************************************************
-
   ####   ####    ##   #####   ####   ####    ##   #    #
  #      #    #  #  #  #    # #      #    #  #  #  ##   #
   ####  #      #    # #    #  ####  #      #    # # #  #
@@ -177,34 +176,11 @@ def banner():
  #    # #    # #    # #      #    # #    # #    # #   ##
   ####   ####  #    # #       ####   ####  #    # #    #
 
+A demonstration by Omar Santos on how to use scapy for scanning purposes. Part of the Cybersecurity classes at: https://h4cker.org
 
-      SCAPY SCANNER
-
-A demonstration by Omar Santos on how to use scapy
-for scanning purposes. Part of the Cybersecurity classes at:
-    https://h4cker.org
-
-The following scan types are processed:
-- TCP Connect Scan
-- Stealth Scan
-- XMAS Scan
-- FIN Scan
-- NULL Scan
-- ACK Flag Scan
-- Window Scan
-- UDP Scan
+This tool supports TCP Connect Scans, Stealth Scans, XMAS Scans, FIN Scans, NULL Scans, ACK Flag Scans, Window Scans, and UDP Scans.
 
 usage: scapy_stealth_scan.py [-h] [-p] [-pl] [-pr] [-t] target
-
-positional arguments:
-  target      Target address
-
-optional arguments:
-  -h, --help  show this help message and exit
-  -p          Single port e.g. 80
-  -pl         Port list e.g. 21,22,80
-  -pr         Port range e.g. 20-30
-  -t          Timeout value (default 2)
 
 ************************************************************
    	"""
