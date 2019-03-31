@@ -22,6 +22,8 @@ This imports a Python file and runs the debugger automatically. This is useful f
 
 `python -m pdb <some_python_file>`
 
+Refer to this [Python Debugger cheatsheet](https://kapeli.com/cheat_sheets/Python_Debugger.docset/Contents/Resources/Documents/index) if you are not familiar with the Python Debugger.
+
 ----
 
 ## Shell to Terminal
