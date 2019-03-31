@@ -10,6 +10,5 @@
 
 import pyshark
 
-# Sniff from interface
-capture = pyshark.LiveCapture(interface='eth0')
-capture.sniff(timeout=10)
+for packet in capture.sniff_continuously(packet_count=5):
+    print (You just captured a packet:', packet)
