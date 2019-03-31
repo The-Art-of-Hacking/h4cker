@@ -1,4 +1,4 @@
-#! /usr/bin/python
+#!/usr/bin/python
 """
 Author: Omar Santos @santosomar
 version 1.0
