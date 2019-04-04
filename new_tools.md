@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CHAOS Framework v3.0 - Generate Payloads And Control Remote Windows Systems](http://feedproxy.google.com/~r/PentestTools/~3/qSMqQNeFOgU/chaos-framework-v20-generate-payloads.html)
 - [CHAOS Framework v2.0 - Generate Payloads And Control Remote Windows Systems](http://feedproxy.google.com/~r/PentestTools/~3/qSMqQNeFOgU/chaos-framework-v20-generate-payloads.html)
 - [ISeeYou - Bash And Javascript Tool To Find The Exact Location Of The Users During Social Engineering Or Phishing Engagements](http://feedproxy.google.com/~r/PentestTools/~3/kBe1Xfh9iTc/iseeyou-bash-and-javascript-tool-to.html)
 - [Instainsane - Multi-threaded Instagram Brute Forcer](http://feedproxy.google.com/~r/PentestTools/~3/n2J8ihzAvxI/instainsane-multi-threaded-instagram.html)
