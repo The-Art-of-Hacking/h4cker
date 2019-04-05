@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PowerShellArsenal - A PowerShell Module Dedicated To Reverse Engineering](http://feedproxy.google.com/~r/PentestTools/~3/dBmXp-b1EI0/powershellarsenal-powershell-module.html)
 - [Darksplitz - Exploit Framework](http://feedproxy.google.com/~r/PentestTools/~3/i5XdO5H76m8/darksplitz-exploit-framework.html)
 - [CHAOS Framework v3.0 - Generate Payloads And Control Remote Windows Systems](http://feedproxy.google.com/~r/PentestTools/~3/qSMqQNeFOgU/chaos-framework-v20-generate-payloads.html)
 - [CHAOS Framework v2.0 - Generate Payloads And Control Remote Windows Systems](http://feedproxy.google.com/~r/PentestTools/~3/qSMqQNeFOgU/chaos-framework-v20-generate-payloads.html)
