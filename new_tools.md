@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pocsuite3 - An Open-Sourced Remote Vulnerability Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/x6R6agm_yNE/pocsuite3-open-sourced-remote.html)
 - [XanXSS - A Simple XSS Finding Tool](http://feedproxy.google.com/~r/PentestTools/~3/l-J2Alp5HZY/xanxss-simple-xss-finding-tool.html)
 - [Pyrit - The Famous WPA Precomputed Cracker](http://feedproxy.google.com/~r/PentestTools/~3/V8MTVWRjf0k/pyrit-famous-wpa-precomputed-cracker.html)
 - [Faraday v3.7 - Collaborative Penetration Test and Vulnerability Management Platform](http://feedproxy.google.com/~r/PentestTools/~3/oLcdNOwS8pg/faraday-v37-collaborative-penetration.html)
