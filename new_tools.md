@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Free Cynet Threat Assessment for Mid-sized and Large Organizations](http://feedproxy.google.com/~r/PentestTools/~3/nSnlxp2L5PU/free-cynet-threat-assessment-for-mid.html)
 - [Beagle - An Incident Response And Digital Forensics Tool Which Transforms Security Logs And Data Into Graphs](http://feedproxy.google.com/~r/PentestTools/~3/cEy42c_u1ck/beagle-incident-response-and-digital.html)
 - [ISF - Industrial Control System Exploitation Framework](http://feedproxy.google.com/~r/PentestTools/~3/oT_vl-DqvbE/isf-industrial-control-system.html)
 - [Pocsuite3 - An Open-Sourced Remote Vulnerability Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/x6R6agm_yNE/pocsuite3-open-sourced-remote.html)
