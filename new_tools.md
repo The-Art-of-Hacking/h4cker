@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [mXtract v1.2 - Memory Extractor & Analyzer](http://feedproxy.google.com/~r/PentestTools/~3/afNZNO7w4Xk/mxtract-v12-memory-extractor-analyzer.html)
 - [DefectDojo v1.5.4 - Application Vulnerability Correlation And Security Orchestration Application](http://feedproxy.google.com/~r/PentestTools/~3/y_c8QTZckgk/defectdojo-v154-application.html)
 - [Free Cynet Threat Assessment for Mid-sized and Large Organizations](http://feedproxy.google.com/~r/PentestTools/~3/nSnlxp2L5PU/free-cynet-threat-assessment-for-mid.html)
 - [Beagle - An Incident Response And Digital Forensics Tool Which Transforms Security Logs And Data Into Graphs](http://feedproxy.google.com/~r/PentestTools/~3/cEy42c_u1ck/beagle-incident-response-and-digital.html)
