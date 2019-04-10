@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Zeebsploit - Web Scanner / Exploitation / Information Gathering](http://feedproxy.google.com/~r/PentestTools/~3/RZKskKnsCFU/zeebsploit-web-scanner-exploitation_10.html)
 - [Mysql-Magic - Dump Mysql Client Password From Memory](http://feedproxy.google.com/~r/PentestTools/~3/koY9c2YGnzc/mysql-magic-dump-mysql-client-password.html)
 - [mXtract v1.2 - Memory Extractor & Analyzer](http://feedproxy.google.com/~r/PentestTools/~3/afNZNO7w4Xk/mxtract-v12-memory-extractor-analyzer.html)
 - [DefectDojo v1.5.4 - Application Vulnerability Correlation And Security Orchestration Application](http://feedproxy.google.com/~r/PentestTools/~3/y_c8QTZckgk/defectdojo-v154-application.html)
