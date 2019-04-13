@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [0D1N v2.6 - Web Security Tool To Make Fuzzing At HTTP/S](http://feedproxy.google.com/~r/PentestTools/~3/ioYkysg8i6k/0d1n-v26-web-security-tool-to-make.html)
 - [CredsLeaker v3 - Tool to Display A Powershell Credentials Box](http://feedproxy.google.com/~r/PentestTools/~3/9y08bFtnHNg/credsleaker-v3-tool-to-display.html)
 - [GodOfWar - Malicious Java WAR Builder With Built-In Payloads](http://feedproxy.google.com/~r/PentestTools/~3/48DUIB_ttEQ/godofwar-malicious-java-war-builder.html)
 - [XSStrike v3.1.4 - Most Advanced XSS Detection Suite](http://feedproxy.google.com/~r/PentestTools/~3/_ChCQ9dGpko/xsstrike-v314-most-advanced-xss.html)
