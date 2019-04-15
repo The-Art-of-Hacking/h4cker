@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pepe - Collect Information About Email Addresses From Pastebin](http://feedproxy.google.com/~r/PentestTools/~3/UWHcybSkf3A/pepe-collect-information-about-email.html)
 - [W12Scan - A Simple Asset Discovery Engine For Cybersecurity](http://feedproxy.google.com/~r/PentestTools/~3/8ngOdmcdmkU/w12scan-simple-asset-discovery-engine.html)
 - [Instainsane - Multi-threaded Instagram Brute Forcer](http://feedproxy.google.com/~r/PentestTools/~3/n2J8ihzAvxI/instainsane-multi-threaded-instagram.html)
 - [Zeebsploit - Web Scanner / Exploitation / Information Gathering](http://feedproxy.google.com/~r/PentestTools/~3/9xaMRbIv1Dk/zeebsploit-web-scanner-exploitation.html)
