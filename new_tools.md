@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Instainsane - Multi-threaded Instagram Brute Forcer](http://feedproxy.google.com/~r/PentestTools/~3/n2J8ihzAvxI/instainsane-multi-threaded-instagram.html)
 - [Zeebsploit - Web Scanner / Exploitation / Information Gathering](http://feedproxy.google.com/~r/PentestTools/~3/9xaMRbIv1Dk/zeebsploit-web-scanner-exploitation.html)
 - [TeleKiller - A Tool Session Hijacking And Stealer Local Passcode Telegram Windows](http://feedproxy.google.com/~r/PentestTools/~3/8Mcn9CeolB8/telekiller-tool-session-hijacking-and.html)
 - [pwnedOrNot v1.1.7 - OSINT Tool To Find Passwords For Compromised Email Addresses](http://feedproxy.google.com/~r/PentestTools/~3/zMsIKFBaGtY/pwnedornot-v117-osint-tool-to-find.html)
