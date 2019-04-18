@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [fireELF - Fileless Linux Malware Framework](http://feedproxy.google.com/~r/PentestTools/~3/nkiWxHsqM50/fireelf-fileless-linux-malware-framework.html)
 - [FLASHMINGO - Automatic Analysis Of SWF Files Based On Some Heuristics](http://feedproxy.google.com/~r/PentestTools/~3/ACw-482_MOc/flashmingo-automatic-analysis-of-swf.html)
 - [Platypus - A Modern Multiple Reverse Shell Sessions Manager Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/30pzbSTJjXw/platypus-modern-multiple-reverse-shell.html)
 - [SilkETW - Flexible C# Wrapper For ETW (Event Tracing for Windows)](http://feedproxy.google.com/~r/PentestTools/~3/BJmvoNfqSg4/silketw-flexible-c-wrapper-for-etw.html)
