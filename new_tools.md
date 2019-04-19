@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Parameth - This Tool Can Be Used To Brute Discover GET And POST Parameters](http://feedproxy.google.com/~r/PentestTools/~3/E2J6ATzXZjw/parameth-this-tool-can-be-used-to-brute.html)
 - [EfiGuard - Disable PatchGuard And DSE At Boot Time](http://feedproxy.google.com/~r/PentestTools/~3/Er2ka-d-TW4/efiguard-disable-patchguard-and-dse-at.html)
 - [fireELF - Fileless Linux Malware Framework](http://feedproxy.google.com/~r/PentestTools/~3/nkiWxHsqM50/fireelf-fileless-linux-malware-framework.html)
 - [FLASHMINGO - Automatic Analysis Of SWF Files Based On Some Heuristics](http://feedproxy.google.com/~r/PentestTools/~3/ACw-482_MOc/flashmingo-automatic-analysis-of-swf.html)
