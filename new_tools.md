@@ -2,6 +2,17 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Raptor WAF v0.6 - Web Application Firewall using DFA](http://feedproxy.google.com/~r/PentestTools/~3/BA5LLiXZBVI/raptor-waf-v06-web-application-firewall.html)
+- [FTPBruter - A FTP Server Brute Forcing Tool](http://feedproxy.google.com/~r/PentestTools/~3/hudxodR8GrU/ftpbruter-ftp-server-brute-forcing-tool.html)
+- [Freddy - Automatically Identify Deserialisation Issues In Java And .NET Applications By Using Active And Passive Scans](http://feedproxy.google.com/~r/PentestTools/~3/9_sH_VhkADw/freddy-automatically-identify.html)
+- [Findomain - A Tool That Use Certificate Transparency Logs To Find Subdomains](http://feedproxy.google.com/~r/PentestTools/~3/nZr4C2pqs0Q/findomain-tool-that-use-certificate.html)
+- [Anevicon - A High-Performant UDP-based Load Generator](http://feedproxy.google.com/~r/PentestTools/~3/5XmXet0TlPs/anevicon-high-performant-udp-based-load.html)
+- [Reverie - Automated Pentest Tools Designed For Parrot Linux](http://feedproxy.google.com/~r/PentestTools/~3/I5j5E3B9o2w/reverie-automated-pentest-tools.html)
+- [EasySploit - Metasploit Automation (EASIER And FASTER Than EVER)](http://feedproxy.google.com/~r/PentestTools/~3/fAldiqcnlVY/easysploit-metasploit-automation-easier.html)
+- [PyWhatCMS - Unofficial WhatCMS API Package](http://feedproxy.google.com/~r/PentestTools/~3/MipV-mhuXs0/pywhatcms-unofficial-whatcms-api-package.html)
+- [Kubebot - A Security Testing Slackbot Built With A Kubernetes Backend On The Google Cloud Platform](http://feedproxy.google.com/~r/PentestTools/~3/9kvKVdDoeDg/kubebot-security-testing-slackbot-built.html)
+- [drAFL - AFL + DynamoRIO = Fuzzing Binaries With No Source Code On Linux](http://feedproxy.google.com/~r/PentestTools/~3/hOVJOVPf6mg/drafl-afl-dynamorio-fuzzing-binaries.html)
+- [Ttyd - Share Your Terminal Over The Web](http://feedproxy.google.com/~r/PentestTools/~3/bMyoKJQqRUI/ttyd-share-your-terminal-over-web.html)
 - [mongoBuster - Hunt Open MongoDB Instances](http://feedproxy.google.com/~r/PentestTools/~3/SZ1n92RVaTc/mongobuster-hunt-open-mongodb-instances.html)
 - [Parameth - This Tool Can Be Used To Brute Discover GET And POST Parameters](http://feedproxy.google.com/~r/PentestTools/~3/E2J6ATzXZjw/parameth-this-tool-can-be-used-to-brute.html)
 - [EfiGuard - Disable PatchGuard And DSE At Boot Time](http://feedproxy.google.com/~r/PentestTools/~3/Er2ka-d-TW4/efiguard-disable-patchguard-and-dse-at.html)
