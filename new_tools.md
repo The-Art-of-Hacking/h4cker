@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NAXSI - An Open-Source, High Performance, Low Rules Maintenance WAF For NGINX](http://feedproxy.google.com/~r/PentestTools/~3/A8ZGsbVEM_o/naxsi-open-source-high-performance-low.html)
 - [Raptor WAF v0.6 - Web Application Firewall using DFA](http://feedproxy.google.com/~r/PentestTools/~3/BA5LLiXZBVI/raptor-waf-v06-web-application-firewall.html)
 - [FTPBruter - A FTP Server Brute Forcing Tool](http://feedproxy.google.com/~r/PentestTools/~3/hudxodR8GrU/ftpbruter-ftp-server-brute-forcing-tool.html)
 - [Freddy - Automatically Identify Deserialisation Issues In Java And .NET Applications By Using Active And Passive Scans](http://feedproxy.google.com/~r/PentestTools/~3/9_sH_VhkADw/freddy-automatically-identify.html)
