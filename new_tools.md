@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Osmedeus - Fully Automated Offensive Security Tool For Reconnaissance And Vulnerability Scanning](http://feedproxy.google.com/~r/PentestTools/~3/62_7K6wE8Hk/osmedeus-fully-automated-offensive_27.html)
 - [Okadminfinder3 - Admin Panel Finder / Admin Login Page Finder](http://feedproxy.google.com/~r/PentestTools/~3/JYs9BE78JWg/okadminfinder3-admin-panel-finder-admin.html)
 - [Cutter - Free And Open-Source GUI For Radare2 Reverse Engineering Framework](http://feedproxy.google.com/~r/PentestTools/~3/tox-LUVg8Io/cutter-free-and-open-source-gui-for.html)
 - [NAXSI - An Open-Source, High Performance, Low Rules Maintenance WAF For NGINX](http://feedproxy.google.com/~r/PentestTools/~3/A8ZGsbVEM_o/naxsi-open-source-high-performance-low.html)
