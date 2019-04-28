@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Parrot Security 4.6 - Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind](http://feedproxy.google.com/~r/PentestTools/~3/s2FArN4t_3o/parrot-security-46-security-gnulinux.html)
 - [Evil Clippy - A Cross-Platform Assistant For Creating Malicious MS Office Documents](http://feedproxy.google.com/~r/PentestTools/~3/LSMeO4LPR0I/evil-clippy-cross-platform-assistant.html)
 - [ParamPamPam - Brute Force Discover GET And POST Parameters](http://feedproxy.google.com/~r/PentestTools/~3/Wthy0oeZHOE/parampampam-brute-force-discover-get.html)
 - [Osmedeus - Fully Automated Offensive Security Tool For Reconnaissance And Vulnerability Scanning](http://feedproxy.google.com/~r/PentestTools/~3/62_7K6wE8Hk/osmedeus-fully-automated-offensive_27.html)
