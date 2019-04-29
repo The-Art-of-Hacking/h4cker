@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ScanQLi - Scanner To Detect SQL Injection Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/wgueXGutErU/scanqli-scanner-to-detect-sql-injection.html)
 - [OSINT-Search - Useful For Digital Forensics Investigations Or Initial Black-Box Pentest Footprinting](http://feedproxy.google.com/~r/PentestTools/~3/D1r1ulQ7KTw/osint-search-useful-for-digital.html)
 - [Parrot Security 4.6 - Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind](http://feedproxy.google.com/~r/PentestTools/~3/s2FArN4t_3o/parrot-security-46-security-gnulinux.html)
 - [Evil Clippy - A Cross-Platform Assistant For Creating Malicious MS Office Documents](http://feedproxy.google.com/~r/PentestTools/~3/LSMeO4LPR0I/evil-clippy-cross-platform-assistant.html)
