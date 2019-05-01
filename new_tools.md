@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Twint - An Advanced Twitter Scraping And OSINT Tool](http://feedproxy.google.com/~r/PentestTools/~3/Z6GYaIPVXh8/twint-advanced-twitter-scraping-and.html)
 - [HostHunter - A Recon Tool For Discovering Hostnames Using OSINT Techniques](http://feedproxy.google.com/~r/PentestTools/~3/QiCNKN5VS74/hosthunter-recon-tool-for-discovering.html)
 - [Flerken - Obfuscated Command Detection Tool](http://feedproxy.google.com/~r/PentestTools/~3/XuqcFjTq6S8/flerken-obfuscated-command-detection.html)
 - [ScanQLi - Scanner To Detect SQL Injection Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/wgueXGutErU/scanqli-scanner-to-detect-sql-injection.html)
