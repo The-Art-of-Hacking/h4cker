@@ -2,6 +2,22 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DumpTheGit - Searches Through Public Repositories To Find Sensitive Information Uploaded To The Github Repositories](http://feedproxy.google.com/~r/PentestTools/~3/kTA1D58El0U/dumpthegit-searches-through-public.html)
+- [Vulmap - Online Local Vulnerability Scanners Project](http://feedproxy.google.com/~r/PentestTools/~3/7lKQQIWQGJk/vulmap-online-local-vulnerability.html)
+- [AutoSource - Automated Source Code Review Framework Integrated With SonarQube](http://feedproxy.google.com/~r/PentestTools/~3/alJwKx_iHdQ/autosource-automated-source-code-review.html)
+- [Kerbrute - A Tool To Perform Kerberos Pre-Auth Bruteforcing](http://feedproxy.google.com/~r/PentestTools/~3/IAxyISi4bAc/kerbrute-tool-to-perform-kerberos-pre.html)
+- [Hackuna - The First Mobile App to Track Hackers](http://feedproxy.google.com/~r/PentestTools/~3/DMmt1Y2sd_A/hackuna-first-mobile-app-to-track.html)
+- [Joy - A Package For Capturing And Analyzing Network Flow Data And Intraflow Data, For Network Research, Forensics, And Security Monitoring](http://feedproxy.google.com/~r/PentestTools/~3/Hnc6J2MxuZg/joy-package-for-capturing-and-analyzing.html)
+- [Kostebek - Reconnaissance Tool Which Uses Firms Trademark Information To Discover Their Domains](http://feedproxy.google.com/~r/PentestTools/~3/uTvabW9syZ4/kostebek-reconnaissance-tool-which-uses.html)
+- [Termshark - A Terminal UI For Tshark, Inspired By Wireshark](http://feedproxy.google.com/~r/PentestTools/~3/IT3zoOGfD70/termshark-terminal-ui-for-tshark.html)
+- [PeekABoo - Tool To Enable Remote Desktop On The Targeted Machine](http://feedproxy.google.com/~r/PentestTools/~3/pKwJLmFuw_Y/peekaboo-tool-to-enable-remote-desktop.html)
+- [10Minutemail - Python Temporary Email](http://feedproxy.google.com/~r/PentestTools/~3/6P5wkV_3yTU/10minutemail-python-temporary-email.html)
+- [BruteDum - Brute Force Attacks SSH, FTP, Telnet, PostgreSQL, RDP, VNC With Hydra, Medusa And Ncrack](http://feedproxy.google.com/~r/PentestTools/~3/3Z-_-kI5aD8/brutedum-brute-force-attacks-ssh-ftp.html)
+- [Cynet Free IR Tool Offering Empowers Responders to Know and Act Against Active Attacks](http://feedproxy.google.com/~r/PentestTools/~3/4Q01gW4bYSs/cynet-free-ir-tool-offering-empowers.html)
+- [CQTools - The New Ultimate Windows Hacking Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/jwnMIPJ7f80/cqtools-new-ultimate-windows-hacking.html)
+- [ExtAnalysis - Browser Extension Analysis Framework](http://feedproxy.google.com/~r/PentestTools/~3/_R9KNS4iKCY/extanalysis-browser-extension-analysis.html)
+- [QRGen - Simple Script For Generating Malformed QRCodes](http://feedproxy.google.com/~r/PentestTools/~3/l5Kg34GFbeY/qrgen-simple-script-for-generating.html)
+- [ReconT - Reconnaisance / Footprinting / Information Disclosure](http://feedproxy.google.com/~r/PentestTools/~3/cODwkrYCciM/recont-reconnaisance-footprinting.html)
 - [Bashter - Web Crawler, Scanner, And Analyzer Framework](http://feedproxy.google.com/~r/PentestTools/~3/SioxR4luedw/bashter-web-crawler-scanner-and.html)
 - [Adidnsdump - Active Directory Integrated DNS Dumping By Any Authenticated User](http://feedproxy.google.com/~r/PentestTools/~3/8FXqJbJc7lY/adidnsdump-active-directory-integrated.html)
 - [Twint - An Advanced Twitter Scraping And OSINT Tool](http://feedproxy.google.com/~r/PentestTools/~3/Z6GYaIPVXh8/twint-advanced-twitter-scraping-and.html)
