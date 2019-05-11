@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PAnalizer - Pornography Analizer And Face Searching](http://feedproxy.google.com/~r/PentestTools/~3/DrTqYWvAK1Q/panalizer-pornography-analizer-and-face.html)
 - [FinalRecon - OSINT Tool For All-In-One Web Reconnaissance](http://feedproxy.google.com/~r/PentestTools/~3/SUc3j_Jc96w/finalrecon-osint-tool-for-all-in-one.html)
 - [iCULeak - Tool To Find And Extract Credentials From Phone Configuration Files Hosted On Cisco CUCM](http://feedproxy.google.com/~r/PentestTools/~3/1QY0SIyYtbU/iculeak-tool-to-find-and-extract.html)
 - [DumpTheGit - Searches Through Public Repositories To Find Sensitive Information Uploaded To The Github Repositories](http://feedproxy.google.com/~r/PentestTools/~3/kTA1D58El0U/dumpthegit-searches-through-public.html)
