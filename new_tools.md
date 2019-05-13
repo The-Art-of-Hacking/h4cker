@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pacbot - Platform For Continuous Compliance Monitoring, Compliance Reporting And Security Automation For The Cloud](http://feedproxy.google.com/~r/PentestTools/~3/Rlt5JK-83Dc/pacbot-platform-for-continuous.html)
 - [Findomain - A Cross-Platform Tool That Use Certificate Transparency Logs To Find Subdomains](http://feedproxy.google.com/~r/PentestTools/~3/wXgn5VWk6SU/findomain-cross-platform-tool-that-use.html)
 - [Sn1per v7.0 - Automated Pentest Framework For Offensive Security Experts](http://feedproxy.google.com/~r/PentestTools/~3/IoUOymJezTw/sn1per-v70-automated-pentest-framework.html)
 - [PAnalizer - Pornography Analizer And Face Searching](http://feedproxy.google.com/~r/PentestTools/~3/DrTqYWvAK1Q/panalizer-pornography-analizer-and-face.html)
