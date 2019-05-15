@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Trigmap - A Wrapper For Nmap To Automate The Pentest](http://feedproxy.google.com/~r/PentestTools/~3/4v03LmjMcd4/trigmap-wrapper-for-nmap-to-automate.html)
 - [Machinae v1.4.8 - Security Intelligence Collector](http://feedproxy.google.com/~r/PentestTools/~3/M0K8gqllktU/machinae-v148-security-intelligence.html)
 - [WAFW00F v1.0.0 - Detect All The Web Application Firewall!](http://feedproxy.google.com/~r/PentestTools/~3/MQijesVOTIE/wafw00f-v100-detect-all-web-application.html)
 - [Horn3t - Powerful Visual Subdomain Enumeration At The Click Of A Mouse](http://feedproxy.google.com/~r/PentestTools/~3/d2tUUrP62WU/horn3t-powerful-visual-subdomain.html)
