@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Miteru - An Experimental Phishing Kit Detection Tool](http://feedproxy.google.com/~r/PentestTools/~3/T974-FHaask/miteru-experimental-phishing-kit.html)
 - [SecurityRAT - Tool For Handling Security Requirements In Development](http://feedproxy.google.com/~r/PentestTools/~3/oMEzMUP6-CI/securityrat-tool-for-handling-security.html)
 - [JWT Tool - A Toolkit For Testing, Tweaking And Cracking JSON Web Tokens](http://feedproxy.google.com/~r/PentestTools/~3/ZlIcP20eZRs/jwt-tool-toolkit-for-testing-tweaking.html)
 - [Trigmap - A Wrapper For Nmap To Automate The Pentest](http://feedproxy.google.com/~r/PentestTools/~3/4v03LmjMcd4/trigmap-wrapper-for-nmap-to-automate.html)
