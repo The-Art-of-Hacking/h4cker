@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Brutemap - Tool That Automates Testing Accounts To The Site's Login Page](http://feedproxy.google.com/~r/PentestTools/~3/HEi_Ynm05Wg/brutemap-tool-that-automates-testing.html)
 - [Acunetix Vulnerability Scanner Now With Network Security Scans](http://feedproxy.google.com/~r/PentestTools/~3/dHIr1QsVQYw/acunetix-vulnerability-scanner-now-with.html)
 - [Project iKy - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/Z24DwjUEpe4/project-iky-tool-that-collects.html)
 - [Miteru - An Experimental Phishing Kit Detection Tool](http://feedproxy.google.com/~r/PentestTools/~3/T974-FHaask/miteru-experimental-phishing-kit.html)
