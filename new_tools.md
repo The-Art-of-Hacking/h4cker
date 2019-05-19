@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Scavenger - Crawler Searching For Credential Leaks On Different Paste Sites](http://feedproxy.google.com/~r/PentestTools/~3/TibOQ-WmQVE/scavenger-crawler-searching-for.html)
 - [OSIF - Open Source Information Facebook](http://feedproxy.google.com/~r/PentestTools/~3/kYJPsFZc8UQ/osif-open-source-information-facebook.html)
 - [Bandit - Tool Designed To Find Common Security Issues In Python Code](http://feedproxy.google.com/~r/PentestTools/~3/wb0Wk6QXXFo/bandit-tool-designed-to-find-common.html)
 - [Brutemap - Tool That Automates Testing Accounts To The Site's Login Page](http://feedproxy.google.com/~r/PentestTools/~3/HEi_Ynm05Wg/brutemap-tool-that-automates-testing.html)
