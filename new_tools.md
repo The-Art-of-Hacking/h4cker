@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hydra 9.0 - Fast and Flexible Network Login Hacker](http://feedproxy.google.com/~r/PentestTools/~3/r4DjFhzT69U/hydra-90-fast-and-flexible-network.html)
 - [Flashsploit - Exploitation Framework For ATtiny85 Based HID Attacks](http://feedproxy.google.com/~r/PentestTools/~3/lPG04RLt5rk/flashsploit-exploitation-framework-for.html)
 - [Scavenger - Crawler Searching For Credential Leaks On Different Paste Sites](http://feedproxy.google.com/~r/PentestTools/~3/TibOQ-WmQVE/scavenger-crawler-searching-for.html)
 - [OSIF - Open Source Information Facebook](http://feedproxy.google.com/~r/PentestTools/~3/kYJPsFZc8UQ/osif-open-source-information-facebook.html)
