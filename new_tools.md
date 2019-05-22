@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Graffiti - A Tool To Generate Obfuscated One Liners To Aid In Penetration Testing](http://feedproxy.google.com/~r/PentestTools/~3/4mCLQQpiWHw/graffiti-tool-to-generate-obfuscated.html)
 - [Kali Linux 2019.2 Release - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/62Wl1MOvd94/kali-linux-20192-release-penetration.html)
 - [Versionscan - A PHP Version Scanner For Reporting Possible Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/AB7R5aHma34/versionscan-php-version-scanner-for.html)
 - [XSSCon - Simple XSS Scanner Tool](http://feedproxy.google.com/~r/PentestTools/~3/7yTza_ZfCho/xsscon-simple-xss-scanner-tool.html)
