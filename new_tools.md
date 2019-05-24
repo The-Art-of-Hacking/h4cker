@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [VulnX - CMS And Vulnerabilites Detector And An Intelligent Auto Shell Injector](http://feedproxy.google.com/~r/PentestTools/~3/ARM75rpuTUo/vulnx-cms-and-vulnerabilites-detector.html)
 - [TeleShadow v3 - Telegram Desktop Session Stealer (Windows)](http://feedproxy.google.com/~r/PentestTools/~3/oqLotdLySeI/teleshadow-v3-telegram-desktop-session.html)
 - [Crosslinked - LinkedIn Enumeration Tool To Extract Valid Employee Names From An Organization Through Search Engine Scraping](http://feedproxy.google.com/~r/PentestTools/~3/_QTluYAcJxg/crosslinked-linkedin-enumeration-tool.html)
 - [Graffiti - A Tool To Generate Obfuscated One Liners To Aid In Penetration Testing](http://feedproxy.google.com/~r/PentestTools/~3/4mCLQQpiWHw/graffiti-tool-to-generate-obfuscated.html)
