@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SSHD-Poison - A Tool To Get Creds Of Pam Based SSHD Authentication](http://feedproxy.google.com/~r/PentestTools/~3/A-jI5JynwFg/sshd-poison-tool-to-get-creds-of-pam.html)
 - [HiddenWall - Linux Kernel Module Generator For Custom Rules With Netfilter (Block Ports, Hidden Mode, Rootkit Functions, Etc)](http://feedproxy.google.com/~r/PentestTools/~3/0hUZUgb6bck/hiddenwall-linux-kernel-module.html)
 - [IPFinder CLI - The Official Command Line Client For IPFinder](http://feedproxy.google.com/~r/PentestTools/~3/U-_QsxsfhhU/ipfinder-cli-official-command-line.html)
 - [VulnX - CMS And Vulnerabilites Detector And An Intelligent Auto Shell Injector](http://feedproxy.google.com/~r/PentestTools/~3/ARM75rpuTUo/vulnx-cms-and-vulnerabilites-detector.html)
