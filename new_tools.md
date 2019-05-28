@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Brutality - A Fuzzer For Any GET Entries](http://feedproxy.google.com/~r/PentestTools/~3/gVy5j3AqjzQ/brutality-fuzzer-for-any-get-entries.html)
 - [P4wnP1 A.L.O.A. - Framework Which Turns A Rapsberry Pi Zero W Into A Flexible, Low-Cost Platform For Pentesting, Red Teaming And Physical Engagements](http://feedproxy.google.com/~r/PentestTools/~3/igwQvhbsl94/p4wnp1-aloa-framework-which-turns.html)
 - [Sniffglue - Secure Multithreaded Packet Sniffer](http://feedproxy.google.com/~r/PentestTools/~3/MRP1DzlWgw4/sniffglue-secure-multithreaded-packet.html)
 - [H2Buster - A Threaded, Recursive, Web Directory Brute-Force Scanner Over HTTP/2](http://feedproxy.google.com/~r/PentestTools/~3/-lNZG_fmj9M/h2buster-threaded-recursive-web.html)
