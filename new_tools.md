@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wpbullet - A Static Code Analysis For WordPress (And PHP)](http://feedproxy.google.com/~r/PentestTools/~3/BNNWMh0ROZI/wpbullet-static-code-analysis-for.html)
 - [PhoneSploit - Using Open Adb Ports We Can Exploit A Devive](http://feedproxy.google.com/~r/PentestTools/~3/tEZLuU4Lcu4/phonesploit-using-open-adb-ports-we-can.html)
 - [Kubolt - Utility For Scanning Public Kubernetes Clusters](http://feedproxy.google.com/~r/PentestTools/~3/snT7GJXlPRw/kubolt-utility-for-scanning-public.html)
 - [Brutality - A Fuzzer For Any GET Entries](http://feedproxy.google.com/~r/PentestTools/~3/gVy5j3AqjzQ/brutality-fuzzer-for-any-get-entries.html)
