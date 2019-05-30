@@ -10,6 +10,7 @@
 
 ## Disassemblers
 
+* [Ghidra](https://ghidra-sre.org/)
 * [Binary Ninja](https://binary.ninja/)
 * [Capstone](http://www.capstone-engine.org/)
 * [fREedom](https://github.com/cseagle/fREedom)
