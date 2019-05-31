@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Metabigor - Command Line Search Engines Without Any API Key](http://feedproxy.google.com/~r/PentestTools/~3/bwTS0tOubeM/metabigor-command-line-search-engines.html)
 - [Userrecon-Py - Find Usernames In Social Networks](http://feedproxy.google.com/~r/PentestTools/~3/XDi8ASQbqK0/userrecon-py-find-usernames-in-social.html)
 - [Amass - In-depth DNS Enumeration And Network Mapping](http://feedproxy.google.com/~r/PentestTools/~3/CU7t9RWRUVE/amass-in-depth-dns-enumeration-and.html)
 - [Wpbullet - A Static Code Analysis For WordPress (And PHP)](http://feedproxy.google.com/~r/PentestTools/~3/BNNWMh0ROZI/wpbullet-static-code-analysis-for.html)
