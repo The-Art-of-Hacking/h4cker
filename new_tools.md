@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Finshir - A Coroutines-Driven Low And Slow Traffic Sender, Written In Rust](http://feedproxy.google.com/~r/PentestTools/~3/Wj-iLgszhts/finshir-coroutines-driven-low-and-slow.html)
 - [autoPwn - Automate Repetitive Tasks For Fuzzing](http://feedproxy.google.com/~r/PentestTools/~3/LtbIQEba06g/autopwn-automate-repetitive-tasks-for.html)
 - [Metabigor - Command Line Search Engines Without Any API Key](http://feedproxy.google.com/~r/PentestTools/~3/bwTS0tOubeM/metabigor-command-line-search-engines.html)
 - [Userrecon-Py - Find Usernames In Social Networks](http://feedproxy.google.com/~r/PentestTools/~3/XDi8ASQbqK0/userrecon-py-find-usernames-in-social.html)
