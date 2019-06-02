@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Python-Iocextract - Advanced Indicator Of Compromise (IOC) Extractor](http://feedproxy.google.com/~r/PentestTools/~3/FJzGewoG5dE/python-iocextract-advanced-indicator-of.html)
 - [Vthunting - A Tiny Script Used To Generate Report About VirusTotal Hunting And Send It By Email, Slack Or Telegram](http://feedproxy.google.com/~r/PentestTools/~3/oKh1run6pi8/vthunting-tiny-script-used-to-generate.html)
 - [Facebash - Facebook Brute Forcer In Shellscript Using TOR](http://feedproxy.google.com/~r/PentestTools/~3/f3cso_9atWo/facebash-facebook-brute-forcer-in.html)
 - [Finshir - A Coroutines-Driven Low And Slow Traffic Sender, Written In Rust](http://feedproxy.google.com/~r/PentestTools/~3/Wj-iLgszhts/finshir-coroutines-driven-low-and-slow.html)
