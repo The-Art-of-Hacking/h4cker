@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ripVT - Virus Total API Maltego Transform Set For Canari](http://feedproxy.google.com/~r/PentestTools/~3/n4rLmMXJVa4/ripvt-virus-total-api-maltego-transform.html)
 - [Vulners Scanner for Android - Passive Vulnerability Scanning Based On Software Version Fingerprint](http://feedproxy.google.com/~r/PentestTools/~3/jjXLZCER0Bk/vulners-scanner-for-android-passive.html)
 - [ANDRAX v3 - The First And Unique Penetration Testing Platform For Android Smartphones](http://feedproxy.google.com/~r/PentestTools/~3/3jIpU7zeiJg/andrax-v3-first-and-unique-penetration.html)
 - [PcapXray v2.5 - A Network Forensics Tool To Visualize A Packet Capture Offline As A Network Diagram](http://feedproxy.google.com/~r/PentestTools/~3/EbsP_Xce8HA/pcapxray-v25-network-forensics-tool-to.html)
