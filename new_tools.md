@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GhostDelivery - This Tool Creates A Obfuscated .vbs Script To Download A Payload Hosted On A Server To %TEMP% Directory, Execute Payload And Gain Persistence](http://feedproxy.google.com/~r/PentestTools/~3/oWV8asKvS20/ghostdelivery-this-tool-creates.html)
 - [ReverseTCPShell - PowerShell ReverseTCP Shell, Client & Server](http://feedproxy.google.com/~r/PentestTools/~3/pWymKYDrZz8/reversetcpshell-powershell-reversetcp.html)
 - [ripVT - Virus Total API Maltego Transform Set For Canari](http://feedproxy.google.com/~r/PentestTools/~3/n4rLmMXJVa4/ripvt-virus-total-api-maltego-transform.html)
 - [Vulners Scanner for Android - Passive Vulnerability Scanning Based On Software Version Fingerprint](http://feedproxy.google.com/~r/PentestTools/~3/jjXLZCER0Bk/vulners-scanner-for-android-passive.html)
