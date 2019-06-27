@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Project iKy - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/M4KiPTUKSVo/project-iky-tool-that-collects.html)
 - [Getwin - FUD Win32 Payload Generator And Listener](http://feedproxy.google.com/~r/PentestTools/~3/nJnC39lKrHQ/getwin-fud-win32-payload-generator-and.html)
 - [Seccubus - Easy Automated Vulnerability Scanning, Reporting And Analysis](http://feedproxy.google.com/~r/PentestTools/~3/V6X3rDBzIjs/seccubus-easy-automated-vulnerability.html)
 - [Terminus - A Terminal For A More Modern Age](http://feedproxy.google.com/~r/PentestTools/~3/H3gcYftgMws/terminus-terminal-for-more-modern-age.html)
