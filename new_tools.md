@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [0xsp-Mongoose - Privilege Escalation Enumeration Toolkit (ELF 64/32), Fast, Intelligent Enumeration With Web API Integration](http://feedproxy.google.com/~r/PentestTools/~3/I5pWurWr6Zw/0xsp-mongoose-privilege-escalation.html)
 - [Lst2X64Dbg - Extract labels from IDA .lst or Ghidra .csv file and export x64dbg database](http://feedproxy.google.com/~r/PentestTools/~3/OxAp_RBBjkQ/lst2x64dbg-extract-labels-from-ida-lst.html)
 - [Spyse.Py - Python API Wrapper And Command-Line Client For The Tools Hosted On Spyse.Com](http://feedproxy.google.com/~r/PentestTools/~3/U5Ijood5kOA/spysepy-python-api-wrapper-and-command.html)
 - [PTF v2.3 - The Penetration Testers Framework Is A Way For Modular Support For Up-To-Date Tools](http://feedproxy.google.com/~r/PentestTools/~3/WmNEm49gvEk/ptf-v23-penetration-testers-framework.html)
