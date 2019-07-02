@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Icebox - Virtual Machine Introspection, Tracing & Debugging](http://feedproxy.google.com/~r/PentestTools/~3/fZoFz_cQD9s/icebox-virtual-machine-introspection.html)
 - [SQLMap v1.3.7 - Automatic SQL Injection And Database Takeover Tool](http://feedproxy.google.com/~r/PentestTools/~3/D9B7vLLX4C8/sqlmap-v137-automatic-sql-injection-and.html)
 - [Sherlock - Find Usernames Across Social Networks](http://feedproxy.google.com/~r/PentestTools/~3/eSJru-TKuEE/sherlock-find-usernames-across-social.html)
 - [0xsp-Mongoose - Privilege Escalation Enumeration Toolkit (ELF 64/32), Fast, Intelligent Enumeration With Web API Integration](http://feedproxy.google.com/~r/PentestTools/~3/I5pWurWr6Zw/0xsp-mongoose-privilege-escalation.html)
