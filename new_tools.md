@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Slackor - A Golang Implant That Uses Slack As A Command And Control Server](http://feedproxy.google.com/~r/PentestTools/~3/SzRtcRYVjzE/slackor-golang-implant-that-uses-slack.html)
 - [Hash-Identifier - Software To Identify The Different Types Of Hashes Used To Encrypt Data And Especially Passwords](http://feedproxy.google.com/~r/PentestTools/~3/CPuDEL0K_JI/hash-identifier-software-to-identify.html)
 - [MIG - Distributed And Real Time Digital Forensics At The Speed Of The Cloud](http://feedproxy.google.com/~r/PentestTools/~3/VEm_8qyqqCM/mig-distributed-and-real-time-digital.html)
 - [Icebox - Virtual Machine Introspection, Tracing & Debugging](http://feedproxy.google.com/~r/PentestTools/~3/fZoFz_cQD9s/icebox-virtual-machine-introspection.html)
