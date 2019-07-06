@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DarkScrape - OSINT Tool For Scraping Dark Websites](http://feedproxy.google.com/~r/PentestTools/~3/S1O9ARRkIBk/darkscrape-osint-tool-for-scraping-dark.html)
 - [Youzer - Fake User Generator For Active Directory Environments](http://feedproxy.google.com/~r/PentestTools/~3/QfF2tfS9U1E/youzer-fake-user-generator-for-active.html)
 - [Rock-ON - An All In One Recon Tool That Will Just Get A Single Entry Of The Domain Name And Do All Of The Work Alone](http://feedproxy.google.com/~r/PentestTools/~3/3F0JVHl_rug/rock-on-all-in-one-recon-tool-that-will.html)
 - [Wesng - Windows Exploit Suggester](http://feedproxy.google.com/~r/PentestTools/~3/S-0NXhKzPf0/wesng-windows-exploit-suggester.html)
