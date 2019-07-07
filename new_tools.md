@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SneakyEXE - Embedding "UAC-Bypassing" Function Into Your Custom Payload](http://feedproxy.google.com/~r/PentestTools/~3/X7fzoY6jRMg/sneakyexe-embedding-uac-bypassing.html)
 - [NetSet - Operational Security Utility And Automator](http://feedproxy.google.com/~r/PentestTools/~3/sSGRFqUYMbE/netset-operational-security-utility-and.html)
 - [DarkScrape - OSINT Tool For Scraping Dark Websites](http://feedproxy.google.com/~r/PentestTools/~3/S1O9ARRkIBk/darkscrape-osint-tool-for-scraping-dark.html)
 - [Youzer - Fake User Generator For Active Directory Environments](http://feedproxy.google.com/~r/PentestTools/~3/QfF2tfS9U1E/youzer-fake-user-generator-for-active.html)
