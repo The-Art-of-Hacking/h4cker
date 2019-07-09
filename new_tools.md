@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Regipy - An OS Independent Python Library For Parsing Offline Registry Hives](http://feedproxy.google.com/~r/PentestTools/~3/lsg0-CwurBg/regipy-os-independent-python-library.html)
 - [Rifiuti2 - Windows Recycle Bin Analyser](http://feedproxy.google.com/~r/PentestTools/~3/NtgmgJ2cvWA/rifiuti2-windows-recycle-bin-analyser.html)
 - [Linux-Smart-Enumeration - Linux Enumeration Tool For Pentesting And CTFs With Verbosity Levels](http://feedproxy.google.com/~r/PentestTools/~3/c13R99XYWMg/linux-smart-enumeration-linux.html)
 - [Whonix v15 - Anonymous Operating System](http://feedproxy.google.com/~r/PentestTools/~3/-KywRX2KNas/whonix-v15-anonymous-operating-system.html)
