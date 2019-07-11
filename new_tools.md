@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Echidna - Ethereum Fuzz Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/LySyfq2ljRM/echidna-ethereum-fuzz-testing-framework.html)
 - [Cloud Security Audit - A Command Line Security Audit Tool For Amazon Web Services](http://feedproxy.google.com/~r/PentestTools/~3/tsuJ2vB6UAU/cloud-security-audit-command-line.html)
 - [WinObjEx64 - Windows Object Explorer 64-Bit](http://feedproxy.google.com/~r/PentestTools/~3/lhCOJeS8sSE/winobjex64-windows-object-explorer-64.html)
 - [Regipy - An OS Independent Python Library For Parsing Offline Registry Hives](http://feedproxy.google.com/~r/PentestTools/~3/lsg0-CwurBg/regipy-os-independent-python-library.html)
