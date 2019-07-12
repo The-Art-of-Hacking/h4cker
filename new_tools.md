@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Objection v1.6.6 - Runtime Mobile Exploration](http://feedproxy.google.com/~r/PentestTools/~3/_lHkwuwDics/objection-v166-runtime-mobile.html)
 - [Commando VM v1.3 - The First Full Windows-based Penetration Testing Virtual Machine Distribution](http://feedproxy.google.com/~r/PentestTools/~3/QeW-17PeFBU/commando-vm-v13-first-full-windows.html)
 - [Findomain - A Cross-Platform Tool That Use Certificate Transparency Logs To Find Subdomains](http://feedproxy.google.com/~r/PentestTools/~3/l3m2ksyqVss/findomain-cross-platform-tool-that-use.html)
 - [Echidna - Ethereum Fuzz Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/LySyfq2ljRM/echidna-ethereum-fuzz-testing-framework.html)
