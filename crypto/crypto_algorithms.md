@@ -7,7 +7,7 @@
 <th scope="col">Operation</th>
 <th scope="col">Status</th>
 <th scope="col">Alternative</th>
-<th scope="col">QCR<a href="https://www.cisco.com/c/en/us/about/security-center/next-generation-cryptography.html#ftn1"><sup>1</sup></a></th>
+<th scope="col">QCR</th>
 <th scope="col">Mitigation</th>
 </tr>
 <tr>
@@ -45,7 +45,7 @@
 </td>
 <td>
 <p>Acceptable</p>
-<p>NGE<a href="https://www.cisco.com/c/en/us/about/security-center/next-generation-cryptography.html#ftn2"><sup>2</sup></a></p>
+<p>NGE</a></p>
 </td>
 <td>
 <p>AES-GCM</p>
@@ -277,3 +277,17 @@ ECDSA-384</td>
 </tr>
 </tbody>
 </table>
+
+- Avoid: Algorithms that are marked as Avoid do not provide adequate security against modern threats and should not be used to protect sensitive information. It is recommended that these algorithms be replaced with stronger algorithms.
+
+- Legacy: Legacy algorithms provide a marginal but acceptable security level. They should be used only when no better alternatives are available, such as when interoperating with legacy equipment. It is recommended that these legacy algorithms be phased out and replaced with stronger algorithms.
+
+- Acceptable: Acceptable algorithms provide adequate security.
+
+- Next generation encryption (NGE): NGE algorithms are expected to meet the security and scalability requirements of the next two decades. For more information, see Next Generation Encryption.
+
+- Quantum computer resistant (QCR): There's a lot of research around quantum computers (QCs) and their potential impact on current cryptography standards. Although practical QCs would pose a threat to crypto standards for public-key infrastructure (PKI) key exchange and encryption, no one has demonstrated a practical quantum computer yet. It is an area of active research and growing interest. Although it is possible, it can't be said with certainty whether practical QCs will be built in the future. An algorithm that would be secure even after a QC is built is said to have postquantum security or be quantum computer resistant (QCR). AES-256, SHA-384, and SHA-512 are believed to have postquantum security. There are public key algorithms that are believed to have postquantum security too, but there are no standards for their use in Internet protocols yet.
+
+## Additional References
+- NIST Post-Quantum Cryptography Project: https://csrc.nist.gov/projects/post-quantum-cryptography
+- Post Quantum Cryptography (Wikipedia): https://en.wikipedia.org/wiki/Post-quantum_cryptography
