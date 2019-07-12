@@ -1,5 +1,6 @@
 # Cryptographic Algorithms
 
+
 <table>
 <tbody>
 <tr>
@@ -8,14 +9,12 @@
 <th scope="col">Status</th>
 <th scope="col">Alternative</th>
 <th scope="col">QCR</th>
-<th scope="col">Mitigation</th>
 </tr>
 <tr>
 <td>DES</td>
 <td>Encryption</td>
 <td>Avoid</td>
 <td>AES</td>
-<td>&mdash;</td>
 <td>&mdash;</td>
 </tr>
 <tr>
@@ -24,14 +23,12 @@
 <td>Legacy</td>
 <td>AES</td>
 <td>&mdash;</td>
-<td>Short key lifetime</td>
 </tr>
 <tr>
 <td>RC4</td>
 <td>Encryption</td>
 <td>Avoid</td>
 <td>AES</td>
-<td>&mdash;</td>
 <td>&mdash;</td>
 </tr>
 <tr>
@@ -45,7 +42,7 @@
 </td>
 <td>
 <p>Acceptable</p>
-<p>NGE</a></p>
+<p>NGE</p>
 </td>
 <td>
 <p>AES-GCM</p>
@@ -54,10 +51,6 @@
 <td>
 <p>✓ (256-bit)</p>
 <p>✓ (256-bit)</p>
-</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
 </td>
 </tr>
 <tr>
@@ -77,11 +70,6 @@ DSA-768, -1024</td>
 <p>DH-3072 (Group 15)</p>
 <p>RSA-3072</p>
 DSA-3072</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
 <td>
 <p>&mdash;</p>
 <p>&mdash;</p>
@@ -110,11 +98,6 @@ ECDSA-256</td>
 <p>&mdash;</p>
 <p>&mdash;</p>
 </td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -137,18 +120,12 @@ ECDSA-256</td>
 <p>&mdash;</p>
 <p>&mdash;</p>
 </td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
 </tr>
 <tr>
 <td>MD5</td>
 <td>Integrity</td>
 <td>Avoid</td>
 <td>SHA-256</td>
-<td>&mdash;</td>
 <td>&mdash;</td>
 </tr>
 <tr>
@@ -165,9 +142,6 @@ ECDSA-256</td>
 <p>SHA-256</p>
 </td>
 <td>&mdash;</td>
-<td>
-<p>&mdash;</p>
-</td>
 </tr>
 <tr>
 <td>
@@ -191,11 +165,6 @@ ECDSA-256</td>
 <p>✓</p>
 <p>✓</p>
 </td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
 </tr>
 <tr>
 <td>HMAC-MD5</td>
@@ -203,14 +172,12 @@ ECDSA-256</td>
 <td>Legacy</td>
 <td>HMAC-SHA-256</td>
 <td>&mdash;</td>
-<td>Short key lifetime</td>
 </tr>
 <tr>
 <td>HMAC-SHA-1</td>
 <td>Integrity</td>
 <td>Acceptable</td>
 <td>HMAC-SHA-256</td>
-<td>&mdash;</td>
 <td>&mdash;</td>
 </tr>
 <tr>
@@ -219,7 +186,6 @@ ECDSA-256</td>
 <td>NGE</td>
 <td>&mdash;</td>
 <td>✓</td>
-<td>&mdash;</td>
 </tr>
 <tr>
 <td>
@@ -235,10 +201,6 @@ ECDSA-256</td>
 <td>
 <p>ECDH-384</p>
 ECDSA-384</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
 <td>
 <p>&mdash;</p>
 <p>&mdash;</p>
@@ -263,13 +225,9 @@ ECDSA-384</td>
 <p>&mdash;</p>
 <p>&mdash;</p>
 </td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
 </tr>
 <tr>
-<td colspan="6"><a name="ftn1"></a>
+<td colspan="5"><a name="ftn1"></a>
 <p>1. QCR = quantum computer resistant.</p>
 <a name="ftn2"></a>
 <p>2. NGE = next generation encryption.</p>
@@ -277,6 +235,7 @@ ECDSA-384</td>
 </tr>
 </tbody>
 </table>
+
 
 - Avoid: Algorithms that are marked as Avoid do not provide adequate security against modern threats and should not be used to protect sensitive information. It is recommended that these algorithms be replaced with stronger algorithms.
 
