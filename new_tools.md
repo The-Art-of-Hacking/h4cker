@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PasteHunter - Scanning Pastebin With Yara Rules](http://feedproxy.google.com/~r/PentestTools/~3/qShK4eTNtRs/pastehunter-scanning-pastebin-with-yara.html)
 - [Pown-Duct - Essential Tool For Finding Blind Injection Attacks](http://feedproxy.google.com/~r/PentestTools/~3/mkfG1rnLQZQ/pown-duct-essential-tool-for-finding.html)
 - [Dwarf - Full Featured Multi Arch/Os Debugger Built On Top Of PyQt5 And Frida](http://feedproxy.google.com/~r/PentestTools/~3/oR5kYVz0iVo/dwarf-full-featured-multi-archos.html)
 - [Ghostfuscator - The Python Password-Protected Obfuscator Using AES Encryption](http://feedproxy.google.com/~r/PentestTools/~3/pWmfxngNPGI/ghostfuscator-python-password-protected.html)
