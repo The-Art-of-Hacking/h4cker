@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [JShielder v2.4 - Hardening Script For Linux Servers/ Secure LAMP-LEMP Deployer/ CIS Benchmark G](http://feedproxy.google.com/~r/PentestTools/~3/Be1UlUqJu1E/jshielder-v24-hardening-script-for.html)
 - [Project iKy v2.0.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/1W_lCE0_ys4/project-iky-v200-tool-that-collects.html)
 - [Passpie - Multiplatform Command-Line Password Manager](http://feedproxy.google.com/~r/PentestTools/~3/2SEdl8ow5w8/passpie-multiplatform-command-line.html)
 - [PasteHunter - Scanning Pastebin With Yara Rules](http://feedproxy.google.com/~r/PentestTools/~3/qShK4eTNtRs/pastehunter-scanning-pastebin-with-yara.html)
