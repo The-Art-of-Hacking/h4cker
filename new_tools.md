@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kali NetHunter App Store - The New Android Store Dedicated to Free Security Apps](http://feedproxy.google.com/~r/PentestTools/~3/FpkbVd5aohk/kali-nethunter-app-store-new-android.html)
 - [Userrecon v1.1.0 - Recognition Usernames In 187 Social Networks](http://feedproxy.google.com/~r/PentestTools/~3/KQY5OR1xgQ0/userrecon-v110-recognition-usernames-in.html)
 - [Brute_Force - BruteForce Gmail, Hotmail, Twitter, Facebook & Netflix](http://feedproxy.google.com/~r/PentestTools/~3/Bovu29IujOM/bruteforce-bruteforce-gmail-hotmail.html)
 - [Detect It Easy - Program For Determining Types Of Files For Windows, Linux And MacOS](http://feedproxy.google.com/~r/PentestTools/~3/DTt4xwte7KE/detect-it-easy-program-for-determining.html)
