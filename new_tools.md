@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Userrecon v1.1.0 - Recognition Usernames In 187 Social Networks](http://feedproxy.google.com/~r/PentestTools/~3/KQY5OR1xgQ0/userrecon-v110-recognition-usernames-in.html)
 - [Brute_Force - BruteForce Gmail, Hotmail, Twitter, Facebook & Netflix](http://feedproxy.google.com/~r/PentestTools/~3/Bovu29IujOM/bruteforce-bruteforce-gmail-hotmail.html)
 - [Detect It Easy - Program For Determining Types Of Files For Windows, Linux And MacOS](http://feedproxy.google.com/~r/PentestTools/~3/DTt4xwte7KE/detect-it-easy-program-for-determining.html)
 - [Shellsum - A Defense Tool - Detect Web Shells In Local Directories Via Md5Sum](http://feedproxy.google.com/~r/PentestTools/~3/e2sVilO2ess/shellsum-defense-tool-detect-web-shells.html)
