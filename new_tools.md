@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hvazard - Remove Short Passwords & Duplicates, Change Lowercase To Uppercase & Reverse, Combine Wordlists!](http://feedproxy.google.com/~r/PentestTools/~3/V6_EesPs7B0/hvazard-remove-short-passwords.html)
 - [GitGot - Semi-automated, Feedback-Driven Tool To Rapidly Search Through Troves Of Public Data On GitHub For Sensitive Secrets](http://feedproxy.google.com/~r/PentestTools/~3/a-tFgzEyrNg/gitgot-semi-automated-feedback-driven.html)
 - [Git-Hound - Find Exposed Keys Across GitHub Using Code Search Keywords](http://feedproxy.google.com/~r/PentestTools/~3/-1BlVCAg-tw/git-hound-find-exposed-keys-across.html)
 - [Parrot Security 4.7 - Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind](http://feedproxy.google.com/~r/PentestTools/~3/Wi8FqE6jjoM/parrot-security-47-security-gnulinux.html)
