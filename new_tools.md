@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [VulnWhisperer - Create Actionable Data From Your Vulnerability Scans](http://feedproxy.google.com/~r/PentestTools/~3/F0Myf7GiesM/vulnwhisperer-create-actionable-data.html)
 - [Dockernymous - A Script Used To Create A Whonix Like Gateway/Workstation Environment With Docker Containers](http://feedproxy.google.com/~r/PentestTools/~3/WbwiCRF568Y/dockernymous-script-used-to-create.html)
 - [HiddenEye - Modern Phishing Tool With Advanced Functionality (Android-Support-Available)](http://feedproxy.google.com/~r/PentestTools/~3/GTRsshv5Lcs/hiddeneye-modern-phishing-tool-with.html)
 - [SUDO_KILLER - A Tool To Identify And Exploit Sudo Rules Misconfigurations And Vulnerabilities Within Sudo](http://feedproxy.google.com/~r/PentestTools/~3/grcbPtCQkyg/sudokiller-tool-to-identify-and-exploit.html)
