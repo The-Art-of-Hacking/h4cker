@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [grapheneX - Automated System Hardening Framework](http://feedproxy.google.com/~r/PentestTools/~3/1c8Pd15Q3f0/graphenex-automated-system-hardening.html)
 - [O365-Attack-Toolkit - A Toolkit To Attack Office365](http://feedproxy.google.com/~r/PentestTools/~3/5YBArQY7xbI/o365-attack-toolkit-toolkit-to-attack.html)
 - [Pyattck - A Python Module To Interact With The Mitre ATT&CK Framework](http://feedproxy.google.com/~r/PentestTools/~3/M1JRpVeqmzc/pyattck-python-module-to-interact-with.html)
 - [Evil-Winrm - The Ultimate WinRM Shell For Hacking/Pentesting](http://feedproxy.google.com/~r/PentestTools/~3/vNwEzZybqkk/evil-winrm-ultimate-winrm-shell-for.html)
