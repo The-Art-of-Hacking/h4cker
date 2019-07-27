@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Orbit v2.0 - Blockchain Transactions Investigation Tool](http://feedproxy.google.com/~r/PentestTools/~3/wMLiz7Gx-5I/orbit-v20-blockchain-transactions.html)
 - [Cloudcheck - Checks Using A Test String If A Cloudflare DNS Bypass Is Possible Using CloudFail](http://feedproxy.google.com/~r/PentestTools/~3/DUH7fx0yK74/cloudcheck-checks-using-test-string-if.html)
 - [grapheneX - Automated System Hardening Framework](http://feedproxy.google.com/~r/PentestTools/~3/1c8Pd15Q3f0/graphenex-automated-system-hardening.html)
 - [O365-Attack-Toolkit - A Toolkit To Attack Office365](http://feedproxy.google.com/~r/PentestTools/~3/5YBArQY7xbI/o365-attack-toolkit-toolkit-to-attack.html)
