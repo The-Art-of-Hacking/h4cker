@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Uncompyle6 - A Cross-Version Python Bytecode Decompiler](http://feedproxy.google.com/~r/PentestTools/~3/4BqkUdipfRA/uncompyle6-cross-version-python.html)
 - [OSXCollector - A Forensic Evidence Collection & Analysis Toolkit For OS X](http://feedproxy.google.com/~r/PentestTools/~3/iIrDdkpfB3I/osxcollector-forensic-evidence.html)
 - [Vulnado - Purposely Vulnerable Java Application To Help Lead Secure Coding Workshops](http://feedproxy.google.com/~r/PentestTools/~3/3GWRhgE0P_Y/vulnado-purposely-vulnerable-java.html)
 - [Orbit v2.0 - Blockchain Transactions Investigation Tool](http://feedproxy.google.com/~r/PentestTools/~3/wMLiz7Gx-5I/orbit-v20-blockchain-transactions.html)
