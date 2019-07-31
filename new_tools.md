@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Xssizer - The Best Tool To Find And Prove XSS Flaws](http://feedproxy.google.com/~r/PentestTools/~3/LmLCMU0hGVQ/xssizer-best-tool-to-find-and-prove-xss.html)
 - [WDExtract - Extract Windows Defender Database From Vdm Files And Unpack It](http://feedproxy.google.com/~r/PentestTools/~3/fRE010IajtQ/wdextract-extract-windows-defender.html)
 - [WeebDNS - DNS Enumeration With Asynchronicity](http://feedproxy.google.com/~r/PentestTools/~3/aj8iNTv76KM/weebdns-dns-enumeration-with.html)
 - [RedGhost v3.0 - Linux Post Exploitation Framework Written In Bash Designed To Assist Red Teams In Persistence, Reconnaissance, Privilege Escalation And Leaving No Trace](http://feedproxy.google.com/~r/PentestTools/~3/r5pc37rjXcE/redghost-v30-linux-post-exploitation.html)
