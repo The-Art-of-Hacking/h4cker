@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Slurp - S3 Bucket Enumerator](http://feedproxy.google.com/~r/PentestTools/~3/s1pFb3wEBBA/slurp-s3-bucket-enumerator.html)
 - [Buster - Find Emails Of A Person And Return Info Associated With Them](http://feedproxy.google.com/~r/PentestTools/~3/y2mAo4j8218/buster-find-emails-of-person-and-return.html)
 - [Xssizer - The Best Tool To Find And Prove XSS Flaws](http://feedproxy.google.com/~r/PentestTools/~3/LmLCMU0hGVQ/xssizer-best-tool-to-find-and-prove-xss.html)
 - [WDExtract - Extract Windows Defender Database From Vdm Files And Unpack It](http://feedproxy.google.com/~r/PentestTools/~3/fRE010IajtQ/wdextract-extract-windows-defender.html)
