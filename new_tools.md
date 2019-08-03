@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Usbrip - Simple Command Line Forensics Tool For Tracking USB Device Artifacts (History Of USB Events) On GNU/Linux](http://feedproxy.google.com/~r/PentestTools/~3/kreZO6BHsfE/usbrip-simple-command-line-forensics.html)
 - [MSNM-S - Multivariate Statistical Network Monitoring-Sensor](http://feedproxy.google.com/~r/PentestTools/~3/8jr1oiWi1hw/msnm-s-multivariate-statistical-network.html)
 - [W13Scan - Passive Security Scanner](http://feedproxy.google.com/~r/PentestTools/~3/ChH63pCUMoU/w13scan-passive-security-scanner.html)
 - [XSpear - Powerfull XSS Scanning And Parameter Analysis Tool](http://feedproxy.google.com/~r/PentestTools/~3/1eiuhzEnVo4/xspear-powerfull-xss-scanning-and.html)
