@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HELK - The Hunting ELK](http://feedproxy.google.com/~r/PentestTools/~3/ZLYzopsUg1Q/helk-hunting-elk.html)
 - [MemGuard - Secure Software Enclave For Storage Of Sensitive Information In Memory](http://feedproxy.google.com/~r/PentestTools/~3/YAq7BcxqcwQ/memguard-secure-software-enclave-for.html)
 - [Usbrip - Simple Command Line Forensics Tool For Tracking USB Device Artifacts (History Of USB Events) On GNU/Linux](http://feedproxy.google.com/~r/PentestTools/~3/kreZO6BHsfE/usbrip-simple-command-line-forensics.html)
 - [MSNM-S - Multivariate Statistical Network Monitoring-Sensor](http://feedproxy.google.com/~r/PentestTools/~3/8jr1oiWi1hw/msnm-s-multivariate-statistical-network.html)
