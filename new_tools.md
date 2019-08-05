@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Malcolm - A Powerful, Easily Deployable Network Traffic Analysis Tool Suite For Full Packet Capture Artifacts (PCAP Files) And Zeek Logs](http://feedproxy.google.com/~r/PentestTools/~3/eUbPxwEjhx8/malcolm-powerful-easily-deployable.html)
 - [AutoRecon - Multi-Threaded Network Reconnaissance Tool Which Performs Automated Enumeration Of Services](http://feedproxy.google.com/~r/PentestTools/~3/OqnXDaJLqUc/autorecon-multi-threaded-network.html)
 - [WiFiBroot - A WiFi Pentest Cracking Tool For WPA/WPA2 (Handshake, PMKID, Cracking, EAPOL, Deauthentication)](http://feedproxy.google.com/~r/PentestTools/~3/FX1exMAKSSk/wifibroot-wifi-pentest-cracking-tool.html)
 - [HELK - The Hunting ELK](http://feedproxy.google.com/~r/PentestTools/~3/ZLYzopsUg1Q/helk-hunting-elk.html)
