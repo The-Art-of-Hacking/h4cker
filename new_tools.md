@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Project iKy v2.1.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/4hKlInqj0IM/project-iky-v210-tool-that-collects.html)
 - [Theo - Ethereum Recon And Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/MwZooLpZtBA/theo-ethereum-recon-and-exploitation.html)
 - [Malcolm - A Powerful, Easily Deployable Network Traffic Analysis Tool Suite For Full Packet Capture Artifacts (PCAP Files) And Zeek Logs](http://feedproxy.google.com/~r/PentestTools/~3/eUbPxwEjhx8/malcolm-powerful-easily-deployable.html)
 - [AutoRecon - Multi-Threaded Network Reconnaissance Tool Which Performs Automated Enumeration Of Services](http://feedproxy.google.com/~r/PentestTools/~3/OqnXDaJLqUc/autorecon-multi-threaded-network.html)
