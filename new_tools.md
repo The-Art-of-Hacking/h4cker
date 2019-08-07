@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [KRF - A Kernelspace Randomized Faulter](http://feedproxy.google.com/~r/PentestTools/~3/t-YyBOLcysA/krf-kernelspace-randomized-faulter.html)
 - [SET v8.0.1 - The Social-Engineer Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/w4tiBuIcrYw/set-v801-social-engineer-toolkit.html)
 - [Project iKy v2.1.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/4hKlInqj0IM/project-iky-v210-tool-that-collects.html)
 - [Project iKy v2.1.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/4hKlInqj0IM/project-iky-v210-tool-that-collects.html)
