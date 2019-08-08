@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Commando VM v2.0 - The First Full Windows-based Penetration Testing Virtual Machine Distribution](http://feedproxy.google.com/~r/PentestTools/~3/qfDDkq3fmTU/commando-vm-v20-first-full-windows.html)
 - [Skadi - Collect, Process, And Hunt With Host Based Data From MacOS, Windows, And Linux](http://feedproxy.google.com/~r/PentestTools/~3/ASo4pP2sP6k/skadi-collect-process-and-hunt-with.html)
 - [KRF - A Kernelspace Randomized Faulter](http://feedproxy.google.com/~r/PentestTools/~3/t-YyBOLcysA/krf-kernelspace-randomized-faulter.html)
 - [SET v8.0.1 - The Social-Engineer Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/w4tiBuIcrYw/set-v801-social-engineer-toolkit.html)
