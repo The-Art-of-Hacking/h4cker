@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WAES - Auto Enums Websites And Dumps Files As Result](http://feedproxy.google.com/~r/PentestTools/~3/lznYl-dDkGU/waes-auto-enums-websites-and-dumps.html)
 - [BADministration - Tool Which Interfaces with Management or Administration Applications from an Offensive Standpoint](http://feedproxy.google.com/~r/PentestTools/~3/zZlZyR77e50/badministration-tool-which-interfaces.html)
 - [SQLMap v1.3.8 - Automatic SQL Injection And Database Takeover Tool](http://feedproxy.google.com/~r/PentestTools/~3/tXw2LTJ-djQ/sqlmap-v138-automatic-sql-injection-and.html)
 - [Commando VM v2.0 - The First Full Windows-based Penetration Testing Virtual Machine Distribution](http://feedproxy.google.com/~r/PentestTools/~3/qfDDkq3fmTU/commando-vm-v20-first-full-windows.html)
