@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AbsoluteZero - Python APT Backdoor](http://feedproxy.google.com/~r/PentestTools/~3/4A8E633X560/absolutezero-python-apt-backdoor.html)
 - [Osmedeus v1.5 - Fully Automated Offensive Security Framework For Reconnaissance And Vulnerability Scanning](http://feedproxy.google.com/~r/PentestTools/~3/n9aA6bMDWQI/osmedeus-v15-fully-automated-offensive.html)
 - [WAES - Auto Enums Websites And Dumps Files As Result](http://feedproxy.google.com/~r/PentestTools/~3/lznYl-dDkGU/waes-auto-enums-websites-and-dumps.html)
 - [BADministration - Tool Which Interfaces with Management or Administration Applications from an Offensive Standpoint](http://feedproxy.google.com/~r/PentestTools/~3/zZlZyR77e50/badministration-tool-which-interfaces.html)
