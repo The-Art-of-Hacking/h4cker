@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Findomain v0.2.1 - The Fastest And Cross-Platform Subdomain Enumerator](http://feedproxy.google.com/~r/PentestTools/~3/769TW1TSpjw/findomain-v021-fastest-and-cross.html)
 - [Goop - Google Search Scraper (Bypass CAPTCHA)](http://feedproxy.google.com/~r/PentestTools/~3/_q1nxXQczP4/goop-google-search-scraper-bypass.html)
 - [ThreatHunting - A Splunk App Mapped To MITRE ATT&CK To Guide Your Threat Hunts](http://feedproxy.google.com/~r/PentestTools/~3/HUEVPwgh5aA/threathunting-splunk-app-mapped-to.html)
 - [HackerTarget ToolKit v2.0 - Tools And Network Intelligence To Help Organizations With Attack Surface Discovery](http://feedproxy.google.com/~r/PentestTools/~3/p7tD_g2ZmJY/hackertarget-toolkit-v20-tools-and.html)
