@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DockerSecurityPlayground - A Microservices-based Framework For The Study Of Network Security And Penetration Test Techniques](http://feedproxy.google.com/~r/PentestTools/~3/SB-rKad-N3A/dockersecurityplayground-microservices.html)
 - [DrMITM - Program Designed To Globally Log All Traffic Of A Website](http://feedproxy.google.com/~r/PentestTools/~3/7Oc-ng3zo7A/drmitm-program-designed-to-globally-log.html)
 - [Sampler - A Tool For Shell Commands Execution, Visualization And Alerting (Configured With A Simple YAML File)](http://feedproxy.google.com/~r/PentestTools/~3/NJ1bUhTLgaE/sampler-tool-for-shell-commands.html)
 - [Findomain v0.2.1 - The Fastest And Cross-Platform Subdomain Enumerator](http://feedproxy.google.com/~r/PentestTools/~3/769TW1TSpjw/findomain-v021-fastest-and-cross.html)
