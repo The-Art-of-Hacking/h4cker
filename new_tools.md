@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Diaphora - The Most Advanced Free And Open Source Program Diffing Tool](http://feedproxy.google.com/~r/PentestTools/~3/5zfOooxp39w/diaphora-most-advanced-free-and-open.html)
 - [Airflowscan - Checklist And Tools For Increasing Security Of Apache Airflow](http://feedproxy.google.com/~r/PentestTools/~3/9rsGerchFug/airflowscan-checklist-and-tools-for.html)
 - [DockerSecurityPlayground - A Microservices-based Framework For The Study Of Network Security And Penetration Test Techniques](http://feedproxy.google.com/~r/PentestTools/~3/SB-rKad-N3A/dockersecurityplayground-microservices.html)
 - [DrMITM - Program Designed To Globally Log All Traffic Of A Website](http://feedproxy.google.com/~r/PentestTools/~3/7Oc-ng3zo7A/drmitm-program-designed-to-globally-log.html)
