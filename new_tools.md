@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dow Jones Hammer - Protect The Cloud With The Power Of The cloud(AWS)](http://feedproxy.google.com/~r/PentestTools/~3/e2XileK9-L8/dow-jones-hammer-protect-cloud-with.html)
 - [Firmware Slap - Discovering Vulnerabilities In Firmware Through Concolic Analysis And Function Clustering](http://feedproxy.google.com/~r/PentestTools/~3/ZlHsrIesqEo/firmware-slap-discovering.html)
 - [Iris - WinDbg Extension To Perform Basic Detection Of Common Windows Exploit Mitigations](http://feedproxy.google.com/~r/PentestTools/~3/ddVv17Euevs/iris-windbg-extension-to-perform-basic.html)
 - [Diaphora - The Most Advanced Free And Open Source Program Diffing Tool](http://feedproxy.google.com/~r/PentestTools/~3/5zfOooxp39w/diaphora-most-advanced-free-and-open.html)
