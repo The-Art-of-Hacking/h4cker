@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- ["Can I Take Over XYZ?" - A List Of Services And How To Claim (Sub)Domains With Dangling DNS Records.](http://feedproxy.google.com/~r/PentestTools/~3/lPLIPkoIJeg/can-i-take-over-xyz-list-of-services.html)
 - [Dow Jones Hammer - Protect The Cloud With The Power Of The cloud(AWS)](http://feedproxy.google.com/~r/PentestTools/~3/e2XileK9-L8/dow-jones-hammer-protect-cloud-with.html)
 - [Firmware Slap - Discovering Vulnerabilities In Firmware Through Concolic Analysis And Function Clustering](http://feedproxy.google.com/~r/PentestTools/~3/ZlHsrIesqEo/firmware-slap-discovering.html)
 - [Iris - WinDbg Extension To Perform Basic Detection Of Common Windows Exploit Mitigations](http://feedproxy.google.com/~r/PentestTools/~3/ddVv17Euevs/iris-windbg-extension-to-perform-basic.html)
