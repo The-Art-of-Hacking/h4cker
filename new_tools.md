@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Truegaze - Static Analysis Tool For Android/iOS Apps Focusing On Security Issues Outside The Source Code](http://feedproxy.google.com/~r/PentestTools/~3/UP7CEeZKDqo/truegaze-static-analysis-tool-for.html)
 - [pwnedOrNot v1.2.6 - OSINT Tool to Find Passwords for Compromised Email Addresses](http://feedproxy.google.com/~r/PentestTools/~3/SxvMbSv8GrY/pwnedornot-v126-osint-tool-to-find.html)
 - ["Can I Take Over XYZ?" - A List Of Services And How To Claim (Sub)Domains With Dangling DNS Records](http://feedproxy.google.com/~r/PentestTools/~3/lPLIPkoIJeg/can-i-take-over-xyz-list-of-services.html)
 - [Eyeballer - Convolutional Neural Network For Analyzing Pentest Screenshots](http://feedproxy.google.com/~r/PentestTools/~3/gVjosPt4DJc/eyeballer-convolutional-neural-network.html)
