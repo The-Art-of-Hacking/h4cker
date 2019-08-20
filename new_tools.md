@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PEpper - An Open Source Script To Perform Malware Static Analysis On Portable Executable](http://feedproxy.google.com/~r/PentestTools/~3/5c9MkEcVlaI/pepper-open-source-script-to-perform.html)
 - [goDoH - A DNS-over-HTTPS C2](http://feedproxy.google.com/~r/PentestTools/~3/iJDgigWpX6A/godoh-dns-over-https-c2.html)
 - [Truegaze - Static Analysis Tool For Android/iOS Apps Focusing On Security Issues Outside The Source Code](http://feedproxy.google.com/~r/PentestTools/~3/UP7CEeZKDqo/truegaze-static-analysis-tool-for.html)
 - [pwnedOrNot v1.2.6 - OSINT Tool to Find Passwords for Compromised Email Addresses](http://feedproxy.google.com/~r/PentestTools/~3/SxvMbSv8GrY/pwnedornot-v126-osint-tool-to-find.html)
