@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PoshC2 - C2 Server and Implants](http://feedproxy.google.com/~r/PentestTools/~3/cYFi81W7lAw/poshc2-c2-server-and-implants.html)
 - [Hacktronian - All In One Hacking Tool For Linux & Android](http://feedproxy.google.com/~r/PentestTools/~3/yV_fdYg2NkU/hacktronian-all-in-one-hacking-tool-for.html)
 - [Pyshark - Python Wrapper For Tshark, Allowing Python Packet Parsing Using Wireshark Dissectors](http://feedproxy.google.com/~r/PentestTools/~3/eTNAbeSDlQw/pyshark-python-wrapper-for-tshark.html)
 - [Applepie - A Hypervisor For Fuzzing Built With WHVP And Bochs](http://feedproxy.google.com/~r/PentestTools/~3/U7xXM25iB_M/applepie-hypervisor-for-fuzzing-built.html)
