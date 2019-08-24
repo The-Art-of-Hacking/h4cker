@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LDAPDomainDump - Active Directory Information Dumper Via LDAP](http://feedproxy.google.com/~r/PentestTools/~3/NVmrl3qPNRU/ldapdomaindump-active-directory.html)
 - [Covenant - A .NET Command And Control Framework For Red Teamers](http://feedproxy.google.com/~r/PentestTools/~3/FRnRVXGYQT8/covenant-net-command-and-control.html)
 - [AutoRDPwn v5.0 - The Shadow Attack Framework](http://feedproxy.google.com/~r/PentestTools/~3/zJ75MJYF2V8/autordpwn-v50-shadow-attack-framework.html)
 - [PoshC2 - C2 Server and Implants](http://feedproxy.google.com/~r/PentestTools/~3/cYFi81W7lAw/poshc2-c2-server-and-implants.html)
