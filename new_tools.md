@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sublert - Security And Reconnaissance Tool Which Leverages Certificate Transparency To Automatically Monitor New Subdomains Deployed By Specific Organizations And Issued TLS/SSL Certificate](http://feedproxy.google.com/~r/PentestTools/~3/AGTDH5ASc-U/sublert-security-and-reconnaissance.html)
 - [IPRotate - Extension For Burp Suite Which Uses AWS API Gateway To Rotate Your IP On Every Request](http://feedproxy.google.com/~r/PentestTools/~3/t5h8C83KVMM/iprotate-extension-for-burp-suite-which.html)
 - [LDAPDomainDump - Active Directory Information Dumper Via LDAP](http://feedproxy.google.com/~r/PentestTools/~3/NVmrl3qPNRU/ldapdomaindump-active-directory.html)
 - [Covenant - A .NET Command And Control Framework For Red Teamers](http://feedproxy.google.com/~r/PentestTools/~3/FRnRVXGYQT8/covenant-net-command-and-control.html)
