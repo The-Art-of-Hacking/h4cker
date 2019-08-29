@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RedHunt OS v2 - Virtual Machine For Adversary Emulation And Threat Hunting](http://feedproxy.google.com/~r/PentestTools/~3/9CtJ2lp2pHw/redhunt-os-v2-virtual-machine-for.html)
 - [Sudomy - Subdomain Enumeration & Analysis](http://feedproxy.google.com/~r/PentestTools/~3/mkilVC-4keE/sudomy-subdomain-enumeration-analysis.html)
 - [NebulousAD - Automated Credential Auditing Tool](http://feedproxy.google.com/~r/PentestTools/~3/bTHHdRrAYEk/nebulousad-automated-credential.html)
 - [PHPStan - PHP Static Analysis Tool (Discover Bugs In Your Code Without Running It!)](http://feedproxy.google.com/~r/PentestTools/~3/A-rMwI9lboA/phpstan-php-static-analysis-tool.html)
