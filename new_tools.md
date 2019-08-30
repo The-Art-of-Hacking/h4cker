@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hashcatch - Capture Handshakes Of Nearby WiFi Networks Automatically](http://feedproxy.google.com/~r/PentestTools/~3/XDNJFnpc33w/hashcatch-capture-handshakes-of-nearby.html)
 - [Nuages - A Modular C2 Framework](http://feedproxy.google.com/~r/PentestTools/~3/jvENRRXLO3Y/nuages-modular-c2-framework.html)
 - [RedHunt OS v2 - Virtual Machine For Adversary Emulation And Threat Hunting](http://feedproxy.google.com/~r/PentestTools/~3/9CtJ2lp2pHw/redhunt-os-v2-virtual-machine-for.html)
 - [Sudomy - Subdomain Enumeration & Analysis](http://feedproxy.google.com/~r/PentestTools/~3/mkilVC-4keE/sudomy-subdomain-enumeration-analysis.html)
