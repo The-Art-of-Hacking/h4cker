@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [0xsp Mongoose v1.7 - Linux/Windows Privilege Escalation intelligent Enumeration Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/hf85UAI5b8Q/0xsp-mongoose-v17-linuxwindows.html)
 - [Constellation - A Graph-Focused Data Visualisation And Interactive Analysis Application](http://feedproxy.google.com/~r/PentestTools/~3/Nzawsf4moWA/constellation-graph-focused-data.html)
 - [Hashcatch - Capture Handshakes Of Nearby WiFi Networks Automatically](http://feedproxy.google.com/~r/PentestTools/~3/XDNJFnpc33w/hashcatch-capture-handshakes-of-nearby.html)
 - [Nuages - A Modular C2 Framework](http://feedproxy.google.com/~r/PentestTools/~3/jvENRRXLO3Y/nuages-modular-c2-framework.html)
