@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Telegram C# C2 - A Command and Control Tool for Telegram Bot Communication](http://feedproxy.google.com/~r/PentestTools/~3/xXizEoJzSSo/telegram-c-c2-command-and-control-tool.html)
 - [HTTP Request Smuggler - Extension For Burp Suite Designed To Help You Launch HTTP Request Smuggling Attacks](http://feedproxy.google.com/~r/PentestTools/~3/YMARKd6NylA/http-request-smuggler-extension-for.html)
 - [B-XSSRF - Toolkit To Detect And Keep Track On Blind XSS, XXE And SSRF](http://feedproxy.google.com/~r/PentestTools/~3/f0rtJh2UVH4/b-xssrf-toolkit-to-detect-and-keep.html)
 - [0xsp Mongoose v1.7 - Linux/Windows Privilege Escalation intelligent Enumeration Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/hf85UAI5b8Q/0xsp-mongoose-v17-linuxwindows.html)
