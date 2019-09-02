@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wordlister - A Simple Wordlist Generator And Mangler Written In Python](http://feedproxy.google.com/~r/PentestTools/~3/jdNG6fQGKNs/wordlister-simple-wordlist-generator.html)
 - [Barq - The AWS Cloud Post Exploitation Framework!](http://feedproxy.google.com/~r/PentestTools/~3/Zz0dxpUW4lc/barq-aws-cloud-post-exploitation.html)
 - [Telegram C# C2 - A Command and Control Tool for Telegram Bot Communication](http://feedproxy.google.com/~r/PentestTools/~3/xXizEoJzSSo/telegram-c-c2-command-and-control-tool.html)
 - [HTTP Request Smuggler - Extension For Burp Suite Designed To Help You Launch HTTP Request Smuggling Attacks](http://feedproxy.google.com/~r/PentestTools/~3/YMARKd6NylA/http-request-smuggler-extension-for.html)
