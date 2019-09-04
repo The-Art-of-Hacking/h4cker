@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PyFuscation - Obfuscate Powershell Scripts By Replacing Function Names, Variables And Parameters](http://feedproxy.google.com/~r/PentestTools/~3/2_LXfCG2LUA/pyfuscation-obfuscate-powershell.html)
 - [Btlejack - Bluetooth Low Energy Swiss-army Knife](http://feedproxy.google.com/~r/PentestTools/~3/gTLsCVExzTE/btlejack-bluetooth-low-energy-swiss.html)
 - [mpDNS - Multi-Purpose DNS Server](http://feedproxy.google.com/~r/PentestTools/~3/f-YDWCOZkiI/mpdns-multi-purpose-dns-server.html)
 - [Ehtools - Framework Of Serious Wi-Fi Penetration Tools](http://feedproxy.google.com/~r/PentestTools/~3/Nj2ggxc-tFY/ehtools-framework-of-serious-wi-fi.html)
