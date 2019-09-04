@@ -1,6 +1,6 @@
 # Cyber Security Resources 
 
-<center><img src="https://raw.githubusercontent.com/The-Art-of-Hacking/web/master/img/h4cker2.PNG" width="200" height="300" /> </center>
+<center><img src="https://h4cker.org/img/h4cker2.PNG" width="200" height="300" /> </center>
 
 This repository includes thousands of cybersecurity-related references and resources and it is maintained by [Omar Santos](https://omarsantos.io/). This GitHub repository has been created to provide supplemental material to several books, video courses, and live training created by Omar Santos and other co-authors. It provides over 6,000 references, scripts, tools, code, and other resources that help offensive and defensive security professionals learn and develop new skills. This GitHub repository provides guidance on how build your own hacking environment, learn about offensive security (ethical hacking) techniques, vulnerability research, exploit development, reverse engineering, malware analysis, threat intelligence, threat hunting, digital forensics and incident response (DFIR), includes examples of real-life penetration testing reports, and more.
 
