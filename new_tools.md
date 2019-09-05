@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BLUESPAWN - Windows Based Active Defense Tool To Empower Blue Teams](http://feedproxy.google.com/~r/PentestTools/~3/RmNxNQGa_EU/bluespawn-windows-based-active-defense.html)
 - [EMAGNET - Tool For Find Leaked Databases With 97.1% Accurate To Grab Mail + Password Together From Pastebin Leaks](http://feedproxy.google.com/~r/PentestTools/~3/YIAfk2yhMRY/emagnet-tool-for-find-leaked-databases.html)
 - [PyFuscation - Obfuscate Powershell Scripts By Replacing Function Names, Variables And Parameters](http://feedproxy.google.com/~r/PentestTools/~3/2_LXfCG2LUA/pyfuscation-obfuscate-powershell.html)
 - [Btlejack - Bluetooth Low Energy Swiss-army Knife](http://feedproxy.google.com/~r/PentestTools/~3/gTLsCVExzTE/btlejack-bluetooth-low-energy-swiss.html)
