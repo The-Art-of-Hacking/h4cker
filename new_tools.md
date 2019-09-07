@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Phishing-Simulation - Aims To Increase Phishing Awareness By Providing An Intuitive Tutorial And Customized Assessment](http://feedproxy.google.com/~r/PentestTools/~3/-hbGrpX44oM/phishing-simulation-aims-to-increase.html)
 - [PingCastle - Get Active Directory Security At 80% In 20% Of The Time](http://feedproxy.google.com/~r/PentestTools/~3/6TeOKlPbhVc/pingcastle-get-active-directory.html)
 - [Mondoo - Cloud-Native Security And Vulnerability Risk Management](http://feedproxy.google.com/~r/PentestTools/~3/414GCSMOF5M/mondoo-cloud-native-security-and.html)
 - [BLUESPAWN - Windows Based Active Defense Tool To Empower Blue Teams](http://feedproxy.google.com/~r/PentestTools/~3/RmNxNQGa_EU/bluespawn-windows-based-active-defense.html)
