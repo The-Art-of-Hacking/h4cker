@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ActiveReign - A Network Enumeration And Attack Toolset](http://feedproxy.google.com/~r/PentestTools/~3/hFVVCal6VKM/activereign-network-enumeration-and.html)
 - [Revshellgen - Reverse Shell Generator Written In Python.](http://feedproxy.google.com/~r/PentestTools/~3/JLfejTy8AAo/revshellgen-reverse-shell-generator.html)
 - [LetsMapYourNetwork - Tool To Visualise Your Physical Network In Form Of Graph With Zero Manual Error](http://feedproxy.google.com/~r/PentestTools/~3/VZ1e-sVffQI/letsmapyournetwork-tool-to-visualise.html)
 - [OpenCTI - Open Cyber Threat Intelligence Platform](http://feedproxy.google.com/~r/PentestTools/~3/kvGSXsf0WFo/opencti-open-cyber-threat-intelligence.html)
