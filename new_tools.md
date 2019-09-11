@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Grapl - Graph Platform For Detection And Response](http://feedproxy.google.com/~r/PentestTools/~3/Nzu7nTXFHhk/grapl-graph-platform-for-detection-and.html)
 - [Metame - Metame Is A Metamorphic Code Engine For Arbitrary Executables](http://feedproxy.google.com/~r/PentestTools/~3/UtLiReewVn4/metame-metame-is-metamorphic-code.html)
 - [Botb - A Container Analysis And Exploitation Tool For Pentesters And Engineers](http://feedproxy.google.com/~r/PentestTools/~3/LQR_lITEKlY/botb-container-analysis-and.html)
 - [gitGraber - Tool To Monitor GitHub To Search And Find Sensitive Data For Different Online Services Such As: Google, Amazon, Paypal, Github, Mailgun, Facebook, Twitter, Heroku, Stripe...](http://feedproxy.google.com/~r/PentestTools/~3/j4Ms9uZ-OTY/gitgraber-tool-to-monitor-github-to.html)
