@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pyrdp - RDP Man-In-The-Middle And Library For Python3 With The Ability To Watch Connections Live Or After The Fact](http://feedproxy.google.com/~r/PentestTools/~3/5V_LwIOI6AM/pyrdp-rdp-man-in-middle-and-library-for.html)
 - [Grapl - Graph Platform For Detection And Response](http://feedproxy.google.com/~r/PentestTools/~3/Nzu7nTXFHhk/grapl-graph-platform-for-detection-and.html)
 - [Metame - Metame Is A Metamorphic Code Engine For Arbitrary Executables](http://feedproxy.google.com/~r/PentestTools/~3/UtLiReewVn4/metame-metame-is-metamorphic-code.html)
 - [Botb - A Container Analysis And Exploitation Tool For Pentesters And Engineers](http://feedproxy.google.com/~r/PentestTools/~3/LQR_lITEKlY/botb-container-analysis-and.html)
