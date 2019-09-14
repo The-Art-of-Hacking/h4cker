@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Stegify - Go Tool For LSB Steganography, Capable Of Hiding Any File Within An Image](http://feedproxy.google.com/~r/PentestTools/~3/l2fNzJLNH5Q/stegify-go-tool-for-lsb-steganography.html)
 - [DetExploit - Software That Detect Vulnerable Applications, Not-Installed OS Updates And Notify To User](http://feedproxy.google.com/~r/PentestTools/~3/15LHL1qcszo/detexploit-software-that-detect.html)
 - [Shodan-Eye - Tool That Collects All The Information About All Devices Directly Connected To The Internet Using The Specified Keywords That You Enter](http://feedproxy.google.com/~r/PentestTools/~3/RXQ8g-gjkvE/shodan-eye-tool-that-collects-all.html)
 - [Anteater - CI/CD Gate Check Framework](http://feedproxy.google.com/~r/PentestTools/~3/CmExmYQNlOA/anteater-cicd-gate-check-framework.html)
