@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ACT Platform - Open Platform For Collection And Exchange Of Threat Intelligence Information](http://feedproxy.google.com/~r/PentestTools/~3/LuwNP1Fp5wI/act-platform-open-platform-for.html)
 - [PrivExchange - Exchange Your Privileges For Domain Admin Privs By Abusing Exchange](http://feedproxy.google.com/~r/PentestTools/~3/chTatA-U6pE/privexchange-exchange-your-privileges.html)
 - [PostShell - Post Exploitation Bind/Backconnect Shell](http://feedproxy.google.com/~r/PentestTools/~3/bA3vPoaomGE/postshell-post-exploitation.html)
 - [TinkererShell - A Simple Python Reverse Shell Written Just For Fun](http://feedproxy.google.com/~r/PentestTools/~3/20a4IaX7icM/tinkerershell-simple-python-reverse.html)
