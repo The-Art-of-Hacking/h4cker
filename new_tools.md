@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Aura-Botnet - A Super Portable Botnet Framework With A Django-based C2 Server](http://feedproxy.google.com/~r/PentestTools/~3/tnSSVf5KKxM/aura-botnet-super-portable-botnet.html)
 - [Project iKy v2.2.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/UUzvzCFnYJE/project-iky-v220-tool-that-collects.html)
 - [Stardox - Github Stargazers Information Gathering Tool](http://feedproxy.google.com/~r/PentestTools/~3/7By7ThSuewU/stardox-github-stargazers-information.html)
 - [ACT Platform - Open Platform For Collection And Exchange Of Threat Intelligence Information](http://feedproxy.google.com/~r/PentestTools/~3/LuwNP1Fp5wI/act-platform-open-platform-for.html)
