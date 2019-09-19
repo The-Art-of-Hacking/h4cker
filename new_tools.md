@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dolos Cloak - Automated 802.1X Bypass](http://feedproxy.google.com/~r/PentestTools/~3/NG6IUvbjPjA/dolos-cloak-automated-8021x-bypass.html)
 - [Dr. ROBOT - Tool To Enumerate The Subdomains Associated With A Company By Aggregating The Results Of Multiple OSINT Tools](http://feedproxy.google.com/~r/PentestTools/~3/LF5qGGBamj8/dr-robot-tool-to-enumerate-subdomains.html)
 - [FudgeC2 - A Collaborative C2 Framework For Purple-Teaming Written In Python3, Powershell And .NET](http://feedproxy.google.com/~r/PentestTools/~3/Hxs0DfO56As/fudgec2-collaborative-c2-framework-for.html)
 - [Aura-Botnet - A Super Portable Botnet Framework With A Django-based C2 Server](http://feedproxy.google.com/~r/PentestTools/~3/tnSSVf5KKxM/aura-botnet-super-portable-botnet.html)
