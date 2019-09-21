@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Mitaka - A Browser Extension For OSINT Search](http://feedproxy.google.com/~r/PentestTools/~3/qozOsKsK1eg/mitaka-browser-extension-for-osint.html)
 - [Kirjuri - Web Application For Managing Cases And Physical Forensic Evidence Items](http://feedproxy.google.com/~r/PentestTools/~3/lV-7cdaZCvc/kirjuri-web-application-for-managing.html)
 - [SysAnalyzer - Automated Malcode Analysis System](http://feedproxy.google.com/~r/PentestTools/~3/VTx0yw7qoek/sysanalyzer-automated-malcode-analysis.html)
 - [Pixload - Image Payload Creating/Injecting Tools](http://feedproxy.google.com/~r/PentestTools/~3/GNB4ABZwyJ4/pixload-image-payload-creatinginjecting.html)
