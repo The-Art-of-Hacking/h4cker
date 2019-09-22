@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Juicy Potato - A Sugared Version Of RottenPotatoNG, With A Bit Of Juice, I.E. Another Local Privilege Escalation Tool, From A Windows Service Accounts To NT AUTHORITY\SYSTEM](http://feedproxy.google.com/~r/PentestTools/~3/v__5K9CLmi0/juicy-potato-sugared-version-of.html)
 - [ScoutSuite - Multi-Cloud Security Auditing Tool](http://feedproxy.google.com/~r/PentestTools/~3/8lNYafWTzcI/scoutsuite-multi-cloud-security.html)
 - [Mitaka - A Browser Extension For OSINT Search](http://feedproxy.google.com/~r/PentestTools/~3/qozOsKsK1eg/mitaka-browser-extension-for-osint.html)
 - [Kirjuri - Web Application For Managing Cases And Physical Forensic Evidence Items](http://feedproxy.google.com/~r/PentestTools/~3/lV-7cdaZCvc/kirjuri-web-application-for-managing.html)
