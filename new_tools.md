@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Router Exploit Shovel - Automated Application Generation For Stack Overflow Types On Wireless Routers](http://feedproxy.google.com/~r/PentestTools/~3/Umzv8g_UhHo/router-exploit-shovel-automated.html)
 - [Tachyon - Fast HTTP Dead File Finder](http://feedproxy.google.com/~r/PentestTools/~3/9WifBwMiBZM/tachyon-fast-http-dead-file-finder.html)
 - [SKA - Simple Karma Attack](http://feedproxy.google.com/~r/PentestTools/~3/qvHCBNmDLuQ/ska-simple-karma-attack.html)
 - [ArmourBird CSF - Container Security Framework](http://feedproxy.google.com/~r/PentestTools/~3/QrsSVDyTOII/armourbird-csf-container-security.html)
