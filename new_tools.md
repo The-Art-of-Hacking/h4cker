@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Flare-Emu - Powered by IDA Pro and the Unicorn emulation framework that provides scriptable emulation features for the x86, x86_64, ARM, and ARM64 architectures to reverse engineers](http://feedproxy.google.com/~r/PentestTools/~3/GIxOIe09LhY/flare-emu-powered-by-ida-pro-and.html)
 - [Firmware Analysis Toolkit - Toolkit To Emulate Firmware And Analyse It For Security Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/Xo17q88fwaU/firmware-analysis-toolkit-toolkit-to.html)
 - [Router Exploit Shovel - Automated Application Generation For Stack Overflow Types On Wireless Routers](http://feedproxy.google.com/~r/PentestTools/~3/Umzv8g_UhHo/router-exploit-shovel-automated.html)
 - [Tachyon - Fast HTTP Dead File Finder](http://feedproxy.google.com/~r/PentestTools/~3/9WifBwMiBZM/tachyon-fast-http-dead-file-finder.html)
