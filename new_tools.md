@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FDsploit - File Inclusion And Directory Traversal Fuzzing, Enumeration & Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/swcjIuLy9bI/fdsploit-file-inclusion-and-directory.html)
 - [MemProcFS - The Memory Process File System](http://feedproxy.google.com/~r/PentestTools/~3/PEKPsbwM4CQ/memprocfs-memory-process-file-system.html)
 - [Flare-Emu - Powered by IDA Pro and the Unicorn emulation framework that provides scriptable emulation features for the x86, x86_64, ARM, and ARM64 architectures to reverse engineers](http://feedproxy.google.com/~r/PentestTools/~3/GIxOIe09LhY/flare-emu-powered-by-ida-pro-and.html)
 - [Firmware Analysis Toolkit - Toolkit To Emulate Firmware And Analyse It For Security Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/Xo17q88fwaU/firmware-analysis-toolkit-toolkit-to.html)
