@@ -1,0 +1,49 @@
+all:
+
+  children:
+
+    stations:
+      station1:
+        station1_laptops:
+          hosts:
+            192.168.10.[1:5]
+        station1_switch:
+          hosts:
+            sw.station1.rtov.net
+
+      station2:
+        station2_laptops:
+          hosts:
+            192.168.11.[1:5]
+         # station2 switch controlled by Omar
+
+      station3:
+        station1_laptops:
+          hosts:
+            192.168.12.[1:5]
+        station3_switch:
+          hosts:
+            sw.station3.rtov.net
+
+      station4:
+        station1_laptops:
+          hosts:
+            192.168.13.[1:5]
+        station4_switch:
+          hosts:
+            sw.station4.rtov.net
+
+      station5:
+        station5_laptops:
+          hosts:
+            192.168.14.[1:5]
+        station5_switch:
+          hosts:
+            sw.station5.rtov.net
+
+# created a "switches" child, so that we can also just push initial configs
+# or change anything to all the switches at once
+
+      switches:
+        hosts:
+          sw.station[1:5].rtov.net
