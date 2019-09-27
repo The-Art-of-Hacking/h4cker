@@ -1,0 +1,59 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+#Box settings
+  config.vm.box = "offensive-security/kali-linux"
+  
+# Example for VirtualBox:
+#
+  config.vm.provider "virtualbox" do |vb|
+    # Display the VirtualBox GUI when booting the machine
+    vb.gui = true
+
+    # Customize the amount of memory on the VM:
+    vb.memory = "4096"
+    vb.cpus = "4"
+
+  config.vm.network "private_network", ip: "10.1.1.1"
+    
+  end
+
+
+
+  # Enable provisioning with a shell script. Additional provisioners such as
+  # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
+  # documentation for more information about their specific syntax and use.
+  config.vm.provision "shell", inline: <<-SHELL
+    apt-get update
+
+    #installing Docker
+    apt-get install -y docker.io
+    
+    #instantiating Docker containers
+
+    docker run --name hackazon -d --restart unless-stopped -p 80:80 santosomar/hackazon
+    docker run --name webgoat -d --restart unless-stopped -p 6661:8080 -t santosomar/webgoat
+    docker run --name juice-shop --restart unless-stopped -d -p 6662:3000 santosomar/juice-shop
+    docker run --name dvwa --restart unless-stopped -itd -p 6663:80 santosomar/dvwa
+    docker run --name mutillidae_2 --restart unless-stopped -d -p 6664:80 santosomar/mutillidae_2
+    docker run --name bwapp2 --restart unless-stopped -d -p 8081:80 santosomar/bwapp
+    #bwapp - go to /install.php then user/pass is bee/bug
+    #docker run --name vapp2 --restart unless-stopped -d -p 9090:80 santosomar/vuln_app
+
+    #changing h4cker_wallpaper
+    cd /root/Pictures
+    wget https://h4cker.org/img/h4cker_wallpaper.png
+    gsettings set org.gnome.desktop.background picture-uri "file:///root/Pictures/h4cker_wallpaper.png"
+
+    #cloning H4cker github
+    cd /root
+    git clone https://github.com/The-Art-of-Hacking/h4cker.git
+
+    #getting test ssl script
+    curl -L https://testssl.sh --output testssl.sh
+    chmod +x testssl.sh
+
+  SHELL
+end
