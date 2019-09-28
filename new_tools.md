@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HRShell - An Advanced HTTPS/HTTP Reverse Shell Built With Flask](http://feedproxy.google.com/~r/PentestTools/~3/2EnZI5d4-lM/hrshell-advanced-httpshttp-reverse.html)
 - [Kube-Alien - Tool To Launches Attack on K8s Cluster from Within](http://feedproxy.google.com/~r/PentestTools/~3/126-Y9dJKbU/kube-alien-tool-to-launches-attack-on.html)
 - [Rebel-Framework - Advanced And Easy To Use Penetration Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/fMlj6cBpiT8/rebel-framework-advanced-and-easy-to.html)
 - [FDsploit - File Inclusion And Directory Traversal Fuzzing, Enumeration & Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/swcjIuLy9bI/fdsploit-file-inclusion-and-directory.html)
