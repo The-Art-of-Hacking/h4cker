@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DumpsterFire - "Security Incidents In A Box!" A Modular, Menu-Driven, Cross-Platform Tool For Building Customized, Time-Delayed, Distributed Security Events](http://feedproxy.google.com/~r/PentestTools/~3/KauwkR-GgKM/dumpsterfire-security-incidents-in-box.html)
 - [SecurityNotFound - 404 Page Not Found Webshell](http://feedproxy.google.com/~r/PentestTools/~3/vYxGFxKr0f8/securitynotfound-404-page-not-found.html)
 - [HRShell - An Advanced HTTPS/HTTP Reverse Shell Built With Flask](http://feedproxy.google.com/~r/PentestTools/~3/2EnZI5d4-lM/hrshell-advanced-httpshttp-reverse.html)
 - [Kube-Alien - Tool To Launches Attack on K8s Cluster from Within](http://feedproxy.google.com/~r/PentestTools/~3/126-Y9dJKbU/kube-alien-tool-to-launches-attack-on.html)
