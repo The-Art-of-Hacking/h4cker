@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Syhunt Community 6.7 - Web And Mobile Application Scanner](http://feedproxy.google.com/~r/PentestTools/~3/LCuYj1U9fus/syhunt-community-67-web-and-mobile.html)
 - [DumpsterFire - "Security Incidents In A Box!" A Modular, Menu-Driven, Cross-Platform Tool For Building Customized, Time-Delayed, Distributed Security Events](http://feedproxy.google.com/~r/PentestTools/~3/KauwkR-GgKM/dumpsterfire-security-incidents-in-box.html)
 - [SecurityNotFound - 404 Page Not Found Webshell](http://feedproxy.google.com/~r/PentestTools/~3/vYxGFxKr0f8/securitynotfound-404-page-not-found.html)
 - [HRShell - An Advanced HTTPS/HTTP Reverse Shell Built With Flask](http://feedproxy.google.com/~r/PentestTools/~3/2EnZI5d4-lM/hrshell-advanced-httpshttp-reverse.html)
