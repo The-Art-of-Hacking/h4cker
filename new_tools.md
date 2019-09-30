@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Recomposer - Randomly Changes Win32/64 PE Files For 'Safer' Uploading To Malware And Sandbox Sites](http://feedproxy.google.com/~r/PentestTools/~3/gVroQADJHWg/recomposer-randomly-changes-win3264-pe.html)
 - [Terraform AWS Secure Baseline - Terraform Module To Set Up Your AWS Account With The Secure Baseline Configuration Based On CIS Amazon Web Services Foundations](http://feedproxy.google.com/~r/PentestTools/~3/kpRIN1tO0m8/terraform-aws-secure-baseline-terraform.html)
 - [Syhunt Community 6.7 - Web And Mobile Application Scanner](http://feedproxy.google.com/~r/PentestTools/~3/LCuYj1U9fus/syhunt-community-67-web-and-mobile.html)
 - [DumpsterFire - "Security Incidents In A Box!" A Modular, Menu-Driven, Cross-Platform Tool For Building Customized, Time-Delayed, Distributed Security Events](http://feedproxy.google.com/~r/PentestTools/~3/KauwkR-GgKM/dumpsterfire-security-incidents-in-box.html)
