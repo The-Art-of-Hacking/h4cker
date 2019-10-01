@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sub.Sh - Online Subdomain Detect Script](http://feedproxy.google.com/~r/PentestTools/~3/Qe8yZPMMNjk/subsh-online-subdomain-detect-script.html)
 - [CryptonDie - A Ransomware Developed For Study Purposes](http://feedproxy.google.com/~r/PentestTools/~3/Z0YkIrBUmbw/cryptondie-ransomware-developed-for.html)
 - [Recomposer - Randomly Changes Win32/64 PE Files For 'Safer' Uploading To Malware And Sandbox Sites](http://feedproxy.google.com/~r/PentestTools/~3/gVroQADJHWg/recomposer-randomly-changes-win3264-pe.html)
 - [Terraform AWS Secure Baseline - Terraform Module To Set Up Your AWS Account With The Secure Baseline Configuration Based On CIS Amazon Web Services Foundations](http://feedproxy.google.com/~r/PentestTools/~3/kpRIN1tO0m8/terraform-aws-secure-baseline-terraform.html)
