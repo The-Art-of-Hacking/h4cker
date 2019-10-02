@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GiveMeSecrets - Use Regular Expressions To Get Sensitive Information From A Given Repository (GitHub, Pip Or Npm)](http://feedproxy.google.com/~r/PentestTools/~3/rm2q3lUr-Xs/givemesecrets-use-regular-expressions.html)
 - [Lockdoor Framework - A Penetration Testing Framework With Cyber Security Resources](http://feedproxy.google.com/~r/PentestTools/~3/v3rNXWornZ4/lockdoor-framework-penetration-testing.html)
 - [Sub.Sh - Online Subdomain Detect Script](http://feedproxy.google.com/~r/PentestTools/~3/Qe8yZPMMNjk/subsh-online-subdomain-detect-script.html)
 - [CryptonDie - A Ransomware Developed For Study Purposes](http://feedproxy.google.com/~r/PentestTools/~3/Z0YkIrBUmbw/cryptondie-ransomware-developed-for.html)
