@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ThreadBoat - Program Uses Thread Execution Hijacking To Inject Native Shellcode Into A Standard Win32 Application](http://feedproxy.google.com/~r/PentestTools/~3/FC6jn8Q6_LQ/threadboat-program-uses-thread.html)
 - [SQLMap v1.3.10 - Automatic SQL Injection And Database Takeover Tool](http://feedproxy.google.com/~r/PentestTools/~3/k-Bb_83QO6w/sqlmap-v1310-automatic-sql-injection.html)
 - [GiveMeSecrets - Use Regular Expressions To Get Sensitive Information From A Given Repository (GitHub, Pip Or Npm)](http://feedproxy.google.com/~r/PentestTools/~3/rm2q3lUr-Xs/givemesecrets-use-regular-expressions.html)
 - [Lockdoor Framework - A Penetration Testing Framework With Cyber Security Resources](http://feedproxy.google.com/~r/PentestTools/~3/v3rNXWornZ4/lockdoor-framework-penetration-testing.html)
