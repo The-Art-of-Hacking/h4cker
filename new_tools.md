@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DNS Rebinding Tool - DNS Rebind Tool With Custom Scripts](http://feedproxy.google.com/~r/PentestTools/~3/VG7fx5Ahuus/dns-rebinding-tool-dns-rebind-tool-with.html)
 - [Fenrir - Simple Bash IOC Scanner](http://feedproxy.google.com/~r/PentestTools/~3/DEXbxuZxHic/fenrir-simple-bash-ioc-scanner.html)
 - [ManaTI - A Web-Based Tool To Assist The Work Of The Intuitive Threat Analysts](http://feedproxy.google.com/~r/PentestTools/~3/magp9lq1V9s/manati-web-based-tool-to-assist-work-of.html)
 - [ThreadBoat - Program Uses Thread Execution Hijacking To Inject Native Shellcode Into A Standard Win32 Application](http://feedproxy.google.com/~r/PentestTools/~3/FC6jn8Q6_LQ/threadboat-program-uses-thread.html)
