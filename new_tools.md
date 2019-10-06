@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [B2R2 - Collection Of Useful Algorithms, Functions, And Tools For Binary Analysis](http://feedproxy.google.com/~r/PentestTools/~3/Q15IlaLOCx4/b2r2-collection-of-useful-algorithms.html)
 - [Userrecon-Py v2.0 - Username Recognition On Various Websites](http://feedproxy.google.com/~r/PentestTools/~3/c7uPNvH8iLk/userrecon-py-v20-username-recognition.html)
 - [DNS Rebinding Tool - DNS Rebind Tool With Custom Scripts](http://feedproxy.google.com/~r/PentestTools/~3/VG7fx5Ahuus/dns-rebinding-tool-dns-rebind-tool-with.html)
 - [Fenrir - Simple Bash IOC Scanner](http://feedproxy.google.com/~r/PentestTools/~3/DEXbxuZxHic/fenrir-simple-bash-ioc-scanner.html)
