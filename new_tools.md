@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Maryam - Open-source intelligence (OSINT) Framework](http://feedproxy.google.com/~r/PentestTools/~3/BQ1U6qzZrN8/maryam-open-source-intelligence-osint.html)
 - [box.js - A Tool For Studying JavaScript Malware](http://feedproxy.google.com/~r/PentestTools/~3/4rzpnIcLF6s/boxjs-tool-for-studying-javascript.html)
 - [FATT - A Script For Extracting Network Metadata And Fingerprints From Pcap Files And Live Network Traffic](http://feedproxy.google.com/~r/PentestTools/~3/wHgG3GSXPuM/fatt-script-for-extracting-network.html)
 - [Penta - Open Source All-In-One CLI Tool To Automate Pentesting](http://feedproxy.google.com/~r/PentestTools/~3/VeXiUW5MKuE/penta-open-source-all-in-one-cli-tool.html)
