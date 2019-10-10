@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MalConfScan - Volatility Plugin For Extracts Configuration Data Of Known Malware](http://feedproxy.google.com/~r/PentestTools/~3/GUzlXxFr0Js/malconfscan-volatility-plugin-for.html)
 - [Ispy - Eternalblue (MS17-010) / Bluekeep (CVE-2019-0708) Scanner And Exploit](http://feedproxy.google.com/~r/PentestTools/~3/ms23O5DiiEQ/ispy-eternalblue-ms17-010-bluekeep-cve.html)
 - [Zeek - A Powerful Network Analysis Framework That Is Much Different From The Typical IDS You May Know](http://feedproxy.google.com/~r/PentestTools/~3/KPDGs0NRmsQ/zeek-powerful-network-analysis.html)
 - [Maryam - Open-source intelligence (OSINT) Framework](http://feedproxy.google.com/~r/PentestTools/~3/BQ1U6qzZrN8/maryam-open-source-intelligence-osint.html)
