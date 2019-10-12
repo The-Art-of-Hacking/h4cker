@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Tylium - Primary Data Pipelines For Intrusion Detection, Security Analytics And Threat Hunting](http://feedproxy.google.com/~r/PentestTools/~3/KvK02H46LgM/tylium-primary-data-pipelines-for.html)
 - [Fsmon - Monitor Filesystem On iOS / OS X / Android / FirefoxOS / Linux](http://feedproxy.google.com/~r/PentestTools/~3/JWYXGMKRJYw/fsmon-monitor-filesystem-on-ios-os-x.html)
 - [Traxss - Automated XSS Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/xvXQMTg3IlU/traxss-automated-xss-vulnerability.html)
 - [DECAF - Short for Dynamic Executable Code Analysis Framework](http://feedproxy.google.com/~r/PentestTools/~3/rkeyV1Wsm7M/decaf-short-for-dynamic-executable-code.html)
