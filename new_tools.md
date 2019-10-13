@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [uniFuzzer - A Fuzzing Tool For Closed-Source Binaries Based On Unicorn And LibFuzzer](http://feedproxy.google.com/~r/PentestTools/~3/90UMwndvcfU/unifuzzer-fuzzing-tool-for-closed.html)
 - [SMTPTester - Tool To Check Common Vulnerabilities In SMTP Servers](http://feedproxy.google.com/~r/PentestTools/~3/X1SMXv14Vws/smtptester-tool-to-check-common.html)
 - [Tylium - Primary Data Pipelines For Intrusion Detection, Security Analytics And Threat Hunting](http://feedproxy.google.com/~r/PentestTools/~3/KvK02H46LgM/tylium-primary-data-pipelines-for.html)
 - [Fsmon - Monitor Filesystem On iOS / OS X / Android / FirefoxOS / Linux](http://feedproxy.google.com/~r/PentestTools/~3/JWYXGMKRJYw/fsmon-monitor-filesystem-on-ios-os-x.html)
