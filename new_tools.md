@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RITA - Real Intelligence Threat Analytics](http://feedproxy.google.com/~r/PentestTools/~3/1mCFWIgo0r0/rita-real-intelligence-threat-analytics.html)
 - [Eaphammer v1.9.0 - Targeted Evil Twin Attacks Against WPA2-Enterprise Networks](http://feedproxy.google.com/~r/PentestTools/~3/sZn-5FG2wTo/eaphammer-v190-targeted-evil-twin.html)
 - [Postenum - A Clean, Nice And Easy Tool For Basic/Advanced Privilege Escalation Techniques](http://feedproxy.google.com/~r/PentestTools/~3/GpewdzubbZ4/postenum-clean-nice-and-easy-tool-for.html)
 - [Unicorn-Bios - Basic BIOS Emulator For Unicorn Engine](http://feedproxy.google.com/~r/PentestTools/~3/a1iJIC1mmaw/unicorn-bios-basic-bios-emulator-for.html)
