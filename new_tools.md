@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gobuster v3.0 - Directory/File, DNS And VHost Busting Tool Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/nkK1LNxKpg0/gobuster-v30-directoryfile-dns-and.html)
 - [RITA - Real Intelligence Threat Analytics](http://feedproxy.google.com/~r/PentestTools/~3/1mCFWIgo0r0/rita-real-intelligence-threat-analytics.html)
 - [Eaphammer v1.9.0 - Targeted Evil Twin Attacks Against WPA2-Enterprise Networks](http://feedproxy.google.com/~r/PentestTools/~3/sZn-5FG2wTo/eaphammer-v190-targeted-evil-twin.html)
 - [Postenum - A Clean, Nice And Easy Tool For Basic/Advanced Privilege Escalation Techniques](http://feedproxy.google.com/~r/PentestTools/~3/GpewdzubbZ4/postenum-clean-nice-and-easy-tool-for.html)
