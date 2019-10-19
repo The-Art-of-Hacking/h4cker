@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Discover - Custom Bash Scripts Used To Automate Various Penetration Testing Tasks Including Recon, Scanning, Parsing, And Creating Malicious Payloads And Listeners With Metasploit](http://feedproxy.google.com/~r/PentestTools/~3/cO3SnhytyUU/discover-custom-bash-scripts-used-to.html)
 - [Rbuster - Yet Another Dirbuster](http://feedproxy.google.com/~r/PentestTools/~3/kNQvOukex84/rbuster-yet-another-dirbuster.html)
 - [XMLRPC Bruteforcer - An XMLRPC Brute Forcer Targeting Wordpress](http://feedproxy.google.com/~r/PentestTools/~3/y9o5Z506UHA/xmlrpc-bruteforcer-xmlrpc-brute-forcer.html)
 - [Dirstalk - Modern Alternative To Dirbuster/Dirb](http://feedproxy.google.com/~r/PentestTools/~3/NCz0l6NC_Jc/dirstalk-modern-alternative-to.html)
