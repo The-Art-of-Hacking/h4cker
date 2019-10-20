@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SUID3NUM - A Script Which Utilizes Python'S Built-In Modules To Find SUID Bins, Separate Default Bins From Custom Bins, Cross-Match Those With Bins In GTFO Bin's Repository & Auto-Exploit Those](http://feedproxy.google.com/~r/PentestTools/~3/5a7jOsS9bX8/suid3num-script-which-utilizes-pythons.html)
 - [FOCA - Tool To Find Metadata And Hidden Information In The Documents](http://feedproxy.google.com/~r/PentestTools/~3/nFwHd45s92A/foca-tool-to-find-metadata-and-hidden.html)
 - [IoT-Implant-Toolkit - Toolkit For Implant Attack Of IoT Devices](http://feedproxy.google.com/~r/PentestTools/~3/3OB50NG0vmM/iot-implant-toolkit-toolkit-for-implant.html)
 - [Discover - Custom Bash Scripts Used To Automate Various Penetration Testing Tasks Including Recon, Scanning, Parsing, And Creating Malicious Payloads And Listeners With Metasploit](http://feedproxy.google.com/~r/PentestTools/~3/cO3SnhytyUU/discover-custom-bash-scripts-used-to.html)
