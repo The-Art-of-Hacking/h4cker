@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Osmedeus v2.1 - Fully Automated Offensive Security Framework For Reconnaissance And Vulnerability Scanning](http://feedproxy.google.com/~r/PentestTools/~3/TAqtz2izPm4/osmedeus-v21-fully-automated-offensive.html)
 - [Snare - Super Next Generation Advanced Reactive honEypot](http://feedproxy.google.com/~r/PentestTools/~3/etMMshJWTjI/snare-super-next-generation-advanced.html)
 - [UAC-A-Mola - Tool That Allows Security Researchers To Investigate New UAC Bypasses, In Addition To Detecting And Exploiting Known Bypasses](http://feedproxy.google.com/~r/PentestTools/~3/I342cozrCls/uac-mola-tool-that-allows-security.html)
 - [SUID3NUM - A Script Which Utilizes Python'S Built-In Modules To Find SUID Bins, Separate Default Bins From Custom Bins, Cross-Match Those With Bins In GTFO Bin's Repository & Auto-Exploit Those](http://feedproxy.google.com/~r/PentestTools/~3/5a7jOsS9bX8/suid3num-script-which-utilizes-pythons.html)
