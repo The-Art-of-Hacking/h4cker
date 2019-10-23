@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AutoMacTC - Automated Mac Forensic Triage Collector](http://feedproxy.google.com/~r/PentestTools/~3/todwtrFFW70/automactc-automated-mac-forensic-triage.html)
 - [Password Lense - Reveal Character Types In A Password](http://feedproxy.google.com/~r/PentestTools/~3/saysdQ-Pmq0/password-lense-reveal-character-types.html)
 - [Osmedeus v2.1 - Fully Automated Offensive Security Framework For Reconnaissance And Vulnerability Scanning](http://feedproxy.google.com/~r/PentestTools/~3/TAqtz2izPm4/osmedeus-v21-fully-automated-offensive.html)
 - [Snare - Super Next Generation Advanced Reactive honEypot](http://feedproxy.google.com/~r/PentestTools/~3/etMMshJWTjI/snare-super-next-generation-advanced.html)
