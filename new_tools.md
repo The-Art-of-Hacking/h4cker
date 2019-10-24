@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HomePwn - Swiss Army Knife for Pentesting of IoT Devices](http://feedproxy.google.com/~r/PentestTools/~3/nMwihlR0QFM/homepwn-swiss-army-knife-for-pentesting.html)
 - [Femida - Automated Blind-Xss Search For Burp Suite](http://feedproxy.google.com/~r/PentestTools/~3/hcIniCfTwFk/femida-automated-blind-xss-search-for.html)
 - [Slither v0.6.7 - Static Analyzer For Solidity](http://feedproxy.google.com/~r/PentestTools/~3/vb_PZS9dudM/slither-v067-static-analyzer-for.html)
 - [AutoMacTC - Automated Mac Forensic Triage Collector](http://feedproxy.google.com/~r/PentestTools/~3/todwtrFFW70/automactc-automated-mac-forensic-triage.html)
