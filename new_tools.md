@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Tails 4.0 - Live System to Preserve Your Privacy and Anonymity](http://feedproxy.google.com/~r/PentestTools/~3/YFfBEc4idTE/tails-40-live-system-to-preserve-your.html)
 - [ATTACKdatamap - A Datasource Assessment On An Event Level To Show Potential Coverage Or The MITRE ATT&CK Framework](http://feedproxy.google.com/~r/PentestTools/~3/F-ohXtIc9vU/attackdatamap-datasource-assessment-on.html)
 - [JSONBee - A Ready To Use JSONP Endpoints/Payloads To Help Bypass Content Security Policy Of Different Websites](http://feedproxy.google.com/~r/PentestTools/~3/fkO6wAzdumU/jsonbee-ready-to-use-jsonp.html)
 - [Arjun v1.6 - HTTP Parameter Discovery Suite](http://feedproxy.google.com/~r/PentestTools/~3/7DM5VIonrMM/arjun-v16-http-parameter-discovery-suite.html)
