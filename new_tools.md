@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AutoSploit v4.0 - Automated Mass Exploiter](http://feedproxy.google.com/~r/PentestTools/~3/6Y1RrDCOjls/autosploit-v40-automated-mass-exploiter.html)
 - [Tails 4.0 - Live System to Preserve Your Privacy and Anonymity](http://feedproxy.google.com/~r/PentestTools/~3/YFfBEc4idTE/tails-40-live-system-to-preserve-your.html)
 - [ATTACKdatamap - A Datasource Assessment On An Event Level To Show Potential Coverage Or The MITRE ATT&CK Framework](http://feedproxy.google.com/~r/PentestTools/~3/F-ohXtIc9vU/attackdatamap-datasource-assessment-on.html)
 - [JSONBee - A Ready To Use JSONP Endpoints/Payloads To Help Bypass Content Security Policy Of Different Websites](http://feedproxy.google.com/~r/PentestTools/~3/fkO6wAzdumU/jsonbee-ready-to-use-jsonp.html)
