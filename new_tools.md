@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cryptovenom - The Cryptography Swiss Army Knife](http://feedproxy.google.com/~r/PentestTools/~3/zjxbWl4WCwY/cryptovenom-cryptography-swiss-army.html)
 - [Tor Browser v9.0 - Everything you Need to Safely Browse the Internet](http://feedproxy.google.com/~r/PentestTools/~3/d68Ou81lxVA/tor-browser-v90-everything-you-need-to.html)
 - [AutoSploit v4.0 - Automated Mass Exploiter](http://feedproxy.google.com/~r/PentestTools/~3/6Y1RrDCOjls/autosploit-v40-automated-mass-exploiter.html)
 - [Tails 4.0 - Live System to Preserve Your Privacy and Anonymity](http://feedproxy.google.com/~r/PentestTools/~3/YFfBEc4idTE/tails-40-live-system-to-preserve-your.html)
