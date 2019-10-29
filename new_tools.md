@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [XORpass - Encoder To Bypass WAF Filters Using XOR Operations](http://feedproxy.google.com/~r/PentestTools/~3/png3xyIaqJs/xorpass-encoder-to-bypass-waf-filters.html)
 - [CloudUnflare - Reconnaissance Real IP Address For Cloudflare Bypass](http://feedproxy.google.com/~r/PentestTools/~3/uOiN58lJSW0/cloudunflare-reconnaissance-real-ip.html)
 - [Cryptovenom - The Cryptography Swiss Army Knife](http://feedproxy.google.com/~r/PentestTools/~3/zjxbWl4WCwY/cryptovenom-cryptography-swiss-army.html)
 - [Tor Browser v9.0 - Everything you Need to Safely Browse the Internet](http://feedproxy.google.com/~r/PentestTools/~3/d68Ou81lxVA/tor-browser-v90-everything-you-need-to.html)
