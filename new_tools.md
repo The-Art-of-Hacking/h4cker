@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ThreatIngestor - Extract And Aggregate Threat Intelligence](http://feedproxy.google.com/~r/PentestTools/~3/j6kfQRbcuB4/threatingestor-extract-and-aggregate.html)
 - [Pockint - A Portable OSINT Swiss Army Knife For DFIR/OSINT Professionals](http://feedproxy.google.com/~r/PentestTools/~3/PPTOd2c6RDA/pockint-portable-osint-swiss-army-knife.html)
 - [LinPwn - Interactive Post Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/bewtEc2_F7w/linpwn-interactive-post-exploitation.html)
 - [XORpass - Encoder To Bypass WAF Filters Using XOR Operations](http://feedproxy.google.com/~r/PentestTools/~3/png3xyIaqJs/xorpass-encoder-to-bypass-waf-filters.html)
