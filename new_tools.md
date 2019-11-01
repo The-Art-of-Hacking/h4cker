@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AtomShields Cli - Security Testing Framework For Repositories And Source Code](http://feedproxy.google.com/~r/PentestTools/~3/j4suirYVDqs/atomshields-cli-security-testing.html)
 - [PESTO - PE (files) Statistical Tool](http://feedproxy.google.com/~r/PentestTools/~3/o2cOlnSNzgI/pesto-pe-files-statistical-tool.html)
 - [UBoat - HTTP Botnet Project](http://feedproxy.google.com/~r/PentestTools/~3/WSeYtomPlJ8/uboat-http-botnet-project.html)
 - [ThreatIngestor - Extract And Aggregate Threat Intelligence](http://feedproxy.google.com/~r/PentestTools/~3/j6kfQRbcuB4/threatingestor-extract-and-aggregate.html)
