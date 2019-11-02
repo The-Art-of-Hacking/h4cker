@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gosec - Golang Security Checker](http://feedproxy.google.com/~r/PentestTools/~3/WuzDvGt1kDg/gosec-golang-security-checker.html)
 - [Virtuailor - IDAPython Tool For Creating Automatic C++ Virtual Tables In IDA Pro](http://feedproxy.google.com/~r/PentestTools/~3/gsx4a5OK-50/virtuailor-idapython-tool-for-creating.html)
 - [AtomShields Cli - Security Testing Framework For Repositories And Source Code](http://feedproxy.google.com/~r/PentestTools/~3/j4suirYVDqs/atomshields-cli-security-testing.html)
 - [PESTO - PE (files) Statistical Tool](http://feedproxy.google.com/~r/PentestTools/~3/o2cOlnSNzgI/pesto-pe-files-statistical-tool.html)
