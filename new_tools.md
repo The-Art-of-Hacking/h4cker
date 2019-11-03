@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fail2Ban - Daemon To Ban Hosts That Cause Multiple Authentication Errors](http://feedproxy.google.com/~r/PentestTools/~3/D5gLh71-uWg/fail2ban-daemon-to-ban-hosts-that-cause.html)
 - [Dr. Memory - Memory Debugger For Windows, Linux, Mac, And Android](http://feedproxy.google.com/~r/PentestTools/~3/2A801pnMhqk/dr-memory-memory-debugger-for-windows.html)
 - [Gosec - Golang Security Checker](http://feedproxy.google.com/~r/PentestTools/~3/WuzDvGt1kDg/gosec-golang-security-checker.html)
 - [Virtuailor - IDAPython Tool For Creating Automatic C++ Virtual Tables In IDA Pro](http://feedproxy.google.com/~r/PentestTools/~3/gsx4a5OK-50/virtuailor-idapython-tool-for-creating.html)
