@@ -11,7 +11,7 @@ Note: The folks at Offensive Security have created a free training and book that
 
 - [Parrot](https://www.parrotsec.org): is another popular Linux distribution used by many pen testers and security researchers. You can also install it in bare-metal and in virtual machines. You can download Parrot from https://www.parrotsec.org
 
-- [BlackArch Linux](https://blackarch.org): this distribution comes with over 1900 different tools and packages and it is also gaining popularity. You can download BlackArch Linux from: https://blackarch.org
+- [BlackArch Linux](https://blackarch.org): this distribution comes with over 2300 different tools and packages and it is also gaining popularity. You can download BlackArch Linux from: https://blackarch.org
 
 ## Vulnerable Servers and Applications
 
