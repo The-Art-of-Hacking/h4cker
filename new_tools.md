@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ezXSS - An Easy Way For Penetration Testers And Bug Bounty Hunters To Test (Blind) Cross Site Scripting](http://feedproxy.google.com/~r/PentestTools/~3/n-Cg7j_L4NQ/ezxss-easy-way-for-penetration-testers.html)
 - [Uptux - Linux Privilege Escalation Checks (Systemd, Dbus, Socket Fun, Etc)](http://feedproxy.google.com/~r/PentestTools/~3/ZgBQcJdnfNY/uptux-linux-privilege-escalation-checks.html)
 - [Fail2Ban - Daemon To Ban Hosts That Cause Multiple Authentication Errors](http://feedproxy.google.com/~r/PentestTools/~3/D5gLh71-uWg/fail2ban-daemon-to-ban-hosts-that-cause.html)
 - [Dr. Memory - Memory Debugger For Windows, Linux, Mac, And Android](http://feedproxy.google.com/~r/PentestTools/~3/2A801pnMhqk/dr-memory-memory-debugger-for-windows.html)
