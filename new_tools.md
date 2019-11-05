@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Trivy - A Simple And Comprehensive Vulnerability Scanner For Containers, Suitable For CI](http://feedproxy.google.com/~r/PentestTools/~3/ZK8L_dyPB-w/trivy-simple-and-comprehensive.html)
 - [Mallory - HTTP/HTTPS Proxy Over SSH](http://feedproxy.google.com/~r/PentestTools/~3/h2nFKV6dnt4/mallory-httphttps-proxy-over-ssh.html)
 - [ezXSS - An Easy Way For Penetration Testers And Bug Bounty Hunters To Test (Blind) Cross Site Scripting](http://feedproxy.google.com/~r/PentestTools/~3/n-Cg7j_L4NQ/ezxss-easy-way-for-penetration-testers.html)
 - [Uptux - Linux Privilege Escalation Checks (Systemd, Dbus, Socket Fun, Etc)](http://feedproxy.google.com/~r/PentestTools/~3/ZgBQcJdnfNY/uptux-linux-privilege-escalation-checks.html)
