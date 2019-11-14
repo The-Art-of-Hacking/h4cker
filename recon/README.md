@@ -4,13 +4,14 @@
 
 ### Website Exploration and "Google Hacking"
 * censys - https://censys.io/
+* Spyse - https://spyse.com/
 * netcraft - https://searchdns.netcraft.com/
 * Google Hacking Database (GHDB) - https://www.exploit-db.com/google-hacking-database/
 * ExifTool - https://www.sno.phy.queensu.ca/~phil/exiftool/
 * Certficate Search - https://crt.sh/
+* Huge TLS/SSL certificate DB with advanced search - https://certdb.com/
 * Google Transparency Report - https://transparencyreport.google.com/https/certificates
 * SiteDigger - http://www.mcafee.com/us/downloads/free-tools/sitedigger.aspx
-* FOCA - 	http://www.informatica64.com/DownloadFOCA
 
 ### Social Media
 * A tool to scrape LinkedIn: https://github.com/dchrastil/TTSL
