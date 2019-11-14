@@ -10,6 +10,7 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 # Other Passive Recon Tools:
 - [Maltego](https://www.paterva.com/web7/)
 - [Shodan](https://shodan.io)
+- [Recon-NG](https://github.com/lanmaster53/recon-ng)
 - [SpiderFoot](http://spiderfoot.net)
 - [Buscador VM](https://inteltechniques.com/buscador)
 - [Visual SEO Studio](https://visual-seo.com/)
