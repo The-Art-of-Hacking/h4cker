@@ -7,6 +7,7 @@
 
 ## Troubleshooting Commands
 - [IPsec Troubleshooting: Understanding and Using debug Commands](https://www.cisco.com/c/en/us/support/docs/security-vpn/ipsec-negotiation-ike-protocols/5409-ipsec-debug-00.html)
+- [IPSec show commands Reference](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/security/s1/sec-s1-cr-book/sec-cr-s3.html#wp3114534247)
 
 
 ## Additional GET VPN Resources
