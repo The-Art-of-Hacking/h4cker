@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LKWA - Lesser Known Web Attack Lab](http://feedproxy.google.com/~r/PentestTools/~3/_D8J5ofnkjc/lkwa-lesser-known-web-attack-lab.html)
 - [Multiscanner - Modular File Scanning/Analysis Framework](http://feedproxy.google.com/~r/PentestTools/~3/JCWYObLaesQ/multiscanner-modular-file.html)
 - [Findomain v0.9.3 - The Fastest And Cross-Platform Subdomain Enumerator](http://feedproxy.google.com/~r/PentestTools/~3/F8FCuzzp1eY/findomain-v093-fastest-and-cross.html)
 - [OKadminFinder - Admin Panel Finder / Admin Login Page Finder](http://feedproxy.google.com/~r/PentestTools/~3/Wy3OcRdb1pk/okadminfinder-admin-panel-finder-admin.html)
