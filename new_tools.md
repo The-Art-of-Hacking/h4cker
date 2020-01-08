@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [XposedOrNot - Tool To Search An Aggregated Repository Of Xposed Passwords Comprising Of ~850 Million Real Time Passwords](http://feedproxy.google.com/~r/PentestTools/~3/djD79KVqJpY/xposedornot-tool-to-search-aggregated.html)
 - [Dsync - IDAPython Plugin That Synchronizes Disassembler And Decompiler Views](http://feedproxy.google.com/~r/PentestTools/~3/cTZCZAOl5ZY/dsync-idapython-plugin-that.html)
 - [RFCpwn - An Enumeration And Exploitation Toolkit Using RFC Calls To SAP](http://feedproxy.google.com/~r/PentestTools/~3/SxCeVp5LrPY/rfcpwn-enumeration-and-exploitation.html)
 - [LKWA - Lesser Known Web Attack Lab](http://feedproxy.google.com/~r/PentestTools/~3/_D8J5ofnkjc/lkwa-lesser-known-web-attack-lab.html)
