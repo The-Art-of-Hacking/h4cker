@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WAFW00F v2.0 - Allows One To Identify And Fingerprint Web Application Firewall (WAF) Products Protecting A Website](http://feedproxy.google.com/~r/PentestTools/~3/x0wBL8NRXaE/wafw00f-v20-allows-one-to-identify-and.html)
 - [XposedOrNot - Tool To Search An Aggregated Repository Of Xposed Passwords Comprising Of ~850 Million Real Time Passwords](http://feedproxy.google.com/~r/PentestTools/~3/djD79KVqJpY/xposedornot-tool-to-search-aggregated.html)
 - [Dsync - IDAPython Plugin That Synchronizes Disassembler And Decompiler Views](http://feedproxy.google.com/~r/PentestTools/~3/cTZCZAOl5ZY/dsync-idapython-plugin-that.html)
 - [RFCpwn - An Enumeration And Exploitation Toolkit Using RFC Calls To SAP](http://feedproxy.google.com/~r/PentestTools/~3/SxCeVp5LrPY/rfcpwn-enumeration-and-exploitation.html)
