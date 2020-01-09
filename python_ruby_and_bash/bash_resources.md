@@ -48,6 +48,10 @@
 
 -   [BigBash](https://github.com/zalando/bigbash) - Open-source converter that generates a bash one-liner from an SQL Select query, no database necessary
 
+## Parsing Logs using Bash
+- [Ultimate Guide to Logging and Bash Data Manipulation](https://www.loggly.com/ultimate-guide/analyzing-linux-logs/)
+- [Using Grep & Regular Expressions to Search for Text Patterns in Linux](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux#regular-expressions)
+
 ## For Developers
 
 -   [bocker](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
