@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LNAV - Log File Navigator](http://feedproxy.google.com/~r/PentestTools/~3/3vkEu05vBmw/lnav-log-file-navigator.html)
 - [TuxResponse - Linux Incident Response](http://feedproxy.google.com/~r/PentestTools/~3/XkMJJaEjx_Q/tuxresponse-linux-incident-response.html)
 - [Stowaway - Multi-hop Proxy Tool For Pentesters](http://feedproxy.google.com/~r/PentestTools/~3/YKyUkJguG1o/stowaway-multi-hop-proxy-tool-for.html)
 - [Git-Vuln-Finder - Finding Potential Software Vulnerabilities From Git Commit Messages](http://feedproxy.google.com/~r/PentestTools/~3/6trl3SIo3BM/git-vuln-finder-finding-potential.html)
