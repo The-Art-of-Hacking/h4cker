@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Karonte - A Static Analysis Tool To Detect Multi-Binary Vulnerabilities In Embedded Firmware](http://feedproxy.google.com/~r/PentestTools/~3/Id6YHzVv09A/karonte-static-analysis-tool-to-detect.html)
 - [IotShark - Monitoring And Analyzing IoT Traffic](http://feedproxy.google.com/~r/PentestTools/~3/PeNmS58306Q/iotshark-monitoring-and-analyzing-iot.html)
 - [LNAV - Log File Navigator](http://feedproxy.google.com/~r/PentestTools/~3/3vkEu05vBmw/lnav-log-file-navigator.html)
 - [TuxResponse - Linux Incident Response](http://feedproxy.google.com/~r/PentestTools/~3/XkMJJaEjx_Q/tuxresponse-linux-incident-response.html)
