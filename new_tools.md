@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LAVA - Large-scale Automated Vulnerability Addition](http://feedproxy.google.com/~r/PentestTools/~3/NcAB_2aw32k/lava-large-scale-automated.html)
 - [Heapinspect - Inspect Heap In Python](http://feedproxy.google.com/~r/PentestTools/~3/IiCD14cYq24/heapinspect-inspect-heap-in-python.html)
 - [CHAPS - Configuration Hardening Assessment PowerShell Script](http://feedproxy.google.com/~r/PentestTools/~3/5KGQldrk1HE/chaps-configuration-hardening.html)
 - [Karonte - A Static Analysis Tool To Detect Multi-Binary Vulnerabilities In Embedded Firmware](http://feedproxy.google.com/~r/PentestTools/~3/Id6YHzVv09A/karonte-static-analysis-tool-to-detect.html)
