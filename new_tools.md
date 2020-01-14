@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SWFPFinder - SWF Potential Parameters Finder](http://feedproxy.google.com/~r/PentestTools/~3/oq6S3f4ZiN8/swfpfinder-swf-potential-parameters.html)
 - [laravelN00b - Automated Scan .env Files And Checking Debug Mode In Victim Host](http://feedproxy.google.com/~r/PentestTools/~3/2gcvf8zseEA/laraveln00b-automated-scan-env-files.html)
 - [Andriller - Software Utility With A Collection Of Forensic Tools For Smartphones](http://feedproxy.google.com/~r/PentestTools/~3/CGAtcMHkN58/andriller-software-utility-with.html)
 - [LAVA - Large-scale Automated Vulnerability Addition](http://feedproxy.google.com/~r/PentestTools/~3/NcAB_2aw32k/lava-large-scale-automated.html)
