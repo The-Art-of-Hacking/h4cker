@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Lsassy - Extract Credentials From Lsass Remotely](http://feedproxy.google.com/~r/PentestTools/~3/Mfhkp5fW17U/lsassy-extract-credentials-from-lsass.html)
 - [LOLBITS - C# Reverse Shell Using Background Intelligent Transfer Service (BITS) As Communication Protocol](http://feedproxy.google.com/~r/PentestTools/~3/8qthCOAJoKw/lolbits-c-reverse-shell-using.html)
 - [Shell Backdoor List - PHP / ASP Shell Backdoor List](http://feedproxy.google.com/~r/PentestTools/~3/4bTU5BSifCg/shell-backdoor-list-php-asp-shell.html)
 - [Hakrawler - Simple, Fast Web Crawler Designed For Easy, Quick Discovery Of Endpoints And Assets Within A Web Application](http://feedproxy.google.com/~r/PentestTools/~3/8uHkviu3bCQ/hakrawler-simple-fast-web-crawler.html)
