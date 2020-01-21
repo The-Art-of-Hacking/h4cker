@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Corsy v1.0 - CORS Misconfiguration Scanner](http://feedproxy.google.com/~r/PentestTools/~3/58-ls_cmwQw/corsy-v10-cors-misconfiguration-scanner.html)
 - [TeleGram-Scraper - Telegram Group Scraper Tool (Fetch All Information About Group Members)](http://feedproxy.google.com/~r/PentestTools/~3/2Eo2G25RcDQ/telegram-scraper-telegram-group-scraper.html)
 - [Grouper2 - Find Vulnerabilities In AD Group Policy](http://feedproxy.google.com/~r/PentestTools/~3/gWXrrK2NyKY/grouper2-find-vulnerabilities-in-ad.html)
 - [Gophish - Open-Source Phishing Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/btpn4JOATyY/gophish-open-source-phishing-toolkit.html)
