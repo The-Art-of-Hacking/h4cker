@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AlertResponder - Automatic Security Alert Response Framework By AWS Serverless Application Model](http://feedproxy.google.com/~r/PentestTools/~3/Wz_C66kvWFE/alertresponder-automatic-security-alert.html)
 - [TAS - A Tiny Framework For Easily Manipulate The Tty And Create Fake Binaries](http://feedproxy.google.com/~r/PentestTools/~3/HXA3Vvtm-Bk/tas-tiny-framework-for-easily.html)
 - [Corsy v1.0 - CORS Misconfiguration Scanner](http://feedproxy.google.com/~r/PentestTools/~3/58-ls_cmwQw/corsy-v10-cors-misconfiguration-scanner.html)
 - [TeleGram-Scraper - Telegram Group Scraper Tool (Fetch All Information About Group Members)](http://feedproxy.google.com/~r/PentestTools/~3/2Eo2G25RcDQ/telegram-scraper-telegram-group-scraper.html)
