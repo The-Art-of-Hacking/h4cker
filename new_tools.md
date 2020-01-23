@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpStat - C# Utility That Uses WMI To Run "cmd.exe /c netstat -n", Save The Output To A File, Then Use SMB To Read And Delete The File Remotely](http://feedproxy.google.com/~r/PentestTools/~3/L_7F6PqfmYQ/sharpstat-c-utility-that-uses-wmi-to.html)
 - [KsDumper - Dumping Processes Using The Power Of Kernel Space](http://feedproxy.google.com/~r/PentestTools/~3/WAXe05PXlLE/ksdumper-dumping-processes-using-power.html)
 - [YARASAFE - Automatic Binary Function Similarity Checks with Yara](http://feedproxy.google.com/~r/PentestTools/~3/Oj-R3rE4Nqs/yarasafe-automatic-binary-function.html)
 - [AlertResponder - Automatic Security Alert Response Framework By AWS Serverless Application Model](http://feedproxy.google.com/~r/PentestTools/~3/Wz_C66kvWFE/alertresponder-automatic-security-alert.html)
