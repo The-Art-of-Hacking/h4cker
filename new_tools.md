@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [KsDumper - Dumping Processes Using The Power Of Kernel Space](http://feedproxy.google.com/~r/PentestTools/~3/WAXe05PXlLE/ksdumper-dumping-processes-using-power.html)
 - [YARASAFE - Automatic Binary Function Similarity Checks with Yara](http://feedproxy.google.com/~r/PentestTools/~3/Oj-R3rE4Nqs/yarasafe-automatic-binary-function.html)
 - [AlertResponder - Automatic Security Alert Response Framework By AWS Serverless Application Model](http://feedproxy.google.com/~r/PentestTools/~3/Wz_C66kvWFE/alertresponder-automatic-security-alert.html)
 - [TAS - A Tiny Framework For Easily Manipulate The Tty And Create Fake Binaries](http://feedproxy.google.com/~r/PentestTools/~3/HXA3Vvtm-Bk/tas-tiny-framework-for-easily.html)
