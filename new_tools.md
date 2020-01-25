@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Memhunter - Live Hunting Of Code Injection Techniques](http://feedproxy.google.com/~r/PentestTools/~3/t80qn5tgm1w/memhunter-live-hunting-of-code.html)
 - [AgentSmith-HIDS - Open Source Host-based Intrusion Detection System (HIDS)](http://feedproxy.google.com/~r/PentestTools/~3/ktpMleroAeg/agentsmith-hids-open-source-host-based.html)
 - [Hershell - Multiplatform Reverse Shell Generator](http://feedproxy.google.com/~r/PentestTools/~3/rBBYS2KJVlk/hershell-multiplatform-reverse-shell.html)
 - [Check-LocalAdminHash - A PowerShell Tool That Attempts To Authenticate To Multiple Hosts Over Either WMI Or SMB Using A Password Hash To Determine If The Provided Credential Is A Local Administrator](http://feedproxy.google.com/~r/PentestTools/~3/-OGGgCcLOic/check-localadminhash-powershell-tool.html)
