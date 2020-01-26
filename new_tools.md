@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Aircrack-ng 1.6 - Complete Suite Of Tools To Assess WiFi Network Security](http://feedproxy.google.com/~r/PentestTools/~3/A9m6uTb9wwY/aircrack-ng-16-complete-suite-of-tools.html)
 - [Memhunter - Live Hunting Of Code Injection Techniques](http://feedproxy.google.com/~r/PentestTools/~3/t80qn5tgm1w/memhunter-live-hunting-of-code.html)
 - [AgentSmith-HIDS - Open Source Host-based Intrusion Detection System (HIDS)](http://feedproxy.google.com/~r/PentestTools/~3/ktpMleroAeg/agentsmith-hids-open-source-host-based.html)
 - [Hershell - Multiplatform Reverse Shell Generator](http://feedproxy.google.com/~r/PentestTools/~3/rBBYS2KJVlk/hershell-multiplatform-reverse-shell.html)
