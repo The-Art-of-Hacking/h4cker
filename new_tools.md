@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CredNinja - A Multithreaded Tool Designed To Identify If Credentials Are Valid, Invalid, Or Local Admin Valid Credentials Within A Network At-Scale Via SMB, Plus Now With A User Hunter](http://feedproxy.google.com/~r/PentestTools/~3/uvDDyxM0J6o/credninja-multithreaded-tool-designed.html)
 - [Mimir - Smart OSINT Collection Of Common IOC Types](http://feedproxy.google.com/~r/PentestTools/~3/_x0y2TtxD5w/mimir-smart-osint-collection-of-common.html)
 - [Socialscan - Check Email Address And Username Availability On Online Platforms With 100% Accuracy](http://feedproxy.google.com/~r/PentestTools/~3/yHydtjSLSqU/socialscan-check-email-address-and.html)
 - [Aircrack-ng 1.6 - Complete Suite Of Tools To Assess WiFi Network Security](http://feedproxy.google.com/~r/PentestTools/~3/A9m6uTb9wwY/aircrack-ng-16-complete-suite-of-tools.html)
