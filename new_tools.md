@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Obfuscapk - A Black-Box Obfuscation Tool For Android Apps](http://feedproxy.google.com/~r/PentestTools/~3/FL9KaM-xfFs/obfuscapk-black-box-obfuscation-tool.html)
 - [Kali Linux 2020.1 Release - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/RSHYk9L_sow/kali-linux-20201-release-penetration.html)
 - [PythonAESObfuscate - Obfuscates A Python Script And The Accompanying Shellcode](http://feedproxy.google.com/~r/PentestTools/~3/QEb6i3xJnFE/pythonaesobfuscate-obfuscates-python.html)
 - [ApplicationInspector - A Source Code Analyzer Built For Surfacing Features Of Interest And Other Characteristics To Answer The Question 'What'S In It' Using Static Analysis With A Json Based Rules Engine](http://feedproxy.google.com/~r/PentestTools/~3/mCSCxjbcOGE/applicationinspector-source-code.html)
