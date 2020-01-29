@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Blinder - A Python Library To Automate Time-Based Blind SQL Injection](http://feedproxy.google.com/~r/PentestTools/~3/YQkDIo_3R6s/blinder-python-library-to-automate-time.html)
 - [Obfuscapk - A Black-Box Obfuscation Tool For Android Apps](http://feedproxy.google.com/~r/PentestTools/~3/FL9KaM-xfFs/obfuscapk-black-box-obfuscation-tool.html)
 - [Kali Linux 2020.1 Release - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/RSHYk9L_sow/kali-linux-20201-release-penetration.html)
 - [PythonAESObfuscate - Obfuscates A Python Script And The Accompanying Shellcode](http://feedproxy.google.com/~r/PentestTools/~3/QEb6i3xJnFE/pythonaesobfuscate-obfuscates-python.html)
