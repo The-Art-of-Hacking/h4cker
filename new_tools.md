@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Project-Black - Pentest/BugBounty Progress Control With Scanning Modules](http://feedproxy.google.com/~r/PentestTools/~3/Ax6sehyyy7Q/project-black-pentestbugbounty-progress.html)
 - [RiskAssessmentFramework - Static Application Security Testing](http://feedproxy.google.com/~r/PentestTools/~3/tKjitJqHxMY/riskassessmentframework-static.html)
 - [MassDNS - A High-Performance DNS Stub Resolver For Bulk Lookups And Reconnaissance (Subdomain Enumeration)](http://feedproxy.google.com/~r/PentestTools/~3/wardjAcW3y8/massdns-high-performance-dns-stub.html)
 - [S3Enum - Fast Amazon S3 Bucket Enumeration Tool For Pentesters](http://feedproxy.google.com/~r/PentestTools/~3/cRCWjBIgR3Q/s3enum-fast-amazon-s3-bucket.html)
