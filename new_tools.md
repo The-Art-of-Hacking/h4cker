@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PCFG Cracker - Probabilistic Context Free Grammar (PCFG) Password Guess Generator](http://feedproxy.google.com/~r/PentestTools/~3/pUPLSnr8DAg/pcfg-cracker-probabilistic-context-free.html)
 - [DVNA - Damn Vulnerable NodeJS Application](http://feedproxy.google.com/~r/PentestTools/~3/PK1o0xNPV_c/dvna-damn-vulnerable-nodejs-application.html)
 - [GDA Android Reversing Tool - A New Decompiler Written Entirely In C++, So It Does Not Rely On The Java Platform, Which Is Succinct, Portable And Fast, And Supports APK, DEX, ODEX, Oat](http://feedproxy.google.com/~r/PentestTools/~3/d0P7zuioR8E/gda-android-reversing-tool-new.html)
 - [Project-Black - Pentest/BugBounty Progress Control With Scanning Modules](http://feedproxy.google.com/~r/PentestTools/~3/Ax6sehyyy7Q/project-black-pentestbugbounty-progress.html)
