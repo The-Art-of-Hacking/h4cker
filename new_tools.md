@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WhatTheHack - A Collection Of Challenge Based Hack-A-Thons Including Student Guide, Proctor Guide, Lecture Presentations, Sample/Instructional Code And Templates](http://feedproxy.google.com/~r/PentestTools/~3/UVLZMgsEoyE/whatthehack-collection-of-challenge.html)
 - [Injectus - CRLF And Open Redirect Fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/4Y4q9n5vYvI/injectus-crlf-and-open-redirect-fuzzer.html)
 - [PCFG Cracker - Probabilistic Context Free Grammar (PCFG) Password Guess Generator](http://feedproxy.google.com/~r/PentestTools/~3/pUPLSnr8DAg/pcfg-cracker-probabilistic-context-free.html)
 - [DVNA - Damn Vulnerable NodeJS Application](http://feedproxy.google.com/~r/PentestTools/~3/PK1o0xNPV_c/dvna-damn-vulnerable-nodejs-application.html)
