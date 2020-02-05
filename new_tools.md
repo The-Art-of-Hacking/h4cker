@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dufflebag - Search Exposed EBS Volumes For Secrets](http://feedproxy.google.com/~r/PentestTools/~3/lY7u0_HX1rY/dufflebag-search-exposed-ebs-volumes.html)
 - [Qiling - Advanced Binary Emulation Framework](http://feedproxy.google.com/~r/PentestTools/~3/so35MNAD8Ds/qiling-advanced-binary-emulation.html)
 - [Nfstream - A Flexible Network Data Analysis Framework](http://feedproxy.google.com/~r/PentestTools/~3/7wTSiAirmI4/nfstream-flexible-network-data-analysis.html)
 - [WhatTheHack - A Collection Of Challenge Based Hack-A-Thons Including Student Guide, Proctor Guide, Lecture Presentations, Sample/Instructional Code And Templates](http://feedproxy.google.com/~r/PentestTools/~3/UVLZMgsEoyE/whatthehack-collection-of-challenge.html)
