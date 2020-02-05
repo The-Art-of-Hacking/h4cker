@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Jaeles v0.4 - The Swiss Army Knife For Automated Web Application Testing](http://feedproxy.google.com/~r/PentestTools/~3/0ZdNMINytRU/jaeles-v04-swiss-army-knife-for.html)
 - [Dufflebag - Search Exposed EBS Volumes For Secrets](http://feedproxy.google.com/~r/PentestTools/~3/lY7u0_HX1rY/dufflebag-search-exposed-ebs-volumes.html)
 - [Qiling - Advanced Binary Emulation Framework](http://feedproxy.google.com/~r/PentestTools/~3/so35MNAD8Ds/qiling-advanced-binary-emulation.html)
 - [Nfstream - A Flexible Network Data Analysis Framework](http://feedproxy.google.com/~r/PentestTools/~3/7wTSiAirmI4/nfstream-flexible-network-data-analysis.html)
