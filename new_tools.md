@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Re2Pcap - Create PCAP file from raw HTTP request or response in seconds](http://feedproxy.google.com/~r/PentestTools/~3/yN0HmWU-WRs/re2pcap-create-pcap-file-from-raw-http.html)
 - [Takeover v0.2 - Sub-Domain TakeOver Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/IDqUAZyTWp8/takeover-v02-sub-domain-takeover.html)
 - [Misp-Dashboard - A Dashboard For A Real-Time Overview Of Threat Intelligence From MISP Instances](http://feedproxy.google.com/~r/PentestTools/~3/njo_mxuM5uQ/misp-dashboard-dashboard-for-real-time.html)
 - [Jaeles v0.4 - The Swiss Army Knife For Automated Web Application Testing](http://feedproxy.google.com/~r/PentestTools/~3/0ZdNMINytRU/jaeles-v04-swiss-army-knife-for.html)
