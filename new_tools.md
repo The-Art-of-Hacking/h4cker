@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hashcracker - Python Hash Cracker](http://feedproxy.google.com/~r/PentestTools/~3/tQ9w6e50haI/hashcracker-python-hash-cracker.html)
 - [KawaiiDeauther - Jam All Wifi Clients/Routers](http://feedproxy.google.com/~r/PentestTools/~3/I4p_-V-WdL4/kawaiideauther-jam-all-wifi.html)
 - [Agente - Distributed Simple And Robust Release Management And Monitoring System](http://feedproxy.google.com/~r/PentestTools/~3/MMfIyPc4oQY/agente-distributed-simple-and-robust.html)
 - [XSS-Freak - An XSS Scanner Fully Written In Python3 From Scratch](http://feedproxy.google.com/~r/PentestTools/~3/zKryaXden3w/xss-freak-xss-scanner-fully-written-in.html)
