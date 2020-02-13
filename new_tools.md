@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Aduket - Straight-forward HTTP Client Testing, Assertions Included](http://feedproxy.google.com/~r/PentestTools/~3/IoOp4Q2Bsdw/aduket-straight-forward-http-client.html)
 - [OpenRelayMagic - Tool To Find SMTP Servers Vulnerable To Open Relay](http://feedproxy.google.com/~r/PentestTools/~3/8djCQDrFViE/openrelaymagic-tool-to-find-smtp.html)
 - [Hashcracker - Python Hash Cracker](http://feedproxy.google.com/~r/PentestTools/~3/tQ9w6e50haI/hashcracker-python-hash-cracker.html)
 - [KawaiiDeauther - Jam All Wifi Clients/Routers](http://feedproxy.google.com/~r/PentestTools/~3/I4p_-V-WdL4/kawaiideauther-jam-all-wifi.html)
