@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nray - Distributed Port Scanner](http://feedproxy.google.com/~r/PentestTools/~3/uUwUFSIzAtI/nray-distributed-port-scanner.html)
 - [BurpSuite Random User-Agents - Burp Suite Extension For Generate A Random User-Agents](http://feedproxy.google.com/~r/PentestTools/~3/XWRZVszjjKQ/burpsuite-random-user-agents-burp-suite.html)
 - [CTFTOOL - Interactive CTF Exploration Tool](http://feedproxy.google.com/~r/PentestTools/~3/SMda1qfS7rQ/ctftool-interactive-ctf-exploration-tool.html)
 - [Aduket - Straight-forward HTTP Client Testing, Assertions Included](http://feedproxy.google.com/~r/PentestTools/~3/IoOp4Q2Bsdw/aduket-straight-forward-http-client.html)
