@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DrSemu - Malware Detection And Classification Tool Based On Dynamic Behavior](http://feedproxy.google.com/~r/PentestTools/~3/FA9NSGPorlI/drsemu-malware-detection-and.html)
 - [Syborg - Recursive DNS Subdomain Enumerator With Dead-End Avoidance System](http://feedproxy.google.com/~r/PentestTools/~3/oPQt_c36ATg/syborg-recursive-dns-subdomain.html)
 - [Manul - A Coverage-Guided Parallel Fuzzer For Open-Source And Blackbox Binaries On Windows, Linux And MacOS](http://feedproxy.google.com/~r/PentestTools/~3/UD2xNacURp8/manul-coverage-guided-parallel-fuzzer.html)
 - [Fuzzowski - The Network Protocol Fuzzer That We Will Want To Use](http://feedproxy.google.com/~r/PentestTools/~3/eu4riYMhOb4/fuzzowski-network-protocol-fuzzer-that.html)
