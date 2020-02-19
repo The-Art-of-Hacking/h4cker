@@ -23,6 +23,7 @@
 
 -   [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell
 -   [bashhub](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
+-   [bashhub-server](https://github.com/nicksherron/bashhub-server) - Private cloud shell history. Open source server for bashhub.
 -   [bashmarks](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 -   [commacd](https://github.com/shyiko/commacd) - A faster way to move around in Bash
 -   [has](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
