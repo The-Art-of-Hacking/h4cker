@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [0L4Bs - Cross-site Scripting Labs For Web Application Security Enthusiasts](http://feedproxy.google.com/~r/PentestTools/~3/Y4d76WceP4E/0l4bs-cross-site-scripting-labs-for-web.html)
 - [CVE Api - Parse & filter the latest CVEs from cve.mitre.org](http://feedproxy.google.com/~r/PentestTools/~3/Ek-Lal8-LH8/cve-api-parse-filter-latest-cves-from.html)
 - [NekoBot - Auto Exploiter With 500+ Exploit 2000+ Shell](http://feedproxy.google.com/~r/PentestTools/~3/u2JnZaho9cA/nekobot-auto-exploiter-with-500-exploit.html)
 - [Gospider - Fast Web Spider Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/PdxXgvqeH3g/gospider-fast-web-spider-written-in-go.html)
