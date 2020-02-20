@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Adama - Searches For Threat Hunting And Security Analytics](http://feedproxy.google.com/~r/PentestTools/~3/Lw8c0rtzWHk/adama-searches-for-threat-hunting-and.html)
 - [Metabigor - Intelligence Tool But Without API Key](http://feedproxy.google.com/~r/PentestTools/~3/H-YTt6OEKcU/metabigor-intelligence-tool-but-without.html)
 - [Rabid - A CLI Tool And Library Allowing To Simply Decode All Kind Of BigIP Cookies](http://feedproxy.google.com/~r/PentestTools/~3/1JMZZAEpemQ/rabid-cli-tool-and-library-allowing-to.html)
 - [0L4Bs - Cross-site Scripting Labs For Web Application Security Enthusiasts](http://feedproxy.google.com/~r/PentestTools/~3/Y4d76WceP4E/0l4bs-cross-site-scripting-labs-for-web.html)
