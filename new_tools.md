@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TaskManager-Button-Disabler - Simple Way To Disable/Rename Buttons From A Task Manager](http://feedproxy.google.com/~r/PentestTools/~3/i-DTAybLUlQ/taskmanager-button-disabler-simple-way.html)
 - [SUDO_KILLER - A Tool To Identify And Exploit Sudo Rules' Misconfigurations And Vulnerabilities Within Sudo](http://feedproxy.google.com/~r/PentestTools/~3/mJ6rC9VO2Lw/sudokiller-tool-to-identify-and-exploit.html)
 - [Adama - Searches For Threat Hunting And Security Analytics](http://feedproxy.google.com/~r/PentestTools/~3/Lw8c0rtzWHk/adama-searches-for-threat-hunting-and.html)
 - [Metabigor - Intelligence Tool But Without API Key](http://feedproxy.google.com/~r/PentestTools/~3/H-YTt6OEKcU/metabigor-intelligence-tool-but-without.html)
