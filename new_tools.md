@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SUDO_KILLER - A Tool To Identify And Exploit Sudo Rules' Misconfigurations And Vulnerabilities Within Sudo](http://feedproxy.google.com/~r/PentestTools/~3/mJ6rC9VO2Lw/sudokiller-tool-to-identify-and-exploit.html)
 - [Adama - Searches For Threat Hunting And Security Analytics](http://feedproxy.google.com/~r/PentestTools/~3/Lw8c0rtzWHk/adama-searches-for-threat-hunting-and.html)
 - [Metabigor - Intelligence Tool But Without API Key](http://feedproxy.google.com/~r/PentestTools/~3/H-YTt6OEKcU/metabigor-intelligence-tool-but-without.html)
 - [Rabid - A CLI Tool And Library Allowing To Simply Decode All Kind Of BigIP Cookies](http://feedproxy.google.com/~r/PentestTools/~3/1JMZZAEpemQ/rabid-cli-tool-and-library-allowing-to.html)
