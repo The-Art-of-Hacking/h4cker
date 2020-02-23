@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DLLPasswordFilterImplant - DLL Password Filter Implant With Exfiltration Capabilities](http://feedproxy.google.com/~r/PentestTools/~3/mifVxsKvfDU/dllpasswordfilterimplant-dll-password.html)
 - [Ohmybackup - Scan Victim Backup Directories & Backup Files](http://feedproxy.google.com/~r/PentestTools/~3/ZCghGgPokOs/ohmybackup-scan-victim-backup.html)
 - [Gadgetinspector - A Byte Code Analyzer For Finding Deserialization Gadget Chains In Java Applications](http://feedproxy.google.com/~r/PentestTools/~3/616DRhcc9PY/gadgetinspector-byte-code-analyzer-for.html)
 - [OWASP D4N155 - Intelligent And Dynamic Wordlist Using OSINT](http://feedproxy.google.com/~r/PentestTools/~3/n1VoccnlfBQ/owasp-d4n155-intelligent-and-dynamic.html)
