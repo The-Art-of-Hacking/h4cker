@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Faraday presents the latest version of their Security Platform for Vulnerability Management Automation](http://feedproxy.google.com/~r/PentestTools/~3/o3jspfMgbBg/faraday-presents-latest-version-of.html)
 - [Dnssearch - A Subdomain Enumeration Tool](http://feedproxy.google.com/~r/PentestTools/~3/cSEFFSWU82Y/dnssearch-subdomain-enumeration-tool.html)
 - [Liffy - Local File Inclusion Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/doCxm7pPktM/liffy-local-file-inclusion-exploitation.html)
 - [DLLPasswordFilterImplant - DLL Password Filter Implant With Exfiltration Capabilities](http://feedproxy.google.com/~r/PentestTools/~3/mifVxsKvfDU/dllpasswordfilterimplant-dll-password.html)
