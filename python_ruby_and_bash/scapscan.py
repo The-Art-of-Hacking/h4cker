@@ -5,6 +5,7 @@ version 1.0
 This is a quick demonstration on how to use the scapy as a scanner
 * Pre-requisite: scapy, prettytable, argparse
 """
+from __future__ import print_function
 
 import sys
 import prettytable
@@ -148,8 +149,8 @@ def start(your_target,your_ports,your_timeout):
     port_list = your_ports
     user_dst_timeout = your_timeout
 
-    print "[+] Target : %s\n" % user_dst_ip
-    print "[*] Scan started\n"
+    print("[+] Target : %s\n" % user_dst_ip)
+    print("[*] Scan started\n")
 
     for i in port_list:
         tcp_connect_scan_res = tcp_connect_scan(user_dst_ip,int(i),int(user_dst_timeout))
@@ -161,9 +162,9 @@ def start(your_target,your_ports,your_timeout):
         window_scan_res = window_scan(user_dst_ip,int(i),int(user_dst_timeout))
         udp_scan_res = udp_scan(user_dst_ip,int(i),int(user_dst_timeout))
         x.add_row([i,tcp_connect_scan_res,stealth_scan_res,xmas_scan_res,fin_scan_res,null_scan_res,ack_flag_scan_res,window_scan_res,udp_scan_res])
-    print x
+    print(x)
 
-    print "\n[*] Scan completed\n"
+    print("\n[*] Scan completed\n")
 
 
 def banner():
@@ -184,7 +185,7 @@ usage: scapy_stealth_scan.py [-h] [-p] [-pl] [-pr] [-t] target
 
 ************************************************************
    	"""
-    print bannerTxt
+    print(bannerTxt)
 
 
 def main():
@@ -215,7 +216,7 @@ def main():
     timeout = int( args.t)
 
     if(not len(ports)>0):
-            print "No ports specified.\nUse -h or --help to see the help menu"
+            print("No ports specified.\nUse -h or --help to see the help menu")
             exit(0)
 
     ports = list(set(ports))
