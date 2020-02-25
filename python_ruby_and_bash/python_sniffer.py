@@ -5,6 +5,7 @@
 # snifffer (packet capture script) using python.
 #####################################################################
 
+from __future__ import print_function
 import socket
  
 #create an INET, raw socket
@@ -14,4 +15,4 @@ s = socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_TCP)
 while True:
 
    # print output on terminal
-   print s.recvfrom(65565)
+   print(s.recvfrom(65565))
