@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Progress-Burp - Burp Suite Extension To Track Vulnerability Assessment Progress](http://feedproxy.google.com/~r/PentestTools/~3/eKC-H8D-mlc/progress-burp-burp-suite-extension-to.html)
 - [Faraday presents the latest version of their Security Platform for Vulnerability Management Automation](http://feedproxy.google.com/~r/PentestTools/~3/o3jspfMgbBg/faraday-presents-latest-version-of.html)
 - [ABD - Course Materials For Advanced Binary Deobfuscation](http://feedproxy.google.com/~r/PentestTools/~3/20oxrKN1-QM/abd-course-materials-for-advanced.html)
 - [Wifi-Hacker - Shell Script For Attacking Wireless Connections Using Built-In Kali Tools](http://feedproxy.google.com/~r/PentestTools/~3/reqKjsxqjec/wifi-hacker-shell-script-for-attacking.html)
