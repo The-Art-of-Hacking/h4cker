@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Polyshell - A Bash/Batch/PowerShell Polyglot!](http://feedproxy.google.com/~r/PentestTools/~3/lBSRHwUKH54/polyshell-bashbatchpowershell-polyglot.html)
 - [Mouse Framework - An iOS And macOS Post Exploitation Surveillance Framework That Gives You A Command Line Session With Extra Functionality Between You And A Target Machine Using Only A Simple Mouse Payload](http://feedproxy.google.com/~r/PentestTools/~3/44DtEktjcjs/mouse-framework-ios-and-macos-post.html)
 - [Multi-Juicer - Run Capture The Flags And Security Trainings With OWASP Juice Shop](http://feedproxy.google.com/~r/PentestTools/~3/rp0ruyY5g8Y/multi-juicer-run-capture-flags-and.html)
 - [Progress-Burp - Burp Suite Extension To Track Vulnerability Assessment Progress](http://feedproxy.google.com/~r/PentestTools/~3/eKC-H8D-mlc/progress-burp-burp-suite-extension-to.html)
