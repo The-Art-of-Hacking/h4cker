@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BadBlood - Fills A Microsoft Active Directory Domain With A Structure And Thousands Of Objects](http://feedproxy.google.com/~r/PentestTools/~3/0RIQKSdcD7g/badblood-fills-microsoft-active.html)
 - [Xencrypt - A PowerShell Script Anti-Virus Evasion Tool](http://feedproxy.google.com/~r/PentestTools/~3/tsG6j90hzCs/xencrypt-powershell-script-anti-virus.html)
 - [Subfinder - A Subdomain Discovery Tool That Discovers Valid Subdomains For Websites](http://feedproxy.google.com/~r/PentestTools/~3/vCZaCN82KYg/subfinder-subdomain-discovery-tool-that.html)
 - [Extended-SSRF-Search - Smart SSRF Scanner Using Different Methods Like Parameter Brute Forcing In Post And Get...](http://feedproxy.google.com/~r/PentestTools/~3/af0QkevNIdM/extended-ssrf-search-smart-ssrf-scanner.html)
