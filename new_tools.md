@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WiFi Passview v2.0 - An Open Source Batch Script Based WiFi Passview For Windows!](http://feedproxy.google.com/~r/PentestTools/~3/n6DKUp7nr78/wifi-passview-v20-open-source-batch.html)
 - [dnsFookup - DNS Rebinding Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/F41mOliutE4/dnsfookup-dns-rebinding-toolkit.html)
 - [BadBlood - Fills A Microsoft Active Directory Domain With A Structure And Thousands Of Objects](http://feedproxy.google.com/~r/PentestTools/~3/0RIQKSdcD7g/badblood-fills-microsoft-active.html)
 - [Xencrypt - A PowerShell Script Anti-Virus Evasion Tool](http://feedproxy.google.com/~r/PentestTools/~3/tsG6j90hzCs/xencrypt-powershell-script-anti-virus.html)
