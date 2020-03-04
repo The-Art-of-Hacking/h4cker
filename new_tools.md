@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PrivescCheck - Privilege Escalation Enumeration Script For Windows](http://feedproxy.google.com/~r/PentestTools/~3/bYpS9N5_1u8/privesccheck-privilege-escalation.html)
 - [TwitWork - Monitor Twitter Stream](http://feedproxy.google.com/~r/PentestTools/~3/b-cPMo5l19E/twitwork-monitor-twitter-stream.html)
 - [XCTR Hacking Tools - All in one tools for Information Gathering](http://feedproxy.google.com/~r/PentestTools/~3/b6aWbeWNuv8/xctr-hacking-tools-all-in-one-tools-for.html)
 - [WiFi Passview v2.0 - An Open Source Batch Script Based WiFi Passview For Windows!](http://feedproxy.google.com/~r/PentestTools/~3/n6DKUp7nr78/wifi-passview-v20-open-source-batch.html)
