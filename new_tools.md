@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpRDP - Remote Desktop Protocol .NET Console Application For Authenticated Command Execution](http://feedproxy.google.com/~r/PentestTools/~3/lFPSF5jJpIc/sharprdp-remote-desktop-protocol-net.html)
 - [Ghost Framework - An Android Post Exploitation Framework That Uses An Android Debug Bridge To Remotely Access A n Android Device](http://feedproxy.google.com/~r/PentestTools/~3/PkP7ZK50a2g/ghost-framework-android-post.html)
 - [Extended-XSS-Search - Scans For Different Types Of XSS On A List Of URLs](http://feedproxy.google.com/~r/PentestTools/~3/c6DJVlJH-TQ/extended-xss-search-scans-for-different.html)
 - [Phonia Toolkit - One Of The Most Advanced Toolkits To Scan Phone Numbers Using Only Free Resources](http://feedproxy.google.com/~r/PentestTools/~3/dEM8uP1mKfM/phonia-toolkit-one-of-most-advanced.html)
