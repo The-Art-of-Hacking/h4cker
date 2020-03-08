@@ -89,13 +89,13 @@ def TR_check_auth(function, param):
     return response
 
 
-def TR_query(observable):
+def TR_query(text_block):
     ''' Pass the functions and parameters to check_auth to query the API
         Return the final response
     '''
     response = TR_check_auth(TR_inspect, text_block)
     inspect_output = response.text
-    response = TR_check_auth(TR_enrich, inspect_output)
+    response = TR_check_auth(TR_enrich, inspect_output)  # TR_enrich() is undefined
     return response
 
 def TR_inspect(text_block):
