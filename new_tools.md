@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NTLMRecon - A Tool To Enumerate Information From NTLM Authentication Enabled Web Endpoints](http://feedproxy.google.com/~r/PentestTools/~3/-5fIrhdV5wU/ntlmrecon-tool-to-enumerate-information.html)
 - [HoneyBot - Capture, Upload And Analyze Network Traffic](http://feedproxy.google.com/~r/PentestTools/~3/fuF8npyiVbc/honeybot-capture-upload-and-analyze.html)
 - [HTTP Asynchronous Reverse Shell - Asynchronous Reverse Shell Using The HTTP Protocol](http://feedproxy.google.com/~r/PentestTools/~3/3KNoIjiuWq8/http-asynchronous-reverse-shell.html)
 - [Entropy Toolkit - A Set Of Tools To Exploit Netwave And GoAhead IP Webcams](http://feedproxy.google.com/~r/PentestTools/~3/NNcllHwMmEc/entropy-toolkit-set-of-tools-to-exploit.html)
