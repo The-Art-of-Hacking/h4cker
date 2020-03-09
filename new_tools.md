@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Evil SSDP - Spoof SSDP Replies And Create Fake UPnP Devices To Phish For Credentials And NetNTLM Challenge/Response](http://feedproxy.google.com/~r/PentestTools/~3/2_EEUCxHTOg/evil-ssdp-spoof-ssdp-replies-and-create.html)
 - [Proton Framework - A Windows Post Exploitation Framework Similar To Other Penetration Testing Tools Such As Meterpreter And Powershell Invader Framework](http://feedproxy.google.com/~r/PentestTools/~3/iwgsy9fNa_Q/proton-framework-windows-post.html)
 - [NTLMRecon - A Tool To Enumerate Information From NTLM Authentication Enabled Web Endpoints](http://feedproxy.google.com/~r/PentestTools/~3/-5fIrhdV5wU/ntlmrecon-tool-to-enumerate-information.html)
 - [HoneyBot - Capture, Upload And Analyze Network Traffic](http://feedproxy.google.com/~r/PentestTools/~3/fuF8npyiVbc/honeybot-capture-upload-and-analyze.html)
