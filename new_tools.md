@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sifter - A OSINT, Recon And Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/jtvcLi48esc/sifter-osint-recon-and-vulnerability.html)
 - [FuzzBench - Fuzzer Benchmarking As A Service](http://feedproxy.google.com/~r/PentestTools/~3/YSLbgTkNe8I/fuzzbench-fuzzer-benchmarking-as-service.html)
 - [SSRF Sheriff - A Simple SSRF-testing Sheriff Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/LYrEi0Rzzok/ssrf-sheriff-simple-ssrf-testing.html)
 - [Evil SSDP - Spoof SSDP Replies And Create Fake UPnP Devices To Phish For Credentials And NetNTLM Challenge/Response](http://feedproxy.google.com/~r/PentestTools/~3/2_EEUCxHTOg/evil-ssdp-spoof-ssdp-replies-and-create.html)
