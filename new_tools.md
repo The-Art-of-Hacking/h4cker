@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TEA - Ssh-Client Worm](http://feedproxy.google.com/~r/PentestTools/~3/F1A172DU-rM/tea-ssh-client-worm.html)
 - [Zelos - A Comprehensive Binary Emulation Platform](http://feedproxy.google.com/~r/PentestTools/~3/qKXzoe5Eh0E/zelos-comprehensive-binary-emulation.html)
 - [Pickl3 - Windows Active User Credential Phishing Tool](http://feedproxy.google.com/~r/PentestTools/~3/_iEA0MZdCwY/pickl3-windows-active-user-credential.html)
 - [Betwixt - Web Debugging Proxy Based On Chrome DevTools Network Panel](http://feedproxy.google.com/~r/PentestTools/~3/l5D0QslTtdA/betwixt-web-debugging-proxy-based-on.html)
