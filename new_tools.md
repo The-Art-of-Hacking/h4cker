@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [shuffleDNS -  Wrapper Around Massdns Written In Go That Allows You To Enumerate Valid Subdomains](http://feedproxy.google.com/~r/PentestTools/~3/rrx6tcXT4Vg/shuffledns-wrapper-around-massdns.html)
 - [AWSGen.py - Generates Permutations, Alterations And Mutations Of AWS S3 Buckets Names](http://feedproxy.google.com/~r/PentestTools/~3/SagQLMEKNHs/awsgenpy-generates-permutations.html)
 - [Jeopardize - A Low(Zero) Cost Threat Intelligence & Response Tool Against Phishing Domains](http://feedproxy.google.com/~r/PentestTools/~3/1OfTItxHps8/jeopardize-lowzero-cost-threat.html)
 - [TEA - Ssh-Client Worm](http://feedproxy.google.com/~r/PentestTools/~3/F1A172DU-rM/tea-ssh-client-worm.html)
