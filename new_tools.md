@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pypykatz - Mimikatz Implementation In Pure Python](http://feedproxy.google.com/~r/PentestTools/~3/5PztilQx0u4/pypykatz-mimikatz-implementation-in.html)
 - [Token-Reverser - Word List Generator To Crack Security Tokens](http://feedproxy.google.com/~r/PentestTools/~3/X2bKRiEGktY/token-reverser-word-list-generator-to.html)
 - [shuffleDNS -  Wrapper Around Massdns Written In Go That Allows You To Enumerate Valid Subdomains](http://feedproxy.google.com/~r/PentestTools/~3/rrx6tcXT4Vg/shuffledns-wrapper-around-massdns.html)
 - [AWSGen.py - Generates Permutations, Alterations And Mutations Of AWS S3 Buckets Names](http://feedproxy.google.com/~r/PentestTools/~3/SagQLMEKNHs/awsgenpy-generates-permutations.html)
