@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sshuttle - Transparent Proxy Server That Works As A Poor Man'S VPN. Forwards Over SSH](http://feedproxy.google.com/~r/PentestTools/~3/_Z-rOpqm7NU/sshuttle-transparent-proxy-server-that.html)
 - [Lazydocker - The Lazier Way To Manage Everything Docker](http://feedproxy.google.com/~r/PentestTools/~3/m8cMANdPG5I/lazydocker-lazier-way-to-manage.html)
 - [Pypykatz - Mimikatz Implementation In Pure Python](http://feedproxy.google.com/~r/PentestTools/~3/5PztilQx0u4/pypykatz-mimikatz-implementation-in.html)
 - [Token-Reverser - Word List Generator To Crack Security Tokens](http://feedproxy.google.com/~r/PentestTools/~3/X2bKRiEGktY/token-reverser-word-list-generator-to.html)
