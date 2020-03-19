@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [InstaSave - Python Script To Download Images, Videos & Profile Pictures From Instagram](http://feedproxy.google.com/~r/PentestTools/~3/MkEScdqkcss/instasave-python-script-to-download.html)
 - [xShock - Shellshock Exploit](http://feedproxy.google.com/~r/PentestTools/~3/CpqroyrzxeE/xshock-shellshock-exploit.html)
 - [Chepy - A Python Lib/Cli Equivalent Of The Awesome CyberChef Tool.](http://feedproxy.google.com/~r/PentestTools/~3/10m1tFD1-VA/chepy-python-libcli-equivalent-of.html)
 - [Sshuttle - Transparent Proxy Server That Works As A Poor Man'S VPN. Forwards Over SSH](http://feedproxy.google.com/~r/PentestTools/~3/_Z-rOpqm7NU/sshuttle-transparent-proxy-server-that.html)
