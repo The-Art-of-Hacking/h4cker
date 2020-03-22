@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Astra - Automated Security Testing For REST API's](http://feedproxy.google.com/~r/PentestTools/~3/hG6EAgiwsNY/astra-automated-security-testing-for.html)
 - [HTTPS Everywhere - A Browser Extension That Encrypts Your Communications With Many Websites That Offer HTTPS But Still Allow Unencrypted Connections](http://feedproxy.google.com/~r/PentestTools/~3/paesHNCAgvc/https-everywhere-browser-extension-that.html)
 - [uDork - Google Hacking Tool](http://feedproxy.google.com/~r/PentestTools/~3/1dZLaMyTZaw/udork-google-hacking-tool.html)
 - [XXExploiter - Tool To Help Exploit XXE Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/W5MJnUs6UJU/xxexploiter-tool-to-help-exploit-xxe.html)
