@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [XSS-LOADER - XSS Payload Generator / XSS Scanner / XSS Dork Finder](http://feedproxy.google.com/~r/PentestTools/~3/4Q8ciQPdm90/xss-loader-xss-payload-generator-xss.html)
 - [Starkiller - A Frontend For PowerShell Empire](http://feedproxy.google.com/~r/PentestTools/~3/elk1Q6oQ6Mo/starkiller-frontend-for-powershell.html)
 - [FinalRecon v1.0.2 - OSINT Tool For All-In-One Web Reconnaissance](http://feedproxy.google.com/~r/PentestTools/~3/3okvQ1-7I50/finalrecon-v102-osint-tool-for-all-in.html)
 - [ScoringEngine - Scoring Engine For Red/White/Blue Team Competitions](http://feedproxy.google.com/~r/PentestTools/~3/6nojO49JRLQ/scoringengine-scoring-engine-for.html)
