@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Katana - A Python Tool For Google Hacking](http://feedproxy.google.com/~r/PentestTools/~3/tCnTDF-uHjw/katana-python-tool-for-google-hacking.html)
 - [Envizon v3.0 - Network Visualization And Vulnerability Management/Reporting](http://feedproxy.google.com/~r/PentestTools/~3/X41oXKd4gkU/envizon-v30-network-visualization-and.html)
 - [Zphisher - Automated Phishing Tool](http://feedproxy.google.com/~r/PentestTools/~3/j5xeLa9VQ88/zphisher-automated-phishing-tool.html)
 - [XSS-LOADER - XSS Payload Generator / XSS Scanner / XSS Dork Finder](http://feedproxy.google.com/~r/PentestTools/~3/4Q8ciQPdm90/xss-loader-xss-payload-generator-xss.html)
