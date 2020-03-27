@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ProjectOpal - Stealth Post-Exploitation Framework For Wordpress](http://feedproxy.google.com/~r/PentestTools/~3/bX1FcSaxu5Q/projectopal-stealth-post-exploitation.html)
 - [ConEmu - Customizable Windows Terminal With Tabs, Splits, Quake-Style, Hotkeys And More](http://feedproxy.google.com/~r/PentestTools/~3/ta1XP283qPo/conemu-customizable-windows-terminal.html)
 - [Tinfoil Chat - Onion-routed, Endpoint Secure Messaging System](http://feedproxy.google.com/~r/PentestTools/~3/z86do2O4OzU/tinfoil-chat-onion-routed-endpoint.html)
 - [Tinfoil Chat - Onion-routed, Endpoint Secure Messaging System](http://feedproxy.google.com/~r/PentestTools/~3/z86do2O4OzU/tinfoil-chat-onion-routed-endpoint.html)
