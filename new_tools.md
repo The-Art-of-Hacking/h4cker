@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Tinfoil Chat - Onion-routed, Endpoint Secure Messaging System](http://feedproxy.google.com/~r/PentestTools/~3/z86do2O4OzU/tinfoil-chat-onion-routed-endpoint.html)
 - [Ninja - Open Source C2 Server Created For Stealth Red Team Operations](http://feedproxy.google.com/~r/PentestTools/~3/MWgMhafBiNM/ninja-open-source-c2-server-created-for.html)
 - [RapidPayload - Metasploit Payload Generator](http://feedproxy.google.com/~r/PentestTools/~3/W8bo7CzkDwc/rapidpayload-metasploit-payload.html)
 - [Katana - A Python Tool For Google Hacking](http://feedproxy.google.com/~r/PentestTools/~3/tCnTDF-uHjw/katana-python-tool-for-google-hacking.html)
