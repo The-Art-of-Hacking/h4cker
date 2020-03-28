@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [InQL Scanner - A Burp Extension For GraphQL Security Testing](http://feedproxy.google.com/~r/PentestTools/~3/NVOs0V16bM8/inql-scanner-burp-extension-for-graphql.html)
 - [Mssqlproxy - A Toolkit Aimed To Perform Lateral Movement In Restricted Environments Through A Compromised Microsoft SQL Server Via Socket Reuse](http://feedproxy.google.com/~r/PentestTools/~3/-Yiqjt_MvUo/mssqlproxy-toolkit-aimed-to-perform.html)
 - [ProjectOpal - Stealth Post-Exploitation Framework For Wordpress](http://feedproxy.google.com/~r/PentestTools/~3/bX1FcSaxu5Q/projectopal-stealth-post-exploitation.html)
 - [ConEmu - Customizable Windows Terminal With Tabs, Splits, Quake-Style, Hotkeys And More](http://feedproxy.google.com/~r/PentestTools/~3/ta1XP283qPo/conemu-customizable-windows-terminal.html)
