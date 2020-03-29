@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Project iKy v2.4.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/gp-sptDrrHc/project-iky-v240-tool-that-collects.html)
 - [SauronEye - Search Tool To Find Specific Files Containing Specific Words, I.E. Files Containing Passwords](http://feedproxy.google.com/~r/PentestTools/~3/MdIzMpFQSvE/sauroneye-search-tool-to-find-specific.html)
 - [Webkiller v2.0 - Tool Information Gathering](http://feedproxy.google.com/~r/PentestTools/~3/Jkmh9Pbq9ho/webkiller-v20-tool-information-gathering.html)
 - [InQL Scanner - A Burp Extension For GraphQL Security Testing](http://feedproxy.google.com/~r/PentestTools/~3/NVOs0V16bM8/inql-scanner-burp-extension-for-graphql.html)
