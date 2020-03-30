@@ -1,7 +1,7 @@
 # Security Onion and Proxmox
 If you have attended some of my classes and read some of my books, you know that I really like [Proxmox](https://www.proxmox.com/en/). I have several Proxmox clusters that I use for my training courses and to develop labs to learn new cybersecurity skills (offensive and defensive techniques). 
 
-You can instantiate Linux systems such as [Kali Linux](https://www.kali.org/), [WebSploit](https://websploit.org], [Parrot](https://parrotlinux.org/), [BlackArch](https://blackarch.org/), [Security Onion](https://securityonion.net), [RedHuntOS](https://github.com/redhuntlabs/RedHunt-OS), and others in different VMs to practice and learn new skills in a safe environment. 
+You can instantiate Linux systems such as [Kali Linux](https://www.kali.org/), [WebSploit](https://websploit.org), [Parrot](https://parrotlinux.org/), [BlackArch](https://blackarch.org/), [Security Onion](https://securityonion.net), [RedHuntOS](https://github.com/redhuntlabs/RedHunt-OS), and others in different VMs to practice and learn new skills in a safe environment. 
 
 Systems like [Security Onion](https://securityonion.net) and [RedHuntOS](https://github.com/redhuntlabs/RedHunt-OS) come with with [Snort](https://www.snort.org/), [Suricata](https://suricata-ids.org/), [ELK](https://www.elastic.co/what-is/elk-stack), and many other security tools that allow you to monitor your network.
 
