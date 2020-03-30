@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [R00Kie-Kr00Kie - PoC Exploit For The CVE-2019-15126 Kr00K Vulnerability](http://feedproxy.google.com/~r/PentestTools/~3/3H4HKWEhCXA/r00kie-kr00kie-poc-exploit-for-cve-2019.html)
 - [One-Lin3r v2.1 - Gives You One-Liners That Aids In Penetration Testing Operations, Privilege Escalation And More](http://feedproxy.google.com/~r/PentestTools/~3/3sjtI9GtF0c/one-lin3r-v21-gives-you-one-liners-that.html)
 - [Project iKy v2.4.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/gp-sptDrrHc/project-iky-v240-tool-that-collects.html)
 - [Project iKy v2.4.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/gp-sptDrrHc/project-iky-v240-tool-that-collects.html)
