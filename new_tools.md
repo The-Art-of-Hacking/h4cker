@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FProbe - Take A List Of Domains/Subdomains And Probe For Working HTTP/HTTPS Server](http://feedproxy.google.com/~r/PentestTools/~3/8DlFDN6KO7g/fprobe-take-list-of-domainssubdomains.html)
 - [MSSQLi-DUET - SQL Injection Script For MSSQL That Extracts Domain Users From An Active Directory Environment Based On RID Bruteforcing](http://feedproxy.google.com/~r/PentestTools/~3/UPnTPlqbDuc/mssqli-duet-sql-injection-script-for.html)
 - [Awspx - A Graph-Based Tool For Visualizing Effective Access And Resource Relationships In AWS Environments](http://feedproxy.google.com/~r/PentestTools/~3/S_VHOWSjPYM/awspx-graph-based-tool-for-visualizing.html)
 - [Pulsar - Network Footprint Scanner Platform - Discover Domains And Run Your Custom Checks Periodically](http://feedproxy.google.com/~r/PentestTools/~3/MIw_sk1zvbY/pulsar-network-footprint-scanner.html)
