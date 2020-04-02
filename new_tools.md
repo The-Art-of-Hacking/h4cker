@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Frida API Fuzzer - This Experimetal Fuzzer Is Meant To Be Used For API In-Memory Fuzzing](http://feedproxy.google.com/~r/PentestTools/~3/gjVqcWYaBMY/frida-api-fuzzer-this-experimetal.html)
 - [DigiTrack - Attacks For $5 Or Less Using Arduino](http://feedproxy.google.com/~r/PentestTools/~3/-JaQuxrhKWc/digitrack-attacks-for-5-or-less-using.html)
 - [FProbe - Take A List Of Domains/Subdomains And Probe For Working HTTP/HTTPS Server](http://feedproxy.google.com/~r/PentestTools/~3/8DlFDN6KO7g/fprobe-take-list-of-domainssubdomains.html)
 - [MSSQLi-DUET - SQL Injection Script For MSSQL That Extracts Domain Users From An Active Directory Environment Based On RID Bruteforcing](http://feedproxy.google.com/~r/PentestTools/~3/UPnTPlqbDuc/mssqli-duet-sql-injection-script-for.html)
