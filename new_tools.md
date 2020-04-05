@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SSHPry v2.0 - Spy and Control os SSH Connected client's TTY](http://feedproxy.google.com/~r/PentestTools/~3/jxn3qFteuOw/sshpry-v20-spy-and-control-os-ssh.html)
 - [HikPwn - A Simple Scanner For Hikvision Devices](http://feedproxy.google.com/~r/PentestTools/~3/4bho1oxJ4F8/hikpwn-simple-scanner-for-hikvision.html)
 - [Sandcastle - A Python Script For AWS S3 Bucket Enumeration](http://feedproxy.google.com/~r/PentestTools/~3/e2xzlmFDtaE/sandcastle-python-script-for-aws-s3.html)
 - [Tweetshell - Multi-thread Twitter BruteForcer In Shell Script](http://feedproxy.google.com/~r/PentestTools/~3/vWpgJ70dlTM/tweetshell-multi-thread-twitter.html)
