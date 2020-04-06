@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DNSteal v2.0 - DNS Exfiltration Tool For Stealthily Sending Files Over DNS Requests](http://feedproxy.google.com/~r/PentestTools/~3/w4fv5UMmpBI/dnsteal-v20-dns-exfiltration-tool-for.html)
 - [OSSEM - Open Source Security Events Metadata](http://feedproxy.google.com/~r/PentestTools/~3/QrknFUz5uGM/ossem-open-source-security-events.html)
 - [Angrgdb - Use Angr Inside GDB - Create An Angr State From The Current Debugger State](http://feedproxy.google.com/~r/PentestTools/~3/LZoLEhOI0SI/angrgdb-use-angr-inside-gdb-create-angr.html)
 - [SSHPry v2.0 - Spy and Control os SSH Connected client's TTY](http://feedproxy.google.com/~r/PentestTools/~3/jxn3qFteuOw/sshpry-v20-spy-and-control-os-ssh.html)
