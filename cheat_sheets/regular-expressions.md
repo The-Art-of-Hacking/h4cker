@@ -8,7 +8,6 @@
 
 ## Quick Regex Reference
 
-<h2>&nbsp;</h2>
 <table border="1" cellspacing="0" cellpadding="8">
 <tbody>
 <tr>
