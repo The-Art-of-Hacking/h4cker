@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MSOLSpray - A Password Spraying Tool For Microsoft Online Accounts (Azure/O365)](http://feedproxy.google.com/~r/PentestTools/~3/T0v7baCeJh8/msolspray-password-spraying-tool-for.html)
 - [Git-Hound v1.1 - GitHound Pinpoints Exposed API Keys On GitHub Using Pattern Matching, Commit History Searching, And A Unique Result Scoring System](http://feedproxy.google.com/~r/PentestTools/~3/YKTyVyUxJSo/git-hound-v11-githound-pinpoints.html)
 - [DNSteal v2.0 - DNS Exfiltration Tool For Stealthily Sending Files Over DNS Requests](http://feedproxy.google.com/~r/PentestTools/~3/w4fv5UMmpBI/dnsteal-v20-dns-exfiltration-tool-for.html)
 - [OSSEM - Open Source Security Events Metadata](http://feedproxy.google.com/~r/PentestTools/~3/QrknFUz5uGM/ossem-open-source-security-events.html)
