@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Chromepass - Hacking Chrome Saved Passwords](http://feedproxy.google.com/~r/PentestTools/~3/LHrkQaMkLJk/chromepass-hacking-chrome-saved.html)
 - [Tentacle - A POC Vulnerability Verification And Exploit Framework](http://feedproxy.google.com/~r/PentestTools/~3/ayqC3hnuHCA/tentacle-poc-vulnerability-verification.html)
 - [Tails 4.5 - Live System to Preserve Your Privacy and Anonymity](http://feedproxy.google.com/~r/PentestTools/~3/qwMQ7S8e_2g/tails-45-live-system-to-preserve-your.html)
 - [MSOLSpray - A Password Spraying Tool For Microsoft Online Accounts (Azure/O365)](http://feedproxy.google.com/~r/PentestTools/~3/T0v7baCeJh8/msolspray-password-spraying-tool-for.html)
