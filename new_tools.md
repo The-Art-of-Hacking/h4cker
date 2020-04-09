@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Eavesarp - Analyze ARP Requests To Identify Intercommunicating Hosts And Stale Network Address Configurations (SNACs)](http://feedproxy.google.com/~r/PentestTools/~3/9mELsauoKH4/eavesarp-analyze-arp-requests-to.html)
 - [Richkit - Domain Enrichment Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/0PGfoA_aLmw/richkit-domain-enrichment-toolkit.html)
 - [Chromepass - Hacking Chrome Saved Passwords](http://feedproxy.google.com/~r/PentestTools/~3/LHrkQaMkLJk/chromepass-hacking-chrome-saved.html)
 - [Tentacle - A POC Vulnerability Verification And Exploit Framework](http://feedproxy.google.com/~r/PentestTools/~3/ayqC3hnuHCA/tentacle-poc-vulnerability-verification.html)
