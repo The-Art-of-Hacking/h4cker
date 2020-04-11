@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Audix - A PowerShell Tool To Quickly Configure The Windows Event Audit Policies For Security Monitoring](http://feedproxy.google.com/~r/PentestTools/~3/BSvJN-c69AY/audix-powershell-tool-to-quickly.html)
 - [Serverless Prey - Serverless Functions For Establishing Reverse Shells To Lambda, Azure Functions, And Google Cloud Functions](http://feedproxy.google.com/~r/PentestTools/~3/CZchtPedoKI/serverless-prey-serverless-functions.html)
 - [Lunar - A Lightweight Native DLL Mapping Library That Supports Mapping Directly From Memory](http://feedproxy.google.com/~r/PentestTools/~3/Bkcp5vSarTE/lunar-lightweight-native-dll-mapping.html)
 - [Ps-Tools - An Advanced Process Monitoring Toolkit For Offensive Operations](http://feedproxy.google.com/~r/PentestTools/~3/BLIhwDuHHX8/ps-tools-advanced-process-monitoring.html)
