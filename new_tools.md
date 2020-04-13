@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Lollipopz - Data Exfiltration Utility For Testing Detection Capabilities](http://feedproxy.google.com/~r/PentestTools/~3/q07ZQcB3JQo/lollipopz-data-exfiltration-utility-for.html)
 - [Sherloq - An Open-Source Digital Image Forensic Toolset](http://feedproxy.google.com/~r/PentestTools/~3/QURuyiMpcjo/sherloq-open-source-digital-image.html)
 - [Inhale - A Malware Analysis And Classification Tool](http://feedproxy.google.com/~r/PentestTools/~3/pe8iJ88NKQg/inhale-malware-analysis-and.html)
 - [Privacy Badger - A Browser Extension That Automatically Learns To Block Invisible Trackers](http://feedproxy.google.com/~r/PentestTools/~3/3CIh1vQt_rQ/privacy-badger-browser-extension-that.html)
