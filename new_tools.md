@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [crauEmu - An uEmu Extension For Developing And Analyzing Payloads For Code-Reuse Attacks](http://feedproxy.google.com/~r/PentestTools/~3/hGO5Jrd9Rg8/crauemu-uemu-extension-for-developing.html)
 - [Htbenum - A Linux Enumeration Script For Hack The Box](http://feedproxy.google.com/~r/PentestTools/~3/YzzKcxzuuXo/htbenum-linux-enumeration-script-for.html)
 - [Domained - Multi Tool Subdomain Enumeration](http://feedproxy.google.com/~r/PentestTools/~3/mYk06TN1dls/domained-multi-tool-subdomain.html)
 - [Lollipopz - Data Exfiltration Utility For Testing Detection Capabilities](http://feedproxy.google.com/~r/PentestTools/~3/q07ZQcB3JQo/lollipopz-data-exfiltration-utility-for.html)
