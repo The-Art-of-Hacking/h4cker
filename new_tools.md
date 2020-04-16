@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Crescendo - A Swift Based, Real Time Event Viewer For macOS - It Utilizes Apple's Endpoint Security Framework](http://feedproxy.google.com/~r/PentestTools/~3/HKuOWu-ZStg/crescendo-swift-based-real-time-event.html)
 - [Burp Exporter - A Burp Suite Extension To Copy A Request To The Clipboard As Multiple Programming Languages Functions](http://feedproxy.google.com/~r/PentestTools/~3/V-2SxDRDWZQ/burp-exporter-burp-suite-extension-to.html)
 - [crauEmu - An uEmu Extension For Developing And Analyzing Payloads For Code-Reuse Attacks](http://feedproxy.google.com/~r/PentestTools/~3/hGO5Jrd9Rg8/crauemu-uemu-extension-for-developing.html)
 - [Htbenum - A Linux Enumeration Script For Hack The Box](http://feedproxy.google.com/~r/PentestTools/~3/YzzKcxzuuXo/htbenum-linux-enumeration-script-for.html)
