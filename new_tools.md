@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [goBox - GO Sandbox To Run Untrusted Code](http://feedproxy.google.com/~r/PentestTools/~3/jDUHHp_sSOg/gobox-go-sandbox-to-run-untrusted-code.html)
 - [RS256-2-HS256 - JWT Attack To Change The Algorithm RS256 To HS256](http://feedproxy.google.com/~r/PentestTools/~3/YEXpmJ8hs38/rs256-2-hs256-jwt-attack-to-change.html)
 - [PEASS - Privilege Escalation Awesome Scripts SUITE](http://feedproxy.google.com/~r/PentestTools/~3/o1Y7kANaUGo/peass-privilege-escalation-awesome.html)
 - [Pwndrop - Self-Deployable File Hosting Service For Red Teamers, Allowing To Easily Upload And Share Payloads Over HTTP And WebDAV](http://feedproxy.google.com/~r/PentestTools/~3/GnbqJvaDap4/pwndrop-self-deployable-file-hosting.html)
