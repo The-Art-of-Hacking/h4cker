@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Flux-Keylogger - Modern Javascript Keylogger With Web Panel](http://feedproxy.google.com/~r/PentestTools/~3/BzIhmIH2xro/flux-keylogger-modern-javascript.html)
 - [Vulnx v2.0 - An Intelligent Bot Auto Shell Injector That Detect Vulnerabilities In Multiple Types Of CMS (Wordpress , Joomla , Drupal , Prestashop ...)](http://feedproxy.google.com/~r/PentestTools/~3/5dg9OsMFi5U/vulnx-v20-intelligent-bot-auto-shell.html)
 - [Vulnx v2.0 - An Intelligent Bot Auto Shell Injector That Detect Vulnerabilities In Multiple Types Of CMS {(Wordpress , Joomla , Drupal , Prestashop ...)](http://feedproxy.google.com/~r/PentestTools/~3/5dg9OsMFi5U/vulnx-v20-intelligent-bot-auto-shell.html)
 - [goBox - GO Sandbox To Run Untrusted Code](http://feedproxy.google.com/~r/PentestTools/~3/jDUHHp_sSOg/gobox-go-sandbox-to-run-untrusted-code.html)
