@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Impulse - Impulse Denial-of-service ToolKit](http://feedproxy.google.com/~r/PentestTools/~3/JKv4MZkaeVc/impulse-impulse-denial-of-service.html)
 - [Nullscan - A Modular Framework Designed To Chain And Automate Security Tests](http://feedproxy.google.com/~r/PentestTools/~3/t0dl3Bg2Thw/nullscan-modular-framework-designed-to.html)
 - [githubFind3r - Fast Command Line Repo/User/Commit Search Tool](http://feedproxy.google.com/~r/PentestTools/~3/lF-_ttdZJ7o/githubfind3r-fast-command-line.html)
 - [Httpgrep - Scans HTTP Servers To Find Given Strings In URIs](http://feedproxy.google.com/~r/PentestTools/~3/2Ls5ctqJENo/httpgrep-scans-http-servers-to-find.html)
