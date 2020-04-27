@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DeathRansom - A Ransomware Developed In Python, With Bypass Technics, For Educational Purposes](http://feedproxy.google.com/~r/PentestTools/~3/M2hXB0YTcjM/deathransom-ransomware-developed-in.html)
 - [Nuclei - Nuclei Is A Fast Tool For Configurable Targeted Scanning Based On Templates Offering Massive Extensibility And Ease Of Use](http://feedproxy.google.com/~r/PentestTools/~3/SXw3ZY4bg0w/nuclei-nuclei-is-fast-tool-for.html)
 - [Print-My-Shell - Tool To Automate The Process Of Generating Various Reverse Shells](http://feedproxy.google.com/~r/PentestTools/~3/XSgk5ddXB8E/print-my-shell-tool-to-automate-process.html)
 - [S3Reverse - The Format Of Various S3 Buckets Is Convert In One Format](http://feedproxy.google.com/~r/PentestTools/~3/YFQI-e9mVbg/s3reverse-format-of-various-s3-buckets_26.html)
