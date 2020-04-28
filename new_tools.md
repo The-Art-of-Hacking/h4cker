@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Terrier - A Image And Container Analysis Tool To Identify And Verify The Presence Of Specific Files According To Their Hashes](http://feedproxy.google.com/~r/PentestTools/~3/nlHfJwbCvx8/terrier-image-and-container-analysis.html)
 - [wxHexEditor - Hex Editor / Disk Editor for Huge Files or Devices on Linux, Windows and MacOSX](http://feedproxy.google.com/~r/PentestTools/~3/eFlToOdCc4E/wxhexeditor-hex-editor-disk-editor-for.html)
 - [DeathRansom - A Ransomware Developed In Python, With Bypass Technics, For Educational Purposes](http://feedproxy.google.com/~r/PentestTools/~3/M2hXB0YTcjM/deathransom-ransomware-developed-in.html)
 - [Nuclei - Nuclei Is A Fast Tool For Configurable Targeted Scanning Based On Templates Offering Massive Extensibility And Ease Of Use](http://feedproxy.google.com/~r/PentestTools/~3/SXw3ZY4bg0w/nuclei-nuclei-is-fast-tool-for.html)
