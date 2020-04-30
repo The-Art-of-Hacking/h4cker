@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Runtime Mobile Security (RMS) - A Powerful Web Interface That Helps You To Manipulate Android Java Classes And Methods At Runtime](http://feedproxy.google.com/~r/PentestTools/~3/5no21xQboKw/runtime-mobile-security-rms-powerful.html)
 - [Elemental - An MITRE ATTACK Threat Library](http://feedproxy.google.com/~r/PentestTools/~3/dQ7RRz4RW7w/elemental-mitre-attack-threat-library.html)
 - [ROADtools - The Azure AD Exploration Framework](http://feedproxy.google.com/~r/PentestTools/~3/KZVHzFc3-rQ/roadtools-azure-ad-exploration-framework.html)
 - [Terrier - A Image And Container Analysis Tool To Identify And Verify The Presence Of Specific Files According To Their Hashes](http://feedproxy.google.com/~r/PentestTools/~3/nlHfJwbCvx8/terrier-image-and-container-analysis.html)
