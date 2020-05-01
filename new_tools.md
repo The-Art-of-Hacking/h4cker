@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [INTERCEPT - Policy As Code Static Analysis Auditing](http://feedproxy.google.com/~r/PentestTools/~3/fxwU1SEJOq4/intercept-policy-as-code-static.html)
 - [Thoron Framework - Tool To Generate Simple Payloads To Provide Linux TCP Attack](http://feedproxy.google.com/~r/PentestTools/~3/YoPMO_OMeME/thoron-framework-tool-to-generate.html)
 - [SkyWrapper - Tool That Helps To Discover Suspicious Creation Forms And Uses Of Temporary Tokens In AWS](http://feedproxy.google.com/~r/PentestTools/~3/w0otGurmXTY/skywrapper-tool-that-helps-to-discover.html)
 - [Runtime Mobile Security (RMS) - A Powerful Web Interface That Helps You To Manipulate Android Java Classes And Methods At Runtime](http://feedproxy.google.com/~r/PentestTools/~3/5no21xQboKw/runtime-mobile-security-rms-powerful.html)
