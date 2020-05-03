@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OSSEM - A Tool To Assess Data Quality](http://feedproxy.google.com/~r/PentestTools/~3/kg6kiSGHGAM/ossem-tool-to-assess-data-quality.html)
 - [Klar - Integration Of Clair And Docker Registry](http://feedproxy.google.com/~r/PentestTools/~3/KZqyQRzH2hU/klar-integration-of-clair-and-docker.html)
 - [Powershell-Reverse-Tcp - PowerShell Script For Connecting To A Remote Host.](http://feedproxy.google.com/~r/PentestTools/~3/syBVnMzraTM/powershell-reverse-tcp-powershell.html)
 - [INTERCEPT - Policy As Code Static Analysis Auditing](http://feedproxy.google.com/~r/PentestTools/~3/fxwU1SEJOq4/intercept-policy-as-code-static.html)
