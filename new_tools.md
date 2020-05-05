@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sshprank - A Fast SSH Mass-Scanner, Login Cracker And Banner Grabber Tool Using The Python-Masscan Module](http://feedproxy.google.com/~r/PentestTools/~3/pjY7fJ0VWak/sshprank-fast-ssh-mass-scanner-login.html)
 - [Generator-Burp-Extension - Everything You Need About Burp Extension Generation](http://feedproxy.google.com/~r/PentestTools/~3/4Wp_fXhT3WY/generator-burp-extension-everything-you.html)
 - [Parsec - Secure Cloud Framework](http://feedproxy.google.com/~r/PentestTools/~3/QWMGe7bsyQ0/parsec-secure-cloud-framework.html)
 - [Invoker - Penetration Testing Utility](http://feedproxy.google.com/~r/PentestTools/~3/HbkkC1vYU9g/invoker-penetration-testing-utility.html)
