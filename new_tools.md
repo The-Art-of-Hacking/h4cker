@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nexphisher - Advanced Phishing Tool For Linux & Termux](http://feedproxy.google.com/~r/PentestTools/~3/8La5H1VOOps/nexphisher-advanced-phishing-tool-for.html)
 - [TorghostNG - Make All Your Internet Traffic Anonymized Through Tor Network](http://feedproxy.google.com/~r/PentestTools/~3/IXpdmsWonmk/torghostng-make-all-your-internet.html)
 - [Sshprank - A Fast SSH Mass-Scanner, Login Cracker And Banner Grabber Tool Using The Python-Masscan Module](http://feedproxy.google.com/~r/PentestTools/~3/pjY7fJ0VWak/sshprank-fast-ssh-mass-scanner-login.html)
 - [Generator-Burp-Extension - Everything You Need About Burp Extension Generation](http://feedproxy.google.com/~r/PentestTools/~3/4Wp_fXhT3WY/generator-burp-extension-everything-you.html)
