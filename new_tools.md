@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PowerSploit - A PowerShell Post-Exploitation Framework](http://feedproxy.google.com/~r/PentestTools/~3/I7iN_ojAPg4/powersploit-powershell-post.html)
 - [HiveJack - This Tool Can Be Used During Internal Penetration Testing To Dump Windows Credentials From An Already-Compromised Host](http://feedproxy.google.com/~r/PentestTools/~3/Mkb94nwUrlY/hivejack-this-tool-can-be-used-during.html)
 - [Nexphisher - Advanced Phishing Tool For Linux & Termux](http://feedproxy.google.com/~r/PentestTools/~3/8La5H1VOOps/nexphisher-advanced-phishing-tool-for.html)
 - [TorghostNG - Make All Your Internet Traffic Anonymized Through Tor Network](http://feedproxy.google.com/~r/PentestTools/~3/IXpdmsWonmk/torghostng-make-all-your-internet.html)
