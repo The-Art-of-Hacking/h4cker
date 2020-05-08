@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Powerob - An On-The-Fly Powershell Script Obfuscator Meant For Red Team Engagements](http://feedproxy.google.com/~r/PentestTools/~3/wRC__6cdnU4/powerob-on-fly-powershell-script.html)
 - [How to Set Up a VPN on Kodi in 2 Minutes or Less](http://feedproxy.google.com/~r/PentestTools/~3/Bmh0QLdLiXs/how-to-set-up-vpn-on-kodi-in-2-minutes.html)
 - [PowerSploit - A PowerShell Post-Exploitation Framework](http://feedproxy.google.com/~r/PentestTools/~3/I7iN_ojAPg4/powersploit-powershell-post.html)
 - [HiveJack - This Tool Can Be Used During Internal Penetration Testing To Dump Windows Credentials From An Already-Compromised Host](http://feedproxy.google.com/~r/PentestTools/~3/Mkb94nwUrlY/hivejack-this-tool-can-be-used-during.html)
