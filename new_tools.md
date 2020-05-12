@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Threadtear - Multifunctional Java Deobfuscation Tool Suite](http://feedproxy.google.com/~r/PentestTools/~3/ymCn5kU6UM8/threadtear-multifunctional-java.html)
 - [Wifipumpkin3 - Powerful Framework For Rogue Access Point Attack](http://feedproxy.google.com/~r/PentestTools/~3/twbfRGBer8M/wifipumpkin3-powerful-framework-for.html)
 - [Catchyou - FUD Win32 Msfvenom Payload Generator](http://feedproxy.google.com/~r/PentestTools/~3/7DwqBK8zFmw/catchyou-fud-win32-msfvenom-payload.html)
 - [PayloadsAllTheThings - A List Of Useful Payloads And Bypass For Web Application Security And Pentest/CTF](http://feedproxy.google.com/~r/PentestTools/~3/esWjScCVCXc/payloadsallthethings-list-of-useful.html)
