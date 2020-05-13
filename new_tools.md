@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Saycheese - Grab Target'S Webcam Shots By Link](http://feedproxy.google.com/~r/PentestTools/~3/62OGo_tCtUY/saycheese-grab-targets-webcam-shots-by.html)
 - [Kaiten - A Undetectable Payload Generation](http://feedproxy.google.com/~r/PentestTools/~3/BjGRnyQ2Sy0/kaiten-undetectable-payload-generation.html)
 - [Kali Linux 2020.2 Release - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/_hPqKsYoWJU/kali-linux-20202-release-penetration.html)
 - [Clipboardme - Grab And Inject Clipboard Content By Link](http://feedproxy.google.com/~r/PentestTools/~3/lo_tZ_nyiFw/clipboardme-grab-and-inject-clipboard.html)
