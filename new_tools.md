@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DalFox (Finder Of XSS) - Parameter Analysis And XSS Scanning Tool Based On Golang](http://feedproxy.google.com/~r/PentestTools/~3/suV7iLK-t78/dalfox-finder-of-xss-parameter-analysis.html)
 - [Saycheese - Grab Target'S Webcam Shots By Link](http://feedproxy.google.com/~r/PentestTools/~3/62OGo_tCtUY/saycheese-grab-targets-webcam-shots-by.html)
 - [Kaiten - A Undetectable Payload Generation](http://feedproxy.google.com/~r/PentestTools/~3/BjGRnyQ2Sy0/kaiten-undetectable-payload-generation.html)
 - [Kali Linux 2020.2 Release - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/_hPqKsYoWJU/kali-linux-20202-release-penetration.html)
