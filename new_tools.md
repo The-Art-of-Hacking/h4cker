@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [URLBrute - Tool To Brute Website Sub-Domains And Dirs](http://feedproxy.google.com/~r/PentestTools/~3/WwP3ztWD7kI/urlbrute-tool-to-brute-website-sub.html)
 - [Getdroid - FUD Android Payload And Listener](http://feedproxy.google.com/~r/PentestTools/~3/pG_U-GCs6ws/getdroid-fud-android-payload-and.html)
 - [DiscordRAT - Discord Remote Administration Tool Fully Written In Python](http://feedproxy.google.com/~r/PentestTools/~3/4haZwvevBIk/discordrat-discord-remote.html)
 - [Lockphish - A Tool For Phishing Attacks On The Lock Screen, Designed To Grab Windows Credentials, Android PIN And iPhone Passcode](http://feedproxy.google.com/~r/PentestTools/~3/Xl9LNG1vR24/lockphish-tool-for-phishing-attacks-on.html)
