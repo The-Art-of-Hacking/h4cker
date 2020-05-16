@@ -9,6 +9,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - DOMXSS: <http://www.domxss.com/domxss/>
 - Game of Hacks: <http://www.gameofhacks.com>
 - Gruyere: <https://google-gruyere.appspot.com>
+- Hack the Box: <https://www.hackthebox.eu/>
 - Hack This Site: <https://www.hackthissite.org>
 - Hack This: <https://www.hackthis.co.uk>
 - Hack Yourself first <https://hack-yourself-first.com/>
@@ -28,4 +29,4 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - Web Security Dojo: <https://www.mavensecurity.com/resources/web-security-dojo>
 - WebSploit Labs (created and maintained by Omar Ωr Santos): https://websploit.h4cker.org
 - WebGoat: <https://github.com/WebGoat/WebGoat>
-- PortSwigger Web Security Academy: https://portswigger.net/web-security
+- PortSwigger Web Security Academy: <https://portswigger.net/web-security>
