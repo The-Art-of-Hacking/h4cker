@@ -26,5 +26,6 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - Vicnum: <http://vicnum.ciphertechs.com>
 - VulnHub:https://www.vulnhub.com
 - Web Security Dojo: <https://www.mavensecurity.com/resources/web-security-dojo>
-- **WebSploit** (created and maintained by Omar Santos): https://websploit.h4cker.org
+- **WebSploit** (created and maintained by Omar Ωr Santos): https://websploit.h4cker.org
 - WebGoat: <https://github.com/WebGoat/WebGoat>
+- PortSwigger Web Security Academy: https://portswigger.net/web-security
