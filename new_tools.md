@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sharingan - Offensive Security Recon Tool](http://feedproxy.google.com/~r/PentestTools/~3/XMliUAHtHBE/sharingan-offensive-security-recon-tool.html)
 - [BADlnk - Reverse Shell In Shortcut File (.lnk)](http://feedproxy.google.com/~r/PentestTools/~3/PTLwZDrbwK4/badlnk-reverse-shell-in-shortcut-file.html)
 - [ParamKit - A Small Library Helping To Parse Commandline Parameters](http://feedproxy.google.com/~r/PentestTools/~3/nfXwCLYC4dI/paramkit-small-library-helping-to-parse.html)
 - [Hidden-Cry - Windows Crypter/Decrypter Generator With AES 256 Bits Key](http://feedproxy.google.com/~r/PentestTools/~3/Bvf7CnAZqNI/hidden-cry-windows-crypterdecrypter.html)
