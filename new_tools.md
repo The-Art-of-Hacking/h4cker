@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Open Sesame - A Tool Which Runs To Display Random Publicly Disclosed Hackerone Reports When Bored](http://feedproxy.google.com/~r/PentestTools/~3/W74U39At1Po/open-sesame-tool-which-runs-to-display.html)
 - [BlackDir-Framework - Web Application Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/KdhQYNLLv0w/blackdir-framework-web-application.html)
 - [Sharingan - Offensive Security Recon Tool](http://feedproxy.google.com/~r/PentestTools/~3/XMliUAHtHBE/sharingan-offensive-security-recon-tool.html)
 - [BADlnk - Reverse Shell In Shortcut File (.lnk)](http://feedproxy.google.com/~r/PentestTools/~3/PTLwZDrbwK4/badlnk-reverse-shell-in-shortcut-file.html)
