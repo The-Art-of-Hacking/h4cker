@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Spray - A Password Spraying Tool For Active Directory Credentials By Jacob Wilkin(Greenwolf)](http://feedproxy.google.com/~r/PentestTools/~3/98z31AaFB7k/spray-password-spraying-tool-for-active.html)
 - [Self-XSS  - Self-XSS Attack Using Bit.Ly To Grab Cookies Tricking Users Into Running Malicious Code](http://feedproxy.google.com/~r/PentestTools/~3/b-yEqKBcYXo/self-xss-self-xss-attack-using-bitly-to.html)
 - [Open Sesame - A Tool Which Runs To Display Random Publicly Disclosed Hackerone Reports When Bored](http://feedproxy.google.com/~r/PentestTools/~3/W74U39At1Po/open-sesame-tool-which-runs-to-display.html)
 - [BlackDir-Framework - Web Application Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/KdhQYNLLv0w/blackdir-framework-web-application.html)
