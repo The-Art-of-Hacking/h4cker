@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nishang - Offensive PowerShell For Red Team, Penetration Testing And Offensive Security](http://feedproxy.google.com/~r/PentestTools/~3/dbQKR-HMitE/nishang-offensive-powershell-for-red.html)
 - [Web Hacker's Weapons - A Collection Of Cool Tools Used By Web Hackers](http://feedproxy.google.com/~r/PentestTools/~3/gtBsb59j5_g/web-hackers-weapons-collection-of-cool.html)
 - [Spray - A Password Spraying Tool For Active Directory Credentials By Jacob Wilkin(Greenwolf)](http://feedproxy.google.com/~r/PentestTools/~3/98z31AaFB7k/spray-password-spraying-tool-for-active.html)
 - [Self-XSS  - Self-XSS Attack Using Bit.Ly To Grab Cookies Tricking Users Into Running Malicious Code](http://feedproxy.google.com/~r/PentestTools/~3/b-yEqKBcYXo/self-xss-self-xss-attack-using-bitly-to.html)
