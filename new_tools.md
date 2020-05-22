@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Faraday v3.11 - Collaborative Penetration Test and Vulnerability Management Platform](http://feedproxy.google.com/~r/PentestTools/~3/AYy0Ih0d-z0/faraday-v311-collaborative-penetration.html)
 - [Minimalistic-offensive-security-tools - A Repository Of Tools For Pentesting Of Restricted And Isolated Environments](http://feedproxy.google.com/~r/PentestTools/~3/dc_wqDPZa74/minimalistic-offensive-security-tools.html)
 - [Carina - Webshell, Virtual Private Server (VPS) And cPanel Database](http://feedproxy.google.com/~r/PentestTools/~3/XTsZSdEvD1s/carina-webshell-virtual-private-server.html)
 - [Nishang - Offensive PowerShell For Red Team, Penetration Testing And Offensive Security](http://feedproxy.google.com/~r/PentestTools/~3/dbQKR-HMitE/nishang-offensive-powershell-for-red.html)
