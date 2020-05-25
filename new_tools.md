@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Jaeles v0.9 - The Swiss Army Knife For Automated Web Application Testing](http://feedproxy.google.com/~r/PentestTools/~3/vYnwGCa7How/jaeles-v09-swiss-army-knife-for.html)
 - [Game-based learning platform provides full immersion into cybersecurity](http://feedproxy.google.com/~r/PentestTools/~3/K0-gmG9JMJM/game-based-learning-platform-provides.html)
 - [AutoRDPwn v5.1 - The Shadow Attack Framework](http://feedproxy.google.com/~r/PentestTools/~3/KB6ZFOYRG30/autordpwn-v51-shadow-attack-framework.html)
 - [EvilApp - Phishing Attack Using An Android App To Grab Session Cookies For Any Website (ByPass 2FA)](http://feedproxy.google.com/~r/PentestTools/~3/4q8G1KztMgY/evilapp-phishing-attack-using-android.html)
