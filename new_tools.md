@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OhMyQR - Hijack Services That Relies On QR Code Authentication](http://feedproxy.google.com/~r/PentestTools/~3/ZJqecIyqC_E/ohmyqr-hijack-services-that-relies-on.html)
 - [FinalRecon - The Last Web Recon Tool You'll Need](http://feedproxy.google.com/~r/PentestTools/~3/01eMqUtKuTU/finalrecon-last-web-recon-tool-youll.html)
 - [Jaeles v0.9 - The Swiss Army Knife For Automated Web Application Testing](http://feedproxy.google.com/~r/PentestTools/~3/vYnwGCa7How/jaeles-v09-swiss-army-knife-for.html)
 - [Game-based learning platform provides full immersion into cybersecurity](http://feedproxy.google.com/~r/PentestTools/~3/K0-gmG9JMJM/game-based-learning-platform-provides.html)
