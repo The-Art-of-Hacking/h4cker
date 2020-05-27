@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RepoPeek - A Python Script To Get Details About A Repository Without Cloning It](http://feedproxy.google.com/~r/PentestTools/~3/yoiCVdZZbCw/repopeek-python-script-to-get-details.html)
 - [Pivotnacci - A Tool To Make Socks Connections Through HTTP Agents](http://feedproxy.google.com/~r/PentestTools/~3/yHERSP69CGA/pivotnacci-tool-to-make-socks.html)
 - [OhMyQR - Hijack Services That Relies On QR Code Authentication](http://feedproxy.google.com/~r/PentestTools/~3/ZJqecIyqC_E/ohmyqr-hijack-services-that-relies-on.html)
 - [FinalRecon - The Last Web Recon Tool You'll Need](http://feedproxy.google.com/~r/PentestTools/~3/01eMqUtKuTU/finalrecon-last-web-recon-tool-youll.html)
