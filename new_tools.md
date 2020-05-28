@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MemoryMapper - Lightweight Library Which Allows The Ability To Map Both Native And Managed Assemblies Into Memory](http://feedproxy.google.com/~r/PentestTools/~3/f8hlG8ETdCA/memorymapper-lightweight-library-which.html)
 - [Project iKy v2.6.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/oiunjpsRvSc/project-iky-v260-tool-that-collects.html)
 - [RepoPeek - A Python Script To Get Details About A Repository Without Cloning It](http://feedproxy.google.com/~r/PentestTools/~3/yoiCVdZZbCw/repopeek-python-script-to-get-details.html)
 - [Pivotnacci - A Tool To Make Socks Connections Through HTTP Agents](http://feedproxy.google.com/~r/PentestTools/~3/yHERSP69CGA/pivotnacci-tool-to-make-socks.html)
