@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Enumy - Linux Post Exploitation Privilege Escalation Enumeration](http://feedproxy.google.com/~r/PentestTools/~3/IOJvTQFExEU/enumy-linux-post-exploitation-privilege.html)
 - [Bing-Ip2Hosts - Bingip2Hosts Is A Bing.com Web Scraper That Discovers Websites By IP Address](http://feedproxy.google.com/~r/PentestTools/~3/8Po879yXQZ8/bing-ip2hosts-bingip2hosts-is-bingcom.html)
 - [Vault - A Tool For Secrets Management, Encryption As A Service, And Privileged Access Management](http://feedproxy.google.com/~r/PentestTools/~3/PYNaKvSoc9s/vault-tool-for-secrets-management.html)
 - [ADCollector - A Lightweight Tool To Quickly Extract Valuable Information From The Active Directory Environment For Both Attacking And Defending](http://feedproxy.google.com/~r/PentestTools/~3/9SedNJtUU74/adcollector-lightweight-tool-to-quickly.html)
