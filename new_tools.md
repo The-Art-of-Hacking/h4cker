@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ligolo - Reverse Tunneling Made Easy For Pentesters, By Pentesters](http://feedproxy.google.com/~r/PentestTools/~3/khATnePM3V8/ligolo-reverse-tunneling-made-easy-for.html)
 - [Inshackle - Instagram Hacks: Track Unfollowers, Increase Your Followers, Download Stories, Etc](http://feedproxy.google.com/~r/PentestTools/~3/hUu-VErDuek/inshackle-instagram-hacks-track.html)
 - [GhostShell - Malware Indetectable, With AV Bypass Techniques, Anti-Disassembly, And More](http://feedproxy.google.com/~r/PentestTools/~3/TVJ580qtwsg/ghostshell-malware-indetectable-with-av.html)
 - [Forerunner - Fast And Extensible Network Scanning Library Featuring Multithreading, Ping Probing, And Scan Fetchers](http://feedproxy.google.com/~r/PentestTools/~3/v5uHd2kZOJE/forerunner-fast-and-extensible-network.html)
