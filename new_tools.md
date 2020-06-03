@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Eviloffice - Inject Macro And DDE Code Into Excel And Word Documents (Reverse Shell)](http://feedproxy.google.com/~r/PentestTools/~3/mWZy5zAqnCY/eviloffice-inject-macro-and-dde-code.html)
 - [Ligolo - Reverse Tunneling Made Easy For Pentesters, By Pentesters](http://feedproxy.google.com/~r/PentestTools/~3/khATnePM3V8/ligolo-reverse-tunneling-made-easy-for.html)
 - [Inshackle - Instagram Hacks: Track Unfollowers, Increase Your Followers, Download Stories, Etc](http://feedproxy.google.com/~r/PentestTools/~3/hUu-VErDuek/inshackle-instagram-hacks-track.html)
 - [GhostShell - Malware Indetectable, With AV Bypass Techniques, Anti-Disassembly, And More](http://feedproxy.google.com/~r/PentestTools/~3/TVJ580qtwsg/ghostshell-malware-indetectable-with-av.html)
