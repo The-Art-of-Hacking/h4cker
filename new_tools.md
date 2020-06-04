@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GitMonitor - A Github Scanning System To Look For Leaked Sensitive Information Based On Rules](http://feedproxy.google.com/~r/PentestTools/~3/icGYa6lk_F4/gitmonitor-github-scanning-system-to.html)
 - [Eviloffice - Inject Macro And DDE Code Into Excel And Word Documents (Reverse Shell)](http://feedproxy.google.com/~r/PentestTools/~3/mWZy5zAqnCY/eviloffice-inject-macro-and-dde-code.html)
 - [Ligolo - Reverse Tunneling Made Easy For Pentesters, By Pentesters](http://feedproxy.google.com/~r/PentestTools/~3/khATnePM3V8/ligolo-reverse-tunneling-made-easy-for.html)
 - [Inshackle - Instagram Hacks: Track Unfollowers, Increase Your Followers, Download Stories, Etc](http://feedproxy.google.com/~r/PentestTools/~3/hUu-VErDuek/inshackle-instagram-hacks-track.html)
