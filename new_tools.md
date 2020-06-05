@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Git-Scanner - A Tool For Bug Hunting Or Pentesting For Targeting Websites That Have Open .git Repositories Available In Public](http://feedproxy.google.com/~r/PentestTools/~3/gsKQWERd4E0/git-scanner-tool-for-bug-hunting-or.html)
 - [Recox - Master Script For Web Reconnaissance](http://feedproxy.google.com/~r/PentestTools/~3/MrVXS9svia0/recox-master-script-for-web.html)
 - [Jshole - A JavaScript Components Vulnrability Scanner, Based On RetireJS](http://feedproxy.google.com/~r/PentestTools/~3/hpITytQDgjw/jshole-javascript-components.html)
 - [GitMonitor - A Github Scanning System To Look For Leaked Sensitive Information Based On Rules](http://feedproxy.google.com/~r/PentestTools/~3/icGYa6lk_F4/gitmonitor-github-scanning-system-to.html)
