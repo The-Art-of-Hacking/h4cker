@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Words Scraper - Selenium Based Web Scraper To Generate Passwords List](http://feedproxy.google.com/~r/PentestTools/~3/KZxrwTrIDqE/words-scraper-selenium-based-web.html)
 - [JSshell - A JavaScript Reverse Shell For Exploiting XSS Remotely Or Finding Blind XSS, Working With Both Unix And Windows OS](http://feedproxy.google.com/~r/PentestTools/~3/FAbak0SrepU/jsshell-javascript-reverse-shell-for.html)
 - [Astsu - A Network Scanner Tool](http://feedproxy.google.com/~r/PentestTools/~3/UpyJkEUTzUA/astsu-network-scanner-tool.html)
 - [Git-Scanner - A Tool For Bug Hunting Or Pentesting For Targeting Websites That Have Open .git Repositories Available In Public](http://feedproxy.google.com/~r/PentestTools/~3/gsKQWERd4E0/git-scanner-tool-for-bug-hunting-or.html)
