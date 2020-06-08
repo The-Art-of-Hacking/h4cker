@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Tangalanga - The Zoom Conference Scanner Hacking Tool](http://feedproxy.google.com/~r/PentestTools/~3/TkUXwSH5HIU/tangalanga-zoom-conference-scanner.html)
 - [Spyeye - Script To Generate Win32 .Exe File To Take Screenshots](http://feedproxy.google.com/~r/PentestTools/~3/kjq8wmtqsd8/spyeye-script-to-generate-win32-exe.html)
 - [Words Scraper - Selenium Based Web Scraper To Generate Passwords List](http://feedproxy.google.com/~r/PentestTools/~3/KZxrwTrIDqE/words-scraper-selenium-based-web.html)
 - [JSshell - A JavaScript Reverse Shell For Exploiting XSS Remotely Or Finding Blind XSS, Working With Both Unix And Windows OS](http://feedproxy.google.com/~r/PentestTools/~3/FAbak0SrepU/jsshell-javascript-reverse-shell-for.html)
