@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [URLCrazy - Generate And Test Domain Typos And Variations To Detect And Perform Typo Squatting, URL Hijacking, Phishing, And Corporate Espionage](http://feedproxy.google.com/~r/PentestTools/~3/pCTRDE2dl1M/urlcrazy-generate-and-test-domain-typos.html)
 - [Impost3r - A Linux Password Thief](http://feedproxy.google.com/~r/PentestTools/~3/wfqDp6nkSic/impost3r-linux-password-thief.html)
 - [Tangalanga - The Zoom Conference Scanner Hacking Tool](http://feedproxy.google.com/~r/PentestTools/~3/TkUXwSH5HIU/tangalanga-zoom-conference-scanner.html)
 - [Spyeye - Script To Generate Win32 .Exe File To Take Screenshots](http://feedproxy.google.com/~r/PentestTools/~3/kjq8wmtqsd8/spyeye-script-to-generate-win32-exe.html)
