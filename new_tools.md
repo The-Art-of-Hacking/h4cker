@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RMIScout - Wordlist And Bruteforce Strategies To Enumerate Java RMI Functions And Exploit RMI Parameter Unmarshalling Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/djPr0ddn3oo/rmiscout-wordlist-and-bruteforce.html)
 - [Atlas - Quick SQLMap Tamper Suggester](http://feedproxy.google.com/~r/PentestTools/~3/bOxrvjP0QcY/atlas-quick-sqlmap-tamper-suggester.html)
 - [Stegcloak - Hide Secrets With Invisible Characters In Plain Text Securely Using Passwords](http://feedproxy.google.com/~r/PentestTools/~3/wwD1qispYZ4/stegcloak-hide-secrets-with-invisible.html)
 - [BabyShark - Basic C2 Server](http://feedproxy.google.com/~r/PentestTools/~3/6PhUfCftQpg/babyshark-basic-c2-server.html)
