@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [KatroLogger - KeyLogger For Linux Systems](http://feedproxy.google.com/~r/PentestTools/~3/NdSucxjr0k4/katrologger-keylogger-for-linux-systems.html)
 - [Attacker-Group-Predictor - Tool To Predict Attacker Groups From The Techniques And Software Used](http://feedproxy.google.com/~r/PentestTools/~3/R3G4YpSDgiU/attacker-group-predictor-tool-to.html)
 - [EvilPDF - Embedding Executable Files In PDF Documents](http://feedproxy.google.com/~r/PentestTools/~3/1bx5lbrEBCY/evilpdf-embedding-executable-files-in.html)
 - [Needle - Instant Access To You Bug Bounty Submission Dashboard On Various Platforms + Publicly Disclosed Reports + #Bugbountytip](http://feedproxy.google.com/~r/PentestTools/~3/f0edTV__OZg/needle-instant-access-to-you-bug-bounty.html)
