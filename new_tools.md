@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [URLCADIZ - A Simple Script To Generate A Hidden Url For Social Engineering](http://feedproxy.google.com/~r/PentestTools/~3/61lQnh22cpM/urlcadiz-simple-script-to-generate.html)
 - [Shodanfy.py - Get Ports, Vulnerabilities, Informations, Banners, ..Etc For Any IP With Shodan (No Apikey! No Rate-Limit!)](http://feedproxy.google.com/~r/PentestTools/~3/LCnjNKIQMSs/shodanfypy-get-ports-vulnerabilities_13.html)
 - [KatroLogger - KeyLogger For Linux Systems](http://feedproxy.google.com/~r/PentestTools/~3/NdSucxjr0k4/katrologger-keylogger-for-linux-systems.html)
 - [Attacker-Group-Predictor - Tool To Predict Attacker Groups From The Techniques And Software Used](http://feedproxy.google.com/~r/PentestTools/~3/R3G4YpSDgiU/attacker-group-predictor-tool-to.html)
