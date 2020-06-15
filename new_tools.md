@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [EvilDLL - Malicious DLL (Reverse Shell) Generator For DLL Hijacking](http://feedproxy.google.com/~r/PentestTools/~3/NuLQ_WXmQm4/evildll-malicious-dll-reverse-shell.html)
 - [Axiom - A Dynamic Infrastructure Toolkit For Red Teamers And Bug Bounty Hunters!](http://feedproxy.google.com/~r/PentestTools/~3/kaPDeGDV9gg/axiom-dynamic-infrastructure-toolkit.html)
 - [Fast-Google-Dorks-Scan - Fast Google Dorks Scan](http://feedproxy.google.com/~r/PentestTools/~3/wZgjNA3IKjw/fast-google-dorks-scan-fast-google.html)
 - [URLCADIZ - A Simple Script To Generate A Hidden Url For Social Engineering](http://feedproxy.google.com/~r/PentestTools/~3/61lQnh22cpM/urlcadiz-simple-script-to-generate.html)
