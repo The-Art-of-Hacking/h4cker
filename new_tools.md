@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TeaBreak - A Productivity Burp Extension Which Reminds To Take Break While You Are At Work!](http://feedproxy.google.com/~r/PentestTools/~3/mm-2HUNg6vQ/teabreak-productivity-burp-extension.html)
 - [Digital Signature Hijack - Binaries, PowerShell Scripts And Information About Digital Signature Hijacking](http://feedproxy.google.com/~r/PentestTools/~3/zaI4d7_isUg/digital-signature-hijack-binaries.html)
 - [SecretFinder - A Python Script For Find Sensitive Data (Apikeys, Accesstoken, JWT...) And Search Anything On Javascript Files](http://feedproxy.google.com/~r/PentestTools/~3/EKoAtzjYUb8/secretfinder-python-script-for-find.html)
 - [Fsociety - A Modular Penetration Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/na-4_fIQTq0/fsociety-modular-penetration-testing.html)
