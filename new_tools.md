@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Digital Signature Hijack - Binaries, PowerShell Scripts And Information About Digital Signature Hijacking](http://feedproxy.google.com/~r/PentestTools/~3/zaI4d7_isUg/digital-signature-hijack-binaries.html)
 - [SecretFinder - A Python Script For Find Sensitive Data (Apikeys, Accesstoken, JWT...) And Search Anything On Javascript Files](http://feedproxy.google.com/~r/PentestTools/~3/EKoAtzjYUb8/secretfinder-python-script-for-find.html)
 - [Fsociety - A Modular Penetration Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/na-4_fIQTq0/fsociety-modular-penetration-testing.html)
 - [EvilDLL - Malicious DLL (Reverse Shell) Generator For DLL Hijacking](http://feedproxy.google.com/~r/PentestTools/~3/NuLQ_WXmQm4/evildll-malicious-dll-reverse-shell.html)
