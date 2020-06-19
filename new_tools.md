@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Vhosts-Sieve - Searching For Virtual Hosts Among Non-Resolvable Domains](http://feedproxy.google.com/~r/PentestTools/~3/25kS21dlRpk/vhosts-sieve-searching-for-virtual.html)
 - [Formphish - Auto Phishing Form-Based Websites](http://feedproxy.google.com/~r/PentestTools/~3/KpG4QCw9F6s/formphish-auto-phishing-form-based.html)
 - [SGN - Encoder Ported Into Go With Several Improvements](http://feedproxy.google.com/~r/PentestTools/~3/u-3dR_vCTk8/sgn-encoder-ported-into-go-with-several.html)
 - [TeaBreak - A Productivity Burp Extension Which Reminds To Take Break While You Are At Work!](http://feedproxy.google.com/~r/PentestTools/~3/mm-2HUNg6vQ/teabreak-productivity-burp-extension.html)
