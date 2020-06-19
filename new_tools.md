@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OSS-Fuzz - Continuous Fuzzing Of Open Source Software](http://feedproxy.google.com/~r/PentestTools/~3/qU-fQITHn08/oss-fuzz-continuous-fuzzing-of-open.html)
 - [Vhosts-Sieve - Searching For Virtual Hosts Among Non-Resolvable Domains](http://feedproxy.google.com/~r/PentestTools/~3/25kS21dlRpk/vhosts-sieve-searching-for-virtual.html)
 - [Formphish - Auto Phishing Form-Based Websites](http://feedproxy.google.com/~r/PentestTools/~3/KpG4QCw9F6s/formphish-auto-phishing-form-based.html)
 - [SGN - Encoder Ported Into Go With Several Improvements](http://feedproxy.google.com/~r/PentestTools/~3/u-3dR_vCTk8/sgn-encoder-ported-into-go-with-several.html)
