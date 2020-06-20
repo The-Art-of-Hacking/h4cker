@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Iox - Tool For Port Forward &Amp; Intranet Proxy](http://feedproxy.google.com/~r/PentestTools/~3/pt6JsZfXsj0/iox-tool-for-port-forward-intranet-proxy.html)
 - [OSS-Fuzz - Continuous Fuzzing Of Open Source Software](http://feedproxy.google.com/~r/PentestTools/~3/qU-fQITHn08/oss-fuzz-continuous-fuzzing-of-open.html)
 - [Vhosts-Sieve - Searching For Virtual Hosts Among Non-Resolvable Domains](http://feedproxy.google.com/~r/PentestTools/~3/25kS21dlRpk/vhosts-sieve-searching-for-virtual.html)
 - [Formphish - Auto Phishing Form-Based Websites](http://feedproxy.google.com/~r/PentestTools/~3/KpG4QCw9F6s/formphish-auto-phishing-form-based.html)
