@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [O.G. AUTO-RECON - Enumerate A Target Based Off Of Nmap Results](http://feedproxy.google.com/~r/PentestTools/~3/-hCMuXnT1LA/og-auto-recon-enumerate-target-based.html)
 - [Zip Cracker - Python Script To Crack Zip Password With Dictionary Attack And Also Use Crunch As Pipeline](http://feedproxy.google.com/~r/PentestTools/~3/he_M48ychk0/zip-cracker-python-script-to-crack-zip.html)
 - [DroidTracker - Script To Generate An Android App To Track Location In Real Time](http://feedproxy.google.com/~r/PentestTools/~3/5fV3zbDoT-I/droidtracker-script-to-generate-android.html)
 - [Iox - Tool For Port Forward &Amp; Intranet Proxy](http://feedproxy.google.com/~r/PentestTools/~3/pt6JsZfXsj0/iox-tool-for-port-forward-intranet-proxy.html)
