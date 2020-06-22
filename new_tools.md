@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SAyHello - Capturing Audio (.Wav) From Target Using A Link](http://feedproxy.google.com/~r/PentestTools/~3/82UyTUbvNiU/sayhello-capturing-audio-wav-from.html)
 - [Lynis 3.0.0 - Security Auditing Tool for Unix/Linux Systems](http://feedproxy.google.com/~r/PentestTools/~3/KFjjOJXfRNI/lynis-300-security-auditing-tool-for.html)
 - [O.G. AUTO-RECON - Enumerate A Target Based Off Of Nmap Results](http://feedproxy.google.com/~r/PentestTools/~3/-hCMuXnT1LA/og-auto-recon-enumerate-target-based.html)
 - [Zip Cracker - Python Script To Crack Zip Password With Dictionary Attack And Also Use Crunch As Pipeline](http://feedproxy.google.com/~r/PentestTools/~3/he_M48ychk0/zip-cracker-python-script-to-crack-zip.html)
