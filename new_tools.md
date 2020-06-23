@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TokenBreaker - JSON RSA To HMAC And None Algorithm Vulnerability POC](http://feedproxy.google.com/~r/PentestTools/~3/lHlCB6EzXjQ/tokenbreaker-json-rsa-to-hmac-and-none.html)
 - [SAyHello - Capturing Audio (.Wav) From Target Using A Link](http://feedproxy.google.com/~r/PentestTools/~3/82UyTUbvNiU/sayhello-capturing-audio-wav-from.html)
 - [Lynis 3.0.0 - Security Auditing Tool for Unix/Linux Systems](http://feedproxy.google.com/~r/PentestTools/~3/KFjjOJXfRNI/lynis-300-security-auditing-tool-for.html)
 - [O.G. AUTO-RECON - Enumerate A Target Based Off Of Nmap Results](http://feedproxy.google.com/~r/PentestTools/~3/-hCMuXnT1LA/og-auto-recon-enumerate-target-based.html)
