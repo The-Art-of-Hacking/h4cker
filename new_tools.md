@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hmmcookies - Grab Cookies From Firefox, Chrome, Opera Using A Shortcut File (Bypass UAC)](http://feedproxy.google.com/~r/PentestTools/~3/88yQ2bVk1_w/hmmcookies-grab-cookies-from-firefox.html)
 - [Business Secure: How AI is Sneaking into our Restaurants](http://feedproxy.google.com/~r/PentestTools/~3/z5o9lKW7IPg/business-secure-how-ai-is-sneaking-into.html)
 - [InQL - A Burp Extension For GraphQL Security Testing](http://feedproxy.google.com/~r/PentestTools/~3/jALwsux_18Y/inql-burp-extension-for-graphql.html)
 - [TokenBreaker - JSON RSA To HMAC And None Algorithm Vulnerability POC](http://feedproxy.google.com/~r/PentestTools/~3/lHlCB6EzXjQ/tokenbreaker-json-rsa-to-hmac-and-none.html)
