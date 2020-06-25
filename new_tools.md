@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CorsMe - Cross Origin Resource Sharing MisConfiguration Scanner](http://feedproxy.google.com/~r/PentestTools/~3/7IXHQJGvOKI/corsme-cross-origin-resource-sharing.html)
 - [How to Free Recover Deleted Files on Your Mac](http://feedproxy.google.com/~r/PentestTools/~3/XuyM2gKdjX8/how-to-free-recover-deleted-files-on.html)
 - [Sifter 7.4 - OSINT, Recon & Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/SHKZQt30BE0/sifter-74-osint-recon-vulnerability.html)
 - [Hmmcookies - Grab Cookies From Firefox, Chrome, Opera Using A Shortcut File (Bypass UAC)](http://feedproxy.google.com/~r/PentestTools/~3/88yQ2bVk1_w/hmmcookies-grab-cookies-from-firefox.html)
