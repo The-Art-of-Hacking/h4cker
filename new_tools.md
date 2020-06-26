@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [VBSmin - VBScript Minifier](http://feedproxy.google.com/~r/PentestTools/~3/wLnm1ZPcqNo/vbsmin-vbscript-minifier.html)
 - [Cloudtopolis - Cracking Hashes In The Cloud For Free](http://feedproxy.google.com/~r/PentestTools/~3/b7ZjECS9gY8/cloudtopolis-cracking-hashes-in-cloud.html)
 - [Spyse: All-In-One Cybersecurity Search Engine](http://feedproxy.google.com/~r/PentestTools/~3/YQZ594fHoX4/spyse-all-in-one-cybersecurity-search.html)
 - [Colabcat - Running Hashcat On Google Colab With Session Backup And Restore](http://feedproxy.google.com/~r/PentestTools/~3/d9pPqRQqGW8/colabcat-running-hashcat-on-google.html)
