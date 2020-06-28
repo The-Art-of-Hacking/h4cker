@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Xeexe - Undetectable And XOR Encrypting With Custom KEY (FUD Metasploit RAT)](http://feedproxy.google.com/~r/PentestTools/~3/NwcY_-uJ198/xeexe-undetectable-and-xor-encrypting.html)
 - [BSF - Botnet Simulation Framework](http://feedproxy.google.com/~r/PentestTools/~3/11FU2_1TyCM/bsf-botnet-simulation-framework.html)
 - [Espionage - A Network Packet And Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network](http://feedproxy.google.com/~r/PentestTools/~3/5nHkLcaJGq8/espionage-network-packet-and-traffic.html)
 - [Screenspy - Capture user screenshots using shortcut file (Bypass SmartScreen/Defender)](http://feedproxy.google.com/~r/PentestTools/~3/spZ-O7mhFCU/screenspy-capture-user-screenshots.html)
