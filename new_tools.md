@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MSFPC - MSFvenom Payload Creator](http://feedproxy.google.com/~r/PentestTools/~3/t136V2RB-ZE/msfpc-msfvenom-payload-creator.html)
 - [Kube-Bench - Checks Whether Kubernetes Is Deployed According To Security Best Practices As Defined In The CIS Kubernetes Benchmark](http://feedproxy.google.com/~r/PentestTools/~3/midjLJVoGvU/kube-bench-checks-whether-kubernetes-is.html)
 - [EvilNet - Network Attack Wifi Attack Vlan Attack Arp Attack Mac Attack Attack Revealed Etc...](http://feedproxy.google.com/~r/PentestTools/~3/RH987lnPHpY/evilnet-network-attack-wifi-attack-vlan.html)
 - [Xeexe - Undetectable And XOR Encrypting With Custom KEY (FUD Metasploit RAT)](http://feedproxy.google.com/~r/PentestTools/~3/NwcY_-uJ198/xeexe-undetectable-and-xor-encrypting.html)
