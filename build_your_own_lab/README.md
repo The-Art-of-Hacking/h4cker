@@ -40,3 +40,8 @@ The following are the vulnerable applications included in [WebSploit](https://we
 - OWASP Mutillidae 2
 - bWapp2
 - hackme-rtov
+
+## Cloud-Based Cyber Ranges
+- [JuliaRT](https://github.com/iknowjason/juliart):  Cyber Range environment created by [Jason Ostrom](https://twitter.com/securitypuck) using Active Directory and automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud!
+- [CyberRange by SECDEVOPS@CUSE](https://github.com/secdevops-cuse/CyberRange): AWS-based Cyber Range.
+
