@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IIS-Raid - A Native Backdoor Module For Microsoft IIS (Internet Information Services)](http://feedproxy.google.com/~r/PentestTools/~3/2Rq9iTLImEY/iis-raid-native-backdoor-module-for.html)
 - [UsoDllLoader - Windows - Weaponizing Privileged File Writes With The Update Session Orchestrator Service](http://feedproxy.google.com/~r/PentestTools/~3/avQzkwqCtoU/usodllloader-windows-weaponizing.html)
 - [Basecrack - Best Decoder Tool For Base Encoding Schemes](http://feedproxy.google.com/~r/PentestTools/~3/aNj8sRhR4u0/basecrack-best-decoder-tool-for-base.html)
 - [MSFPC - MSFvenom Payload Creator](http://feedproxy.google.com/~r/PentestTools/~3/t136V2RB-ZE/msfpc-msfvenom-payload-creator.html)
