@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Server Side Template Injection Payloads](http://feedproxy.google.com/~r/PentestTools/~3/r_UyLlqp7DY/server-side-template-injection-payloads.html)
 - [Behave - A Monitoring Browser Extension For Pages Acting As Bad Boys](http://feedproxy.google.com/~r/PentestTools/~3/F4F6vUgcrTE/behave-monitoring-browser-extension-for.html)
 - [ShellGen - Reverse shell generator](http://feedproxy.google.com/~r/PentestTools/~3/v6AEksEUHto/shellgen-reverse-shell-generator.html)
 - [KITT-Lite - Python-Based Pentesting CLI Tool](http://feedproxy.google.com/~r/PentestTools/~3/uCMwFwjj-L4/kitt-lite-python-based-pentesting-cli.html)
