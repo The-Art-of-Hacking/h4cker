@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HackingTool - ALL IN ONE Hacking Tool For Hackers](http://feedproxy.google.com/~r/PentestTools/~3/KT90Pqvqdas/hackingtool-all-in-one-hacking-tool-for.html)
 - [FastNetMon Community - Very Fast DDoS Analyzer With Sflow/Netflow/Mirror Support](http://feedproxy.google.com/~r/PentestTools/~3/YE8KhwOn8TQ/fastnetmon-community-very-fast-ddos.html)
 - [GoGhost - High Performance, Lightweight, Portable Open Source Tool For Mass SMBGhost Scan](http://feedproxy.google.com/~r/PentestTools/~3/Y7VW4N8Oz5s/goghost-high-performance-lightweight.html)
 - [How to Report IP Addresses](http://feedproxy.google.com/~r/PentestTools/~3/9OlqUlDTqCQ/how-to-report-ip-addresses.html)
