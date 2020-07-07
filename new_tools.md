@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Airshare - Cross-platform Content Sharing In A Local Network](http://feedproxy.google.com/~r/PentestTools/~3/rIOrri5vOIg/airshare-cross-platform-content-sharing.html)
 - [Git All The Payloads! A Collection Of Web Attack Payloads](http://feedproxy.google.com/~r/PentestTools/~3/TSOPIs15EEg/git-all-payloads-collection-of-web.html)
 - [Faxhell - A Bind Shell Using The Fax Service And A DLL Hijack](http://feedproxy.google.com/~r/PentestTools/~3/yWhg_kJIvFw/faxhell-bind-shell-using-fax-service.html)
 - [Exe_To_Dll - Converts A EXE Into DLL](http://feedproxy.google.com/~r/PentestTools/~3/a0NB_1rFigw/exetodll-converts-exe-into-dll.html)
