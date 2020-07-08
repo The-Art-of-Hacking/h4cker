@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Harbian-Audit - Hardened Debian GNU/Linux Distro Auditing](http://feedproxy.google.com/~r/PentestTools/~3/9AgN_ClJheI/harbian-audit-hardened-debian-gnulinux.html)
 - [Shhgit - Find GitHub Secrets In Real Time](http://feedproxy.google.com/~r/PentestTools/~3/PHsUtb-C5vE/shhgit-find-github-secrets-in-real-time.html)
 - [Scant3R - Web Security Scanner](http://feedproxy.google.com/~r/PentestTools/~3/hDy2IueTv-o/scant3r-scant3r-web-security-scanner.html)
 - [Scant3R - ScanT3r - Web Security Scanner](http://feedproxy.google.com/~r/PentestTools/~3/hDy2IueTv-o/scant3r-scant3r-web-security-scanner.html)
