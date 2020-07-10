@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GIVINGSTORM - Infection Vector That Bypasses AV, IDS, And IPS](http://feedproxy.google.com/~r/PentestTools/~3/-XlFTBIl8_Y/givingstorm-infection-vector-that.html)
 - [Converting MBOX to Outlook Easily](http://feedproxy.google.com/~r/PentestTools/~3/zoX-hDUDFls/converting-mbox-to-outlook-easily.html)
 - [WordListGen - Super Simple Python Word List Generator For Fuzzing And Brute Forcing In Python](http://feedproxy.google.com/~r/PentestTools/~3/2cBn6OpVMvo/wordlistgen-super-simple-python-word.html)
 - [dorkScanner - A Typical Search Engine Dork Scanner Scrapes Search Engines With Dorks That You Provide In Order To Find Vulnerable URLs](http://feedproxy.google.com/~r/PentestTools/~3/5Y-zW-TzkAc/dorkscanner-typical-search-engine-dork.html)
