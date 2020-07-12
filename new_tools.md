@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Santa - A Binary Whitelisting/Blacklisting System For macOS](http://feedproxy.google.com/~r/PentestTools/~3/xeoFayAyG14/santa-binary-whitelistingblacklisting.html)
 - [FinDOM-XSS - A Fast DOM Based XSS Vulnerability Scanner With Simplicity](http://feedproxy.google.com/~r/PentestTools/~3/crxe_ECer8M/findom-xss-fast-dom-based-xss.html)
 - [ParamSpider - Mining Parameters From Dark Corners Of Web Archives](http://feedproxy.google.com/~r/PentestTools/~3/iOh8uMlwUvY/paramspider-mining-parameters-from-dark.html)
 - [OWASP Threat Dragon - Cross-Platform Threat Modeling Application](http://feedproxy.google.com/~r/PentestTools/~3/apFjHPaqx1Y/owasp-threat-dragon-cross-platform.html)
