@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [X64Dbg - An Open-Source X64/X32 Debugger For Windows](http://feedproxy.google.com/~r/PentestTools/~3/pqD8YWT3164/x64dbg-open-source-x64x32-debugger-for.html)
 - [DroneSploit - Drone Pentesting Framework Console](http://feedproxy.google.com/~r/PentestTools/~3/GTwrPeqJSaE/dronesploit-drone-pentesting-framework.html)
 - [Padding-Oracle-Attacker - CLI Tool And Library To Execute Padding Oracle Attacks Easily](http://feedproxy.google.com/~r/PentestTools/~3/CjK2TwC9elM/padding-oracle-attacker-cli-tool-and.html)
 - [Debotnet - A Tiny Portable Tool For Controlling Windows 10's Many Privacy-Related Settings And Keep Your Personal Data Private](http://feedproxy.google.com/~r/PentestTools/~3/qQU-wXw07Tg/debotnet-tiny-portable-tool-for.html)
