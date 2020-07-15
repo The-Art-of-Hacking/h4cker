@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Capsulecorp-Pentest - Vagrant VirtualBox Environment For Conducting An Internal Network Penetration Test](http://feedproxy.google.com/~r/PentestTools/~3/6FP53ToUZBI/capsulecorp-pentest-vagrant-virtualbox.html)
 - [Natlas - Scaling Network Scanning](http://feedproxy.google.com/~r/PentestTools/~3/h8xZRsDegjQ/natlas-scaling-network-scanning.html)
 - [Maskprocessor - High-Performance Word Generator With A Per-Position Configureable Charset](http://feedproxy.google.com/~r/PentestTools/~3/ghYiliC_heU/maskprocessor-high-performance-word.html)
 - [X64Dbg - An Open-Source X64/X32 Debugger For Windows](http://feedproxy.google.com/~r/PentestTools/~3/pqD8YWT3164/x64dbg-open-source-x64x32-debugger-for.html)
