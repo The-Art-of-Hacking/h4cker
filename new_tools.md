@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bramble - A Hacking Open Source Suite](http://feedproxy.google.com/~r/PentestTools/~3/5xMqgrR4qRI/bramble-hacking-open-source-suite.html)
 - [Docker for Pentest - Image With The More Used Tools To Create A Pentest Environment Easily And Quickly](http://feedproxy.google.com/~r/PentestTools/~3/DumidnUpHAk/docker-for-pentest-image-with-more-used.html)
 - [T14M4T - Automated Brute-Forcing Attack Tool](http://feedproxy.google.com/~r/PentestTools/~3/hPB-qQXMc7c/t14m4t-automated-brute-forcing-attack.html)
 - [Steganographer - Hide Files Or Data In Image Files](http://feedproxy.google.com/~r/PentestTools/~3/sVRV4AriMSU/steganographer-hide-files-or-data-in.html)
