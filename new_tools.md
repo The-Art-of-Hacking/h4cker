@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [hackerEnv - An Automation Tool That Quickly And Easily Sweep IPs And Scan Ports, Vulnerabilities And Exploit Them](http://feedproxy.google.com/~r/PentestTools/~3/kFzf2FsM6gM/hackerenv-automation-tool-that-quickly.html)
 - [PENIOT - Penetration Testing Tool for IoT](http://feedproxy.google.com/~r/PentestTools/~3/zo7DgfaHfF4/peniot-penetration-testing-tool-for-iot.html)
 - [Lazymux - A Huge List Of Many Hacking Tools And PEN-TESTING Tools](http://feedproxy.google.com/~r/PentestTools/~3/srTxRSMsGsY/lazymux-huge-list-of-many-hacking-tools.html)
 - [Keylogger - Get Keyboard, Mouse, ScreenShot, Microphone Inputs From Target Computer And Send To Your Mail](http://feedproxy.google.com/~r/PentestTools/~3/IdBn4Nv7NV4/keylogger-get-keyboard-mouse-screenshot.html)
