@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NTLMRecon - A Tool To Enumerate Information From NTLM Authentication Enabled Web Endpoints](http://feedproxy.google.com/~r/PentestTools/~3/iInE04unlfs/ntlmrecon-tool-to-enumerate-information.html)
 - [ADB-Toolkit - Tool for testing your Android device](http://feedproxy.google.com/~r/PentestTools/~3/9UFrHzThs_s/adb-toolkit-tool-for-testing-your.html)
 - [hackerEnv - An Automation Tool That Quickly And Easily Sweep IPs And Scan Ports, Vulnerabilities And Exploit Them](http://feedproxy.google.com/~r/PentestTools/~3/kFzf2FsM6gM/hackerenv-automation-tool-that-quickly.html)
 - [PENIOT - Penetration Testing Tool for IoT](http://feedproxy.google.com/~r/PentestTools/~3/zo7DgfaHfF4/peniot-penetration-testing-tool-for-iot.html)
