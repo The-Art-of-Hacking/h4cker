@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kali-Linux-Tools-Interface - Graphical Web Interface Developed To Facilitate The Use Of Security Information Tools](http://feedproxy.google.com/~r/PentestTools/~3/6e2Xd2jTSi4/kali-linux-tools-interface-graphical.html)
 - [Lazybee - Wordlist Generator Tool for Termux](http://feedproxy.google.com/~r/PentestTools/~3/mlKLXBNFceE/lazybee-wordlist-generator-tool-for.html)
 - [NTLMRecon - A Tool To Enumerate Information From NTLM Authentication Enabled Web Endpoints](http://feedproxy.google.com/~r/PentestTools/~3/iInE04unlfs/ntlmrecon-tool-to-enumerate-information.html)
 - [ADB-Toolkit - Tool for testing your Android device](http://feedproxy.google.com/~r/PentestTools/~3/9UFrHzThs_s/adb-toolkit-tool-for-testing-your.html)
