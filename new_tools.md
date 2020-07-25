@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Autoenum - Automatic Service Enumeration Script](http://feedproxy.google.com/~r/PentestTools/~3/ouPKC-dV2rk/autoenum-automatic-service-enumeration.html)
 - [AuthMatrix - A Burp Suite Extension That Provides A Simple Way To Test Authorization](http://feedproxy.google.com/~r/PentestTools/~3/3qug9-U-7gg/authmatrix-burp-suite-extension-that.html)
 - [Permission Manager - A Project That Brings Sanity To Kubernetes RBAC And Users Management, Web UI FTW](http://feedproxy.google.com/~r/PentestTools/~3/7QHE-VirROA/permission-manager-project-that-brings.html)
 - [Quiver - Tool To Manage All Of Your Tools For Bug Bounty Hunting And Penetration Testing](http://feedproxy.google.com/~r/PentestTools/~3/Q-JC2NLFgqI/quiver-tool-to-manage-all-of-your-tools.html)
