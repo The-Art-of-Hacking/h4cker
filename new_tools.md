@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sitedorks - Search Google/Bing/DuckDuckGo/Yandex/Yahoo For A Search Term With Different Websites](http://feedproxy.google.com/~r/PentestTools/~3/9zGBhKqPzSg/sitedorks-search-googlebingduckduckgoya.html)
 - [reNgine - An Automated Reconnaissance Framework Meant For Gathering Information During Penetration Testing Of Web Applications](http://feedproxy.google.com/~r/PentestTools/~3/DqEKuwTfcIY/rengine-automated-reconnaissance.html)
 - [Autoenum - Automatic Service Enumeration Script](http://feedproxy.google.com/~r/PentestTools/~3/ouPKC-dV2rk/autoenum-automatic-service-enumeration.html)
 - [AuthMatrix - A Burp Suite Extension That Provides A Simple Way To Test Authorization](http://feedproxy.google.com/~r/PentestTools/~3/3qug9-U-7gg/authmatrix-burp-suite-extension-that.html)
