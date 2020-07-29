@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Oralyzer - Open Redirection Analyzer](http://feedproxy.google.com/~r/PentestTools/~3/tedUK-Ukf8s/oralyzer-open-redirection-analyzer.html)
 - [SNOWCRASH - A Polyglot Payload Generator](http://feedproxy.google.com/~r/PentestTools/~3/vaMcokVOhzg/snowcrash-polyglot-payload-generator.html)
 - [Intelspy - Perform Automated Network Reconnaissance Scans](http://feedproxy.google.com/~r/PentestTools/~3/4HcknKGuMCo/intelspy-perform-automated-network.html)
 - [HawkScan - Security Tool For Reconnaissance And Information Gathering On A Website](http://feedproxy.google.com/~r/PentestTools/~3/6OnYL4uwfKo/hawkscan-security-tool-for.html)
