@@ -3,21 +3,22 @@
 Open-source intelligence (OSINT) is data collected from open source and publicly available sources. The following are a few OSINT resources and references:
 
 ## Passive Recon Tools:
-- [Maltego](https://www.paterva.com/web7/)
-- [Shodan](https://shodan.io)
-- [Recon-NG](https://github.com/lanmaster53/recon-ng)
-- [SpiderFoot](http://spiderfoot.net)
 - [Buscador VM](https://inteltechniques.com/buscador)
-- [Visual SEO Studio](https://visual-seo.com/)
+- [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
+- [ExtractMetadata](http://www.extractmetadata.com)
+- [Findsubdomains](https://findsubdomains.com/)
+- [FOCA](https://elevenpaths.com)
+- [IntelTechniques](https://inteltechniques.com)
+- [Maltego](https://www.paterva.com/web7/)
+- [Recon-NG](https://github.com/lanmaster53/recon-ng)
 - [Scrapy](https://scrapy.org)
 - [Screaming Frog](https://www.screamingfrog.co.uk)
-- [Xenu](http://home.snafu.de)
-- [ExtractMetadata](http://www.extractmetadata.com)
-- [FOCA](https://elevenpaths.com)
-- [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
+- [Shodan](https://shodan.io)
+- [SpiderFoot](http://spiderfoot.net)
+- [theHarvester](https://github.com/laramies/theHarvester)
+- [Visual SEO Studio](https://visual-seo.com/)
 - [Web Data Extractor](http://www.webextractor.com)
-- [IntelTechniques](https://inteltechniques.com)
-- [Findsubdomains](https://findsubdomains.com/)
+- [Xenu](http://home.snafu.de)
 
 ## Open Source Threat Intelligence
 
