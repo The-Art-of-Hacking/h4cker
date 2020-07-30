@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Oralyzer - Tool To Identify Open Redirection](http://feedproxy.google.com/~r/PentestTools/~3/UpP-Msg0ZAU/oralyzer-tool-to-identify-open.html)
 - [Kubebox - Terminal And Web Console For Kubernetes](http://feedproxy.google.com/~r/PentestTools/~3/jhL0O0WVKkw/kubebox-terminal-and-web-console-for.html)
 - [Commit Stream - OSINT Tool For Finding Github Repositories By Extracting Commit Logs In Real Time From The Github Event API](http://feedproxy.google.com/~r/PentestTools/~3/hjAUze0ZEkI/commit-stream-osint-tool-for-finding.html)
 - [Oralyzer - Open Redirection Analyzer](http://feedproxy.google.com/~r/PentestTools/~3/tedUK-Ukf8s/oralyzer-open-redirection-analyzer.html)
