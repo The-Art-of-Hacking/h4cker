@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kubei - A Flexible Kubernetes Runtime Scanner](http://feedproxy.google.com/~r/PentestTools/~3/7jhcROllIh4/kubei-flexible-kubernetes-runtime.html)
 - [dazzleUP - A Tool That Detects The Privilege Escalation Vulnerabilities Caused By Misconfigurations And Missing Updates In The Windows OS](http://feedproxy.google.com/~r/PentestTools/~3/6MJqSmNP9VY/dazzleup-tool-that-detects-privilege.html)
 - [uDork - Tool That Uses Advanced Google Search Techniques To Obtain Sensitive Information In Files Or Directories, Find IoT Devices, Detect Versions Of Web Applications, And So On](http://feedproxy.google.com/~r/PentestTools/~3/evrS1p3uO9k/udork-tool-that-uses-advanced-google.html)
 - [Oralyzer - Tool To Identify Open Redirection](http://feedproxy.google.com/~r/PentestTools/~3/UpP-Msg0ZAU/oralyzer-tool-to-identify-open.html)
