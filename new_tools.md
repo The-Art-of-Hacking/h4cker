@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CWFF - Create Your Custom Wordlist For Fuzzing](http://feedproxy.google.com/~r/PentestTools/~3/bTZRr6ehdsY/cwff-create-your-custom-wordlist-for.html)
 - [Cloudsplaining - An AWS IAM Security Assessment Tool That Identifies Violations Of Least Privilege And Generates A Risk-Prioritized Report](http://feedproxy.google.com/~r/PentestTools/~3/-7enjmYyTw8/cloudsplaining-aws-iam-security.html)
 - [Kubei - A Flexible Kubernetes Runtime Scanner](http://feedproxy.google.com/~r/PentestTools/~3/7jhcROllIh4/kubei-flexible-kubernetes-runtime.html)
 - [dazzleUP - A Tool That Detects The Privilege Escalation Vulnerabilities Caused By Misconfigurations And Missing Updates In The Windows OS](http://feedproxy.google.com/~r/PentestTools/~3/6MJqSmNP9VY/dazzleup-tool-that-detects-privilege.html)
