@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Mistica - An Open Source Swiss Army Knife For Arbitrary Communication Over Application Protocols](http://feedproxy.google.com/~r/PentestTools/~3/3rKmWTT6gLw/mistica-open-source-swiss-army-knife.html)
 - [DeimosC2 - A Golang Command And Control Framework For Post-Exploitation](http://feedproxy.google.com/~r/PentestTools/~3/TLSuJyOoAGg/deimosc2-golang-command-and-control.html)
 - [EternalBlueC - EternalBlue Suite Remade In C/C++ Which Includes: MS17-010 Exploit, EternalBlue Vulnerability Detector, DoublePulsar Detector And DoublePulsar Shellcode & DLL Uploader](http://feedproxy.google.com/~r/PentestTools/~3/YshWuG7n0_s/eternalbluec-eternalblue-suite-remade.html)
 - [CWFF - Create Your Custom Wordlist For Fuzzing](http://feedproxy.google.com/~r/PentestTools/~3/bTZRr6ehdsY/cwff-create-your-custom-wordlist-for.html)
