@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DLInjector-GUI - DLL Injector Graphical User Interface](http://feedproxy.google.com/~r/PentestTools/~3/_kClm9oJJUM/dlinjector-gui-dll-injector-graphical.html)
 - [Xeca - PowerShell Payload Generator](http://feedproxy.google.com/~r/PentestTools/~3/xsbLQOGTFuA/xeca-powershell-payload-generator.html)
 - [Cnitch - Container Snitch Checks Running Processes Under The Docker Engine And Alerts If Any Are Found To Be Running As Root](http://feedproxy.google.com/~r/PentestTools/~3/6FGeYMW_2E0/cnitch-container-snitch-checks-running.html)
 - [Mistica - An Open Source Swiss Army Knife For Arbitrary Communication Over Application Protocols](http://feedproxy.google.com/~r/PentestTools/~3/3rKmWTT6gLw/mistica-open-source-swiss-army-knife.html)
