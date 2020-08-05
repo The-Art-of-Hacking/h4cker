@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [UEFI_RETool - A Tool For UEFI Firmware Reverse Engineering](http://feedproxy.google.com/~r/PentestTools/~3/jJswEzISv-A/uefiretool-tool-for-uefi-firmware.html)
 - [Netenum - A Tool To Passively Discover Active Hosts On A Network](http://feedproxy.google.com/~r/PentestTools/~3/HSBbC7UuzVs/netenum-tool-to-passively-discover.html)
 - [DLInjector-GUI - DLL Injector Graphical User Interface](http://feedproxy.google.com/~r/PentestTools/~3/_kClm9oJJUM/dlinjector-gui-dll-injector-graphical.html)
 - [Xeca - PowerShell Payload Generator](http://feedproxy.google.com/~r/PentestTools/~3/xsbLQOGTFuA/xeca-powershell-payload-generator.html)
