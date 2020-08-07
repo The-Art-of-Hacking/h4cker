@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FestIn - S3 Bucket Weakness Discovery](http://feedproxy.google.com/~r/PentestTools/~3/IsCkuOcHH-s/festin-s3-bucket-weakness-discovery.html)
 - [Chalumeau - Automated, Extendable And Customizable Credential Dumping Tool](http://feedproxy.google.com/~r/PentestTools/~3/n5PhxTEkoD0/chalumeau-automated-extendable-and.html)
 - [Gtunnel - A Robust Tunelling Solution Written In Golang](http://feedproxy.google.com/~r/PentestTools/~3/rJJ0YBAATJ8/gtunnel-robust-tunelling-solution.html)
 - [Taowu - A CobaltStrike Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/FoviBkgs9Wk/taowu-cobaltstrike-toolkit.html)
