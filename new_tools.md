@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpAppLocker - C# Port Of The Get-AppLockerPolicy PS Cmdlet](http://feedproxy.google.com/~r/PentestTools/~3/r3EqsmFsAyk/sharpapplocker-c-port-of-get.html)
 - [PhishingKitTracker - Let's Track Phishing Kits To Give To Research Community Raw Material To Stud](http://feedproxy.google.com/~r/PentestTools/~3/tYI46yw5MEg/phishingkittracker-lets-track-phishing.html)
 - [FestIn - S3 Bucket Weakness Discovery](http://feedproxy.google.com/~r/PentestTools/~3/IsCkuOcHH-s/festin-s3-bucket-weakness-discovery.html)
 - [Chalumeau - Automated, Extendable And Customizable Credential Dumping Tool](http://feedproxy.google.com/~r/PentestTools/~3/n5PhxTEkoD0/chalumeau-automated-extendable-and.html)
