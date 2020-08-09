@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IRFuzz - Simple Scanner with Yara Rule](http://feedproxy.google.com/~r/PentestTools/~3/dAGy8qxNrf4/irfuzz-simple-scanner-with-yara-rule.html)
 - [Evine - Interactive CLI Web Crawler](http://feedproxy.google.com/~r/PentestTools/~3/msGReDRfM18/evine-interactive-cli-web-crawler.html)
 - [SharpAppLocker - C# Port Of The Get-AppLockerPolicy PS Cmdlet](http://feedproxy.google.com/~r/PentestTools/~3/r3EqsmFsAyk/sharpapplocker-c-port-of-get.html)
 - [PhishingKitTracker - Let's Track Phishing Kits To Give To Research Community Raw Material To Stud](http://feedproxy.google.com/~r/PentestTools/~3/tYI46yw5MEg/phishingkittracker-lets-track-phishing.html)
