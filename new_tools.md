@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PE Tree - Python Module For Viewing Portable Executable (PE) Files In A Tree-View](http://feedproxy.google.com/~r/PentestTools/~3/tRB-G7g7FNw/pe-tree-python-module-for-viewing.html)
 - [Flask-Session-Cookie-Manager - Flask Session Cookie Decoder/Encoder](http://feedproxy.google.com/~r/PentestTools/~3/RCa4AMavP_4/flask-session-cookie-manager-flask.html)
 - [Arcane - A Simple Script Designed To Backdoor iOS Packages (Iphone-Arm) And Create The Necessary Resources For APT Repositories](http://feedproxy.google.com/~r/PentestTools/~3/6dNxma-yOxI/arcane-simple-script-designed-to.html)
 - [IRFuzz - Simple Scanner with Yara Rule](http://feedproxy.google.com/~r/PentestTools/~3/dAGy8qxNrf4/irfuzz-simple-scanner-with-yara-rule.html)
