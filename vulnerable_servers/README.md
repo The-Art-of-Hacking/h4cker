@@ -40,8 +40,8 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 
 ## WebSploit Labs
 - [WebSploit Labs (created and maintained by Omar Ωr Santos)](https://websploit.org)
-- [Mayhem - vulnerable container part of WebSploit](https://websploit.org)
-- [RTOV-Hackme - vulnerable container part of WebSploit](https://websploit.org)
+- [Mayhem - vulnerable container created by Omar Ωr for Mayhem 2020](https://websploit.org)
+- [RTOV-Hackme - vulnerable container created by Omar Ωr for DEF CON 27](https://websploit.org)
 - [RTV-Safemode - vulnerable container created by Omar Ωr for DEF CON Safemode](https://websploit.org)
 
 ## Learning Platforms and VMs
