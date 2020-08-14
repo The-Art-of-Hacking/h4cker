@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AWS Report - A Tool For Analyzing Amazon Resources](http://feedproxy.google.com/~r/PentestTools/~3/pKUBrpmSvbE/aws-report-tool-for-analyzing-amazon.html)
 - [AWS Report - A Tool For Analyzing Amazon Resources.](http://feedproxy.google.com/~r/PentestTools/~3/pKUBrpmSvbE/aws-report-tool-for-analyzing-amazon.html)
 - [Bastillion - A Web-Based SSH Console That Centrally Manages Administrative Access To Systems](http://feedproxy.google.com/~r/PentestTools/~3/nyadoE_TPlE/bastillion-web-based-ssh-console-that.html)
 - [Nautilus - A Grammar Based Feedback Fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/8Xdw3mHfTWc/nautilus-grammar-based-feedback-fuzzer.html)
