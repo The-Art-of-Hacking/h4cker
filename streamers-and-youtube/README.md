@@ -11,6 +11,8 @@
 - [The Art of Hacking](https://www.youtube.com/theartofhacking)
 - [AppSec Village](https://www.youtube.com/c/appsecvillage)
 - [BlackHills InfoSec](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
+- [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
+
 
 ## Twitch
 - [Red Team Village](https://twitch.tv/redteamvillage)
@@ -19,4 +21,20 @@
 - [IoT Village](https://www.twitch.tv/iotvillage)
 - [BugCrowd](https://www.twitch.tv/bugcrowd)
 - [HackerOne](https://www.twitch.tv/hackeronetv)
+
+## Podcasts
+- [DarkNet Diaries](https://darknetdiaries.com/)
+- [Security Weekly](https://securityweekly.com/)
+- [Risky Business](https://risky.biz/netcasts/risky-business/)
+- [The Unsupervised Learning Podcast](https://danielmiessler.com/podcast/#gs.=RDc3aY)
+- [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/)
+- [Smashing Security](https://www.smashingsecurity.com/)
+- [The Cyberwire](https://thecyberwire.com/)
+- [The CyberJungle](http://www.thecyberjungle.com/)
+- [Beer with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
+- [Talos Takes](https://talosintelligence.com/podcasts/shows/talos_takes)
+- [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
+- [Crypto-Gram Security Podcast](http://crypto-gram.libsyn.com/)
+
+
 
