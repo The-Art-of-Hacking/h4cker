@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Phirautee - A PoC Crypto Virus To Spread User Awareness About Attacks And Implications Of Ransomwares](http://feedproxy.google.com/~r/PentestTools/~3/Z6nqxV78cEQ/phirautee-poc-crypto-virus-to-spread.html)
 - [Unfollow-Plus - Automated Instagram Unfollower Bot](http://feedproxy.google.com/~r/PentestTools/~3/V_Pju0doVxo/unfollow-plus-automated-instagram.html)
 - [DAGOBAH - Open Source Tool To Generate Internal Threat Intelligence, Inventory & Compliance Data From AWS Resources](http://feedproxy.google.com/~r/PentestTools/~3/heCluXrDIA0/dagobah-open-source-tool-to-generate.html)
 - [AWS Report - A Tool For Analyzing Amazon Resources](http://feedproxy.google.com/~r/PentestTools/~3/pKUBrpmSvbE/aws-report-tool-for-analyzing-amazon.html)
