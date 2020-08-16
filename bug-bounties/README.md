@@ -30,6 +30,7 @@
 - [HackerOne](https://hackerone.com/)
 - [Hacktrophy](https://hacktrophy.com/)
 - [intigriti](https://intigriti.com/)
+- [RedStorm](https://redstorm.io)
 - [Safehats](https://safehats.com/)
 - [Synack](https://www.synack.com/)
 - [YesWeHack](https://yeswehack.com/)
