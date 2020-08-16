@@ -11,8 +11,8 @@
 - [The Art of Hacking](https://www.youtube.com/theartofhacking)
 - [AppSec Village](https://www.youtube.com/c/appsecvillage)
 - [BlackHills InfoSec](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 - [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
-
 
 ## Twitch
 - [Red Team Village](https://twitch.tv/redteamvillage)
@@ -21,6 +21,7 @@
 - [IoT Village](https://www.twitch.tv/iotvillage)
 - [BugCrowd](https://www.twitch.tv/bugcrowd)
 - [HackerOne](https://www.twitch.tv/hackeronetv)
+- [The Cyber Mentor](https://www.twitch.tv/thecybermentor)
 
 ## Podcasts
 - [DarkNet Diaries](https://darknetdiaries.com/)
