@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Spybrowse - Code Developed To Steal Certain Browser Config Files (History, Preferences, Etc)](http://feedproxy.google.com/~r/PentestTools/~3/16nx030JA64/spybrowse-code-developed-to-steal.html)
 - [CheckXSS - Detect XSS vulnerability in Web Applications](http://feedproxy.google.com/~r/PentestTools/~3/hYN1k2fAie4/checkxss-detect-xss-vulnerability-in.html)
 - [Phirautee - A PoC Crypto Virus To Spread User Awareness About Attacks And Implications Of Ransomwares](http://feedproxy.google.com/~r/PentestTools/~3/Z6nqxV78cEQ/phirautee-poc-crypto-virus-to-spread.html)
 - [Unfollow-Plus - Automated Instagram Unfollower Bot](http://feedproxy.google.com/~r/PentestTools/~3/V_Pju0doVxo/unfollow-plus-automated-instagram.html)
