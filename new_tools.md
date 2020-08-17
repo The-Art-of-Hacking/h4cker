@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IoT-PT - A Virtual Environment For Pentesting IoT Devices](http://feedproxy.google.com/~r/PentestTools/~3/xI86e6AIgtE/iot-pt-virtual-environment-for.html)
 - [Urlbuster - Powerful Mutable Web Directory Fuzzer To Bruteforce Existing And/Or Hidden Files Or Directories](http://feedproxy.google.com/~r/PentestTools/~3/nLo8IxobO1A/urlbuster-powerful-mutable-web.html)
 - [PowerSharpPack - Many usefull offensive CSharp Projects wraped into Powershell for easy usage](http://feedproxy.google.com/~r/PentestTools/~3/tu7RPbSD32c/powersharppack-many-usefull-offensive.html)
 - [Spybrowse - Code Developed To Steal Certain Browser Config Files (History, Preferences, Etc)](http://feedproxy.google.com/~r/PentestTools/~3/16nx030JA64/spybrowse-code-developed-to-steal.html)
