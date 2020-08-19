@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kali Linux 2020.3 Release - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/zC4oYkLKLdY/kali-linux-20203-release-penetration.html)
 - [PurpleSharp - C# Adversary Simulation Tool That Executes Adversary Techniques With The Purpose Of Generating Attack Telemetry In Monitored Windows Environments](http://feedproxy.google.com/~r/PentestTools/~3/IzAVJtYAZHU/purplesharp-c-adversary-simulation-tool.html)
 - [Sinter - A User-Mode Application Authorization System For MacOS Written In Swift](http://feedproxy.google.com/~r/PentestTools/~3/8Kt4XvbKfF0/sinter-user-mode-application.html)
 - [IoT-PT - A Virtual Environment For Pentesting IoT Devices](http://feedproxy.google.com/~r/PentestTools/~3/xI86e6AIgtE/iot-pt-virtual-environment-for.html)
