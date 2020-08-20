@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DropEngine - Malleable Payloads!](http://feedproxy.google.com/~r/PentestTools/~3/CviZ5LqxLXQ/dropengine-malleable-payloads.html)
 - [ReconSpider - Most Advanced Open Source Intelligence (OSINT) Framework For Scanning IP Address, Emails, Websites, Organizations](http://feedproxy.google.com/~r/PentestTools/~3/2Y14ewQJS1Q/reconspider-most-advanced-open-source.html)
 - [Pagodo - Automate Google Hacking Database Scraping And Searching](http://feedproxy.google.com/~r/PentestTools/~3/M07zJ17Oieo/pagodo-automate-google-hacking-database.html)
 - [Kali Linux 2020.3 Release - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/zC4oYkLKLdY/kali-linux-20203-release-penetration.html)
