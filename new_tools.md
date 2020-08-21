@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ADBSploit - A Python Based Tool For Exploiting And Managing Android Devices Via ADB](http://feedproxy.google.com/~r/PentestTools/~3/aWZQxx87ZOQ/adbsploit-python-based-tool-for.html)
 - [Wonitor - Fast, Zero Config Web Endpoint Change Monitor](http://feedproxy.google.com/~r/PentestTools/~3/lHbLtwhkOOs/wonitor-fast-zero-config-web-endpoint.html)
 - [DropEngine - Malleable Payloads!](http://feedproxy.google.com/~r/PentestTools/~3/CviZ5LqxLXQ/dropengine-malleable-payloads.html)
 - [ReconSpider - Most Advanced Open Source Intelligence (OSINT) Framework For Scanning IP Address, Emails, Websites, Organizations](http://feedproxy.google.com/~r/PentestTools/~3/2Y14ewQJS1Q/reconspider-most-advanced-open-source.html)
