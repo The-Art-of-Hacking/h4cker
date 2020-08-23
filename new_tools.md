@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Intel Owl - Analyze Files, Domains, IPs In Multiple Ways From A Single API At Scale](http://feedproxy.google.com/~r/PentestTools/~3/tv-NcoUlPpE/intel-owl-analyze-files-domains-ips-in.html)
 - [Scan-For-Webcams - Scan For Webcams In The Internet](http://feedproxy.google.com/~r/PentestTools/~3/soTAChdKCy8/scan-for-webcams-scan-for-webcams-in.html)
 - [Cloud-Sniper - Virtual Security Operations Center](http://feedproxy.google.com/~r/PentestTools/~3/lvLipNAsBCA/cloud-sniper-virtual-security.html)
 - [SecGen - Create Randomly Insecure VMs](http://feedproxy.google.com/~r/PentestTools/~3/vwgVktVQxiE/secgen-create-randomly-insecure-vms.html)
