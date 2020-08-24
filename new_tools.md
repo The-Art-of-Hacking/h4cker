@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Yeti - Your Everyday Threat Intelligence](http://feedproxy.google.com/~r/PentestTools/~3/i2mVG7ADgJY/yeti-your-everyday-threat-intelligence.html)
 - [Parth - Heuristic Vulnerable Parameter Scanner](http://feedproxy.google.com/~r/PentestTools/~3/m4wLETpWmGk/parth-heuristic-vulnerable-parameter.html)
 - [Pyre-Check - Performant Type-Checking For Python](http://feedproxy.google.com/~r/PentestTools/~3/11ghEtFIPr8/pyre-check-performant-type-checking-for.html)
 - [Intel Owl - Analyze Files, Domains, IPs In Multiple Ways From A Single API At Scale](http://feedproxy.google.com/~r/PentestTools/~3/tv-NcoUlPpE/intel-owl-analyze-files-domains-ips-in.html)
