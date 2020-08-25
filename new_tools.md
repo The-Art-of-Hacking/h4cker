@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [VolExp - Volatility Explorer](http://feedproxy.google.com/~r/PentestTools/~3/c0O_S9gtClw/volexp-volatility-explorer.html)
 - [AWS Recon - Multi-threaded AWS Inventory Collection Tool With A Focus On Security-Relevant Resources And Metadata](http://feedproxy.google.com/~r/PentestTools/~3/mCRMljaSu2w/aws-recon-multi-threaded-aws-inventory.html)
 - [Yeti - Your Everyday Threat Intelligence](http://feedproxy.google.com/~r/PentestTools/~3/i2mVG7ADgJY/yeti-your-everyday-threat-intelligence.html)
 - [Parth - Heuristic Vulnerable Parameter Scanner](http://feedproxy.google.com/~r/PentestTools/~3/m4wLETpWmGk/parth-heuristic-vulnerable-parameter.html)
