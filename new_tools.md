@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hack-Tools - The All-In-One Red Team Extension For Web Pentester](http://feedproxy.google.com/~r/PentestTools/~3/40sICXRd1WM/hack-tools-all-in-one-red-team.html)
 - [ezEmu - Simple Execution Of Commands For Defensive Tuning/Research](http://feedproxy.google.com/~r/PentestTools/~3/l30aPVgljY0/ezemu-simple-execution-of-commands-for.html)
 - [VolExp - Volatility Explorer](http://feedproxy.google.com/~r/PentestTools/~3/c0O_S9gtClw/volexp-volatility-explorer.html)
 - [AWS Recon - Multi-threaded AWS Inventory Collection Tool With A Focus On Security-Relevant Resources And Metadata](http://feedproxy.google.com/~r/PentestTools/~3/mCRMljaSu2w/aws-recon-multi-threaded-aws-inventory.html)
