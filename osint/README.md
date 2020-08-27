@@ -3,6 +3,7 @@
 Open-source intelligence (OSINT) is data collected from open source and publicly available sources. The following are a few OSINT resources and references:
 
 ## Passive Recon Tools:
+- [AMass](https://github.com/OWASP/Amass)
 - [Buscador VM](https://inteltechniques.com/buscador)
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [ExtractMetadata](http://www.extractmetadata.com)
