@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bluescan - A Powerful Bluetooth Scanner For Scanning BR/LE Devices, LMP, SDP, GATT And Vulnerabilities!](http://feedproxy.google.com/~r/PentestTools/~3/g1Yto8yeP_4/bluescan-powerful-bluetooth-scanner-for.html)
 - [SharpHose - Asynchronous Password Spraying Tool In C# For Windows Environments](http://feedproxy.google.com/~r/PentestTools/~3/M0P9g3OrLBs/sharphose-asynchronous-password.html)
 - [Bashtop - Linux/OSX/FreeBSD Resource Monitor](http://feedproxy.google.com/~r/PentestTools/~3/-T0Iaw7N6oc/bashtop-linuxosxfreebsd-resource-monitor.html)
 - [Hack-Tools - The All-In-One Red Team Extension For Web Pentester](http://feedproxy.google.com/~r/PentestTools/~3/40sICXRd1WM/hack-tools-all-in-one-red-team.html)
