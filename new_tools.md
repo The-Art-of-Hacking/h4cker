@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Iblessing - An iOS Security Exploiting Toolkit, It Mainly Includes Application Information Collection, Static Analysis And Dynamic Analysis](http://feedproxy.google.com/~r/PentestTools/~3/Q3c4cB_8CVc/iblessing-ios-security-exploiting.html)
 - [Urlgrab - A Golang Utility To Spider Through A Website Searching For Additional Links](http://feedproxy.google.com/~r/PentestTools/~3/o26F28QBGHY/urlgrab-golang-utility-to-spider.html)
 - [Osintgram - A OSINT Tool On Instagram](http://feedproxy.google.com/~r/PentestTools/~3/stdKgt-1gJI/osintgram-osint-tool-on-instagram.html)
 - [Vulnerable-AD - Create A Vulnerable Active Directory That'S Allowing You To Test Most Of Active Directory Attacks In Local Lab](http://feedproxy.google.com/~r/PentestTools/~3/d758Ikb_OAA/vulnerable-ad-create-vulnerable-active.html)
