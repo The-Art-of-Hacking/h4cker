@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DVS - D(COM) V(ulnerability) S(canner) AKA Devious Swiss Army Knife](http://feedproxy.google.com/~r/PentestTools/~3/-CgfAXeYBbQ/dvs-dcom-vulnerability-scanner-aka.html)
 - [Mihari - A Helper To Run OSINT Queries & Manage Results Continuously](http://feedproxy.google.com/~r/PentestTools/~3/oD9c2Ho-HpE/mihari-helper-to-run-osint-queries.html)
 - [SourceWolf - Amazingly Fast Response Crawler To Find Juicy Stuff In The Source Code!](http://feedproxy.google.com/~r/PentestTools/~3/vnQIoGUz_aI/sourcewolf-amazingly-fast-response.html)
 - [Iblessing - An iOS Security Exploiting Toolkit, It Mainly Includes Application Information Collection, Static Analysis And Dynamic Analysis](http://feedproxy.google.com/~r/PentestTools/~3/Q3c4cB_8CVc/iblessing-ios-security-exploiting.html)
