@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Killchain - A Unified Console To Perform The "Kill Chain" Stages Of Attacks](http://feedproxy.google.com/~r/PentestTools/~3/GUfD7UUO73M/killchain-unified-console-to-perform.html)
 - [CrossC2 - Generate CobaltStrike's Cross-Platform Payload](http://feedproxy.google.com/~r/PentestTools/~3/62-5E9fU0nY/crossc2-generate-cobaltstrikes-cross.html)
 - [DVS - D(COM) V(ulnerability) S(canner) AKA Devious Swiss Army Knife](http://feedproxy.google.com/~r/PentestTools/~3/-CgfAXeYBbQ/dvs-dcom-vulnerability-scanner-aka.html)
 - [Mihari - A Helper To Run OSINT Queries & Manage Results Continuously](http://feedproxy.google.com/~r/PentestTools/~3/oD9c2Ho-HpE/mihari-helper-to-run-osint-queries.html)
