@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SpaceSiren - A Honey Token Manager And Alert System For AWS](http://feedproxy.google.com/~r/PentestTools/~3/SIBlEXl2Mhc/spacesiren-honey-token-manager-and.html)
 - [LOLBITS v2.0.0 - C2 Framework That Uses Background Intelligent Transfer Service (BITS) As Communication Protocol And Direct Syscalls + Dinvoke For EDR User-Mode Hooking Evasion](http://feedproxy.google.com/~r/PentestTools/~3/R2WwQr8F47Q/lolbits-v200-c2-framework-that-uses.html)
 - [Killchain - A Unified Console To Perform The "Kill Chain" Stages Of Attacks](http://feedproxy.google.com/~r/PentestTools/~3/GUfD7UUO73M/killchain-unified-console-to-perform.html)
 - [CrossC2 - Generate CobaltStrike's Cross-Platform Payload](http://feedproxy.google.com/~r/PentestTools/~3/62-5E9fU0nY/crossc2-generate-cobaltstrikes-cross.html)
