@@ -10,6 +10,10 @@ The following are a few popular tools that you learned in the video courses part
 * [sqlmap](http://sqlmap.org/)
 * [httrack](https://www.httrack.com/)
 * [skipfish](https://code.google.com/archive/p/skipfish/)
+* [nikto](https://cirt.net/Nikto2)
+* [ffuf](https://github.com/ffuf/ffuf) 
+
+Article: [A Quick Guide to Using ffuf with Burp Suite](https://medium.com/@santosomar/a-quick-guide-to-using-ffuf-with-burp-suite-713492f62242)
 
 ## WebSploit
 
@@ -17,12 +21,6 @@ The following are a few popular tools that you learned in the video courses part
 
 The purpose of this VM is to have a lightweight (single VM) with a few web application penetration testing tools, as well as vulnerable applications.
 
-The following are the vulnerable applications included in [WebSploit](https://websploit.h4cker.org/):
-- Damn Vulnerable Web Application (DVWA)
-- WebGoat
-- Hackazon
-- OWASP Juice Shop
-- OWASP Mutillidae 2
 
 ## How to Integrate OWASP ZAP with Jenkins
 You can integrate ZAP with Jenkins and even automatically create Jira issues based on your findings. You can download the [ZAP plug in here](https://wiki.jenkins.io/display/JENKINS/zap+plugin).
