@@ -28,20 +28,7 @@ Go to the [Vulnerable Servers Section](https://github.com/The-Art-of-Hacking/art
 
 The purpose of this VM is to have a lightweight (single VM) with a few web application penetration testing tools, as well as vulnerable applications.
 
-### Getting Started
 
-1. Download VirtualBox. 
-2. Download the .ova file from http://websploit.org and import it in VirtualBox. Alternatively, download Kali or Parrot and then run `curl -sSL https://websploit.org/install.sh | sudo bash`. 
-
-The following are the vulnerable applications included in [WebSploit](https://websploit.h4cker.org/):
-- Damn Vulnerable Web Application (DVWA)
-- Damn Vulnerable Node Application (DVNA)
-- WebGoat
-- Hackazon
-- OWASP Juice Shop
-- OWASP Mutillidae 2
-- bWapp2
-- hackme-rtov
 
 ## Cloud-Based Cyber Ranges
 - [PurpleCloud](https://github.com/iknowjason/PurpleCloud):  Cyber Range environment created by [Jason Ostrom](https://twitter.com/securitypuck) using Active Directory and automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud!
