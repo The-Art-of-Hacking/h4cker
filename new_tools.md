@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SNIcat - Server Name Indication Concatenator](http://feedproxy.google.com/~r/PentestTools/~3/xUcBOGG3Tco/snicat-server-name-indication.html)
 - [Geo-Recon - An OSINT CLI Tool Desgined To Fast Track IP Reputation And Geo-locaton Look Up For Security Analysts](http://feedproxy.google.com/~r/PentestTools/~3/Nvsl-cXK6Qk/geo-recon-osint-cli-tool-desgined-to.html)
 - [Bbrecon - Python Library And CLI For The Bug Bounty Recon API](http://feedproxy.google.com/~r/PentestTools/~3/ctp2uR7Xquc/bbrecon-python-library-and-cli-for-bug.html)
 - [SpaceSiren - A Honey Token Manager And Alert System For AWS](http://feedproxy.google.com/~r/PentestTools/~3/SIBlEXl2Mhc/spacesiren-honey-token-manager-and.html)
