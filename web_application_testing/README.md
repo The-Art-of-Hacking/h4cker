@@ -35,6 +35,7 @@ You can integrate ZAP with Jenkins and even automatically create Jira issues bas
 - [Kubernetes Network Policies Recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 - [Kubiscan](https://github.com/cyberark/KubiScan)
 - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat)
 
 
 ## Docker Security
