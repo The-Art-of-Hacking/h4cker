@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Faraday v3.12 - Collaborative Penetration Test and Vulnerability Management Platform](http://feedproxy.google.com/~r/PentestTools/~3/u3YkDNeo6eM/faraday-v312-collaborative-penetration.html)
 - [H4Rpy - Automated WPA/WPA2 PSK Attack Tool](http://feedproxy.google.com/~r/PentestTools/~3/lJgSSlMa3DE/h4rpy-automated-wpawpa2-psk-attack-tool.html)
 - [SNIcat - Server Name Indication Concatenator](http://feedproxy.google.com/~r/PentestTools/~3/xUcBOGG3Tco/snicat-server-name-indication.html)
 - [Geo-Recon - An OSINT CLI Tool Desgined To Fast Track IP Reputation And Geo-locaton Look Up For Security Analysts](http://feedproxy.google.com/~r/PentestTools/~3/Nvsl-cXK6Qk/geo-recon-osint-cli-tool-desgined-to.html)
