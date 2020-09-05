@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hardcodes - Find Hardcoded Strings From Source Code](http://feedproxy.google.com/~r/PentestTools/~3/YRv0CYJQebY/hardcodes-find-hardcoded-strings-from.html)
 - [Wordlist_Generator - Unique Wordlist Generator Of Unique Wordlists](http://feedproxy.google.com/~r/PentestTools/~3/7KJG42Tdj8E/wordlistgenerator-unique-wordlist.html)
 - [Faraday v3.12 - Collaborative Penetration Test and Vulnerability Management Platform](http://feedproxy.google.com/~r/PentestTools/~3/u3YkDNeo6eM/faraday-v312-collaborative-penetration.html)
 - [H4Rpy - Automated WPA/WPA2 PSK Attack Tool](http://feedproxy.google.com/~r/PentestTools/~3/lJgSSlMa3DE/h4rpy-automated-wpawpa2-psk-attack-tool.html)
