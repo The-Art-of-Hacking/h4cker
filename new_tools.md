@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OpenRedireX - Asynchronous Open redirect Fuzzer for Humans](http://feedproxy.google.com/~r/PentestTools/~3/0xfmn6oB8-Q/openredirex-asynchronous-open-redirect.html)
 - [SQLMap v1.4.9 - Automatic SQL Injection And Database Takeover Tool](http://feedproxy.google.com/~r/PentestTools/~3/dWU4PwMV2eM/sqlmap-v149-automatic-sql-injection-and.html)
 - [Autovpn - Create On Demand Disposable OpenVPN Endpoints On AWS](http://feedproxy.google.com/~r/PentestTools/~3/lxGVU3oWwCE/autovpn-create-on-demand-disposable.html)
 - [VPS-Docker-For-Pentest - Create A VPS On Google Cloud Platform Or Digital Ocean Easily With The Docker For Pentest](http://feedproxy.google.com/~r/PentestTools/~3/IdBMpDV2-YE/vps-docker-for-pentest-create-vps-on.html)
