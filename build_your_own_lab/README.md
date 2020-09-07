@@ -33,4 +33,5 @@ The purpose of this VM is to have a lightweight (single VM) with a few web appli
 ## Cloud-Based Cyber Ranges
 - [PurpleCloud](https://github.com/iknowjason/PurpleCloud):  Cyber Range environment created by [Jason Ostrom](https://twitter.com/securitypuck) using Active Directory and automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud!
 - [CyberRange by SECDEVOPS@CUSE](https://github.com/secdevops-cuse/CyberRange): AWS-based Cyber Range.
+- [Create A VPS On Google Cloud Platform Or Digital Ocean Easily With The Docker For Pentest](https://github.com/aaaguirrep/offensive-docker-vps)
 
