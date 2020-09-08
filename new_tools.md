@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bpytop - Linux/OSX/FreeBSD Resource Monitor](http://feedproxy.google.com/~r/PentestTools/~3/WN3AZqWDWYA/bpytop-linuxosxfreebsd-resource-monitor.html)
 - [PurpleCloud - An Infrastructure As Code (IaC) Deployment Of A Small Active Directory Pentest Lab In The Cloud](http://feedproxy.google.com/~r/PentestTools/~3/CAxjGNhM4x0/purplecloud-infrastructure-as-code-iac.html)
 - [OpenRedireX - Asynchronous Open redirect Fuzzer for Humans](http://feedproxy.google.com/~r/PentestTools/~3/0xfmn6oB8-Q/openredirex-asynchronous-open-redirect.html)
 - [SQLMap v1.4.9 - Automatic SQL Injection And Database Takeover Tool](http://feedproxy.google.com/~r/PentestTools/~3/dWU4PwMV2eM/sqlmap-v149-automatic-sql-injection-and.html)
