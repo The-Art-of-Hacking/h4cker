@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Rakkess - Kubectl Plugin To Show An Access Matrix For K8S Server Resources](http://feedproxy.google.com/~r/PentestTools/~3/2Hkk371VZJs/rakkess-kubectl-plugin-to-show-access.html)
 - [Browsertunnel - Surreptitiously Exfiltrate Data From The Browser Over DNS](http://feedproxy.google.com/~r/PentestTools/~3/yBy34eM1n_Y/browsertunnel-surreptitiously.html)
 - [Bpytop - Linux/OSX/FreeBSD Resource Monitor](http://feedproxy.google.com/~r/PentestTools/~3/WN3AZqWDWYA/bpytop-linuxosxfreebsd-resource-monitor.html)
 - [PurpleCloud - An Infrastructure As Code (IaC) Deployment Of A Small Active Directory Pentest Lab In The Cloud](http://feedproxy.google.com/~r/PentestTools/~3/CAxjGNhM4x0/purplecloud-infrastructure-as-code-iac.html)
