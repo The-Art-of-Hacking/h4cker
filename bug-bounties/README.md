@@ -8,6 +8,7 @@
 - [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
 - [How to Become a Successful Bug Bounty Hunter](https://hackerone.com/blog/what-great-hackers-share)
 - [Researcher Resources - How to become a Bug Bounty Hunter](https://forum.bugcrowd.com/t/researcher-resources-how-to-become-a-bug-bounty-hunter/1102)
+- [Nahamsec Resources for Beginners](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 ## Write Ups and Walkthroughs
 - [Awesome Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
