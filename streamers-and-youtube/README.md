@@ -37,6 +37,7 @@
 - [Talos Takes](https://talosintelligence.com/podcasts/shows/talos_takes)
 - [Open Source Security Podcast](https://opensourcesecurity.io/category/podcast/)
 - [Crypto-Gram Security Podcast](http://crypto-gram.libsyn.com/)
+- [The Privacy, Security and OSINT Show](https://inteltechniques.com/podcast.html)
 
 
 
