@@ -1,18 +1,19 @@
-# Twitch Streamers and YouTube Channels
+# YouTube Channels, Twitch Streamers, and Podcasts
 
 ## YouTube
-- [Red Team Village](https://www.youtube.com/redteamvillage)
-- [DEF CON](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
-- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
-- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-- [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
-- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
-- [Jason Haddix](https://www.twitch.tv/nahamsec)
-- [The Art of Hacking](https://www.youtube.com/theartofhacking)
 - [AppSec Village](https://www.youtube.com/c/appsecvillage)
 - [BlackHills InfoSec](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
-- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+- [DEF CON](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+- [Jason Haddix](https://www.twitch.tv/nahamsec)
+- [John Hammond](https://www.youtube.com/user/RootOfTheNull)
+- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+- [Red Team Village](https://www.youtube.com/redteamvillage)
 - [Security Weekly](https://www.youtube.com/user/SecurityWeeklyTV)
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+- [The Art of Hacking](https://www.youtube.com/theartofhacking)
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 
 ## Twitch
 - [Red Team Village](https://twitch.tv/redteamvillage)
