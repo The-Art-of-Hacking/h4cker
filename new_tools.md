@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Spyre - Simple YARA-based IOC Scanner](http://feedproxy.google.com/~r/PentestTools/~3/FuSa2QH-Ojw/spyre-simple-yara-based-ioc-scanner.html)
 - [Safety - Check Your Installed Dependencies For Known Security Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/rdmRMSunj-A/safety-check-your-installed.html)
 - [Anchore Engine - A Service That Analyzes Docker Images And Applies User-Defined Acceptance Policies To Allow Automated Container Image Validation And Certification](http://feedproxy.google.com/~r/PentestTools/~3/Ll18a8n6Jxg/anchore-engine-service-that-analyzes.html)
 - [Rakkess - Kubectl Plugin To Show An Access Matrix For K8S Server Resources](http://feedproxy.google.com/~r/PentestTools/~3/2Hkk371VZJs/rakkess-kubectl-plugin-to-show-access.html)
