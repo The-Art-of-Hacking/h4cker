@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Monsoon - Fast HTTP Enumerator](http://feedproxy.google.com/~r/PentestTools/~3/l_jCm0lhjM8/monsoon-fast-http-enumerator.html)
 - [Avcleaner - C/C++ Source Obfuscator For Antivirus Bypass](http://feedproxy.google.com/~r/PentestTools/~3/EUqib9t1FN8/avcleaner-cc-source-obfuscator-for.html)
 - [Spyre - Simple YARA-based IOC Scanner](http://feedproxy.google.com/~r/PentestTools/~3/FuSa2QH-Ojw/spyre-simple-yara-based-ioc-scanner.html)
 - [Safety - Check Your Installed Dependencies For Known Security Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/rdmRMSunj-A/safety-check-your-installed.html)
