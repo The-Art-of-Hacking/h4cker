@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Chimera - PowerShell Obfuscation Script Designed To Bypass AMSI And Commercial Antivirus Solutions](http://feedproxy.google.com/~r/PentestTools/~3/fXwvO9lv8QE/chimera-powershell-obfuscation-script.html)
 - [DockerENT - The Only Open-Source Tool To Analyze Vulnerabilities And Configuration Issues With Running Docker Container(S) And Docker Networks](http://feedproxy.google.com/~r/PentestTools/~3/zW0JbQLn_9o/dockerent-only-open-source-tool-to.html)
 - [HTTP-revshell - Powershell Reverse Shell Using HTTP/S Protocol With AMSI Bypass And Proxy Aware](http://feedproxy.google.com/~r/PentestTools/~3/DP6tdbTO9BQ/http-revshell-powershell-reverse-shell.html)
 - [Some-Tools - Install And Keep Up To Date Some Pentesting Tools](http://feedproxy.google.com/~r/PentestTools/~3/rFMLhmsD1H8/some-tools-install-and-keep-up-to-date.html)
