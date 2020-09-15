@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Rbcd-Attack - Kerberos Resource-Based Constrained Delegation Attack From Outside Using Impacket](http://feedproxy.google.com/~r/PentestTools/~3/LzzH-LC3i2Q/rbcd-attack-kerberos-resource-based.html)
 - [WMIHACKER - A Bypass Anti-virus Software Lateral Movement Command Execution Tool](http://feedproxy.google.com/~r/PentestTools/~3/dkRbV_ANAKk/wmihacker-bypass-anti-virus-software.html)
 - [Chimera - PowerShell Obfuscation Script Designed To Bypass AMSI And Commercial Antivirus Solutions](http://feedproxy.google.com/~r/PentestTools/~3/fXwvO9lv8QE/chimera-powershell-obfuscation-script.html)
 - [DockerENT - The Only Open-Source Tool To Analyze Vulnerabilities And Configuration Issues With Running Docker Container(S) And Docker Networks](http://feedproxy.google.com/~r/PentestTools/~3/zW0JbQLn_9o/dockerent-only-open-source-tool-to.html)
