@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AES Finder - Utility To Find AES Keys In Running Processes](http://feedproxy.google.com/~r/PentestTools/~3/GypI0kZbP-g/aes-finder-utility-to-find-aes-keys-in.html)
 - [Croc - Easily And Securely Send Things From One Computer To Another](http://feedproxy.google.com/~r/PentestTools/~3/1gIIPgDlbQc/croc-easily-and-securely-send-things.html)
 - [ActiveDirectoryEnumeration - Enumerate AD Through LDAP With A Collection Of Helpfull Scripts Being Bundled](http://feedproxy.google.com/~r/PentestTools/~3/qGafaDMGWj4/activedirectoryenumeration-enumerate-ad.html)
 - [Rbcd-Attack - Kerberos Resource-Based Constrained Delegation Attack From Outside Using Impacket](http://feedproxy.google.com/~r/PentestTools/~3/LzzH-LC3i2Q/rbcd-attack-kerberos-resource-based.html)
