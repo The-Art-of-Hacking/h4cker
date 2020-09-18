@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CRLFMap -  A Tool To Find HTTP Splitting Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/fh8M4QNEvEU/crlfmap-tool-to-find-http-splitting.html)
 - [Zin - A Payload Injector For Bugbounties Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/keMyIdRISpM/zin-payload-injector-for-bugbounties.html)
 - [dorkX - Pipe Different Tools With Google Dork Scanner](http://feedproxy.google.com/~r/PentestTools/~3/D9zzXBsdBjk/dorkx-pipe-different-tools-with-google.html)
 - [AES Finder - Utility To Find AES Keys In Running Processes](http://feedproxy.google.com/~r/PentestTools/~3/GypI0kZbP-g/aes-finder-utility-to-find-aes-keys-in.html)
