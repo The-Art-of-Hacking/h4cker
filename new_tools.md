@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bxss - A Blind XSS Injector Tool](http://feedproxy.google.com/~r/PentestTools/~3/N6OJ502fYVg/bxss-blind-xss-injector-tool.html)
 - [CRLFMap -  A Tool To Find HTTP Splitting Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/fh8M4QNEvEU/crlfmap-tool-to-find-http-splitting.html)
 - [Zin - A Payload Injector For Bugbounties Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/keMyIdRISpM/zin-payload-injector-for-bugbounties.html)
 - [dorkX - Pipe Different Tools With Google Dork Scanner](http://feedproxy.google.com/~r/PentestTools/~3/D9zzXBsdBjk/dorkx-pipe-different-tools-with-google.html)
