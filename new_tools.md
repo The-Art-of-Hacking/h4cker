@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CRLFuzz - A Fast Tool To Scan CRLF Vulnerability Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/mIMcLEdEO-Y/crlfuzz-fast-tool-to-scan-crlf.html)
 - [Winshark - A Wireshark Plugin To Instrument ETW](http://feedproxy.google.com/~r/PentestTools/~3/vcNH3laXgsg/winshark-wireshark-plugin-to-instrument.html)
 - [Winshark - A Wireshark Plugin To Instrument ETW](http://feedproxy.google.com/~r/PentestTools/~3/vcNH3laXgsg/winshark-wireshark-plugin-to-instrument.html)
 - [Unimap - Scan Only Once By IP Address And Reduce Scan Times With Nmap For Large Amounts Of Data](http://feedproxy.google.com/~r/PentestTools/~3/u67qPTejFCk/unimap-scan-only-once-by-ip-address-and.html)
