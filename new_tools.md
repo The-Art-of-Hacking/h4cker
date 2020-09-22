@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GRAT2 - Command And Control (C2) Project For Learning Purpose](http://feedproxy.google.com/~r/PentestTools/~3/KOYEmYSRMu4/grat2-command-and-control-c2-project.html)
 - [VMPDump - A Dynamic VMP Dumper And Import Fixer](http://feedproxy.google.com/~r/PentestTools/~3/VVtDDKnnz_Y/vmpdump-dynamic-vmp-dumper-and-import.html)
 - [Moriarty-Project - This Tool Gives Information About The Phone Number That You Entered](http://feedproxy.google.com/~r/PentestTools/~3/Yyz2jRMghaM/moriarty-project-this-tool-gives.html)
 - [Frp - A Fast Reverse Proxy To Help You Expose A Local Server Behind A NAT Or Firewall To The Internet](http://feedproxy.google.com/~r/PentestTools/~3/GjMMOE5tJPs/frp-fast-reverse-proxy-to-help-you.html)
