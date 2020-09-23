@@ -63,7 +63,7 @@
 - [The Guardian Information Security Hub ](https://www.theguardian.com/technology/data-computer-security)
 - [The Hacker News ](http://thehackernews.com)
 - [The Register ](http://www.theregister.co.uk)
-- [ThreatPost: https://threatpost.com)
+- [ThreatPost](https://threatpost.com)
 - [ThreatWire ](http://www.threatwire.net/)
 - [TrendMicro Blog ](https://blog.trendmicro.com/trendlabs-security-intelligence/)
 - [Tripwire Blog ](https://www.tripwire.com/state-of-security/)
