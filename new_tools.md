@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PSMDATP - PowerShell Module For Managing Microsoft Defender Advanced Threat Protection](http://feedproxy.google.com/~r/PentestTools/~3/QJIT_UrXx2E/psmdatp-powershell-module-for-managing.html)
 - [SitRep - Extensible, Configurable Host Triage](http://feedproxy.google.com/~r/PentestTools/~3/R0IorqSgqBs/sitrep-extensible-configurable-host.html)
 - [Enum4Linux - A Linux Alternative To Enum.Exe For Enumerating Data From Windows And Samba Hosts](http://feedproxy.google.com/~r/PentestTools/~3/sZ0NLoU2pmo/enum4linux-linux-alternative-to-enumexe.html)
 - [Dnxfirewall - A Pure Python Next Generation Firewall Built On Top Of Linux Kernel/Netfilter](http://feedproxy.google.com/~r/PentestTools/~3/_yxvJMSwP00/dnxfirewall-pure-python-next-generation.html)
