@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Go-Dork - The Fastest Dork Scanner Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/T_DF1kVlo9M/go-dork-fastest-dork-scanner-written-in.html)
 - [PwnXSS - Vulnerability XSS Scanner Exploit](http://feedproxy.google.com/~r/PentestTools/~3/hswp4VMm-Ps/pwnxss-vulnerability-xss-scanner-exploit.html)
 - [PSMDATP - PowerShell Module For Managing Microsoft Defender Advanced Threat Protection](http://feedproxy.google.com/~r/PentestTools/~3/QJIT_UrXx2E/psmdatp-powershell-module-for-managing.html)
 - [SitRep - Extensible, Configurable Host Triage](http://feedproxy.google.com/~r/PentestTools/~3/R0IorqSgqBs/sitrep-extensible-configurable-host.html)
