@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wacker - A WPA3 Dictionary Cracker](http://feedproxy.google.com/~r/PentestTools/~3/aS1cYBb7044/wacker-wpa3-dictionary-cracker.html)
 - [SharpSecDump - .Net Port Of The Remote SAM + LSA Secrets Dumping Functionality Of Impacket'S Secretsdump.Py](http://feedproxy.google.com/~r/PentestTools/~3/8RalQfAQVAM/sharpsecdump-net-port-of-remote-sam-lsa.html)
 - [Velociraptor - Endpoint Visibility and Collection Tool](http://feedproxy.google.com/~r/PentestTools/~3/v-j8yyHjAqc/velociraptor-endpoint-visibility-and.html)
 - [Go-Dork - The Fastest Dork Scanner Written In Go](http://feedproxy.google.com/~r/PentestTools/~3/T_DF1kVlo9M/go-dork-fastest-dork-scanner-written-in.html)
