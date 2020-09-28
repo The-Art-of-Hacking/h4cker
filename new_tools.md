@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine](http://feedproxy.google.com/~r/PentestTools/~3/6AyTn1gInq8/nerve-network-exploitation.html)
 - [Cooolis-ms - A Server That Supports The Metasploit Framework RPC](http://feedproxy.google.com/~r/PentestTools/~3/_qWg7ZFvgwQ/cooolis-ms-server-that-supports.html)
 - [PwnedPasswordsChecker - Search (Offline) If Your Password (NTLM Or SHA1 Format) Has Been Leaked (HIBP Passwords List V5)](http://feedproxy.google.com/~r/PentestTools/~3/HtE1DiO8-PE/pwnedpasswordschecker-search-offline-if.html)
 - [Wacker - A WPA3 Dictionary Cracker](http://feedproxy.google.com/~r/PentestTools/~3/aS1cYBb7044/wacker-wpa3-dictionary-cracker.html)
