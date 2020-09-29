@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Polypyus - Learns To Locate Functions In Raw Binaries By Extracting Known Functions From Similar Binaries](http://feedproxy.google.com/~r/PentestTools/~3/ZpledTN5EgI/polypyus-learns-to-locate-functions-in.html)
 - [NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine](http://feedproxy.google.com/~r/PentestTools/~3/6AyTn1gInq8/nerve-network-exploitation.html)
 - [Cooolis-ms - A Server That Supports The Metasploit Framework RPC](http://feedproxy.google.com/~r/PentestTools/~3/_qWg7ZFvgwQ/cooolis-ms-server-that-supports.html)
 - [PwnedPasswordsChecker - Search (Offline) If Your Password (NTLM Or SHA1 Format) Has Been Leaked (HIBP Passwords List V5)](http://feedproxy.google.com/~r/PentestTools/~3/HtE1DiO8-PE/pwnedpasswordschecker-search-offline-if.html)
