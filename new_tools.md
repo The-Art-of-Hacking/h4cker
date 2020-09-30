@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [mapCIDR - Small Utility Program To Perform Multiple Operations For A Given subnet/CIDR Ranges](http://feedproxy.google.com/~r/PentestTools/~3/6x_E2MWbBXg/mapcidr-small-utility-program-to.html)
 - [Lil-Pwny - Auditing Active Directory Passwords Using Multiprocessing In Python](http://feedproxy.google.com/~r/PentestTools/~3/9RJQyVtuRiQ/lil-pwny-auditing-active-directory.html)
 - [Polypyus - Learns To Locate Functions In Raw Binaries By Extracting Known Functions From Similar Binaries](http://feedproxy.google.com/~r/PentestTools/~3/ZpledTN5EgI/polypyus-learns-to-locate-functions-in.html)
 - [NERVE - Network Exploitation, Reconnaissance & Vulnerability Engine](http://feedproxy.google.com/~r/PentestTools/~3/6AyTn1gInq8/nerve-network-exploitation.html)
