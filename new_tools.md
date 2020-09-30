@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [H2Csmuggler - HTTP Request Smuggling Over HTTP/2 Cleartext (H2C)](http://feedproxy.google.com/~r/PentestTools/~3/hb3EVb84Wm4/h2csmuggler-http-request-smuggling-over.html)
 - [mapCIDR - Small Utility Program To Perform Multiple Operations For A Given subnet/CIDR Ranges](http://feedproxy.google.com/~r/PentestTools/~3/6x_E2MWbBXg/mapcidr-small-utility-program-to.html)
 - [Lil-Pwny - Auditing Active Directory Passwords Using Multiprocessing In Python](http://feedproxy.google.com/~r/PentestTools/~3/9RJQyVtuRiQ/lil-pwny-auditing-active-directory.html)
 - [Polypyus - Learns To Locate Functions In Raw Binaries By Extracting Known Functions From Similar Binaries](http://feedproxy.google.com/~r/PentestTools/~3/ZpledTN5EgI/polypyus-learns-to-locate-functions-in.html)
