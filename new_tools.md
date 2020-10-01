@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pastego - Scrape/Parse Pastebin Using GO And Expression Grammar (PEG)](http://feedproxy.google.com/~r/PentestTools/~3/ggJCpOTjD6A/pastego-scrapeparse-pastebin-using-go.html)
 - [H2Csmuggler - HTTP Request Smuggling Over HTTP/2 Cleartext (H2C)](http://feedproxy.google.com/~r/PentestTools/~3/hb3EVb84Wm4/h2csmuggler-http-request-smuggling-over.html)
 - [mapCIDR - Small Utility Program To Perform Multiple Operations For A Given subnet/CIDR Ranges](http://feedproxy.google.com/~r/PentestTools/~3/6x_E2MWbBXg/mapcidr-small-utility-program-to.html)
 - [Lil-Pwny - Auditing Active Directory Passwords Using Multiprocessing In Python](http://feedproxy.google.com/~r/PentestTools/~3/9RJQyVtuRiQ/lil-pwny-auditing-active-directory.html)
