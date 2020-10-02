@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [uriDeep - Unicode Encoding Attacks With Machine Learning](http://feedproxy.google.com/~r/PentestTools/~3/3x4bVKUd5GY/urideep-unicode-encoding-attacks-with.html)
 - [smbAutoRelay - Provides The Automation Of SMB/NTLM Relay Technique For Pentesting And Red Teaming Exercises In Active Directory Environments](http://feedproxy.google.com/~r/PentestTools/~3/NvW7RawQDkE/smbautorelay-provides-automation-of.html)
 - [Powerglot - Encodes Offensive Powershell Scripts Using Polyglots](http://feedproxy.google.com/~r/PentestTools/~3/zv31f0xkA7c/powerglot-encodes-offensive-powershell.html)
 - [Pastego - Scrape/Parse Pastebin Using GO And Expression Grammar (PEG)](http://feedproxy.google.com/~r/PentestTools/~3/ggJCpOTjD6A/pastego-scrapeparse-pastebin-using-go.html)
