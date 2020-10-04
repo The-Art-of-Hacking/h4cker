@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AdvPhishing - This Is Advance Phishing Tool! OTP PHISHING](http://feedproxy.google.com/~r/PentestTools/~3/9rL0P-wabG0/advphishing-this-is-advance-phishing.html)
 - [Timewarrior - Commandline Time Reporting](http://feedproxy.google.com/~r/PentestTools/~3/535wqOfUx-Y/timewarrior-commandline-time-reporting.html)
 - [Asnap - Tool To Render Recon Phase Easier By Providing Updated Data About Which Companies Owns Which Ipv4 Or Ipv6 Addresses](http://feedproxy.google.com/~r/PentestTools/~3/VOKUQlUfTOk/asnap-tool-to-render-recon-phase-easier.html)
 - [uriDeep - Unicode Encoding Attacks With Machine Learning](http://feedproxy.google.com/~r/PentestTools/~3/3x4bVKUd5GY/urideep-unicode-encoding-attacks-with.html)
