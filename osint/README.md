@@ -21,6 +21,8 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Web Data Extractor](http://www.webextractor.com)
 - [Xenu](http://home.snafu.de)
 
+## The OSINT Framework
+- [OSINT Framework](https://osintframework.com)
 ## Open Source Threat Intelligence
 
 - [GOSINT](https://github.com/ciscocsirt/gosint) - a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs). GOSINT allows a security analyst to collect and standardize structured and unstructured threat intelligence.
