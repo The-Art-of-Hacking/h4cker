@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SCREEN_KILLER - Tool To Track Progress For Reporting (Capture Screenshot, Commands And Outputs) During Pentest Engagement And OSCP](http://feedproxy.google.com/~r/PentestTools/~3/D9AgK5L-TsE/screenkiller-tool-to-track-progress-for.html)
 - [OFFPORT_KILLER - This Tool Aims At Automating The Identification Of Potential Service Running Behind Ports Identified Manually Either Through Manual Scan Or Services Running Locally](http://feedproxy.google.com/~r/PentestTools/~3/78ROR5zW6pI/offportkiller-this-tool-aims-at.html)
 - [AdvPhishing - This Is Advance Phishing Tool! OTP PHISHING](http://feedproxy.google.com/~r/PentestTools/~3/9rL0P-wabG0/advphishing-this-is-advance-phishing.html)
 - [Timewarrior - Commandline Time Reporting](http://feedproxy.google.com/~r/PentestTools/~3/535wqOfUx-Y/timewarrior-commandline-time-reporting.html)
