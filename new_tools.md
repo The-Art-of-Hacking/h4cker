@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Offering Users More For Their Activity - Similar Items Upon Checkout](http://feedproxy.google.com/~r/PentestTools/~3/oZv7iE3haj0/offering-users-more-for-their-activity.html)
 - [Lockphish - The First Tool For Phishing Attacks On The Lock Screen, Designed To Grab Windows Credentials, Android PIN And iPhone Passcode](http://feedproxy.google.com/~r/PentestTools/~3/Plvy_Rl1lWA/lockphish-first-tool-for-phishing.html)
 - [IoTMap - Research Project On Heterogeneous IoT Protocols Modelling](http://feedproxy.google.com/~r/PentestTools/~3/yr7El3AtACY/iotmap-research-project-on.html)
 - [Kube-Score - Kubernetes Object Analysis With Recommendations For Improved Reliability And Security](http://feedproxy.google.com/~r/PentestTools/~3/Gghdm3QDnpk/kube-score-kubernetes-object-analysis.html)
