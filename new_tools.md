@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [vPrioritizer - Tool To Understand The Contextualized Risk (vPRisk) On Asset-Vulnerability Relationship Level Across The Organization](http://feedproxy.google.com/~r/PentestTools/~3/vOiHE89Lmqw/vprioritizer-tool-to-understand.html)
 - [CSRFER - Tool To Generate CSRF Payloads Based On Vulnerable Requests](http://feedproxy.google.com/~r/PentestTools/~3/JsaHZGJDG-I/csrfer-tool-to-generate-csrf-payloads.html)
 - [GHunt - Investigate Google Accounts With Emai](http://feedproxy.google.com/~r/PentestTools/~3/G1OHFyV9ZgU/ghunt-investigate-google-accounts-with.html)
 - [Offering Users More For Their Activity - Similar Items Upon Checkout](http://feedproxy.google.com/~r/PentestTools/~3/oZv7iE3haj0/offering-users-more-for-their-activity.html)
