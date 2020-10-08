@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [C41N - An Automated Rogue Access Point Setup Tool](http://feedproxy.google.com/~r/PentestTools/~3/ePgZCn11yJQ/c41n-automated-rogue-access-point-setup.html)
 - [vPrioritizer - Tool To Understand The Contextualized Risk (vPRisk) On Asset-Vulnerability Relationship Level Across The Organization](http://feedproxy.google.com/~r/PentestTools/~3/vOiHE89Lmqw/vprioritizer-tool-to-understand.html)
 - [CSRFER - Tool To Generate CSRF Payloads Based On Vulnerable Requests](http://feedproxy.google.com/~r/PentestTools/~3/JsaHZGJDG-I/csrfer-tool-to-generate-csrf-payloads.html)
 - [GHunt - Investigate Google Accounts With Emai](http://feedproxy.google.com/~r/PentestTools/~3/G1OHFyV9ZgU/ghunt-investigate-google-accounts-with.html)
