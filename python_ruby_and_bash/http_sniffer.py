@@ -6,7 +6,7 @@ import socket
 s=socket.socket(socket.PF_PACKET, socket.SOCK_RAW, socket.ntohs(0x0800))
 
 while True:
- data=s.recvfrom(65565)
+ data=s.recvfrom(65535)
  try:
   if "HTTP" in data[0][54:]:
     print("[","="*30,']')
