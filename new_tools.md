@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gitjacker - Leak Git Repositories From Misconfigured Websites](http://feedproxy.google.com/~r/PentestTools/~3/9wKv0oGAU6g/gitjacker-leak-git-repositories-from.html)
 - [NashaVM - A Virtual Machine For .NET Files And Its Runtime Was Made In C++/CLI](http://feedproxy.google.com/~r/PentestTools/~3/UWFto2G1fkY/nashavm-virtual-machine-for-net-files.html)
 - [SwiftBelt - A macOS Enumeration Tool Inspired By Harmjoy'S Windows-based Seatbelt Enumeration Tool](http://feedproxy.google.com/~r/PentestTools/~3/imkt6ka5_MQ/swiftbelt-macos-enumeration-tool.html)
 - [C41N - An Automated Rogue Access Point Setup Tool](http://feedproxy.google.com/~r/PentestTools/~3/ePgZCn11yJQ/c41n-automated-rogue-access-point-setup.html)
