@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [O365Enum - Enumerate Valid Usernames From Office 365 Using ActiveSync, Autodiscover V1, Or Office.Com Login Page](http://feedproxy.google.com/~r/PentestTools/~3/2PdAA_3kJRQ/o365enum-enumerate-valid-usernames-from.html)
 - [Wave-Share - Serverless, Peer-To-Peer, Local File Sharing Through Sound](http://feedproxy.google.com/~r/PentestTools/~3/ICg74ohc_Lk/wave-share-serverless-peer-to-peer.html)
 - [Gitjacker - Leak Git Repositories From Misconfigured Websites](http://feedproxy.google.com/~r/PentestTools/~3/9wKv0oGAU6g/gitjacker-leak-git-repositories-from.html)
 - [NashaVM - A Virtual Machine For .NET Files And Its Runtime Was Made In C++/CLI](http://feedproxy.google.com/~r/PentestTools/~3/UWFto2G1fkY/nashavm-virtual-machine-for-net-files.html)
