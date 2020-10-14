@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MEDUZA - A More Or Less Universal SSL Unpinning Tool For iOS](http://feedproxy.google.com/~r/PentestTools/~3/2cKyd7r_Vs8/meduza-more-or-less-universal-ssl.html)
 - [Nuubi Tools - Information Ghatering, Scanner And Recon](http://feedproxy.google.com/~r/PentestTools/~3/fe4mT_YR5UU/nuubi-tools-information-ghatering.html)
 - [DamnVulnerableCryptoApp - An App With Really Insecure Crypto](http://feedproxy.google.com/~r/PentestTools/~3/uWwl058c2EQ/damnvulnerablecryptoapp-app-with-really.html)
 - [O365Enum - Enumerate Valid Usernames From Office 365 Using ActiveSync, Autodiscover V1, Or Office.Com Login Page](http://feedproxy.google.com/~r/PentestTools/~3/2PdAA_3kJRQ/o365enum-enumerate-valid-usernames-from.html)
