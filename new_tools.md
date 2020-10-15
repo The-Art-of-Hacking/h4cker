@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Mail-Swipe - Script To Create Temporary Email Addresses And Receive Emails](http://feedproxy.google.com/~r/PentestTools/~3/OZ0PzLUJC0Y/mail-swipe-script-to-create-temporary.html)
 - [Zracker - Zip File Password BruteForcing Utility Tool based on CPU-Power](http://feedproxy.google.com/~r/PentestTools/~3/JpwWn2_Zbp0/zracker-zip-file-password-bruteforcing.html)
 - [Mikrot8Over - Fast Exploitation Tool For Mikrotik RouterOS](http://feedproxy.google.com/~r/PentestTools/~3/aQLOKFbFFkk/mikrot8over-fast-exploitation-tool-for.html)
 - [MEDUZA - A More Or Less Universal SSL Unpinning Tool For iOS](http://feedproxy.google.com/~r/PentestTools/~3/2cKyd7r_Vs8/meduza-more-or-less-universal-ssl.html)
