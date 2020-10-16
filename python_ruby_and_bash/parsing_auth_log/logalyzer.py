@@ -12,7 +12,7 @@ import ParseLogs
 
 # callback for the user flag
 def user_call(option, opt_str, value, parser):
-    if len(parser.rargs) is not 0:
+    if len(parser.rargs) != 0:
         value = parser.rargs[0]
     else:
         value = None
@@ -42,7 +42,7 @@ if __name__ == "__main__":
     (options, args) = parser.parse_args()
 
     # if they're trying to access /var/log/auth.log without proper privs, bail
-    if not os.getuid() is 0 and options.log is None:
+    if not os.getuid() == 0 and options.log is None:
         print("[-] Please run with SUDO")
         sys.exit(1)
 
