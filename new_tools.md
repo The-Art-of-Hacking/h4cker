@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Simple-Live-Data-Collection - Simple Live Data Collection Tool](http://feedproxy.google.com/~r/PentestTools/~3/WlQdecUzj3w/simple-live-data-collection-simple-live.html)
 - [TheCl0n3r - Tool To Download And Manage Your Git Repositories](http://feedproxy.google.com/~r/PentestTools/~3/EJSjWII-gNQ/thecl0n3r-tool-to-download-and-manage.html)
 - [Eagle - Yet Another Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/rgibZTcp-HI/eagle-yet-another-vulnerability-scanner.html)
 - [HackBrowserData - Decrypt Passwords/Cookies/History/Bookmarks From The Browser](http://feedproxy.google.com/~r/PentestTools/~3/PgoEIWjcmZY/hackbrowserdata-decrypt.html)
