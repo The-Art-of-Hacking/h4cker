@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RmiTaste - Allows Security Professionals To Detect, Enumerate, Interact And Exploit RMI Services By Calling Remote Methods With Gadgets From Ysoseria](http://feedproxy.google.com/~r/PentestTools/~3/eHj76Z56HVw/rmitaste-allows-security-professionals.html)
 - [Taken - Takeover AWS Ips And Have A Working POC For Subdomain Takeover](http://feedproxy.google.com/~r/PentestTools/~3/bOdrVajU9Ns/taken-takeover-aws-ips-and-have-working.html)
 - [Simple-Live-Data-Collection - Simple Live Data Collection Tool](http://feedproxy.google.com/~r/PentestTools/~3/WlQdecUzj3w/simple-live-data-collection-simple-live.html)
 - [TheCl0n3r - Tool To Download And Manage Your Git Repositories](http://feedproxy.google.com/~r/PentestTools/~3/EJSjWII-gNQ/thecl0n3r-tool-to-download-and-manage.html)
