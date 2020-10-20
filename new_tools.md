@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PatchChecker - Web-based Check For Windows Privesc Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/rmNJiqk38Ys/patchchecker-web-based-check-for.html)
 - [Apk-Medit - Memory Search And Patch Tool On Debuggable Apk Without Root & Ndk](http://feedproxy.google.com/~r/PentestTools/~3/fpYnRfgN1ng/apk-medit-memory-search-and-patch-tool.html)
 - [SSJ - Your Everyday Linux Distribution Gone Super Saiyan](http://feedproxy.google.com/~r/PentestTools/~3/a0LsYrnc7MY/ssj-your-everyday-linux-distribution.html)
 - [RmiTaste - Allows Security Professionals To Detect, Enumerate, Interact And Exploit RMI Services By Calling Remote Methods With Gadgets From Ysoseria](http://feedproxy.google.com/~r/PentestTools/~3/eHj76Z56HVw/rmitaste-allows-security-professionals.html)
