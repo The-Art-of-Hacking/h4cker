@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MalwareSourceCode - Collection Of Malware Source Code For A Variety Of Platforms In An Array Of Different Programming Languages](http://feedproxy.google.com/~r/PentestTools/~3/4YbzsXbzUc4/malwaresourcecode-collection-of-malware.html)
 - [Pwndoc - Pentest Report Generator](http://feedproxy.google.com/~r/PentestTools/~3/1oiVz67GocU/pwndoc-pentest-report-generator.html)
 - [Zap-Hud - The OWASP ZAP Heads Up Display (HUD)](http://feedproxy.google.com/~r/PentestTools/~3/MOqAzhY47sk/zap-hud-owasp-zap-heads-up-display-hud.html)
 - [PatchChecker - Web-based Check For Windows Privesc Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/rmNJiqk38Ys/patchchecker-web-based-check-for.html)
