@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NoSQLi - NoSql Injection CLI Tool](http://feedproxy.google.com/~r/PentestTools/~3/43Dzn-as34k/nosqli-nosql-injection-cli-tool.html)
 - [GitDorker - A Tool To Scrape Secrets From GitHub Through Usage Of A Large Repository Of Dorks](http://feedproxy.google.com/~r/PentestTools/~3/8Ew9xlU23Vw/gitdorker-tool-to-scrape-secrets-from.html)
 - [Oregami - IDA Plugins And Scripts For Analyzing Register Usage Frame](http://feedproxy.google.com/~r/PentestTools/~3/mLRimLDAQJ4/oregami-ida-plugins-and-scripts-for.html)
 - [NTLMRawUnHide -  A Python3 Script Designed To Parse Network Packet Capture Files And Extract NTLMv2 Hashes In A Crackable Format](http://feedproxy.google.com/~r/PentestTools/~3/INprasEuyDM/ntlmrawunhide-python3-script-designed.html)
