@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CobaltStrikeScan - Scan Files Or Process Memory For CobaltStrike Beacons And Parse Their Configuration](http://feedproxy.google.com/~r/PentestTools/~3/xcmsnUzdr8k/cobaltstrikescan-scan-files-or-process.html)
 - [Manuka - A Modular OSINT Honeypot For Blue Teamers](http://feedproxy.google.com/~r/PentestTools/~3/9cuvAZHnBY8/manuka-modular-osint-honeypot-for-blue.html)
 - [Pesidious - Malware Mutation Using Reinforcement Learning And Generative Adversarial Networks](http://feedproxy.google.com/~r/PentestTools/~3/phMJJ_a4bqY/pesidious-malware-mutation-using.html)
 - [AutoGadgetFS - USB Testing Made Easy](http://feedproxy.google.com/~r/PentestTools/~3/Wk_mYJIJXU8/autogadgetfs-usb-testing-made-easy.html)
