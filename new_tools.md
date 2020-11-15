@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Go_Parser - Yet Another Golang Binary Parser For IDAPro](http://feedproxy.google.com/~r/PentestTools/~3/r-UPoHO9H9c/goparser-yet-another-golang-binary.html)
 - [FinalRecon v1.1.0 - The Last Web Recon Tool You'll Need](http://feedproxy.google.com/~r/PentestTools/~3/GdI0nzebe8E/finalrecon-v110-last-web-recon-tool.html)
 - [Trident - Automated Password Spraying Tool](http://feedproxy.google.com/~r/PentestTools/~3/utpWrmEIx2Y/trident-automated-password-spraying-tool.html)
 - [Webshell-Analyzer - Web Shell Scanner And Analyzer](http://feedproxy.google.com/~r/PentestTools/~3/9jpCBPI6vyM/webshell-analyzer-web-shell-scanner-and.html)
