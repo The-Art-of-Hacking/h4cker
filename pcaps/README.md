@@ -15,4 +15,3 @@
 - https://www.defcon.org/html/links/dc-ctf.html
 - https://archive.wrccdc.org/
 - https://github.com/chrissanders/packets
-
