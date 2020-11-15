@@ -15,7 +15,7 @@ Note: The folks at Offensive Security have created a free training and book that
 
 - [The PenTesters Framework (PTF)](https://github.com/trustedsec/ptf): a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing. Created by David Kennedy and maintained by the community.
 
-- [Docker for pentest](https://github.com/aaaguirrep/pentest): Image with the more used tools to create a pentest environment easily and quickly.
+- [Offensive Docker](https://github.com/aaaguirrep/pentest): Image with the more used tools to create a pentest environment easily and quickly.
 
 ## Vulnerable Servers and Applications
 
