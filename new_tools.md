@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MacC2 - Mac Command And Control That Uses Internal API Calls Instead Of Command Line Utilities](http://feedproxy.google.com/~r/PentestTools/~3/MjPG_Kz4lws/macc2-mac-command-and-control-that-uses.html)
 - [Garud - An Automation Tool That Scans Sub-Domains, Sub-Domain Takeover And Then Filters Out XSS, SSTI, SSRF And More Injection Point Parameters](http://feedproxy.google.com/~r/PentestTools/~3/Yp2IUMGqTlg/garud-automation-tool-that-scans-sub.html)
 - [Go_Parser - Yet Another Golang Binary Parser For IDAPro](http://feedproxy.google.com/~r/PentestTools/~3/r-UPoHO9H9c/goparser-yet-another-golang-binary.html)
 - [FinalRecon v1.1.0 - The Last Web Recon Tool You'll Need](http://feedproxy.google.com/~r/PentestTools/~3/GdI0nzebe8E/finalrecon-v110-last-web-recon-tool.html)
