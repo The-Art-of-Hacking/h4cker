@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Rehex - Reverse Engineers' Hex Editor](http://feedproxy.google.com/~r/PentestTools/~3/w8U1-YLvpqk/rehex-reverse-engineers-hex-editor.html)
 - [Gping - Ping, But With A Graph](http://feedproxy.google.com/~r/PentestTools/~3/mLrT0B2unho/gping-ping-but-with-graph.html)
 - [MacC2 - Mac Command And Control That Uses Internal API Calls Instead Of Command Line Utilities](http://feedproxy.google.com/~r/PentestTools/~3/MjPG_Kz4lws/macc2-mac-command-and-control-that-uses.html)
 - [Garud - An Automation Tool That Scans Sub-Domains, Sub-Domain Takeover And Then Filters Out XSS, SSTI, SSRF And More Injection Point Parameters](http://feedproxy.google.com/~r/PentestTools/~3/Yp2IUMGqTlg/garud-automation-tool-that-scans-sub.html)
