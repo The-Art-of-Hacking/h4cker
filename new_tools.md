@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Teler - Real-time HTTP Intrusion Detection](http://feedproxy.google.com/~r/PentestTools/~3/2oeTpwatLLQ/teler-real-time-http-intrusion-detection.html)
 - [OpenEDR - Open EDR Public Repository](http://feedproxy.google.com/~r/PentestTools/~3/W4o5-DazIKY/openedr-open-edr-public-repository.html)
 - [Rehex - Reverse Engineers' Hex Editor](http://feedproxy.google.com/~r/PentestTools/~3/w8U1-YLvpqk/rehex-reverse-engineers-hex-editor.html)
 - [Gping - Ping, But With A Graph](http://feedproxy.google.com/~r/PentestTools/~3/mLrT0B2unho/gping-ping-but-with-graph.html)
