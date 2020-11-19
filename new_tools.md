@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Doctrack - Tool To Manipulate And Insert Tracking Pixels Into Office Open XML Documents (Word, Excel)](http://feedproxy.google.com/~r/PentestTools/~3/oiiyeU7MMjg/doctrack-tool-to-manipulate-and-insert.html)
 - [Kali Linux 2020.4 -  Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/FjnGJwfZWfU/kali-linux-20204-penetration-testing.html)
 - [Teler - Real-time HTTP Intrusion Detection](http://feedproxy.google.com/~r/PentestTools/~3/2oeTpwatLLQ/teler-real-time-http-intrusion-detection.html)
 - [OpenEDR - Open EDR Public Repository](http://feedproxy.google.com/~r/PentestTools/~3/W4o5-DazIKY/openedr-open-edr-public-repository.html)
