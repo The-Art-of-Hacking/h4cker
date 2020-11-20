@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Invoke-Antivm - Powershell Tool For VM Evasion](http://feedproxy.google.com/~r/PentestTools/~3/dbUaZIgy3WQ/invoke-antivm-powershell-tool-for-vm.html)
 - [Bulwark - An Organizational Asset And Vulnerability Management Tool, With Jira Integration, Designed For Generating Application Security Reports](http://feedproxy.google.com/~r/PentestTools/~3/EnIG3k5FGRA/bulwark-organizational-asset-and.html)
 - [Doctrack - Tool To Manipulate And Insert Tracking Pixels Into Office Open XML Documents (Word, Excel)](http://feedproxy.google.com/~r/PentestTools/~3/oiiyeU7MMjg/doctrack-tool-to-manipulate-and-insert.html)
 - [Kali Linux 2020.4 -  Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/FjnGJwfZWfU/kali-linux-20204-penetration-testing.html)
