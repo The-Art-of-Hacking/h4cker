@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Amlsec - Automated Security Risk Identification Using AutomationML-based Engineering Data](http://feedproxy.google.com/~r/PentestTools/~3/khxoO8-7vog/amlsec-automated-security-risk.html)
 - [SIRAS - Security Incident Response Automated Simulations](http://feedproxy.google.com/~r/PentestTools/~3/YkeE8FOcbT8/siras-security-incident-response.html)
 - [Fuzzilli - A JavaScript Engine Fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/SwcA8mqskXY/fuzzilli-javascript-engine-fuzzer.html)
 - [Routopsy - A Toolkit Built To Attack Often Overlooked Networking Protocols](http://feedproxy.google.com/~r/PentestTools/~3/tdsh0Kf1ce4/routopsy-toolkit-built-to-attack-often.html)
