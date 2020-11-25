@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wsb-Detect -  Tool To Detect If You Are Running In Windows Sandbox ("WSB")](http://feedproxy.google.com/~r/PentestTools/~3/cUt1cqbeX2U/wsb-detect-tool-to-detect-if-you-are.html)
 - [UAFuzz - Binary-level Directed Fuzzing For Use-After-Free Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/rBQr1q40rQA/uafuzz-binary-level-directed-fuzzing.html)
 - [Xerror - Fully Automated Pentesting Tool](http://feedproxy.google.com/~r/PentestTools/~3/0PcqWQUkcnw/xerror-fully-automated-pentesting-tool.html)
 - [ToothPicker - An In-Process, Coverage-Guided Fuzzer For iOS](http://feedproxy.google.com/~r/PentestTools/~3/YU_LRh4VhCw/toothpicker-in-process-coverage-guided.html)
