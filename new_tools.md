@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bunkerized-Nginx - Nginx Docker Image Secure By Default](http://feedproxy.google.com/~r/PentestTools/~3/hq2zevJCuyg/bunkerized-nginx-nginx-docker-image.html)
 - [RedShell - An interactive command prompt that executes commands through proxychains and automatically logs them on a Cobalt Strike team server](http://feedproxy.google.com/~r/PentestTools/~3/_jOdO4UnpPs/redshell-interactive-command-prompt.html)
 - [Wsb-Detect -  Tool To Detect If You Are Running In Windows Sandbox ("WSB")](http://feedproxy.google.com/~r/PentestTools/~3/cUt1cqbeX2U/wsb-detect-tool-to-detect-if-you-are.html)
 - [UAFuzz - Binary-level Directed Fuzzing For Use-After-Free Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/rBQr1q40rQA/uafuzz-binary-level-directed-fuzzing.html)
