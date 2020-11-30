@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fortiscan - A High Performance FortiGate SSL-VPN Vulnerability Scanning And Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/y67FPTjfPBg/fortiscan-high-performance-fortigate.html)
 - [Admin-Scanner - This Tool Is Design To Find Admin Panel Of Any Website By Using Custom Wordlist Or Default Wordlist Easily](http://feedproxy.google.com/~r/PentestTools/~3/MVzNQiWJ3DA/admin-scanner-this-tool-is-design-to.html)
 - [Talon - A Password Guessing Tool That Targets The Kerberos And LDAP Services Within The Windows Active Directory Environment](http://feedproxy.google.com/~r/PentestTools/~3/waBP2FQOsGc/talon-password-guessing-tool-that.html)
 - [Webscan - Browser-based Network Scanner And local-IP Detection](http://feedproxy.google.com/~r/PentestTools/~3/1BygnwO-C9g/webscan-browser-based-network-scanner.html)
