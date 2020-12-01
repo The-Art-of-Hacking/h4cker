@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OnionSearch - A Script That Scrapes Urls On Different .Onion Search Engines](http://feedproxy.google.com/~r/PentestTools/~3/If8UWYdevXs/onionsearch-script-that-scrapes-urls-on.html)
 - [GG-AESY - Hide Cool Stuff In Images](http://feedproxy.google.com/~r/PentestTools/~3/lK20jOf8J9Q/gg-aesy-hide-cool-stuff-in-images.html)
 - [Fortiscan - A High Performance FortiGate SSL-VPN Vulnerability Scanning And Exploitation Tool](http://feedproxy.google.com/~r/PentestTools/~3/y67FPTjfPBg/fortiscan-high-performance-fortigate.html)
 - [Admin-Scanner - This Tool Is Design To Find Admin Panel Of Any Website By Using Custom Wordlist Or Default Wordlist Easily](http://feedproxy.google.com/~r/PentestTools/~3/MVzNQiWJ3DA/admin-scanner-this-tool-is-design-to.html)
