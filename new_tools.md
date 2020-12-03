@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [JSFScan.sh - Automation For Javascript Recon In Bug Bounty](http://feedproxy.google.com/~r/PentestTools/~3/SfJh6k_pB7I/jsfscansh-automation-for-javascript.html)
 - [Fast-Security-Scanners - Security Checks For Your Researches](http://feedproxy.google.com/~r/PentestTools/~3/Ux2JT4cmLP0/fast-security-scanners-security-checks.html)
 - [Hacktory platform packed with new game-playing features](http://feedproxy.google.com/~r/PentestTools/~3/XJZmMe2zRYc/hacktory-platform-packed-with-new-game.html)
 - [Terrascan - Detect Compliance And Security Violations Across Infrastructure As Code To Mitigate Risk Before Provisioning Cloud Native Infrastructure](http://feedproxy.google.com/~r/PentestTools/~3/9sfAtOR1icM/terrascan-detect-compliance-and.html)
