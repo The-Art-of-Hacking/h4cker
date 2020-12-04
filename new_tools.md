@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pytmipe - Python Library And Client For Token Manipulations And Impersonations For Privilege Escalation On Windows](http://feedproxy.google.com/~r/PentestTools/~3/UJ7Z3yEYVEo/pytmipe-python-library-and-client-for.html)
 - [Enum4Linux-Ng - A Next Generation Version Of Enum4Linux (A Windows/Samba Enumeration Tool) With Additional Features Like JSON/YAML Export](http://feedproxy.google.com/~r/PentestTools/~3/wBUs6t3ZVR8/enum4linux-ng-next-generation-version.html)
 - [Hacktory platform packed with new game-playing features](http://feedproxy.google.com/~r/PentestTools/~3/XJZmMe2zRYc/hacktory-platform-packed-with-new-game.html)
 - [Aclpwn.Py - Active Directory ACL Exploitation With BloodHound](http://feedproxy.google.com/~r/PentestTools/~3/d4MkUiImWAg/aclpwnpy-active-directory-acl.html)
