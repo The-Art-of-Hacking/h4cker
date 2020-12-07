@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Js-X-Ray - JavaScript And Node.js Open-Source SAST Scanner (A Static Analysis Of Detecting Most Common Malicious Patterns)](http://feedproxy.google.com/~r/PentestTools/~3/4SCEsiCbZsM/js-x-ray-javascript-and-nodejs-open.html)
 - [Hijackthis - A Free Utility That Finds Malware, Adware And Other Security Threats](http://feedproxy.google.com/~r/PentestTools/~3/201lt58YSxo/hijackthis-free-utility-that-finds.html)
 - [Karkinos - Penetration Testing And Hacking CTF's Swiss Army Knife With: Reverse Shell Handling - Encoding/Decoding - Encryption/Decryption - Cracking Hashes / Hashing](http://feedproxy.google.com/~r/PentestTools/~3/0lqZj1pmFRg/karkinos-penetration-testing-and.html)
 - [ADSearch - A Tool To Help Query AD Via The LDAP Protocol](http://feedproxy.google.com/~r/PentestTools/~3/UPDX62Eqt9A/adsearch-tool-to-help-query-ad-via-ldap.html)
