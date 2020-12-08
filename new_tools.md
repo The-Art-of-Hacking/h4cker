@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Packer-Fuzzer - A Fast And Efficient Scanner For Security Detection Of Websites Constructed By Javascript Module Bundler Such As Webpack](http://feedproxy.google.com/~r/PentestTools/~3/IefH1G1qY6k/packer-fuzzer-fast-and-efficient.html)
 - [Wp_Hunter - Static Analysis Of Wordpress Plugins](http://feedproxy.google.com/~r/PentestTools/~3/g0LlK6kSZbg/wphunter-static-analysis-of-wordpress.html)
 - [Baphomet - Basic Concept Of How A Ransomware Works](http://feedproxy.google.com/~r/PentestTools/~3/uMW8jnygHqo/baphomet-basic-concept-of-how.html)
 - [Js-X-Ray - JavaScript And Node.js Open-Source SAST Scanner (A Static Analysis Of Detecting Most Common Malicious Patterns)](http://feedproxy.google.com/~r/PentestTools/~3/4SCEsiCbZsM/js-x-ray-javascript-and-nodejs-open.html)
