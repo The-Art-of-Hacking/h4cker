@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gustave - Embedded OS kernel fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/nqOxWYeH-vE/gustave-embedded-os-kernel-fuzzer.html)
 - [Carnivore - Tool For Assessing On-Premises Microsoft Servers Authentication Such As ADFS, Skype, Exchange, And RDWeb](http://feedproxy.google.com/~r/PentestTools/~3/eop7VIkun_w/carnivore-tool-for-assessing-on.html)
 - [Sak1To-Shell - Multi-threaded C2 Server And Reverse Shell Client Written In Pure C](http://feedproxy.google.com/~r/PentestTools/~3/cTU1VhZjTJY/sak1to-shell-multi-threaded-c2-server.html)
 - [DarkSide - Tool Information Gathering And Social Engineering](http://feedproxy.google.com/~r/PentestTools/~3/zwdDNLY4VUk/darkside-tool-information-gathering-and.html)
