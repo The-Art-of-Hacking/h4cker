@@ -1,7 +1,7 @@
-Michael
 Christopher
 Jessica
 Matthew
+michael
 Ashley
 Jennifer
 Joshua
@@ -10,7 +10,6 @@ Daniel
 David
 James
 Robert
-michael
 John
 Joseph
 Andrew
