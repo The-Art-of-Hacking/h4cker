@@ -1,7 +1,6 @@
 import gzip
 import re
 
-
 #
 # ParseLogs.py
 # Parsing component of Logalyzer.  Original: https://github.com/hatRiot/logalyzer
