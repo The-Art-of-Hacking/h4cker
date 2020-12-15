@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ToRat - A Remote Administation Tool Written In Go Using Tor As A Transport Mechanism And RPC For Communication](http://feedproxy.google.com/~r/PentestTools/~3/zs12vFmotPE/torat-remote-administation-tool-written.html)
 - [WSMan-WinRM - A Collection Of Proof-Of-Concept Source Code And Scripts For Executing Remote Commands Over WinRM Using The WSMan.Automation COM Object](http://feedproxy.google.com/~r/PentestTools/~3/Q5b7IsAJ41Y/wsman-winrm-collection-of-proof-of.html)
 - [Stegseek - Worlds Fastest Steghide Cracker, Chewing Through Millions Of Passwords Per Second](http://feedproxy.google.com/~r/PentestTools/~3/tyq1w_6VwRs/stegseek-worlds-fastest-steghide.html)
 - [Slipstream - NAT Slipstreaming Allows An Attacker To Remotely Access Any TCP/UDP Services Bound To A Victim Machine, Bypassing The Victim's NAT/firewall, Just By The Victim Visiting A Website](http://feedproxy.google.com/~r/PentestTools/~3/hNPVruyRjzs/slipstream-nat-slipstreaming-allows.html)
