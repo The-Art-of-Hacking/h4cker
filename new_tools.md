@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ghost Framework - An Android Post-Exploitation Framework That Exploits The Android Debug Bridge To R emotely Access An Android Device](http://feedproxy.google.com/~r/PentestTools/~3/AdtTp3q8crU/ghost-framework-android-post.html)
 - [APKLab - Android Reverse Engineering WorkBench For VS Code](http://feedproxy.google.com/~r/PentestTools/~3/xTftfJ4sHT0/apklab-android-reverse-engineering.html)
 - [ToRat - A Remote Administation Tool Written In Go Using Tor As A Transport Mechanism And RPC For Communication](http://feedproxy.google.com/~r/PentestTools/~3/zs12vFmotPE/torat-remote-administation-tool-written.html)
 - [WSMan-WinRM - A Collection Of Proof-Of-Concept Source Code And Scripts For Executing Remote Commands Over WinRM Using The WSMan.Automation COM Object](http://feedproxy.google.com/~r/PentestTools/~3/Q5b7IsAJ41Y/wsman-winrm-collection-of-proof-of.html)
