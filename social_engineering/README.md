@@ -11,5 +11,6 @@
 - [Best Time to send email](https://coschedule.com/blog/best-time-to-send-email/)
 - [Phishing on Twitter - POT](https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html)
 - [Evilevilginx2 (is a MiTM framework used for phishing login credentials along with session cookies and can help bypass 2-factor authentication](https://github.com/kgretzky/evilginx2)
-
+- [An amazing book: Social Engineering, 2nd Edition By Christopher Hadnagy](https://learning.oreilly.com/library/view/social-engineering-2nd/9781119433385/)
+- [How Google identified 12.4 million potential victims of phishing By Neal Mueller](https://learning.oreilly.com/videos/how-google-identified/0636920460121/)
 
