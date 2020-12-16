@@ -10,6 +10,6 @@
 - [PyPhishing Toolkit](https://github.com/redteamsecurity/PyPhishing)
 - [Best Time to send email](https://coschedule.com/blog/best-time-to-send-email/)
 - [Phishing on Twitter - POT](https://www.kitploit.com/2018/02/pot-phishing-on-twitter.html)
-- [Evilevilginx2 (is a MiTM framework used for phishing login credentials along with session cookies and can help bypass 2-factor authentication](https://github.com/kgretzky/evilginx2]
+- [Evilevilginx2 (is a MiTM framework used for phishing login credentials along with session cookies and can help bypass 2-factor authentication](https://github.com/kgretzky/evilginx2)
 
 
