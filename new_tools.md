@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [E9Patch - A Powerful Static Binary Rewriting Tool](http://feedproxy.google.com/~r/PentestTools/~3/dhBRMqx2ROA/e9patch-powerful-static-binary.html)
 - [PoshBot - Powershell-based Bot Framework](http://feedproxy.google.com/~r/PentestTools/~3/ikhDVgrscXM/poshbot-powershell-based-bot-framework.html)
 - [Freki - Malware Analysis Platform](http://feedproxy.google.com/~r/PentestTools/~3/MLNVFfU75oI/freki-malware-analysis-platform.html)
 - [Ghost Framework - An Android Post-Exploitation Framework That Exploits The Android Debug Bridge To R emotely Access An Android Device](http://feedproxy.google.com/~r/PentestTools/~3/AdtTp3q8crU/ghost-framework-android-post.html)
