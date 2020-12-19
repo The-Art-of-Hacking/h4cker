@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bento - A Minimal Fedora-Based Container For Penetration Tests And CTF With The Sweet Addition Of GUI Applications](http://feedproxy.google.com/~r/PentestTools/~3/4JwqTihMnZY/bento-minimal-fedora-based-container.html)
 - [Scilla - Information Gathering Tool (DNS/Subdomain/Port Enumeration)](http://feedproxy.google.com/~r/PentestTools/~3/InyhCsWhDlk/scilla-information-gathering-tool.html)
 - [Go365 - An Office365 User Attack Tool](http://feedproxy.google.com/~r/PentestTools/~3/ItqU-jUcZs8/go365-office365-user-attack-tool.html)
 - [E9Patch - A Powerful Static Binary Rewriting Tool](http://feedproxy.google.com/~r/PentestTools/~3/dhBRMqx2ROA/e9patch-powerful-static-binary.html)
