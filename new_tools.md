@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sploit - Go Package That Aids In Binary Analysis And Exploitation](http://feedproxy.google.com/~r/PentestTools/~3/QuoarhC16a8/sploit-go-package-that-aids-in-binary.html)
 - [Fawkes - Tool To Search For Targets Vulnerable To SQL Injection (Performs The Search Using Google Search Engine)](http://feedproxy.google.com/~r/PentestTools/~3/7Iz9EoTwNq0/fawkes-tool-to-search-for-targets.html)
 - [Bheem - Simple Collection Of Small Bash-Scripts Which Runs Iteratively To Carry Out Various Tools And Recon Process](http://feedproxy.google.com/~r/PentestTools/~3/BpZ-AvuTgL4/bheem-simple-collection-of-small-bash.html)
 - [Bento - A Minimal Fedora-Based Container For Penetration Tests And CTF With The Sweet Addition Of GUI Applications](http://feedproxy.google.com/~r/PentestTools/~3/4JwqTihMnZY/bento-minimal-fedora-based-container.html)
