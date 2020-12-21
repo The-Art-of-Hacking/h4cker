@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpMapExec - A Sharpen Version Of CrackMapExec](http://feedproxy.google.com/~r/PentestTools/~3/IwawNZ1bDts/sharpmapexec-sharpen-version-of.html)
 - [Watcher - Open Source Cybersecurity Threat Hunting Platform](http://feedproxy.google.com/~r/PentestTools/~3/drRIztOpARs/watcher-open-source-cybersecurity.html)
 - [Sploit - Go Package That Aids In Binary Analysis And Exploitation](http://feedproxy.google.com/~r/PentestTools/~3/QuoarhC16a8/sploit-go-package-that-aids-in-binary.html)
 - [Fawkes - Tool To Search For Targets Vulnerable To SQL Injection (Performs The Search Using Google Search Engine)](http://feedproxy.google.com/~r/PentestTools/~3/7Iz9EoTwNq0/fawkes-tool-to-search-for-targets.html)
