@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kenzer - Automated Web Assets Enumeration And Scanning](http://feedproxy.google.com/~r/PentestTools/~3/UatODvipiLw/kenzer-automated-web-assets-enumeration.html)
 - [Grawler - Tool Which Comes With A Web Interface That Automates The Task Of Using Google Dorks, Scrapes The Results, And Stores Them In A File](http://feedproxy.google.com/~r/PentestTools/~3/7bBN-zmnyww/grawler-tool-which-comes-with-web.html)
 - [0D1N v3.4 - Tool For Automating Customized Attacks Against Web Applications (Full Made In C Language With Pthreads, Have A Fast Performance)](http://feedproxy.google.com/~r/PentestTools/~3/FCcpoal9Cig/0d1n-v34-tool-for-automating-customized.html)
 - [SharpMapExec - A Sharpen Version Of CrackMapExec](http://feedproxy.google.com/~r/PentestTools/~3/IwawNZ1bDts/sharpmapexec-sharpen-version-of.html)
