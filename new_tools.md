@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Censys-Python - An Easy-To-Use And Lightweight API Wrapper For The Censys Search Engine](http://feedproxy.google.com/~r/PentestTools/~3/enuM2IsKXsY/censys-python-easy-to-use-and.html)
 - [Swego - Swiss Army Knife Webserver In Golang](http://feedproxy.google.com/~r/PentestTools/~3/aYheVURWxao/swego-swiss-army-knife-webserver-in.html)
 - [GRecon - Your Google Recon Is Now Automated](http://feedproxy.google.com/~r/PentestTools/~3/ucwiubifmO4/grecon-your-google-recon-is-now.html)
 - [Kenzer - Automated Web Assets Enumeration And Scanning](http://feedproxy.google.com/~r/PentestTools/~3/UatODvipiLw/kenzer-automated-web-assets-enumeration.html)
