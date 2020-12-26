@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Social-Analyzer - API And Web App For Analyzing And Finding A Person Profile Across +300 Social Media Websites (Detections Are Updated Regularly)](http://feedproxy.google.com/~r/PentestTools/~3/kXzr1LAzNS0/social-analyzer-api-and-web-app-for.html)
 - [ApkLeaks - Scanning APK File For URIs, Endpoints And Secrets](http://feedproxy.google.com/~r/PentestTools/~3/cjv6czeOzl4/apkleaks-scanning-apk-file-for-uris.html)
 - [Aura - Python Source Code Auditing And Static Analysis On A Large Scale](http://feedproxy.google.com/~r/PentestTools/~3/3dCdN0wPQy0/aura-python-source-code-auditing-and.html)
 - [Vulmap - Web Vulnerability Scanning And Verification Tools](http://feedproxy.google.com/~r/PentestTools/~3/ZY2bsPn-m08/vulmap-web-vulnerability-scanning-and.html)
