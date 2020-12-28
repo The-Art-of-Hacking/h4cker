@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Top 20 Most Popular Hacking Tools in 2020](http://feedproxy.google.com/~r/PentestTools/~3/e8MNasqLM74/top-20-most-popular-hacking-tools-in.html)
 - [Wynis - Audit Windows Security With Best Practice](http://feedproxy.google.com/~r/PentestTools/~3/oPaoe39o2BU/wynis-audit-windows-security-with-best.html)
 - [Proxify - Swiss Army Knife Proxy Tool For HTTP/HTTPS Traffic Capture, Manipulation, And Replay On The Go](http://feedproxy.google.com/~r/PentestTools/~3/hYIf0RbmMzc/proxify-swiss-army-knife-proxy-tool-for.html)
 - [Social-Analyzer - API And Web App For Analyzing And Finding A Person Profile Across +300 Social Media Websites (Detections Are Updated Regularly)](http://feedproxy.google.com/~r/PentestTools/~3/kXzr1LAzNS0/social-analyzer-api-and-web-app-for.html)
