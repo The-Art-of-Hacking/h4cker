@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HyperDbg - The Source Code Of HyperDbg Debugger](http://feedproxy.google.com/~r/PentestTools/~3/WcK2JgH1dTw/hyperdbg-source-code-of-hyperdbg.html)
 - [Oblivion - Data Leak Checker And OSINT Tool](http://feedproxy.google.com/~r/PentestTools/~3/l7XtrKKYQQg/oblivion-data-leak-checker-and-osint.html)
 - [RogueWinRM - Windows Local Privilege Escalation From Service Account To System](http://feedproxy.google.com/~r/PentestTools/~3/ZR48DN8LD9w/roguewinrm-windows-local-privilege.html)
 - [Top 20 Most Popular Hacking Tools in 2020](http://feedproxy.google.com/~r/PentestTools/~3/e8MNasqLM74/top-20-most-popular-hacking-tools-in.html)
