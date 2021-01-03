@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Urlhunter - A Recon Tool That Allows Searching On URLs That Are Exposed Via Shortener Services](http://feedproxy.google.com/~r/PentestTools/~3/Ze_sojg7kRk/urlhunter-recon-tool-that-allows.html)
 - [Byp4Xx - Simple Bash Script To Bypass "403 Forbidden" Messages With Well-Known Methods Discussed In #Bugbountytips](http://feedproxy.google.com/~r/PentestTools/~3/PDCrQEvU6fQ/byp4xx-simple-bash-script-to-bypass-403.html)
 - [HyperDbg - The Source Code Of HyperDbg Debugger](http://feedproxy.google.com/~r/PentestTools/~3/WcK2JgH1dTw/hyperdbg-source-code-of-hyperdbg.html)
 - [Oblivion - Data Leak Checker And OSINT Tool](http://feedproxy.google.com/~r/PentestTools/~3/l7XtrKKYQQg/oblivion-data-leak-checker-and-osint.html)
