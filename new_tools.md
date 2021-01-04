@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [EvtMute - Apply A Filter To The Events Being Reported By Windows Event Logging](http://feedproxy.google.com/~r/PentestTools/~3/xQrMQYvECAw/evtmute-apply-filter-to-events-being.html)
 - [XSS-Scanner - XSS Scanner That Detects Cross-Site Scripting Vulnerabilities In Website By Injecting Malicious Scripts](http://feedproxy.google.com/~r/PentestTools/~3/ZtLP1ORFzS4/xss-scanner-xss-scanner-that-detects.html)
 - [MOSINT - OSINT Tool For Emails](http://feedproxy.google.com/~r/PentestTools/~3/L7PwMQRdXbw/mosint-osint-tool-for-emails.html)
 - [Urlhunter - A Recon Tool That Allows Searching On URLs That Are Exposed Via Shortener Services](http://feedproxy.google.com/~r/PentestTools/~3/Ze_sojg7kRk/urlhunter-recon-tool-that-allows.html)
