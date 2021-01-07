@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [UhOh365 - A Script That Can See If An Email Address Is Valid In Office365 (User/Email Enumeration)](http://feedproxy.google.com/~r/PentestTools/~3/22qgIrh3avY/uhoh365-script-that-can-see-if-email.html)
 - [Sarenka - OSINT Tool - Data From Services Like Shodan, Censys Etc. In One Place](http://feedproxy.google.com/~r/PentestTools/~3/SCHkWvbYeLQ/sarenka-osint-tool-data-from-services.html)
 - [Hack-Tools v0.3.0 - The All-In-One Red Team Extension For Web Pentester](http://feedproxy.google.com/~r/PentestTools/~3/Pnpbqa34VOo/hack-tools-v030-all-in-one-red-team.html)
 - [MaskPhish - Give A Mask To Phishing URL](http://feedproxy.google.com/~r/PentestTools/~3/C2ylG7pQvrQ/maskphish-give-mask-to-phishing-url.html)
