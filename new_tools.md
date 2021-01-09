@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Emp3R0R - Linux Post-Exploitation Framework Made By Linux User](http://feedproxy.google.com/~r/PentestTools/~3/edR6AHlHlo4/emp3r0r-linux-post-exploitation.html)
 - [Solarflare - SolarWinds Orion Account Audit / Password Dumping Utility](http://feedproxy.google.com/~r/PentestTools/~3/I2erzARfPEE/solarflare-solarwinds-orion-account.html)
 - [Exif-Gps-Tracer - A Python Script Which Allows You To Parse GeoLocation Data From Your Image Files Stored In A dataset](http://feedproxy.google.com/~r/PentestTools/~3/XKU97531Cbc/exif-gps-tracer-python-script-which.html)
 - [UhOh365 - A Script That Can See If An Email Address Is Valid In Office365 (User/Email Enumeration)](http://feedproxy.google.com/~r/PentestTools/~3/22qgIrh3avY/uhoh365-script-that-can-see-if-email.html)
