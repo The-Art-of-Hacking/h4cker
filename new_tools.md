@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pidrila - Python Interactive Deepweb-oriented Rapid Intelligent Link Analyzer](http://feedproxy.google.com/~r/PentestTools/~3/yt-yLx0j_5o/pidrila-python-interactive-deepweb.html)
 - [Longtongue - Customized Password/Passphrase List Inputting Target Info](http://feedproxy.google.com/~r/PentestTools/~3/9yImjpmkqtE/longtongue-customized.html)
 - [Emp3R0R - Linux Post-Exploitation Framework Made By Linux User](http://feedproxy.google.com/~r/PentestTools/~3/edR6AHlHlo4/emp3r0r-linux-post-exploitation.html)
 - [Solarflare - SolarWinds Orion Account Audit / Password Dumping Utility](http://feedproxy.google.com/~r/PentestTools/~3/I2erzARfPEE/solarflare-solarwinds-orion-account.html)
