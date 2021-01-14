@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [K55 - Linux X86_64 Process Injection Utility | Manipulate Processes With Customized Payloads](http://feedproxy.google.com/~r/PentestTools/~3/WY4KTH4TcNA/k55-linux-x8664-process-injection.html)
 - [Umbrella_android - Digital And Physical Security Advice App](http://feedproxy.google.com/~r/PentestTools/~3/4VOlWJ1W13I/umbrellaandroid-digital-and-physical.html)
 - [RadareEye - A Tool Made For Specially Scanning Nearby devices [BLE, Bluetooth And Wifi] And Execute Our Given Command On Our System When The Target Device Comes In-Between Range](http://feedproxy.google.com/~r/PentestTools/~3/dOPuLqrdJTU/radareeye-tool-made-for-specially.html)
 - [ProtOSINT - A Python Script That Helps You Investigate Protonmail Accounts And ProtonVPN IP Addresses](http://feedproxy.google.com/~r/PentestTools/~3/w_gAtP5rcsI/protosint-python-script-that-helps-you.html)
