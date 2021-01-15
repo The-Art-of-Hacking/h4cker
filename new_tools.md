@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Stegbrute - Fast Steganography Bruteforce Tool Written In Rust Useful For CTF's](http://feedproxy.google.com/~r/PentestTools/~3/i_yWwpE2hEE/stegbrute-fast-steganography-bruteforce.html)
 - [Pineapple-MK7-REST-Client - WiFi Hacking Workflow With Pineapple Mark 7 API](http://feedproxy.google.com/~r/PentestTools/~3/PnTTUKe8nqE/pineapple-mk7-rest-client-wifi-hacking.html)
 - [K55 - Linux X86_64 Process Injection Utility | Manipulate Processes With Customized Payloads](http://feedproxy.google.com/~r/PentestTools/~3/WY4KTH4TcNA/k55-linux-x8664-process-injection.html)
 - [Umbrella_android - Digital And Physical Security Advice App](http://feedproxy.google.com/~r/PentestTools/~3/4VOlWJ1W13I/umbrellaandroid-digital-and-physical.html)
