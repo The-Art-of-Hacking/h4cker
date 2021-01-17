@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MyJWT - A Cli For Cracking, Testing Vulnerabilities On Json Web Token (JWT)](http://feedproxy.google.com/~r/PentestTools/~3/3sUS0FB1PVM/myjwt-cli-for-cracking-testing.html)
 - [SysWhispers2 - AV/EDR Evasion Via Direct System Calls](http://feedproxy.google.com/~r/PentestTools/~3/qHPSQQ3Dfnk/syswhispers2-avedr-evasion-via-direct.html)
 - [ByteDance-HIDS - A Cloud-Native Host-Based Intrusion Detection Solution Project To Provide Next-Generation Threat Detection And Behavior Audition With Modern Architecture](http://feedproxy.google.com/~r/PentestTools/~3/iHZVuKM6mFw/bytedance-hids-cloud-native-host-based.html)
 - [Ssh-Mitm - Ssh Mitm Server For Security Audits Supporting Public Key Authentication, Session Hijacking And File Manipulation](http://feedproxy.google.com/~r/PentestTools/~3/fE746JqiQ0w/ssh-mitm-ssh-mitm-server-for-security.html)
