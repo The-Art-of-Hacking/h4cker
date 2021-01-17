@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ImHex - A Hex Editor For Reverse Engineers, Programmers And People That Value Their Eye Sight When Working At 3 AM.](http://feedproxy.google.com/~r/PentestTools/~3/MEKCME9Jru0/imhex-hex-editor-for-reverse-engineers.html)
 - [MyJWT - A Cli For Cracking, Testing Vulnerabilities On Json Web Token (JWT)](http://feedproxy.google.com/~r/PentestTools/~3/3sUS0FB1PVM/myjwt-cli-for-cracking-testing.html)
 - [SysWhispers2 - AV/EDR Evasion Via Direct System Calls](http://feedproxy.google.com/~r/PentestTools/~3/qHPSQQ3Dfnk/syswhispers2-avedr-evasion-via-direct.html)
 - [ByteDance-HIDS - A Cloud-Native Host-Based Intrusion Detection Solution Project To Provide Next-Generation Threat Detection And Behavior Audition With Modern Architecture](http://feedproxy.google.com/~r/PentestTools/~3/iHZVuKM6mFw/bytedance-hids-cloud-native-host-based.html)
