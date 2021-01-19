@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Git-Wild-Hunt - A Tool To Hunt For Credentials In Github Wild AKA Git*Hunt](http://feedproxy.google.com/~r/PentestTools/~3/BbT_Jur4jU0/git-wild-hunt-tool-to-hunt-for.html)
 - [HosTaGe - Low Interaction Mobile Honeypot](http://feedproxy.google.com/~r/PentestTools/~3/q7jGTsi3b70/hostage-low-interaction-mobile-honeypot.html)
 - [BigBountyRecon - This Tool Utilises 58 Different Techniques To Expediate The Process Of Intial Reconnaissance On The Target Organisation](http://feedproxy.google.com/~r/PentestTools/~3/MQH6WSRvfMo/bigbountyrecon-this-tool-utilises-58.html)
 - [Token-Hunter - Collect OSINT For GitLab Groups And Members And Search The Group And Group Members' Snippets, Issues, And Issue Discussions For Sensitive Data That May Be Included In These Assets](http://feedproxy.google.com/~r/PentestTools/~3/r-JQ_flZwOo/token-hunter-collect-osint-for-gitlab.html)
