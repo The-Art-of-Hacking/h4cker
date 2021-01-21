@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WPCracker - WordPress User Enumeration And Login Brute Force Tool](http://feedproxy.google.com/~r/PentestTools/~3/SLRFCA5grUc/wpcracker-wordpress-user-enumeration.html)
 - [CDK - Zero Dependency Container Penetration Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/ghyncCO0qqs/cdk-zero-dependency-container.html)
 - [Reconftw - Simple Script For Full Recon](http://feedproxy.google.com/~r/PentestTools/~3/RFxkletXWIo/reconftw-simple-script-for-full-recon.html)
 - [MobileHackersWeapons - Mobile Hacker's Weapons / A Collection Of Cool Tools Used By Mobile Hackers](http://feedproxy.google.com/~r/PentestTools/~3/oKmIKzGsibw/mobilehackersweapons-mobile-hackers.html)
