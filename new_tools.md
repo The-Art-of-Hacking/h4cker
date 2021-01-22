@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sigurlx - A Web Application Attack Surface Mapping Tool](http://feedproxy.google.com/~r/PentestTools/~3/QEtC4KY0lVI/sigurlx-web-application-attack-surface.html)
 - [MetaFinder - Search For Documents In A Domain Through Google](http://feedproxy.google.com/~r/PentestTools/~3/zUmSA4k6of4/metafinder-search-for-documents-in.html)
 - [WPCracker - WordPress User Enumeration And Login Brute Force Tool](http://feedproxy.google.com/~r/PentestTools/~3/SLRFCA5grUc/wpcracker-wordpress-user-enumeration.html)
 - [CDK - Zero Dependency Container Penetration Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/ghyncCO0qqs/cdk-zero-dependency-container.html)
