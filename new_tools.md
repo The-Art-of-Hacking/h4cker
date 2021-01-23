@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Zmap - A Fast Single Packet Network Scanner Designed For Internet-wide Network Surveys](http://feedproxy.google.com/~r/PentestTools/~3/JWWnlkaSpDA/zmap-fast-single-packet-network-scanner.html)
 - [Sigurlx - A Web Application Attack Surface Mapping Tool](http://feedproxy.google.com/~r/PentestTools/~3/QEtC4KY0lVI/sigurlx-web-application-attack-surface.html)
 - [MetaFinder - Search For Documents In A Domain Through Google](http://feedproxy.google.com/~r/PentestTools/~3/zUmSA4k6of4/metafinder-search-for-documents-in.html)
 - [WPCracker - WordPress User Enumeration And Login Brute Force Tool](http://feedproxy.google.com/~r/PentestTools/~3/SLRFCA5grUc/wpcracker-wordpress-user-enumeration.html)
