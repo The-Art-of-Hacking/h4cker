@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ATMMalScan -  Tool for Windows which helps to search for malware traces on an ATM during the DFIR process](http://feedproxy.google.com/~r/PentestTools/~3/g2iis8mwiH4/atmmalscan-tool-for-windows-which-helps.html)
 - [Xnuspy - An iOS Kernel Function Hooking Framework For Checkra1N'Able Devices](http://feedproxy.google.com/~r/PentestTools/~3/7HpFfxxKZd4/xnuspy-ios-kernel-function-hooking.html)
 - [Zmap - A Fast Single Packet Network Scanner Designed For Internet-wide Network Surveys](http://feedproxy.google.com/~r/PentestTools/~3/JWWnlkaSpDA/zmap-fast-single-packet-network-scanner.html)
 - [Sigurlx - A Web Application Attack Surface Mapping Tool](http://feedproxy.google.com/~r/PentestTools/~3/QEtC4KY0lVI/sigurlx-web-application-attack-surface.html)
