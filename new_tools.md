@@ -3,6 +3,7 @@ The following are a collection of recently-released pen test tools. I update thi
 
 ----
 - [Recon Simplified with Spyse](http://feedproxy.google.com/~r/PentestTools/~3/gZlaUhmDY-I/recon-simplified-with-spyse.html)
+- [Recon Simplified with Spyse](http://feedproxy.google.com/~r/PentestTools/~3/gZlaUhmDY-I/recon-simplified-with-spyse.html)
 - [WSuspicious - A Tool To Abuse Insecure WSUS Connections For Privilege Escalations](http://feedproxy.google.com/~r/PentestTools/~3/niAC2JllEmY/wsuspicious-tool-to-abuse-insecure-wsus.html)
 - [ATMMalScan -  Tool for Windows which helps to search for malware traces on an ATM during the DFIR process](http://feedproxy.google.com/~r/PentestTools/~3/g2iis8mwiH4/atmmalscan-tool-for-windows-which-helps.html)
 - [Xnuspy - An iOS Kernel Function Hooking Framework For Checkra1N'Able Devices](http://feedproxy.google.com/~r/PentestTools/~3/7HpFfxxKZd4/xnuspy-ios-kernel-function-hooking.html)
