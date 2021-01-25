@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Shellex - C-shellcode To Hex Converter, Handy Tool For Paste And Execute Shellcodes In Gdb, Windbg, Radare2, Ollydbg, X64Dbg, Immunity Debugger And 010 Editor](http://feedproxy.google.com/~r/PentestTools/~3/v4uZhk1CGqw/shellex-c-shellcode-to-hex-converter.html)
 - [Recon Simplified with Spyse](http://feedproxy.google.com/~r/PentestTools/~3/gZlaUhmDY-I/recon-simplified-with-spyse.html)
 - [Recon Simplified with Spyse](http://feedproxy.google.com/~r/PentestTools/~3/gZlaUhmDY-I/recon-simplified-with-spyse.html)
 - [WSuspicious - A Tool To Abuse Insecure WSUS Connections For Privilege Escalations](http://feedproxy.google.com/~r/PentestTools/~3/niAC2JllEmY/wsuspicious-tool-to-abuse-insecure-wsus.html)
