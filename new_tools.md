@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Batea - AI-based, Context-Driven Network Device Ranking](http://feedproxy.google.com/~r/PentestTools/~3/OqJ3S2Je1T4/batea-ai-based-context-driven-network.html)
 - [Duf - Disk Usage/Free Utility (Linux, BSD, macOS & Windows)](http://feedproxy.google.com/~r/PentestTools/~3/yS4EXUm-Bks/duf-disk-usagefree-utility-linux-bsd.html)
 - [Shellex - C-shellcode To Hex Converter, Handy Tool For Paste And Execute Shellcodes In Gdb, Windbg, Radare2, Ollydbg, X64Dbg, Immunity Debugger And 010 Editor](http://feedproxy.google.com/~r/PentestTools/~3/v4uZhk1CGqw/shellex-c-shellcode-to-hex-converter.html)
 - [Recon Simplified with Spyse](http://feedproxy.google.com/~r/PentestTools/~3/gZlaUhmDY-I/recon-simplified-with-spyse.html)
