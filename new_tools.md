@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Arbitrium-RAT - A Cross-Platform, Fully Undetectable Remote Access Trojan, To Control Android, Windows And Linux](http://feedproxy.google.com/~r/PentestTools/~3/xdcn42mgUxo/arbitrium-rat-cross-platform-fully.html)
 - [JWT Key ID Injector - Simple Python Script To Check Against Hypothetical JWT Vulnerability](http://feedproxy.google.com/~r/PentestTools/~3/znDaDQ0xZhU/jwt-key-id-injector-simple-python.html)
 - [Tritium - Password Spraying Framework](http://feedproxy.google.com/~r/PentestTools/~3/YwGhZPwMvts/tritium-password-spraying-framework.html)
 - [SharpEDRChecker - Checks Running Processes, Process Metadata, DLLs Loaded Into Your Current Process And The Each DLLs Metadata, Common Inst all Directories, Installed Services And Each Service Binaries Metadata, Installed Drivers And Each Drivers Metadata, All For The Presence Of Known Defensive Products Such As AV's, EDR's And Logging Tools](http://feedproxy.google.com/~r/PentestTools/~3/lGjmCzrd14M/sharpedrchecker-checks-running.html)
