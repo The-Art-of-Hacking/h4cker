@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SSRF-King - SSRF Plugin For Burp Automates SSRF Detection In All Of The Request](http://feedproxy.google.com/~r/PentestTools/~3/SCmtwxFTsHc/ssrf-king-ssrf-plugin-for-burp.html)
 - [CSSG - Cobalt Strike Shellcode Generator](http://feedproxy.google.com/~r/PentestTools/~3/ppc70r0UaOI/cssg-cobalt-strike-shellcode-generator.html)
 - [Arbitrium-RAT - A Cross-Platform, Fully Undetectable Remote Access Trojan, To Control Android, Windows And Linux](http://feedproxy.google.com/~r/PentestTools/~3/xdcn42mgUxo/arbitrium-rat-cross-platform-fully.html)
 - [JWT Key ID Injector - Simple Python Script To Check Against Hypothetical JWT Vulnerability](http://feedproxy.google.com/~r/PentestTools/~3/znDaDQ0xZhU/jwt-key-id-injector-simple-python.html)
