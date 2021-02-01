@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Web-Brutator - Modular Web Interfaces Bruteforcer](http://feedproxy.google.com/~r/PentestTools/~3/cCovwslKw2Y/web-brutator-modular-web-interfaces.html)
 - [MOSE - Post Exploitation Tool For Configuration Management Servers.](http://feedproxy.google.com/~r/PentestTools/~3/Qgk-XPAoY_U/mose-post-exploitation-tool-for.html)
 - [OpenCVE - CVE Alerting Platform](http://feedproxy.google.com/~r/PentestTools/~3/NDGdP9iBgfo/opencve-cve-alerting-platform.html)
 - [PSC - E2E Encryption For Multi-Hop Tty Sessions Or Portshells + TCP/UDP Port Forward](http://feedproxy.google.com/~r/PentestTools/~3/OxGUMR638Ec/psc-e2e-encryption-for-multi-hop-tty.html)
