@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Uroboros - A GNU/Linux Monitoring And Profiling Tool Focused On Single Processes](http://feedproxy.google.com/~r/PentestTools/~3/C02XQeQyoLM/uroboros-gnulinux-monitoring-and.html)
 - [BurpMetaFinder - Burp Suite Extension For Extracting Metadata From Files](http://feedproxy.google.com/~r/PentestTools/~3/4IU2nRjEkV0/burpmetafinder-burp-suite-extension-for.html)
 - [Flawfinder - A Static Analysis Tool For Finding Vulnerabilities In C/C++ Source Code](http://feedproxy.google.com/~r/PentestTools/~3/J0luITnGVGo/flawfinder-static-analysis-tool-for.html)
 - [Web-Brutator - Modular Web Interfaces Bruteforcer](http://feedproxy.google.com/~r/PentestTools/~3/cCovwslKw2Y/web-brutator-modular-web-interfaces.html)
