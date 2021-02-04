@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Phpvuln - Audit Tool To Find Common Vulnerabilities In PHP Source Code](http://feedproxy.google.com/~r/PentestTools/~3/uNJicAWyV_s/phpvuln-audit-tool-to-find-common.html)
 - [Linux-Chrome-Recon - An Information Gathering Tool Used To Enumerate All Possible Data About An User From Google-Chrome Browser From Any Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/MGydry24Cw4/linux-chrome-recon-information.html)
 - [OpenCSPM - Open Cloud Security Posture Management Engine](http://feedproxy.google.com/~r/PentestTools/~3/11Y6QrwtI-k/opencspm-open-cloud-security-posture.html)
 - [Uroboros - A GNU/Linux Monitoring And Profiling Tool Focused On Single Processes](http://feedproxy.google.com/~r/PentestTools/~3/C02XQeQyoLM/uroboros-gnulinux-monitoring-and.html)
