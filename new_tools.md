@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Geacon - Implement CobaltStrike's Beacon In Go](http://feedproxy.google.com/~r/PentestTools/~3/jvK9wB7oW2Y/geacon-implement-cobaltstrikes-beacon.html)
 - [Satellite - Easy-To-Use Payload Hosting](http://feedproxy.google.com/~r/PentestTools/~3/o7rQ2uZCfyY/satellite-easy-to-use-payload-hosting.html)
 - [Phpvuln - Audit Tool To Find Common Vulnerabilities In PHP Source Code](http://feedproxy.google.com/~r/PentestTools/~3/uNJicAWyV_s/phpvuln-audit-tool-to-find-common.html)
 - [Linux-Chrome-Recon - An Information Gathering Tool Used To Enumerate All Possible Data About An User From Google-Chrome Browser From Any Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/MGydry24Cw4/linux-chrome-recon-information.html)
