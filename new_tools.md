@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GPOZaurr - Group Policy Eater Is A PowerShell Module That Aims To Gather Information About Group Policies](http://feedproxy.google.com/~r/PentestTools/~3/7GyrrYLncvQ/gpozaurr-group-policy-eater-is.html)
 - [Cloudlist - A Tool For Listing Assets From Multiple Cloud Providers](http://feedproxy.google.com/~r/PentestTools/~3/odS5FplXwUc/cloudlist-tool-for-listing-assets-from.html)
 - [Geacon - Implement CobaltStrike's Beacon In Go](http://feedproxy.google.com/~r/PentestTools/~3/jvK9wB7oW2Y/geacon-implement-cobaltstrikes-beacon.html)
 - [Satellite - Easy-To-Use Payload Hosting](http://feedproxy.google.com/~r/PentestTools/~3/o7rQ2uZCfyY/satellite-easy-to-use-payload-hosting.html)
