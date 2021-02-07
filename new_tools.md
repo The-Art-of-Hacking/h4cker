@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [COM-Code-Helper - Two IDAPython Scripts Help You To Reconstruct Microsoft COM (Component Object Model) Code](http://feedproxy.google.com/~r/PentestTools/~3/4cujJxQYFDM/com-code-helper-two-idapython-scripts.html)
 - [Creepy - A Geolocation OSINT Tool. Offers Geolocation Information Gathering Through Social Networking Platforms](http://feedproxy.google.com/~r/PentestTools/~3/Gr7HFsZ2gXM/creepy-geolocation-osint-tool-offers.html)
 - [ExecuteAssembly - Load/Inject .NET Assemblies](http://feedproxy.google.com/~r/PentestTools/~3/hzE7NMxyf5Y/executeassembly-loadinject-net.html)
 - [GPOZaurr - Group Policy Eater Is A PowerShell Module That Aims To Gather Information About Group Policies](http://feedproxy.google.com/~r/PentestTools/~3/7GyrrYLncvQ/gpozaurr-group-policy-eater-is.html)
