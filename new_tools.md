@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wifi-Password - Quickly Fetch Your WiFi Password And If Needed, Generate A QR Code Of Your WiFi To Allow Phones To Easily Connect](http://feedproxy.google.com/~r/PentestTools/~3/QePC8wqJcJU/wifi-password-quickly-fetch-your-wifi.html)
 - [Ditto - A Tool For IDN Homograph Attacks And Detection](http://feedproxy.google.com/~r/PentestTools/~3/gZcxPpRLVFU/ditto-tool-for-idn-homograph-attacks.html)
 - [COM-Code-Helper - Two IDAPython Scripts Help You To Reconstruct Microsoft COM (Component Object Model) Code](http://feedproxy.google.com/~r/PentestTools/~3/4cujJxQYFDM/com-code-helper-two-idapython-scripts.html)
 - [Creepy - A Geolocation OSINT Tool. Offers Geolocation Information Gathering Through Social Networking Platforms](http://feedproxy.google.com/~r/PentestTools/~3/Gr7HFsZ2gXM/creepy-geolocation-osint-tool-offers.html)
