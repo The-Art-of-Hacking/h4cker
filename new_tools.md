@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Patriot-Linux - Host IDS For Desktop Users](http://feedproxy.google.com/~r/PentestTools/~3/6wdwlF2PgLU/patriot-linux-host-ids-for-desktop-users.html)
 - [ShellShockHunter - It's A Simple Tool For Test Vulnerability Shellshock](http://feedproxy.google.com/~r/PentestTools/~3/UpJhTqHbZLc/shellshockhunter-its-simple-tool-for.html)
 - [Cypher - Crypto Cipher Encode Decode Hash](http://feedproxy.google.com/~r/PentestTools/~3/XvKqk0vnRfY/cypher-crypto-cipher-encode-decode-hash.html)
 - [ATTPwn - Tool Designed To Emulate Adversaries](http://feedproxy.google.com/~r/PentestTools/~3/q32gGRq-0Ik/attpwn-tool-designed-to-emulate.html)
