@@ -2,8 +2,8 @@
 
 ## OWASP Resources
 
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
-- [OWASP IoT Testing Guides](https://www.owasp.org/index.php/IoT_Testing_Guides)
+- [OWASP Internet of Things Project](https://owasp.org/www-project-internet-of-things/)
+- [OWASP Firmware Security Testing Methodology](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
 
 ## IoT Hacking Communities
 
