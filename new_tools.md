@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Darkdump - Search The Deep Web Straight From Your Terminal](http://feedproxy.google.com/~r/PentestTools/~3/M2SWIV-ruRg/darkdump-search-deep-web-straight-from.html)
 - [Diceware-Password-Generator - Python Implementation Of The Diceware Password Generating Algorithm](http://feedproxy.google.com/~r/PentestTools/~3/H5KG5oN0mK4/diceware-password-generator-python.html)
 - [BaphoDashBoard - Dashboard For Manage And Generate The Baphomet Ransomware](http://feedproxy.google.com/~r/PentestTools/~3/XrrVoD7xZ5g/baphodashboard-dashboard-for-manage-and.html)
 - [XSSTRON - Electron JS Browser To Find XSS Vulnerabilities Automatically](http://feedproxy.google.com/~r/PentestTools/~3/Ec2VFBF6F34/xsstron-electron-js-browser-to-find-xss.html)
