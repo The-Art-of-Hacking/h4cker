@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Project iKy v2.7.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/ndDXcQpIHDY/project-iky-v270-tool-that-collects.html)
 - [Darkdump - Search The Deep Web Straight From Your Terminal](http://feedproxy.google.com/~r/PentestTools/~3/M2SWIV-ruRg/darkdump-search-deep-web-straight-from.html)
 - [Diceware-Password-Generator - Python Implementation Of The Diceware Password Generating Algorithm](http://feedproxy.google.com/~r/PentestTools/~3/H5KG5oN0mK4/diceware-password-generator-python.html)
 - [BaphoDashBoard - Dashboard For Manage And Generate The Baphomet Ransomware](http://feedproxy.google.com/~r/PentestTools/~3/XrrVoD7xZ5g/baphodashboard-dashboard-for-manage-and.html)
