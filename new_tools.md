@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [UDdup - Urls De-Duplication Tool For Better Recon](http://feedproxy.google.com/~r/PentestTools/~3/HojCVFlNJzA/uddup-urls-de-duplication-tool-for.html)
 - [Damn-Vulnerable-GraphQL-Application - Damn Vulnerable GraphQL Application Is An Intentionally Vulnerable Implementation Of Facebook's GraphQL Technology, To Learn And Practice GraphQL Security](http://feedproxy.google.com/~r/PentestTools/~3/CiAB8rZHAN0/damn-vulnerable-graphql-application.html)
 - [Project iKy v2.7.0 - Tool That Collects Information From An Email And Shows Results In A Nice Visual Interface](http://feedproxy.google.com/~r/PentestTools/~3/ndDXcQpIHDY/project-iky-v270-tool-that-collects.html)
 - [Darkdump - Search The Deep Web Straight From Your Terminal](http://feedproxy.google.com/~r/PentestTools/~3/M2SWIV-ruRg/darkdump-search-deep-web-straight-from.html)
