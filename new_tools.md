@@ -101,7 +101,7 @@ The following are a collection of recently-released pen test tools. I update thi
 - [Vulmap - Web Vulnerability Scanning And Verification Tools](http://feedproxy.google.com/~r/PentestTools/~3/ZY2bsPn-m08/vulmap-web-vulnerability-scanning-and.html)
 - [Censys-Python - An Easy-To-Use And Lightweight API Wrapper For The Censys Search Engine](http://feedproxy.google.com/~r/PentestTools/~3/enuM2IsKXsY/censys-python-easy-to-use-and.html)
 - [Swego - Swiss Army Knife Webserver In Golang](http://feedproxy.google.com/~r/PentestTools/~3/aYheVURWxao/swego-swiss-army-knife-webserver-in.html)
-- [GRecon - Your Google Recon Is Now Automated](http://feedproxy.google.com/~r/PentestTools/~3/ucwiubifmO4/grecon-your-google-recon-is-now.html)
+- [quick_recon - Your Google Recon Is Now Automated](http://feedproxy.google.com/~r/PentestTools/~3/ucwiubifmO4/quick_recon-your-google-recon-is-now.html)
 - [Kenzer - Automated Web Assets Enumeration And Scanning](http://feedproxy.google.com/~r/PentestTools/~3/UatODvipiLw/kenzer-automated-web-assets-enumeration.html)
 - [Grawler - Tool Which Comes With A Web Interface That Automates The Task Of Using Google Dorks, Scrapes The Results, And Stores Them In A File](http://feedproxy.google.com/~r/PentestTools/~3/7bBN-zmnyww/grawler-tool-which-comes-with-web.html)
 - [0D1N v3.4 - Tool For Automating Customized Attacks Against Web Applications (Full Made In C Language With Pthreads, Have A Fast Performance)](http://feedproxy.google.com/~r/PentestTools/~3/FCcpoal9Cig/0d1n-v34-tool-for-automating-customized.html)

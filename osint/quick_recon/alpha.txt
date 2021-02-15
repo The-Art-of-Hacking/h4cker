@@ -1,0 +1,9 @@
+Current Micro Plugins : 
+
+[>] Subdomains...[UP]
+[>] Sub-Subdomains...[UP]
+[>] Signup/Login pages...[UP]
+[>] Dir Listing...[UP]
+[>] Exposed Docs...[UP]
+[>] WordPress Entries...[UP]
+[>] Pasting Sites...[UP]
