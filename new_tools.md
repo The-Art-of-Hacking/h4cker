@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gitlab-Watchman - Monitoring GitLab For Sensitive Data Shared Publicly](http://feedproxy.google.com/~r/PentestTools/~3/I7PkJFkvl9Q/gitlab-watchman-monitoring-gitlab-for.html)
 - [OSV - Open Source Vulnerability DB And Triage Service](http://feedproxy.google.com/~r/PentestTools/~3/nxw32-yH56Q/osv-open-source-vulnerability-db-and.html)
 - [UDdup - Urls De-Duplication Tool For Better Recon](http://feedproxy.google.com/~r/PentestTools/~3/HojCVFlNJzA/uddup-urls-de-duplication-tool-for.html)
 - [Damn-Vulnerable-GraphQL-Application - Damn Vulnerable GraphQL Application Is An Intentionally Vulnerable Implementation Of Facebook's GraphQL Technology, To Learn And Practice GraphQL Security](http://feedproxy.google.com/~r/PentestTools/~3/CiAB8rZHAN0/damn-vulnerable-graphql-application.html)
