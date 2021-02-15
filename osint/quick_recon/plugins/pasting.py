@@ -2,7 +2,6 @@
 # A script to perform a quick OSINT recon for a given domains
 # This is an example and work in progress
 
-
 import os
 import sys
 import time
