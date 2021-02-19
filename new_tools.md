@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SSRFuzz - A Tool To Find Server Side Request Forgery Vulnerabilities, With CRLF Chaining Capabilities](http://feedproxy.google.com/~r/PentestTools/~3/7WsnF14u0Wg/ssrfuzz-tool-to-find-server-side.html)
 - [Galer - A Fast Tool To Fetch URLs From HTML Attributes By Crawl-In](http://feedproxy.google.com/~r/PentestTools/~3/bhktcg8mqOk/galer-fast-tool-to-fetch-urls-from-html.html)
 - [WireBug - A Toolset For Voice-over-IP Penetration Testing](http://feedproxy.google.com/~r/PentestTools/~3/IaWzkaPx7ow/wirebug-toolset-for-voice-over-ip.html)
 - [Ghidra_Kernelcache - A Ghidra Framework For iOS Kernelcache Reverse Engineering](http://feedproxy.google.com/~r/PentestTools/~3/pgjsv_S6L_E/ghidrakernelcache-ghidra-framework-for.html)
