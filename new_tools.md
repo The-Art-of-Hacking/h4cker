@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Perfusion - Exploit For The RpcEptMapper Registry Key Permissions Vulnerability (Windows 7 / 2088R2 / 8 / 2012)](http://feedproxy.google.com/~r/PentestTools/~3/u89wAuiKlHQ/perfusion-exploit-for-rpceptmapper.html)
 - [PE-Packer - A Simple Windows X86 PE File Packer Written In C And Microsoft Assembly](http://feedproxy.google.com/~r/PentestTools/~3/k_gNbUl0Vks/pe-packer-simple-windows-x86-pe-file.html)
 - [SSB - A Faster And Simpler Way To Bruteforce SSH Server](http://feedproxy.google.com/~r/PentestTools/~3/3wHpDiaMPhA/ssb-faster-and-simpler-way-to.html)
 - [DirDar - A Tool That Searches For (403-Forbidden) Directories To Break It And Get Dir Listing On It](http://feedproxy.google.com/~r/PentestTools/~3/LR1v5oHVjIA/dirdar-tool-that-searches-for-403.html)
