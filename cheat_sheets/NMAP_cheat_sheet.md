@@ -13,7 +13,8 @@ If no port range is specified, Nmap scans the 1,000 most popular ports.
 - `-r`: Scans linearly (does not randomize ports)
 - `--top-ports <n>`: Scan n most popular ports
 - `-p-65535`: Leaving off the initial port in range makes Nmap scan start at port 1
-- `-p0-`: Leaving off the end port in range makes Nmap scan through p
+- `-p-`: Leaving off the end port in range makes Nmap scan all ports
+- `-F`: (Fast (limited port) scan)
 
 ## Port Status
 
