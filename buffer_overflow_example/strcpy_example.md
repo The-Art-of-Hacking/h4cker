@@ -24,13 +24,13 @@ When we copy a string to a target buffer, what will happen if the string is long
 void omarsucks(char *str)
 {
 	char buffer[12];
-	/* The following statement will result in buffer overflow */
+	/* The following strcpy will result in buffer overflow */
 	strcpy(buffer, str);
 }
-int omarsucks()
+int main()
 {
-	char *str = "This is definitely longer than 12";
-	thissucks(str);
+	char *str = "This text is indeed a lot bigger or longer than 12";
+	omarsucks(str);
 	return 1;
 }
 ```
@@ -39,7 +39,7 @@ The following is the stack layout for the code above:
 
 <img src="https://github.com/The-Art-of-Hacking/h4cker/blob/master/buffer_overflow_example/BufferOverFlow.png" width="50%" height="50%">
 
-The local array `buffer[] in `omarsucks()` has 12 bytes of memory. The `omarsucks()` function uses `strcpy()` to copy the string from `str` to `buffer[]`. The `strcpy()` function does not stop until it sees a zero (a number zero, `'\0'`) in the source string. Since the source string is longer than 12 bytes, `strcpy()` will overwrite some portion of the stack above the buffer. This is called buffer overflow.
+The local array `buffer[]` in `omarsucks()` has 12 bytes of memory. The `omarsucks()` function uses `strcpy()` to copy the string from `str` to `buffer[]`. The `strcpy()` function does not stop until it sees a zero (a number zero, `'\0'`) in the source string. Since the source string is longer than 12 bytes, `strcpy()` will overwrite some portion of the stack above the buffer. This is called buffer overflow.
 
 It should be noted that stacks grow from high address to low address, but buffers still grow in the normal direction (i.e., from low to high). Therefore, when we copy data to `buffer[]`, we start from `buffer[0]`, and eventually to `buffer[11]`. If there are still more data to be copied, `strcpy()` will continue copying the data to the region above the buffer, treating the memory beyond the buffer as `buffer[12]`, `buffer[13]`, and so on.
 
