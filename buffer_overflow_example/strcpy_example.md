@@ -43,6 +43,8 @@ The local array `buffer[]` in `omarsucks()` has 12 bytes of memory. The `omarsuc
 
 It should be noted that stacks grow from high address to low address, but buffers still grow in the normal direction (i.e., from low to high). Therefore, when we copy data to `buffer[]`, we start from `buffer[0]`, and eventually to `buffer[11]`. If there are still more data to be copied, `strcpy()` will continue copying the data to the region above the buffer, treating the memory beyond the buffer as `buffer[12]`, `buffer[13]`, and so on.
 
+The following is the stack after exploitation:
 
+<img src="https://github.com/The-Art-of-Hacking/h4cker/blob/master/buffer_overflow_example/stack_after_buffer_overflow.png">
 
 
