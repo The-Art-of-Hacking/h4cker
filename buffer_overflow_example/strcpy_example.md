@@ -36,7 +36,7 @@ int omarsucks()
 ```
 
 The following is the stack layout for the code above:
-<img src="https://github.com/The-Art-of-Hacking/h4cker/blob/master/buffer_overflow_example/BufferOverFlow.png" width="75%" height="75%">
+<img src="https://github.com/The-Art-of-Hacking/h4cker/blob/master/buffer_overflow_example/BufferOverFlow.png" width="50%" height="50%">
 
 The local array `buffer[] in `omarsucks()` has 12 bytes of memory. The `omarsucks()` function uses `strcpy()` to copy the string from `str` to `buffer[]`. The `strcpy()` function does not stop until it sees a zero (a number zero, `'\0'`) in the source string. Since the source string is longer than 12 bytes, `strcpy()` will overwrite some portion of the stack above the buffer. This is called buffer overflow.
 
