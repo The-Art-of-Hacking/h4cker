@@ -90,6 +90,7 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 - [DarkSearch](https://darksearch.io) and their [GitHub repo](https://github.com/thehappydinoa/DarkSearch)
 - [Katana](https://github.com/adnane-X-tebbaa/Katana)
 - [OnionSearch](https://github.com/megadose/OnionSearch)
+- [Search Engines for Academic Research](https://www.itseducation.asia/deep-web.htm)
 
 ### Tools to Obtain Information of .onion Links
 - [H-Indexer](http://jncyepk6zbnosf4p.onion/onions.html)
