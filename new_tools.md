@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RAT-el - An Open Source Penetration Test Tool That Allows You To Take Control Of A Windows Machine](http://feedproxy.google.com/~r/PentestTools/~3/ltchIsC3fyI/rat-el-open-source-penetration-test.html)
 - [Remote-Method-Guesser - Tool For Java RMI Enumeration And Bruteforce Of Remote Methods](http://feedproxy.google.com/~r/PentestTools/~3/_X1CD56wVBg/remote-method-guesser-tool-for-java-rmi.html)
 - [Horusec - An Open Source Tool That Improves Identification Of Vulnerabilities In Your Project With Just One Command](http://feedproxy.google.com/~r/PentestTools/~3/2iOj-hDCy7U/horusec-open-source-tool-that-improves.html)
 - [Perfusion - Exploit For The RpcEptMapper Registry Key Permissions Vulnerability (Windows 7 / 2088R2 / 8 / 2012)](http://feedproxy.google.com/~r/PentestTools/~3/u89wAuiKlHQ/perfusion-exploit-for-rpceptmapper.html)
