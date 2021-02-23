@@ -39,6 +39,12 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 * dnstracer - http://www.mavetju.org/unix/dnstracer.php
 * dnswalk - http://sourceforge.net/projects/dnswalk
 
+## Dark Web Research
+* [Search Engines for Academic Research](https://www.itseducation.asia/deep-web.htm)
+* See additional information under the [OSINT Dark Web OSINT Tools section](https://github.com/The-Art-of-Hacking/h4cker/tree/master/osint#dark-web-osint-tools)
+ 
+
+
 ### Other Great Intelligence Gathering Sources and Tools
 * Resources from Pentest-standard.org - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Intelligence_Gathering
 
