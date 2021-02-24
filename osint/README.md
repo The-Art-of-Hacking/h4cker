@@ -20,9 +20,11 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Visual SEO Studio](https://visual-seo.com/)
 - [Web Data Extractor](http://www.webextractor.com)
 - [Xenu](http://home.snafu.de)
+- [ParamSpider](https://github.com/devanshbatham/ParamSpider)
 
 ## The OSINT Framework
 - [OSINT Framework](https://osintframework.com)
+- 
 ## Open Source Threat Intelligence
 
 - [GOSINT](https://github.com/ciscocsirt/gosint) - a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs). GOSINT allows a security analyst to collect and standardize structured and unstructured threat intelligence.
@@ -91,6 +93,8 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 - [Katana](https://github.com/adnane-X-tebbaa/Katana)
 - [OnionSearch](https://github.com/megadose/OnionSearch)
 - [Search Engines for Academic Research](https://www.itseducation.asia/deep-web.htm)
+- [DarkDump](https://github.com/josh0xA/darkdump)
+- 
 
 ### Tools to Obtain Information of .onion Links
 - [H-Indexer](http://jncyepk6zbnosf4p.onion/onions.html)
