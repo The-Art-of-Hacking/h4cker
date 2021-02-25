@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kali Linux 2021.1 - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/d45kPR4G4RE/kali-linux-20211-penetration-testing.html)
 - [BlackMamba - C2/post-exploitation Framework](http://feedproxy.google.com/~r/PentestTools/~3/QOGMYg2leeM/blackmamba-c2post-exploitation-framework.html)
 - [BugBountyScanner - A Bash Script And Docker Image For Bug Bounty Reconnaissance](http://feedproxy.google.com/~r/PentestTools/~3/ZgW2sTTv_uw/bugbountyscanner-bash-script-and-docker.html)
 - [HaE - BurpSuite Highlighter And Extractor](http://feedproxy.google.com/~r/PentestTools/~3/ksk5cabz_3U/hae-burpsuite-highlighter-and-extractor.html)
