@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OpenWifiPass - An Open Source Implementation Of Apple's Wi-Fi Password Sharing Protocol In Python](http://feedproxy.google.com/~r/PentestTools/~3/zXwXcj2sPe4/openwifipass-open-source-implementation.html)
 - [ScareCrow - Payload Creation Framework Designed Around EDR Bypass](http://feedproxy.google.com/~r/PentestTools/~3/CKq1OcSD8Uc/scarecrow-payload-creation-framework.html)
 - [APT-Hunter - Threat Hunting Tool For Windows Event Logs Which Made By Purple Team Mindset To Provide Detect APT Movements Hidden In The Sea Of Windows Event Logs To Decrease The Time To    Uncover Suspicious Activity](http://feedproxy.google.com/~r/PentestTools/~3/I7LH1j1n2kY/apt-hunter-threat-hunting-tool-for.html)
 - [Kali Linux 2021.1 - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/d45kPR4G4RE/kali-linux-20211-penetration-testing.html)
