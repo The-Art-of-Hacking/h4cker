@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gargamel - A Forensic Evidence Acquirer](http://feedproxy.google.com/~r/PentestTools/~3/0FHrGKlSFxU/gargamel-forensic-evidence-acquirer.html)
 - [Pillager - Filesystems For Sensitive Information With Go](http://feedproxy.google.com/~r/PentestTools/~3/5nnxvF7zBJo/pillager-filesystems-for-sensitive.html)
 - [Gatekeeper - First Open-Source DDoS Protection System](http://feedproxy.google.com/~r/PentestTools/~3/8IpbLqy9ohU/gatekeeper-first-open-source-ddos.html)
 - [CornerShot - Amplify Network Visibility From Multiple POV Of Other Hosts](http://feedproxy.google.com/~r/PentestTools/~3/wqI9y3jUIR0/cornershot-amplify-network-visibility.html)
