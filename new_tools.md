@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [StandIn - A Small .NET35/45 AD Post-Exploitation Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/KddAFq9VFNk/standin-small-net3545-ad-post.html)
 - [WdToggle - A Beacon Object File (BOF) For Cobalt Strike Which Uses Direct System Calls To Enable WDigest Credential Caching](http://feedproxy.google.com/~r/PentestTools/~3/idAseaYLozU/wdtoggle-beacon-object-file-bof-for.html)
 - [Gargamel - A Forensic Evidence Acquirer](http://feedproxy.google.com/~r/PentestTools/~3/0FHrGKlSFxU/gargamel-forensic-evidence-acquirer.html)
 - [Pillager - Filesystems For Sensitive Information With Go](http://feedproxy.google.com/~r/PentestTools/~3/5nnxvF7zBJo/pillager-filesystems-for-sensitive.html)
