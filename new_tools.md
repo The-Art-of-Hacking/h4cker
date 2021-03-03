@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Threatspec - Continuous Threat Modeling, Through Code](http://feedproxy.google.com/~r/PentestTools/~3/qIY0AtpjsOg/threatspec-continuous-threat-modeling.html)
 - [Fake-Sms - A Simple Command Line Tool Using Which You Can Skip Phone Number Based SMS Verification By Using A Temporary Phone Number That Acts Like A Proxy](http://feedproxy.google.com/~r/PentestTools/~3/U2sjI-SJPtw/fake-sms-simple-command-line-tool-using.html)
 - [OWASP ASST (Automated Software Security Toolkit) - A Novel Open Source Web Security Scanner](http://feedproxy.google.com/~r/PentestTools/~3/WPtNQ_kfdrg/owasp-asst-automated-software-security.html)
 - [Halogen - Automatically Create YARA Rules From Malicious Documents](http://feedproxy.google.com/~r/PentestTools/~3/VfOddCLFy5U/halogen-automatically-create-yara-rules.html)
