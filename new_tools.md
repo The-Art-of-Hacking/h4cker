@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PyBeacon - A Collection Of Scripts For Dealing With Cobalt Strike Beacons In Python](http://feedproxy.google.com/~r/PentestTools/~3/59IryS8U-UQ/pybeacon-collection-of-scripts-for.html)
 - [SharpSphere - .NET Project For Attacking vCenter](http://feedproxy.google.com/~r/PentestTools/~3/yVuBsE6I7iI/sharpsphere-net-project-for-attacking.html)
 - [Teatime - An RPC Attack Framework For Blockchain Nodes](http://feedproxy.google.com/~r/PentestTools/~3/PfpCuBhWMvo/teatime-rpc-attack-framework-for.html)
 - [Threatspec - Continuous Threat Modeling, Through Code](http://feedproxy.google.com/~r/PentestTools/~3/qIY0AtpjsOg/threatspec-continuous-threat-modeling.html)
