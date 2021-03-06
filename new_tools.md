@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [uEmu - Tiny Cute Emulator Plugin For IDA Based On Unicorn.](http://feedproxy.google.com/~r/PentestTools/~3/kNTpwW_nHVk/uemu-tiny-cute-emulator-plugin-for-ida.html)
 - [Kubestriker - A Blazing Fast Security Auditing Tool For Kubernetes](http://feedproxy.google.com/~r/PentestTools/~3/wgftq32DR3M/kubestriker-blazing-fast-security.html)
 - [CertEagle - Asset monitoring utility using real time CT log feeds](http://feedproxy.google.com/~r/PentestTools/~3/yJaE9YpxvMs/certeagle-asset-monitoring-utility.html)
 - [PyBeacon - A Collection Of Scripts For Dealing With Cobalt Strike Beacons In Python](http://feedproxy.google.com/~r/PentestTools/~3/59IryS8U-UQ/pybeacon-collection-of-scripts-for.html)
