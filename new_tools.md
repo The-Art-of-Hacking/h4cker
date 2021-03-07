@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [packetStrider - A Network Packet Forensics Tool For SSH](http://feedproxy.google.com/~r/PentestTools/~3/i4onsW8WMW8/packetstrider-network-packet-forensics.html)
 - [Chameleon - Customizable Honeypots For Monitoring Network Traffic, Bots Activities And Username\Password Credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres And MySQL)](http://feedproxy.google.com/~r/PentestTools/~3/xkvW-1zMDRc/chameleon-customizable-honeypots-for.html)
 - [uEmu - Tiny Cute Emulator Plugin For IDA Based On Unicorn.](http://feedproxy.google.com/~r/PentestTools/~3/kNTpwW_nHVk/uemu-tiny-cute-emulator-plugin-for-ida.html)
 - [Kubestriker - A Blazing Fast Security Auditing Tool For Kubernetes](http://feedproxy.google.com/~r/PentestTools/~3/wgftq32DR3M/kubestriker-blazing-fast-security.html)
