@@ -19,5 +19,5 @@
 ## Additional Resources
 - [PaulSec Windows Resource Repository](https://github.com/PaulSec/awesome-windows-domain-hardening)
 - [Tools Cheatsheets](https://github.com/HarmJ0y/CheatSheets) - (Beacon, PowerView, PowerUp, Empire, ...)
-- [SANS PowerShell Cheat Sheet](https://pen-testing.sans.org/blog/2016/05/25/sans-powershell-cheat-sheet/)
+- [SANS PowerShell Cheat Sheet](https://www.sans.org/blog/sans-pen-test-cheat-sheet-powershell/)
 - [The Active Directory module for Windows PowerShell is a PowerShell module that consolidates a group of cmdlets.](https://docs.microsoft.com/en-us/powershell/module/addsadministration/?view=win10-ps)
