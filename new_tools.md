@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sub404 - A Python Tool To Check Subdomain Takeover Vulnerability](http://feedproxy.google.com/~r/PentestTools/~3/MFIoyXYh5PA/sub404-python-tool-to-check-subdomain.html)
 - [Procrustes - A Bash Script That Automates The Exfiltration Of Data Over Dns In Case We Have A Blind Command Execution On A Server Where All Outbound Connections Except DNS Are Blocked](http://feedproxy.google.com/~r/PentestTools/~3/dmok2LYP7s4/procrustes-bash-script-that-automates.html)
 - [packetStrider - A Network Packet Forensics Tool For SSH](http://feedproxy.google.com/~r/PentestTools/~3/i4onsW8WMW8/packetstrider-network-packet-forensics.html)
 - [Chameleon - Customizable Honeypots For Monitoring Network Traffic, Bots Activities And Username\Password Credentials (DNS, HTTP Proxy, HTTP, HTTPS, SSH, POP3, IMAP, STMP, RDP, VNC, SMB, SOCKS5, Redis, TELNET, Postgres And MySQL)](http://feedproxy.google.com/~r/PentestTools/~3/xkvW-1zMDRc/chameleon-customizable-honeypots-for.html)
