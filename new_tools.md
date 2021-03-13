@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gitls - Enumerate Git Repository URL From List Of URL / User / Org](http://feedproxy.google.com/~r/PentestTools/~3/qytOIm1XXdo/gitls-enumerate-git-repository-url-from.html)
 - [Go-RouterSocks - Router Sock. One Port Socks For All The Others.](http://feedproxy.google.com/~r/PentestTools/~3/BzUdOcb_Mgw/go-routersocks-router-sock-one-port.html)
 - [Writehat - A Pentest Reporting Tool Written In Python](http://feedproxy.google.com/~r/PentestTools/~3/VcHM-ZETelk/writehat-pentest-reporting-tool-written.html)
 - [HiddenEyeReborn - HiddenEye With Completely New Codebase And Better Features Set](http://feedproxy.google.com/~r/PentestTools/~3/-JkqW8rzG0E/hiddeneyereborn-hiddeneye-with.html)
