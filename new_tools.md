@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SnitchDNS - Database Driven DNS Server With A Web UI](http://feedproxy.google.com/~r/PentestTools/~3/BrzaQB5W41Q/snitchdns-database-driven-dns-server.html)
 - [Genisys - Powerful Telegram Members Scraping And Adding Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/KfQLlOR9ReE/genisys-powerful-telegram-members.html)
 - [Confused - Tool To Check For Dependency Confusion Vulnerabilities In Multiple Package Management Systems](http://feedproxy.google.com/~r/PentestTools/~3/2h7xmIZlPK4/confused-tool-to-check-for-dependency.html)
 - [DLLHSC - DLL Hijack SCanner A Tool To Assist With The Discovery Of Suitable Candidates For DLL Hijacking](http://feedproxy.google.com/~r/PentestTools/~3/q-lx7NjOcsM/dllhsc-dll-hijack-scanner-tool-to.html)
