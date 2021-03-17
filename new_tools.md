@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Turbo-Intruder - A Burp Suite Extension For Sending Large Numbers Of HTTP Requests And Analyzing The Results](http://feedproxy.google.com/~r/PentestTools/~3/qOe52cKAJ5c/turbo-intruder-burp-suite-extension-for.html)
 - [Lazy-RDP - Script For AutomRDPatic Scanning And Brute-Force](http://feedproxy.google.com/~r/PentestTools/~3/TWRiQVRk6uE/lazy-rdp-script-for-automrdpatic.html)
 - [SnitchDNS - Database Driven DNS Server With A Web UI](http://feedproxy.google.com/~r/PentestTools/~3/BrzaQB5W41Q/snitchdns-database-driven-dns-server.html)
 - [Genisys - Powerful Telegram Members Scraping And Adding Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/KfQLlOR9ReE/genisys-powerful-telegram-members.html)
