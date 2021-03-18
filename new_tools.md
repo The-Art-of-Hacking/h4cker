@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AnonX - An Encrypted File Transfer Via AES-256-CBC](http://feedproxy.google.com/~r/PentestTools/~3/eXmPteIPVsk/anonx-encrypted-file-transfer-via-aes.html)
 - [Strafer - A Tool To Detect Potential Infections In Elasticsearch Instances](http://feedproxy.google.com/~r/PentestTools/~3/CuDUC6e4sy0/strafer-tool-to-detect-potential.html)
 - [Turbo-Intruder - A Burp Suite Extension For Sending Large Numbers Of HTTP Requests And Analyzing The Results](http://feedproxy.google.com/~r/PentestTools/~3/qOe52cKAJ5c/turbo-intruder-burp-suite-extension-for.html)
 - [Lazy-RDP - Script For AutomRDPatic Scanning And Brute-Force](http://feedproxy.google.com/~r/PentestTools/~3/TWRiQVRk6uE/lazy-rdp-script-for-automrdpatic.html)
