@@ -17,6 +17,7 @@ int bof(char *str)
 
 int main(int argc, char **argv)
 {
+    /* This tries to handle 517 bytes and the strcpy is trying to copy that to buffer which only has 12 bytes */ 
     char str[517];
     FILE *badfile;
 
