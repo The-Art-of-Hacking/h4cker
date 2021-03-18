@@ -23,7 +23,7 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 
 ## The OSINT Framework
 - [OSINT Framework](https://osintframework.com)
-- 
+
 ## Open Source Threat Intelligence
 
 - [GOSINT](https://github.com/ciscocsirt/gosint) - a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs). GOSINT allows a security analyst to collect and standardize structured and unstructured threat intelligence.
@@ -110,7 +110,7 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 - [OnionIngestor](https://github.com/danieleperera/OnionIngestor)
 
 ### Other Great Intelligence Gathering Sources and Tools
-* Resources from Pentest-standard.org - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Intelligence_Gathering
+- Resources from Pentest-standard.org - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Intelligence_Gathering
 
 ### Active Recon
-* Tons of references to scanners and vulnerability management software for active reconnaissance - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Vulnerability_Analysis
+- Tons of references to scanners and vulnerability management software for active reconnaissance - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Vulnerability_Analysis
