@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Reverse-Shell-Generator - Hosted Reverse Shell Generator With A Ton Of Functionality](http://feedproxy.google.com/~r/PentestTools/~3/mpa1kJIbj2w/reverse-shell-generator-hosted-reverse.html)
 - [OffensivePipeline - Tool To Download, Compile (Without Visual Studio) And Obfuscate C# Tools For Red Team Exercises](http://feedproxy.google.com/~r/PentestTools/~3/bifBNaBxpuU/offensivepipeline-tool-to-download.html)
 - [Rafel-Rat - Android Rat Written In Java With WebPanel For Controlling Victims](http://feedproxy.google.com/~r/PentestTools/~3/bMMoyRB9IpU/rafel-rat-android-rat-written-in-java.html)
 - [AnonX - An Encrypted File Transfer Via AES-256-CBC](http://feedproxy.google.com/~r/PentestTools/~3/eXmPteIPVsk/anonx-encrypted-file-transfer-via-aes.html)
