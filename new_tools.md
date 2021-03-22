@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ProxyLogon - PoC Exploit for Microsoft Exchange](http://feedproxy.google.com/~r/PentestTools/~3/KSsW05WAoz4/proxylogon-poc-exploit-for-microsoft.html)
 - [Netmap.Js - Fast Browser-Based Network Discovery Module](http://feedproxy.google.com/~r/PentestTools/~3/bGK8hPnb2-U/netmapjs-fast-browser-based-network.html)
 - [Vajra - A Highly Customi zable Target And Scope Based Automated Web Hacking Framework To Automate Boring Recon Tasks](http://feedproxy.google.com/~r/PentestTools/~3/YQuf24DErSQ/vajra-highly-customi-zable-target-and.html)
 - [Subcert - An Subdomain Enumeration Tool, That Finds All The Subdomains From Certificate Transparency Logs](http://feedproxy.google.com/~r/PentestTools/~3/AoO9qmBs93s/subcert-subdomain-enumeration-tool-that.html)
