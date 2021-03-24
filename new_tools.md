@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OSCP-Exam-Report-Template-Markdown - Markdown Templates For Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP Exam Report](http://feedproxy.google.com/~r/PentestTools/~3/p-9mCSAJz7k/oscp-exam-report-template-markdown.html)
 - [Kraker - Distributed Password Brute-Force System That Focused On Easy Use](http://feedproxy.google.com/~r/PentestTools/~3/RmWdWwalGRw/kraker-distributed-password-brute-force.html)
 - [CTF-Party - A Ruby Library To Enhance And Speed Up Script/Exploit Writing For CTF Players](http://feedproxy.google.com/~r/PentestTools/~3/O5dlqSjg484/ctf-party-ruby-library-to-enhance-and.html)
 - [Godehashed - Tool That Uses The Dehashed.Com API To Search For Compromised Assets](http://feedproxy.google.com/~r/PentestTools/~3/nzxwpqbWdhc/godehashed-tool-that-uses-dehashedcom.html)
