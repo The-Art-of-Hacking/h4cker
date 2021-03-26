@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [cve_manager_VS - A Collection Of Python Apps And Shell Scripts To Email An Xlsx Spreadsheet Of New Vulnerabilities In The NIST CVE Database And Their Associated Products On A Daily Schedule](http://feedproxy.google.com/~r/PentestTools/~3/AW1ePPa2tPE/cvemanagervs-collection-of-python-apps.html)
 - [Retoolkit - Reverse Engineer's Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/Yf4NMRTsBbg/retoolkit-reverse-engineers-toolkit.html)
 - [Smogcloud - Find Cloud Assets That No One Wants Exposed](http://feedproxy.google.com/~r/PentestTools/~3/vsGf1vvSNZo/smogcloud-find-cloud-assets-that-no-one.html)
 - [Gitrecon - OSINT Tool To Get Information From A Github Profile And Find GitHub User'S Email Addresses Leaked On Commits](http://feedproxy.google.com/~r/PentestTools/~3/XY0Mqt66esU/gitrecon-osint-tool-to-get-information.html)
