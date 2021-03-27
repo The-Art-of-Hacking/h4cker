@@ -24,7 +24,7 @@ def cookie():
 
     # redirecting the user back to the vulnerable application
     # change the URL to whatever application you are leveraging
-    return redirect("http://127.0.0.1:8883")
+    return redirect("http://127.0.0.1:9003")
 
 # you can change the port below to whatever you want to listen it
 if __name__ == "__main__":
