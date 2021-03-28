@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CallObfuscator - Obfuscate Specific Windows Apis With Different APIs](http://feedproxy.google.com/~r/PentestTools/~3/JFhU0WlYOFA/callobfuscator-obfuscate-specific.html)
 - [Search-That-Hash - Searches Hash APIs To Crack Your Hash Quickly, If Hash Is Not Found Automatically Pipes Into HashCat](http://feedproxy.google.com/~r/PentestTools/~3/yodgPu0QuJI/search-that-hash-searches-hash-apis-to.html)
 - [Obfuscation_Detection - Collection Of Scripts To Pinpoint Obfuscated Code](http://feedproxy.google.com/~r/PentestTools/~3/UGycr92EPpQ/obfuscationdetection-collection-of.html)
 - [cve_manager_VS - A Collection Of Python Apps And Shell Scripts To Email An Xlsx Spreadsheet Of New Vulnerabilities In The NIST CVE Database And Their Associated Products On A Daily Schedule](http://feedproxy.google.com/~r/PentestTools/~3/AW1ePPa2tPE/cvemanagervs-collection-of-python-apps.html)
