@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Boomerang - A Tool To Expose Multiple Internal Servers To Web/Cloud](http://feedproxy.google.com/~r/PentestTools/~3/mKsH_qSvBDQ/boomerang-tool-to-expose-multiple.html)
 - [BadOutlook - (Kinda) Malicious Outlook Reader](http://feedproxy.google.com/~r/PentestTools/~3/KljwY8QU_AM/badoutlook-kinda-malicious-outlook.html)
 - [CallObfuscator - Obfuscate Specific Windows Apis With Different APIs](http://feedproxy.google.com/~r/PentestTools/~3/JFhU0WlYOFA/callobfuscator-obfuscate-specific.html)
 - [Search-That-Hash - Searches Hash APIs To Crack Your Hash Quickly, If Hash Is Not Found Automatically Pipes Into HashCat](http://feedproxy.google.com/~r/PentestTools/~3/yodgPu0QuJI/search-that-hash-searches-hash-apis-to.html)
