@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Android_Hid - Use Android As Rubber Ducky Against Another Android Device](http://feedproxy.google.com/~r/PentestTools/~3/ATCWoFITtd8/androidhid-use-android-as-rubber-ducky.html)
 - [KICS - Find Security Vulnerabilities, Compliance Issues, And Infrastructure Misconfigurations Early In The Development Cycle Of Your Infrastructure-As-Code](http://feedproxy.google.com/~r/PentestTools/~3/ozgYhfL1WGA/kics-find-security-vulnerabilities.html)
 - [Boomerang - A Tool To Expose Multiple Internal Servers To Web/Cloud](http://feedproxy.google.com/~r/PentestTools/~3/mKsH_qSvBDQ/boomerang-tool-to-expose-multiple.html)
 - [BadOutlook - (Kinda) Malicious Outlook Reader](http://feedproxy.google.com/~r/PentestTools/~3/KljwY8QU_AM/badoutlook-kinda-malicious-outlook.html)
