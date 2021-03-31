@@ -11,6 +11,6 @@
 - [AWS PENETRATION TESTING PART 1. S3 BUCKETS](https://www.virtuesecurity.com/blog/aws-penetration-testing-s3-buckets/) - Written by [@VirtueSecurity](https://twitter.com/VirtueSecurity).
 - [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/blog/aws-penetration-testing-part-2-s3-iam-ec2/) - Written by [@VirtueSecurity](https://twitter.com/VirtueSecurity).
 
-## Kali in AWS
-Kali Linux is already available at Amazon's AWS marketplace at:
-https://aws.amazon.com/marketplace/pp/B01M26MMTT
+## Vulnerables
+- [CloudGoat0(https://github.com/RhinoSecurityLabs/cloudgoat)
+- [Damn Vulnerable Cloud Application(DVCA)](https://github.com/m6a-UdS/dvca)
