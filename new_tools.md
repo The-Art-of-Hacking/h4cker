@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Rubeus - C# Toolset For Raw Kerberos Interaction And Abuses](http://feedproxy.google.com/~r/PentestTools/~3/Vt29L1RIWgw/rubeus-c-toolset-for-raw-kerberos.html)
 - [InveighZero - Windows C# LLMNR/mDNS/NBNS/DNS/DHCPv6 Spoofer/Man-In-The-Middle Tool](http://feedproxy.google.com/~r/PentestTools/~3/mUlseNw3gPA/inveighzero-windows-c.html)
 - [ClearURLs - An Add-On Based On The New WebExtensions Technology And Will Automatically Remove Tracking Elements From URLs To Help Protect Your Privacy](http://feedproxy.google.com/~r/PentestTools/~3/KzrlYGs7iE4/clearurls-add-on-based-on-new.html)
 - [Android_Hid - Use Android As Rubber Ducky Against Another Android Device](http://feedproxy.google.com/~r/PentestTools/~3/ATCWoFITtd8/androidhid-use-android-as-rubber-ducky.html)
