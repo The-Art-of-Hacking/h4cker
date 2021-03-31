@@ -12,5 +12,5 @@
 - [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/blog/aws-penetration-testing-part-2-s3-iam-ec2/) - Written by [@VirtueSecurity](https://twitter.com/VirtueSecurity).
 
 ## Vulnerables
-- [CloudGoat0(https://github.com/RhinoSecurityLabs/cloudgoat)
+- [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 - [Damn Vulnerable Cloud Application(DVCA)](https://github.com/m6a-UdS/dvca)
