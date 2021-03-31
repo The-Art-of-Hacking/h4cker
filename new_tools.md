@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [InveighZero - Windows C# LLMNR/mDNS/NBNS/DNS/DHCPv6 Spoofer/Man-In-The-Middle Tool](http://feedproxy.google.com/~r/PentestTools/~3/mUlseNw3gPA/inveighzero-windows-c.html)
 - [ClearURLs - An Add-On Based On The New WebExtensions Technology And Will Automatically Remove Tracking Elements From URLs To Help Protect Your Privacy](http://feedproxy.google.com/~r/PentestTools/~3/KzrlYGs7iE4/clearurls-add-on-based-on-new.html)
 - [Android_Hid - Use Android As Rubber Ducky Against Another Android Device](http://feedproxy.google.com/~r/PentestTools/~3/ATCWoFITtd8/androidhid-use-android-as-rubber-ducky.html)
 - [KICS - Find Security Vulnerabilities, Compliance Issues, And Infrastructure Misconfigurations Early In The Development Cycle Of Your Infrastructure-As-Code](http://feedproxy.google.com/~r/PentestTools/~3/ozgYhfL1WGA/kics-find-security-vulnerabilities.html)
