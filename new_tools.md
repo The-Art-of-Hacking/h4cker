@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SecretScanner - Find Secrets And Passwords In Container Images And File Systems](http://feedproxy.google.com/~r/PentestTools/~3/7-nzcRoC6M8/secretscanner-find-secrets-and.html)
 - [SharpDPAPI -  A C# Port Of Some Mimikatz DPAPI Functionality](http://feedproxy.google.com/~r/PentestTools/~3/nMwKDG7D_sY/sharpdpapi-c-port-of-some-mimikatz.html)
 - [Seatbelt - A C# Project That Performs A Number Of Security Oriented Host-Survey "Safety Checks" Relevant From Both Offensive And Defensive Security Perspectives](http://feedproxy.google.com/~r/PentestTools/~3/9cXraSLqrJA/seatbelt-c-project-that-performs-number.html)
 - [Rubeus - C# Toolset For Raw Kerberos Interaction And Abuses](http://feedproxy.google.com/~r/PentestTools/~3/Vt29L1RIWgw/rubeus-c-toolset-for-raw-kerberos.html)
