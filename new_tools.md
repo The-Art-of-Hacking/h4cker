@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpGPOAbuse - Tool To Take Advantage Of A User'S Edit Rights On A Group Policy Object (GPO) In Order To Compromise The Objects That Are Controlled By That GPO](http://feedproxy.google.com/~r/PentestTools/~3/fB1_SUH4I_I/sharpgpoabuse-tool-to-take-advantage-of.html)
 - [Tuf - A Framework For Securing Software Update Systems](http://feedproxy.google.com/~r/PentestTools/~3/D0YEys9Znwk/tuf-framework-for-securing-software.html)
 - [SecretScanner - Find Secrets And Passwords In Container Images And File Systems](http://feedproxy.google.com/~r/PentestTools/~3/7-nzcRoC6M8/secretscanner-find-secrets-and.html)
 - [SharpDPAPI -  A C# Port Of Some Mimikatz DPAPI Functionality](http://feedproxy.google.com/~r/PentestTools/~3/nMwKDG7D_sY/sharpdpapi-c-port-of-some-mimikatz.html)
