@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Burpsuite-Copy-As-XMLHttpRequest - Copy As XMLHttpRequest BurpSuite Extension](http://feedproxy.google.com/~r/PentestTools/~3/2XaZXTffZYk/burpsuite-copy-as-xmlhttprequest-copy.html)
 - [Scylla - The Simplistic Information Gathering Engine | Find Advanced Information On A Username, Website, Phone Number, Etc...](http://feedproxy.google.com/~r/PentestTools/~3/6dmn1FruDq8/scylla-simplistic-information-gathering.html)
 - [UAC - Unix-like Artifacts Collector](http://feedproxy.google.com/~r/PentestTools/~3/Veu9pMiK9ss/uac-unix-like-artifacts-collector.html)
 - [Maigret - OSINT Username Checker. Collect A Dossier On A Person By Username From A Huge Number Of Sites](http://feedproxy.google.com/~r/PentestTools/~3/XcgPG0Hh69k/maigret-osint-username-checker-collect.html)
