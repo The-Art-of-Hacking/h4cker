@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NtHiM - Super Fast Sub-domain Takeover Detection](http://feedproxy.google.com/~r/PentestTools/~3/g0sHRpFq1_8/nthim-super-fast-sub-domain-takeover.html)
 - [Columbo - A Computer Forensic Analysis Tool Used To Simplify And Identify Specific Patterns In Compromised Datasets](http://feedproxy.google.com/~r/PentestTools/~3/9cMEG4O3F8k/columbo-computer-forensic-analysis-tool.html)
 - [ThreatMapper - Identify Vulnerabilities In Running Containers, Images, Hosts And Repositories](http://feedproxy.google.com/~r/PentestTools/~3/BiBvHczRArU/threatmapper-identify-vulnerabilities.html)
 - [Burpsuite-Copy-As-XMLHttpRequest - Copy As XMLHttpRequest BurpSuite Extension](http://feedproxy.google.com/~r/PentestTools/~3/2XaZXTffZYk/burpsuite-copy-as-xmlhttprequest-copy.html)
