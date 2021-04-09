@@ -1,4 +1,7 @@
-# Script to perform an ARP cache poisoning attack
+#!/usr/bin/env python3
+# Example script to perform an ARP cache poisoning attack using SCAPY
+# v: 0.1
+# Omar Santos @santosomar
 
 from scapy.all import *
 import os
