@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gotestwaf - Go Test WAF Is A Tool To Test Your WAF Detection Capabilities Against Different Types Of Attacks And By-Pass Techniques](http://feedproxy.google.com/~r/PentestTools/~3/eva_FfbEwac/gotestwaf-go-test-waf-is-tool-to-test.html)
 - [SNOWCRASH - A Polyglot Payload Generator](http://feedproxy.google.com/~r/PentestTools/~3/_CWXvU8p5pk/snowcrash-polyglot-payload-generator.html)
 - [PoisonApple - macOS Persistence Tool](http://feedproxy.google.com/~r/PentestTools/~3/-kTU31qAqdg/poisonapple-macos-persistence-tool.html)
 - [Redcloud - Automated Red Team Infrastructure Deployement Using Docker](http://feedproxy.google.com/~r/PentestTools/~3/wK-wRmRIW3s/redcloud-automated-red-team.html)
