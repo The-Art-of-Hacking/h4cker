@@ -7,7 +7,8 @@ red=$(tput setaf 1)
 green=$(tput setaf 2)
 reset=$(tput sgr0)
 
-echo "Running docker-bench-security from ${red}WebSploit"
+echo "Running docker-bench-security ${red}WebSploit Labs easy script"
+printf -- '\n';
 
 docker run --rm --net host --pid host --userns host --cap-add audit_control \
     -e DOCKER_CONTENT_TRUST=$DOCKER_CONTENT_TRUST \
@@ -24,6 +25,7 @@ docker run --rm --net host --pid host --userns host --cap-add audit_control \
 
 cat bench_results.txt | grep WARN
 
+printf -- '\n';
 echo "${red}The output above only includes the major findings."
 
 echo "${reset}The complete results have been stored at: 
