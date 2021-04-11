@@ -1,4 +1,6 @@
-# A quick script to run docker-bench-security in WebSploit Labs
+#!/bin/bash
+# A lame and quick script to run docker-bench-security in WebSploit Labs
+# Omar Santos @santosomar
 
 echo "Running docker-bench-security from WebSploit"
 
@@ -15,5 +17,5 @@ docker run --rm --net host --pid host --userns host --cap-add audit_control \
     docker/docker-bench-security > bench_results.txt
 
 
-cat bench_results.txt
-echo "The results have been stored at $(pwd)/bench_results.txt "
+cat bench_results.txt | grep WARN
+echo "The output above only includes the major findings. The complete results have been stored at: $(pwd)/bench_results.txt "
