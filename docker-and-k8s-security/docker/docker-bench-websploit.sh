@@ -19,7 +19,7 @@ docker run --rm --net host --pid host --userns host --cap-add audit_control \
     -v /var/lib:/var/lib:ro \
     -v /var/run/docker.sock:/var/run/docker.sock:ro \
     --label docker_bench_security \
-    docker/docker-bench-security > $(whoami)/bench_results.txt
+    docker/docker-bench-security > bench_results.txt
 
 
 cat bench_results.txt | grep WARN
@@ -27,4 +27,4 @@ cat bench_results.txt | grep WARN
 echo "${red}The output above only includes the major findings."
 
 echo "${reset}The complete results have been stored at: 
-${green}$(whoami)/bench_results.txt "
+${green}$(pwd)/bench_results.txt "
