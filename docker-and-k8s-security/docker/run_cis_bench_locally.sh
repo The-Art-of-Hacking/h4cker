@@ -7,6 +7,17 @@
 red=$(tput setaf 1)
 green=$(tput setaf 2)
 reset=$(tput sgr0)
+clear
+
+echo "${green} R U N    C I S   B E N C H M A R K    D O C K E R 
+${reset}
+Author: Omar Ωr Santos
+Twitter: @santosomar
+Version: 0.1
+
+${red}This script will automatically install or upgrade InSpec and will run the latest CIS Docker Benchmark from github/dev-sec/cis-docker-benchmark
+"
+read -n 1 -s -r -p "Press any key to continue the setup..."
 
 echo "${green}Installing InSpec"
 echo "${reset}========================="
