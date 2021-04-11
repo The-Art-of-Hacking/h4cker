@@ -14,4 +14,14 @@ echo "${reset}========================="
 curl https://omnitruck.chef.io/install.sh | sudo bash -s -- -P inspec
 
 echo "${red} Running CIS Docker Benchmark ${reset} locally on $(hostname)"
-inspec exec https://github.com/dev-sec/cis-docker-benchmark
+inspec exec https://github.com/dev-sec/cis-docker-benchmark > cis_benchmark_results.txt
+
+
+
+printf -- '\n';
+echo "${red}REPORT SUMMARY:"
+tail -n 2 cis_benchmark_results.txt
+
+printf -- '\n';
+echo "${reset}The complete results have been stored at: 
+${green}$(pwd)/cis_benchmark_results.txt "
