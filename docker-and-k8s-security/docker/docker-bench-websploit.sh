@@ -2,7 +2,12 @@
 # A lame and quick script to run docker-bench-security in WebSploit Labs
 # Omar Santos @santosomar
 
-echo "Running docker-bench-security from WebSploit"
+
+red=$(tput setaf 1)
+green=$(tput setaf 2)
+reset=$(tput sgr0)
+
+echo "Running docker-bench-security from ${red}WebSploit"
 
 docker run --rm --net host --pid host --userns host --cap-add audit_control \
     -e DOCKER_CONTENT_TRUST=$DOCKER_CONTENT_TRUST \
@@ -18,4 +23,8 @@ docker run --rm --net host --pid host --userns host --cap-add audit_control \
 
 
 cat bench_results.txt | grep WARN
-echo "The output above only includes the major findings. The complete results have been stored at: $(pwd)/bench_results.txt "
+
+echo "${red}The output above only includes the major findings."
+
+echo "${reset}The complete results have been stored at: 
+${green}$(pwd)/bench_results.txt "
