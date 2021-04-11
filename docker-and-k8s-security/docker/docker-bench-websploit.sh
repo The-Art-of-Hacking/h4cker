@@ -14,4 +14,6 @@ docker run --rm --net host --pid host --userns host --cap-add audit_control \
     --label docker_bench_security \
     docker/docker-bench-security > bench_results.txt
 
+
+cat bench_results.txt
 echo "The results have been stored at $(pwd)/bench_results.txt "
