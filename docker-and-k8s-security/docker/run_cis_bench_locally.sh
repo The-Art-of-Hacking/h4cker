@@ -9,7 +9,7 @@ green=$(tput setaf 2)
 reset=$(tput sgr0)
 clear
 
-echo "${green} R U N    C I S   B E N C H M A R K    D O C K E R 
+echo "${green} R U N   C I S   D O C K E R   B E N C H M A R K 
 ${reset}
 Author: Omar Ωr Santos
 Twitter: @santosomar
