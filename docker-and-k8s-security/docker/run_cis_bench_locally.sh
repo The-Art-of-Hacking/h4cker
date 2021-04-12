@@ -41,3 +41,4 @@ printf -- '\n';
 echo "${reset}The complete results have been stored at: 
 ${green}$(pwd)/cis_benchmark_results.txt "
 
+✅
