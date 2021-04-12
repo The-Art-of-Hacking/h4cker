@@ -11,8 +11,8 @@ reset=$(tput sgr0)
 clear
 
 #welcome screen
-echo "${green} R U N   C I S   D O C K E R   B E N C H M A R K 
-${reset}
+echo "🔥🔥🔥 ${green} R U N   C I S   D O C K E R   B E N C H M A R K ${reset} 🔥🔥🔥
+
 Author: Omar Ωr Santos
 Twitter: @santosomar
 Version: 0.1
