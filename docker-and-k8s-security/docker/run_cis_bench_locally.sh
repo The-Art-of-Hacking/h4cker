@@ -25,7 +25,7 @@ echo "${reset}========================="
 curl https://omnitruck.chef.io/install.sh | sudo bash -s -- -P inspec
 
 clear 
-echo "${red}>> Running CIS Docker Benchmark ${reset} locally on $(hostname)"
+echo "${red}>> Running CIS Docker Benchmark ${reset}locally on $(hostname)"
 inspec exec https://github.com/dev-sec/cis-docker-benchmark > cis_benchmark_results.txt
 
 
