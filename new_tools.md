@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SYNwall - A Zero-Configuration (IoT) Firewall](http://feedproxy.google.com/~r/PentestTools/~3/JIPxgCar4-Q/synwall-zero-configuration-iot-firewall.html)
 - [Cpufetch - Simplistic Yet Fancy CPU Architecture Fetching Tool](http://feedproxy.google.com/~r/PentestTools/~3/Vb3Y9r6A4M0/cpufetch-simplistic-yet-fancy-cpu.html)
 - [AzureC2Relay - An Azure Function That Validates And Relays Cobalt Strike Beacon Traffic By Verifying The Incoming Requests Based On A Cobalt Strike Malleable C2 Profile](http://feedproxy.google.com/~r/PentestTools/~3/gRQ_OdS7vQo/azurec2relay-azure-function-that.html)
 - [Gotestwaf - Go Test WAF Is A Tool To Test Your WAF Detection Capabilities Against Different Types Of Attacks And By-Pass Techniques](http://feedproxy.google.com/~r/PentestTools/~3/eva_FfbEwac/gotestwaf-go-test-waf-is-tool-to-test.html)
