@@ -26,6 +26,9 @@ echo "${green}Installing InSpec"
 echo "${reset}========================="
 
 curl https://omnitruck.chef.io/install.sh | sudo bash -s -- -P inspec
+
+inspec --chef-license=accept
+
 clear 
 
 #running CIS Docker Benchmark directly from GitHub locally
