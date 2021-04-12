@@ -38,7 +38,5 @@ tail -n 2 cis_benchmark_results.txt
 
 #printing the results
 printf -- '\n';
-echo "${reset}The complete results have been stored at: 
+echo "✅ ${reset}The complete results have been stored at: 
 ${green}$(pwd)/cis_benchmark_results.txt "
-
-echo "✅"
