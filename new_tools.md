@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Traitor - Automatic Linux Privesc Via Exploitation Of Low-Hanging Fruit E.G. GTFOBin](http://feedproxy.google.com/~r/PentestTools/~3/j5TNnnNhdGc/traitor-automatic-linux-privesc-via.html)
 - [Ronin - A Ruby Platform For Vulnerability Research And Exploit Development](http://feedproxy.google.com/~r/PentestTools/~3/t0ZKKs6gqaw/ronin-ruby-platform-for-vulnerability.html)
 - [Dwn - D(Ockerp)Wn - A Docker Pwn Tool Manager](http://feedproxy.google.com/~r/PentestTools/~3/hMS5TzkoDTs/dwn-dockerpwn-docker-pwn-tool-manager.html)
 - [SYNwall - A Zero-Configuration (IoT) Firewall](http://feedproxy.google.com/~r/PentestTools/~3/JIPxgCar4-Q/synwall-zero-configuration-iot-firewall.html)
