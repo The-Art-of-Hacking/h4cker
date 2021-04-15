@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Swissknife - Scriptable VSCode Extension To Generate Or Manipulate Data. Stop Pasting Sensitive Data In Webpag](http://feedproxy.google.com/~r/PentestTools/~3/ZjD6htj4hPU/swissknife-scriptable-vscode-extension.html)
 - [MoveKit - Cobalt Strike Kit For Lateral Movement](http://feedproxy.google.com/~r/PentestTools/~3/6bii0BfpNDg/movekit-cobalt-strike-kit-for-lateral.html)
 - [Adfsbrute - A Script To Test Credentials Against Active Directory Federation Services (ADFS), Allowing Password Spraying Or Bruteforce Attacks](http://feedproxy.google.com/~r/PentestTools/~3/bZ9Q-5__tZ4/adfsbrute-script-to-test-credentials.html)
 - [Traitor - Automatic Linux Privesc Via Exploitation Of Low-Hanging Fruit E.G. GTFOBin](http://feedproxy.google.com/~r/PentestTools/~3/j5TNnnNhdGc/traitor-automatic-linux-privesc-via.html)
