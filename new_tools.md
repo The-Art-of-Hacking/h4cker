@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IRTriage - Incident Response Triage - Windows Evidence Collection For Forensic Analysis](http://feedproxy.google.com/~r/PentestTools/~3/L5g973Zdd2Q/irtriage-incident-response-triage.html)
 - [PentestBro - Combines Subdomain Scans, Whois, Port Scanning, Banner Grabbing And Web Enumeration Into One Tool](http://feedproxy.google.com/~r/PentestTools/~3/wDudqcZ2-50/pentestbro-combines-subdomain-scans.html)
 - [Defeat-Defender - Powerful Batch Script To Dismantle Complete Windows Defender Protection And Even Bypass Tamper Protection](http://feedproxy.google.com/~r/PentestTools/~3/rX6zBZvDdXE/defeat-defender-powerful-batch-script.html)
 - [Swissknife - Scriptable VSCode Extension To Generate Or Manipulate Data. Stop Pasting Sensitive Data In Webpag](http://feedproxy.google.com/~r/PentestTools/~3/ZjD6htj4hPU/swissknife-scriptable-vscode-extension.html)
