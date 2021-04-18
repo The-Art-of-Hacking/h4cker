@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Spraygen - Password List Generator For Password Spraying](http://feedproxy.google.com/~r/PentestTools/~3/bEP0fovngDg/spraygen-password-list-generator-for.html)
 - [HttpDoom -  A Tool For Response-Based Inspection Of Websites Across A Large Amount Of Hosts For Quickly Gaining An Overview Of HTTP-based Attack Surface](http://feedproxy.google.com/~r/PentestTools/~3/F0vswzS61g8/httpdoom-tool-for-response-based.html)
 - [Sish - HTTP(S)/WS(S)/TCP Tunnels To Localhost Using Only SSH](http://feedproxy.google.com/~r/PentestTools/~3/RMbJvIy74tI/sish-httpswsstcp-tunnels-to-localhost.html)
 - [Android-PIN-Bruteforce - Unlock An Android Phone (Or Device) By Bruteforcing The Lockscreen PIN](http://feedproxy.google.com/~r/PentestTools/~3/s51KORysdVA/android-pin-bruteforce-unlock-android.html)
