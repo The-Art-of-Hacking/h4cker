@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [KubiScan - A Tool To Scan Kubernetes Cluster For Risky Permissions](http://feedproxy.google.com/~r/PentestTools/~3/b-mrz6dH6RY/kubiscan-tool-to-scan-kubernetes.html)
 - [Modded-Ubuntu - Run Ubuntu GUI On Your Termux With Much Features](http://feedproxy.google.com/~r/PentestTools/~3/94EGEauTpaA/modded-ubuntu-run-ubuntu-gui-on-your.html)
 - [Cypheroth - Automated, Extensible Toolset That Runs Cypher Queries Against Bloodhound's Neo4j Backend And Saves Output To Spreadsheets](http://feedproxy.google.com/~r/PentestTools/~3/vLFBaQrPjLM/cypheroth-automated-extensible-toolset.html)
 - [Spraygen - Password List Generator For Password Spraying](http://feedproxy.google.com/~r/PentestTools/~3/bEP0fovngDg/spraygen-password-list-generator-for.html)
