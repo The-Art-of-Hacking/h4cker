@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BetterXencrypt - A Better Version Of Xencrypt - Xencrypt It Self Is A Powershell Runtime Crypter Designed To Evade AVs](http://feedproxy.google.com/~r/PentestTools/~3/1zVtWlyQaeg/betterxencrypt-better-version-of.html)
 - [Reproxy - Simple Edge Server / Reverse Proxy](http://feedproxy.google.com/~r/PentestTools/~3/VSBvAsDMT-Q/reproxy-simple-edge-server-reverse-proxy.html)
 - [KubiScan - A Tool To Scan Kubernetes Cluster For Risky Permissions](http://feedproxy.google.com/~r/PentestTools/~3/b-mrz6dH6RY/kubiscan-tool-to-scan-kubernetes.html)
 - [Modded-Ubuntu - Run Ubuntu GUI On Your Termux With Much Features](http://feedproxy.google.com/~r/PentestTools/~3/94EGEauTpaA/modded-ubuntu-run-ubuntu-gui-on-your.html)
