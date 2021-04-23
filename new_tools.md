@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IPCDump - Tool For Tracing Interprocess Communication (IPC) On Linux](http://feedproxy.google.com/~r/PentestTools/~3/4QR1SFFuL2o/ipcdump-tool-for-tracing-interprocess.html)
 - [CrossLinked - LinkedIn Enumeration Tool To Extract Valid Employee Names From An Organization Through Search Engine Scraping](http://feedproxy.google.com/~r/PentestTools/~3/6wTf2bseEjk/crosslinked-linkedin-enumeration-tool.html)
 - [Overlord - Red Teaming Infrastructure Automation](http://feedproxy.google.com/~r/PentestTools/~3/2cCXbpwU1x4/overlord-overlord-red-teaming.html)
 - [Vulnerablecode - A Free And Open Vulnerabilities Database And The Packages They Impact And The Tools To Aggregate And Correlate These Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/oCFalqcMvYQ/vulnerablecode-free-and-open.html)
