@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OverRide - Binary Exploitation And Reverse-Engineering (From Assembly Into C)](http://feedproxy.google.com/~r/PentestTools/~3/5h3uJtvRjE4/override-binary-exploitation-and.html)
 - [SlackPirate - Slack Enumeration And Extraction Tool - Extract Sensitive Information From A Slack Workspace](http://feedproxy.google.com/~r/PentestTools/~3/fVeK8fCDdSk/slackpirate-slack-enumeration-and.html)
 - [IPCDump - Tool For Tracing Interprocess Communication (IPC) On Linux](http://feedproxy.google.com/~r/PentestTools/~3/4QR1SFFuL2o/ipcdump-tool-for-tracing-interprocess.html)
 - [CrossLinked - LinkedIn Enumeration Tool To Extract Valid Employee Names From An Organization Through Search Engine Scraping](http://feedproxy.google.com/~r/PentestTools/~3/6wTf2bseEjk/crosslinked-linkedin-enumeration-tool.html)
