@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cook - A Customizable Wordlist And Password Generator](http://feedproxy.google.com/~r/PentestTools/~3/tNnnJY9_hW4/cook-customizable-wordlist-and-password.html)
 - [Profil3r - OSINT Tool That Allows You To Find A Person'S Accounts And Emails + Breached Emails](http://feedproxy.google.com/~r/PentestTools/~3/0wlEwXuP63I/profil3r-osint-tool-that-allows-you-to.html)
 - [Tscopy - Tool to parse the NTFS $MFT file to locate and copy specific files](http://feedproxy.google.com/~r/PentestTools/~3/h23ju8Xa1iA/tscopy-tool-to-parse-ntfs-mft-file-to.html)
 - [Posta - Cross-document Messaging Security Research Tool](http://feedproxy.google.com/~r/PentestTools/~3/r_bB4UNop_4/posta-cross-document-messaging-security.html)
