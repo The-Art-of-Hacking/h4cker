@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fav-Up - IP Lookup By Favicon Using Shodan](http://feedproxy.google.com/~r/PentestTools/~3/DP4zk-DCanA/fav-up-ip-lookup-by-favicon-using-shodan.html)
 - [Ldsview - Offline search tool for LDAP directory dumps in LDIF format](http://feedproxy.google.com/~r/PentestTools/~3/mxq4Fm6-mv0/ldsview-offline-search-tool-for-ldap.html)
 - [Cook - A Customizable Wordlist And Password Generator](http://feedproxy.google.com/~r/PentestTools/~3/tNnnJY9_hW4/cook-customizable-wordlist-and-password.html)
 - [Profil3r - OSINT Tool That Allows You To Find A Person'S Accounts And Emails + Breached Emails](http://feedproxy.google.com/~r/PentestTools/~3/0wlEwXuP63I/profil3r-osint-tool-that-allows-you-to.html)
