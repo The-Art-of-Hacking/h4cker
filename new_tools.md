@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PwnLnX - An Advanced Multi-Threaded, Multi-Client Python Reverse Shell For Hacking Linux Systems](http://feedproxy.google.com/~r/PentestTools/~3/OsVHMIpYf6M/pwnlnx-advanced-multi-threaded-multi.html)
 - [Invoke-Stealth - Simple And Powerful PowerShell Script Obfuscator](http://feedproxy.google.com/~r/PentestTools/~3/V3LtnShX1xg/invoke-stealth-simple-and-powerful.html)
 - [Fav-Up - IP Lookup By Favicon Using Shodan](http://feedproxy.google.com/~r/PentestTools/~3/DP4zk-DCanA/fav-up-ip-lookup-by-favicon-using-shodan.html)
 - [Ldsview - Offline search tool for LDAP directory dumps in LDIF format](http://feedproxy.google.com/~r/PentestTools/~3/mxq4Fm6-mv0/ldsview-offline-search-tool-for-ldap.html)
