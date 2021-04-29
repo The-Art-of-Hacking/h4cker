@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MeterPwrShell - Automated Tool That Generate The Perfect Powershell Payload](http://feedproxy.google.com/~r/PentestTools/~3/7aGtjaBExz8/meterpwrshell-automated-tool-that.html)
 - [M365_Groups_Enum - Enumerate Microsoft 365 Groups In A Tenant With Their Metadata](http://feedproxy.google.com/~r/PentestTools/~3/2Mw0vEcVTPg/m365groupsenum-enumerate-microsoft-365.html)
 - [PwnLnX - An Advanced Multi-Threaded, Multi-Client Python Reverse Shell For Hacking Linux Systems](http://feedproxy.google.com/~r/PentestTools/~3/OsVHMIpYf6M/pwnlnx-advanced-multi-threaded-multi.html)
 - [Invoke-Stealth - Simple And Powerful PowerShell Script Obfuscator](http://feedproxy.google.com/~r/PentestTools/~3/V3LtnShX1xg/invoke-stealth-simple-and-powerful.html)
