@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Vaf - Very Advanced (Web) Fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/1gT6rCzHXf4/vaf-very-advanced-web-fuzzer.html)
 - [SniperPhish - The Web-Email Spear Phishing Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/5EqZRCDX6vA/sniperphish-web-email-spear-phishing.html)
 - [MeterPwrShell - Automated Tool That Generate The Perfect Powershell Payload](http://feedproxy.google.com/~r/PentestTools/~3/7aGtjaBExz8/meterpwrshell-automated-tool-that.html)
 - [M365_Groups_Enum - Enumerate Microsoft 365 Groups In A Tenant With Their Metadata](http://feedproxy.google.com/~r/PentestTools/~3/2Mw0vEcVTPg/m365groupsenum-enumerate-microsoft-365.html)
