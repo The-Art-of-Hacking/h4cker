@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nginxpwner -  Tool to look for common Nginx misconfigurations and vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/wiElk_BBEZ4/nginxpwner-tool-to-look-for-common.html)
 - [Paragon - Red Team Engagement Platform With The Goal Of Unifying Offensive Tools Behind A Simple UI](http://feedproxy.google.com/~r/PentestTools/~3/iitZ4ZuCTZE/paragon-red-team-engagement-platform.html)
 - [Vaf - Very Advanced (Web) Fuzzer](http://feedproxy.google.com/~r/PentestTools/~3/1gT6rCzHXf4/vaf-very-advanced-web-fuzzer.html)
 - [SniperPhish - The Web-Email Spear Phishing Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/5EqZRCDX6vA/sniperphish-web-email-spear-phishing.html)
