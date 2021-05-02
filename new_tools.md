@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WinPmem - The Multi-Platform Memory Acquisition Tool](http://feedproxy.google.com/~r/PentestTools/~3/rzKTy8tqRPs/winpmem-multi-platform-memory.html)
 - [Storm-Breaker - Tool Social Engineering (Access Webcam, Microphone, OS Password Grabber And Location Finder) With Ngrok](http://feedproxy.google.com/~r/PentestTools/~3/CT7tSwNuyNc/storm-breaker-tool-social-engineering.html)
 - [Nginxpwner -  Tool to look for common Nginx misconfigurations and vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/wiElk_BBEZ4/nginxpwner-tool-to-look-for-common.html)
 - [Paragon - Red Team Engagement Platform With The Goal Of Unifying Offensive Tools Behind A Simple UI](http://feedproxy.google.com/~r/PentestTools/~3/iitZ4ZuCTZE/paragon-red-team-engagement-platform.html)
