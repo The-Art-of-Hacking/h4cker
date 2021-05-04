@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LibAFL - Advanced Fuzzing Library - Slot Your Fuzzer Together In Rust! Scales Across Cores And Machines. For Windows, Android, MacOS, Linux, No_Std, ...](http://feedproxy.google.com/~r/PentestTools/~3/hgEsFokXJvA/libafl-advanced-fuzzing-library-slot.html)
 - [Evasor - A Tool To Be Used In Post Exploitation Phase For Blue And Red Teams To Bypass APPLICATIONCONTROL Policies](http://feedproxy.google.com/~r/PentestTools/~3/CEBOr5pYdxg/evasor-tool-to-be-used-in-post.html)
 - [Duplicut - Remove Duplicates From MASSIVE Wordlist, Without Sorting It (For Dictionary-Based Password Cracking)](http://feedproxy.google.com/~r/PentestTools/~3/QzDNqlQPjxE/duplicut-remove-duplicates-from-massive.html)
 - [WinPmem - The Multi-Platform Memory Acquisition Tool](http://feedproxy.google.com/~r/PentestTools/~3/rzKTy8tqRPs/winpmem-multi-platform-memory.html)
