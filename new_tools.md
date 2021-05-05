@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Botkube - An App That Helps You Monitor Your Kubernetes Cluster, Debug Critical Deployments And Gives Recommendations For Standard Practices](http://feedproxy.google.com/~r/PentestTools/~3/mwYT9LOSHdM/botkube-app-that-helps-you-monitor-your.html)
 - [Botkube - An App That Helps You Monitor Your Kubernetes Cluster, Debug Critical Deployments &Amp; Gives Recommendations For Standard Practices](http://feedproxy.google.com/~r/PentestTools/~3/mwYT9LOSHdM/botkube-app-that-helps-you-monitor-your.html)
 - [Pystinger - Bypass Firewall For Traffic Forwarding Using Webshell](http://feedproxy.google.com/~r/PentestTools/~3/pcXhp8s8hz0/pystinger-bypass-firewall-for-traffic.html)
 - [LibAFL - Advanced Fuzzing Library - Slot Your Fuzzer Together In Rust! Scales Across Cores And Machines. For Windows, Android, MacOS, Linux, No_Std, ...](http://feedproxy.google.com/~r/PentestTools/~3/hgEsFokXJvA/libafl-advanced-fuzzing-library-slot.html)
