@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Priv2Admin - Exploitation Paths Allowing You To (Mis)Use The Windows Privileges To Elevate Your Rights Within The OS](http://feedproxy.google.com/~r/PentestTools/~3/jURpTgdlk_8/priv2admin-exploitation-paths-allowing.html)
 - [KubeArmor - Container-aware Runtime Security Enforcement System](http://feedproxy.google.com/~r/PentestTools/~3/Lzy94A4YpEQ/kubearmor-container-aware-runtime.html)
 - [Botkube - An App That Helps You Monitor Your Kubernetes Cluster, Debug Critical Deployments And Gives Recommendations For Standard Practices](http://feedproxy.google.com/~r/PentestTools/~3/mwYT9LOSHdM/botkube-app-that-helps-you-monitor-your.html)
 - [Botkube - An App That Helps You Monitor Your Kubernetes Cluster, Debug Critical Deployments &Amp; Gives Recommendations For Standard Practices](http://feedproxy.google.com/~r/PentestTools/~3/mwYT9LOSHdM/botkube-app-that-helps-you-monitor-your.html)
