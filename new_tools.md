@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CANalyse - A Vehicle Network Analysis And Attack Tool](http://feedproxy.google.com/~r/PentestTools/~3/UCIX_QJVv2U/canalyse-vehicle-network-analysis-and.html)
 - [Judge-Jury-and-Executable - A File System Forensics Analysis Scanner And Threat Hunting Tool](http://feedproxy.google.com/~r/PentestTools/~3/ImNyrnuBNfU/judge-jury-and-executable-file-system.html)
 - [Priv2Admin - Exploitation Paths Allowing You To (Mis)Use The Windows Privileges To Elevate Your Rights Within The OS](http://feedproxy.google.com/~r/PentestTools/~3/jURpTgdlk_8/priv2admin-exploitation-paths-allowing.html)
 - [KubeArmor - Container-aware Runtime Security Enforcement System](http://feedproxy.google.com/~r/PentestTools/~3/Lzy94A4YpEQ/kubearmor-container-aware-runtime.html)
