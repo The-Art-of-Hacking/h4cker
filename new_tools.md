@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kiterunner - Contextual Content Discovery Tool](http://feedproxy.google.com/~r/PentestTools/~3/lpZ1K9jBQSg/kiterunner-contextual-content-discovery.html)
 - [Red-Detector - Scan Your EC2 Instance To Find Its Vulnerabilities Using Vuls.io](http://feedproxy.google.com/~r/PentestTools/~3/fqSeNVBcVis/red-detector-scan-your-ec2-instance-to.html)
 - [WordPress-Brute-Force - Super Fast Login WordPress Brute Force](http://feedproxy.google.com/~r/PentestTools/~3/ScCJuqZ0HQg/wordpress-brute-force-super-fast-login.html)
 - [CANalyse - A Vehicle Network Analysis And Attack Tool](http://feedproxy.google.com/~r/PentestTools/~3/UCIX_QJVv2U/canalyse-vehicle-network-analysis-and.html)
