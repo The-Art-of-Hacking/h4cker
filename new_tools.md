@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DNSObserver - A Handy DNS Service Written In Go To Aid In The Detection Of Several Types Of Blind Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/-7Xzdq8mQaw/dnsobserver-handy-dns-service-written.html)
 - [CyberBattleSim - An Experimentation And Research Platform To Investigate The Interaction Of Automated Agents In An Abstract Simulated Network Environments](http://feedproxy.google.com/~r/PentestTools/~3/8VjKs69-NHA/cyberbattlesim-experimentation-and.html)
 - [Lucifer - A Powerful Penetration Tool For Automating Penetration Tasks Such As Local Privilege Escalation, Enumeration, Exfiltration And More...](http://feedproxy.google.com/~r/PentestTools/~3/cEij7DJlAaA/lucifer-powerful-penetration-tool-for.html)
 - [Waybackurls - Fetch All The URLs That The Wayback Machine Knows About For A Domain](http://feedproxy.google.com/~r/PentestTools/~3/hurfRuhKDBs/waybackurls-fetch-all-urls-that-wayback.html)
