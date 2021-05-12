@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Short story about Clubhouse user scraping and social graphs](http://feedproxy.google.com/~r/PentestTools/~3/-IEKai3bmnk/short-story-about-clubhouse-user.html)
 - [VAST - Visibility Across Space And Time](http://feedproxy.google.com/~r/PentestTools/~3/fUIqckUTHck/vast-visibility-across-space-and-time.html)
 - [Baserunner - A Tool For Exploring Firebase Datastores](http://feedproxy.google.com/~r/PentestTools/~3/jaZMZuVIBzY/baserunner-tool-for-exploring-firebase.html)
 - [DNSObserver - A Handy DNS Service Written In Go To Aid In The Detection Of Several Types Of Blind Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/-7Xzdq8mQaw/dnsobserver-handy-dns-service-written.html)
