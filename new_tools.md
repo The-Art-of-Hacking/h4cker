@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [APSoft-Web-Scanner-v2 - Powerful Dork Searcher And Vulnerability Scanner For Windows Platform](http://feedproxy.google.com/~r/PentestTools/~3/cfBeM1Puyf0/apsoft-web-scanner-v2-powerful-dork.html)
 - [Short story about Clubhouse user scraping and social graphs](http://feedproxy.google.com/~r/PentestTools/~3/-IEKai3bmnk/short-story-about-clubhouse-user.html)
 - [VAST - Visibility Across Space And Time](http://feedproxy.google.com/~r/PentestTools/~3/fUIqckUTHck/vast-visibility-across-space-and-time.html)
 - [Baserunner - A Tool For Exploring Firebase Datastores](http://feedproxy.google.com/~r/PentestTools/~3/jaZMZuVIBzY/baserunner-tool-for-exploring-firebase.html)
