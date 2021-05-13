@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Snuffleupagus - Security Module For Php7 And Php8 - Killing Bugclasses And Virtual-Patching The Rest!](http://feedproxy.google.com/~r/PentestTools/~3/gFuQ4LBHg3s/snuffleupagus-security-module-for-php7.html)
 - [ByeIntegrity-UAC - Bypass UAC By Hijacking A DLL Located In The Native Image Cache](http://feedproxy.google.com/~r/PentestTools/~3/5J02O_rmvvs/byeintegrity-uac-bypass-uac-by.html)
 - [APSoft-Web-Scanner-v2 - Powerful Dork Searcher And Vulnerability Scanner For Windows Platform](http://feedproxy.google.com/~r/PentestTools/~3/cfBeM1Puyf0/apsoft-web-scanner-v2-powerful-dork.html)
 - [Short story about Clubhouse user scraping and social graphs](http://feedproxy.google.com/~r/PentestTools/~3/-IEKai3bmnk/short-story-about-clubhouse-user.html)
