@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Eyeballer - Convolutional Neural Network For Analyzing Pentest Screenshots](http://feedproxy.google.com/~r/PentestTools/~3/YfV_XQdRv3U/eyeballer-convolutional-neural-network.html)
 - [DFIR-O365RC - PowerShell Module For Office 365 And Azure AD Log Collection](http://feedproxy.google.com/~r/PentestTools/~3/MldcAlSn8Gg/dfir-o365rc-powershell-module-for.html)
 - [Red-Kube - Red Team K8S Adversary Emulation Based On Kubectl](http://feedproxy.google.com/~r/PentestTools/~3/0gV1GcndTwo/red-kube-red-team-k8s-adversary.html)
 - [CIMplant - C# Port Of WMImplant Which Uses Either CIM Or WMI To Query Remote Systems](http://feedproxy.google.com/~r/PentestTools/~3/hK_Q3SCh_Js/cimplant-c-port-of-wmimplant-which-uses.html)
