@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Msldap - LDAP Library For Auditing MS AD](http://feedproxy.google.com/~r/PentestTools/~3/uJ7e9rrybGM/msldap-ldap-library-for-auditing-ms-ad.html)
 - [Mediator - An Extensible, End-To-End Encrypted Reverse Shell With A Novel Approach To Its Architecture](http://feedproxy.google.com/~r/PentestTools/~3/3zY-ZAEkQ9A/mediator-extensible-end-to-end.html)
 - [Corsair_Scan - A Security Tool To Test Cross-Origin Resource Sharing (CORS)](http://feedproxy.google.com/~r/PentestTools/~3/xGYeKuaQPkM/corsairscan-security-tool-to-test-cross.html)
 - [Eyeballer - Convolutional Neural Network For Analyzing Pentest Screenshots](http://feedproxy.google.com/~r/PentestTools/~3/YfV_XQdRv3U/eyeballer-convolutional-neural-network.html)
