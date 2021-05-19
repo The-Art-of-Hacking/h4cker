@@ -45,12 +45,12 @@ If no port range is specified, Nmap scans the 1,000 most popular ports.
 - `-PM`: Using ICMP Netmask Request
 
 ## Timing Options
-`-T0` (Paranoid): Very slow, used for IDS evasion
-`-T1` (Sneaky): Quite slow, used for IDS evasion
-`-T2` (Polite): Slows down to consume less bandwidth, runs ~10 times slower than default
-`-T3` (Normal): Default, a dynamic timing model based on target responsiveness
-`-T4` (Aggressive): Assumes a fast and reliable network and may overwhelm targets
-`-T5` (Insane): Very aggressive; will likely overwhelm targets or miss open ports
+- `-T0` (Paranoid): Very slow, used for IDS evasion
+- `-T1` (Sneaky): Quite slow, used for IDS evasion
+- `-T2` (Polite): Slows down to consume less bandwidth, runs ~10 times slower than default
+- `-T3` (Normal): Default, a dynamic timing model based on target responsiveness
+- `-T4` (Aggressive): Assumes a fast and reliable network and may overwhelm targets
+- `-T5` (Insane): Very aggressive; will likely overwhelm targets or miss open ports
 
 ## Fine-Grained Timing Options
 
