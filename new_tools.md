@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AutoPentest-DRL - Automated Penetration Testing Using Deep Reinforcement Learning](http://feedproxy.google.com/~r/PentestTools/~3/7waGGiipBm8/autopentest-drl-automated-penetration.html)
 - [ABPTTS - TCP Tunneling Over HTTP/HTTPS For Web Application Servers](http://feedproxy.google.com/~r/PentestTools/~3/g60ICJtKDtI/abptts-tcp-tunneling-over-httphttps-for.html)
 - [Etherblob-Explorer - Search And Extract Blob Files On The Ethereum Blockchain Network](http://feedproxy.google.com/~r/PentestTools/~3/hUhBHVUnhtY/etherblob-explorer-search-and-extract.html)
 - [IPED - Digital Forensic Tool - Process And Analyze Digital Evidence, Often Seized At Crime Scenes By Law Enforcement Or In A Corporate Investigation By Private Examiners](http://feedproxy.google.com/~r/PentestTools/~3/J-29ukqXrtQ/iped-digital-forensic-tool-process-and.html)
