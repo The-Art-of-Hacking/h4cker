@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GraphQLmap - A Scripting Engine To Interact With A Graphql Endpoint For Pentesting Purposes](http://feedproxy.google.com/~r/PentestTools/~3/rdzgbOUs2X0/graphqlmap-scripting-engine-to-interact.html)
 - [DivideAndScan - Divide Full Port Scan Results And Use It For Targeted Nmap Runs](http://feedproxy.google.com/~r/PentestTools/~3/IGLSp5HA7vU/divideandscan-divide-full-port-scan.html)
 - [AutoPentest-DRL - Automated Penetration Testing Using Deep Reinforcement Learning](http://feedproxy.google.com/~r/PentestTools/~3/7waGGiipBm8/autopentest-drl-automated-penetration.html)
 - [ABPTTS - TCP Tunneling Over HTTP/HTTPS For Web Application Servers](http://feedproxy.google.com/~r/PentestTools/~3/g60ICJtKDtI/abptts-tcp-tunneling-over-httphttps-for.html)
