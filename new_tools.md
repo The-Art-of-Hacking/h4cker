@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MurMurHash - Tool To Calculate A MurmurHash Value Of A Favicon To Hunt Phishing Websites On The Shodan Platform](http://feedproxy.google.com/~r/PentestTools/~3/NeGy7MPvWNE/murmurhash-tool-to-calculate-murmurhash.html)
 - [AMSITrigger - The Hunt For Malicious Strings](http://feedproxy.google.com/~r/PentestTools/~3/c-giQMjqfRI/amsitrigger-hunt-for-malicious-strings.html)
 - [SQLFluff - A SQL Linter And Auto-Formatter For Humans](http://feedproxy.google.com/~r/PentestTools/~3/Ia4DSQ4Dzx4/sqlfluff-sql-linter-and-auto-formatter.html)
 - [Charlotte - C++ Fully Undetected Shellcode Launcher](http://feedproxy.google.com/~r/PentestTools/~3/g45HNHcVR58/charlotte-c-fully-undetected-shellcode.html)
