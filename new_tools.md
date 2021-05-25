@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Php_Code_Analysis - San your PHP code for vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/WE3cldPIJFQ/phpcodeanalysis-san-your-php-code-for.html)
 - [Solr-GRAB - Steal Apache Solr Instance Queries With Or Without A Username And Password](http://feedproxy.google.com/~r/PentestTools/~3/BS31nUP4BmE/solr-grab-steal-apache-solr-instance.html)
 - [CiLocks - Android LockScreen Bypass](http://feedproxy.google.com/~r/PentestTools/~3/TwRx8lZsEI8/cilocks-android-lockscreen-bypass.html)
 - [MurMurHash - Tool To Calculate A MurmurHash Value Of A Favicon To Hunt Phishing Websites On The Shodan Platform](http://feedproxy.google.com/~r/PentestTools/~3/NeGy7MPvWNE/murmurhash-tool-to-calculate-murmurhash.html)
