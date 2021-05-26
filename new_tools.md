@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Qvm-Create-Windows-Qube - Spin Up New Windows Qubes Quickly, Effortlessly And Securely](http://feedproxy.google.com/~r/PentestTools/~3/vxosqvICzbg/qvm-create-windows-qube-spin-up-new.html)
 - [Php_Code_Analysis - San your PHP code for vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/WE3cldPIJFQ/phpcodeanalysis-san-your-php-code-for.html)
 - [Solr-GRAB - Steal Apache Solr Instance Queries With Or Without A Username And Password](http://feedproxy.google.com/~r/PentestTools/~3/BS31nUP4BmE/solr-grab-steal-apache-solr-instance.html)
 - [CiLocks - Android LockScreen Bypass](http://feedproxy.google.com/~r/PentestTools/~3/TwRx8lZsEI8/cilocks-android-lockscreen-bypass.html)
