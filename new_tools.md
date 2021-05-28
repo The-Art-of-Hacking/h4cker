@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AnalyticsRelationships - Get Related Domains / Subdomains By Looking At Google Analytics IDs](http://feedproxy.google.com/~r/PentestTools/~3/LKp4V7BQC4I/analyticsrelationships-get-related.html)
 - [Dystopia - Low To Medium Multithreaded Ubuntu Core Honeypot Coded In Python](http://feedproxy.google.com/~r/PentestTools/~3/TRYm2MaSaEc/dystopia-low-to-medium-multithreaded.html)
 - [FireStorePwn - Firestore Database Vulnerability Scanner Using APKs](http://feedproxy.google.com/~r/PentestTools/~3/MBLBoxNY2DI/firestorepwn-firestore-database.html)
 - [DNS-Black-Cat(DBC) - Multi Platform Toolkit For An Interactive DNS Shell Commands Exfiltration, By Using DNS-Cat You Will Be Able To Execute System Commands In Shell Mode Over DNS Protocol](http://feedproxy.google.com/~r/PentestTools/~3/Nk8a7irgNQI/dns-black-catdbc-multi-platform-toolkit.html)
