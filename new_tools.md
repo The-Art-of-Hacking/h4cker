@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IMAPLoginTester - Script That Reads A Text File With Lots Of E-Mails And Passwords, And Tries To Check If Those Credentials Are Valid By Trying To Login On IMAP Servers](http://feedproxy.google.com/~r/PentestTools/~3/CK52xMDm4T8/imaplogintester-script-that-reads-text.html)
 - [slopShell - The Only Php Webshell You Need](http://feedproxy.google.com/~r/PentestTools/~3/3JZ7J9w5CII/slopshell-only-php-webshell-you-need.html)
 - [HookDump - Security Product Hook Detection](http://feedproxy.google.com/~r/PentestTools/~3/mMA9feDtEnY/hookdump-security-product-hook-detection.html)
 - [AnalyticsRelationships - Get Related Domains / Subdomains By Looking At Google Analytics IDs](http://feedproxy.google.com/~r/PentestTools/~3/LKp4V7BQC4I/analyticsrelationships-get-related.html)
