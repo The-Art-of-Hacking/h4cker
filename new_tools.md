@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kaiju - A Binary Analysis Framework Extension For The Ghidra Software Reverse Engineering Suite](http://feedproxy.google.com/~r/PentestTools/~3/RWyP4Cy-GOI/kaiju-binary-analysis-framework.html)
 - [CheeseTools - Self-developed Tools For Lateral Movement/Code Execution](http://feedproxy.google.com/~r/PentestTools/~3/2l5kekQ1vMY/cheesetools-self-developed-tools-for.html)
 - [IMAPLoginTester - Script That Reads A Text File With Lots Of E-Mails And Passwords, And Tries To Check If Those Credentials Are Valid By Trying To Login On IMAP Servers](http://feedproxy.google.com/~r/PentestTools/~3/CK52xMDm4T8/imaplogintester-script-that-reads-text.html)
 - [slopShell - The Only Php Webshell You Need](http://feedproxy.google.com/~r/PentestTools/~3/3JZ7J9w5CII/slopshell-only-php-webshell-you-need.html)
