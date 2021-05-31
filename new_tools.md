@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [magicRecon - A Powerful Shell Script To Maximize The Recon And Data Collection Process Of An Objective And Finding Common Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/s2l55YNQMYA/magicrecon-powerful-shell-script-to.html)
 - [Bucky - An Automatic S3 Bucket Discovery Tool](http://feedproxy.google.com/~r/PentestTools/~3/tNdi51C9tqU/bucky-automatic-s3-bucket-discovery-tool.html)
 - [Kaiju - A Binary Analysis Framework Extension For The Ghidra Software Reverse Engineering Suite](http://feedproxy.google.com/~r/PentestTools/~3/RWyP4Cy-GOI/kaiju-binary-analysis-framework.html)
 - [CheeseTools - Self-developed Tools For Lateral Movement/Code Execution](http://feedproxy.google.com/~r/PentestTools/~3/2l5kekQ1vMY/cheesetools-self-developed-tools-for.html)
