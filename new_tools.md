@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dent - A Framework For Creating COM-based Bypasses Utilizing Vulnerabilities In Microsoft's WDAPT Sensors](http://feedproxy.google.com/~r/PentestTools/~3/P7ONXkvc3PM/dent-framework-for-creating-com-based.html)
 - [magicRecon - A Powerful Shell Script To Maximize The Recon And Data Collection Process Of An Objective And Finding Common Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/s2l55YNQMYA/magicrecon-powerful-shell-script-to.html)
 - [Bucky - An Automatic S3 Bucket Discovery Tool](http://feedproxy.google.com/~r/PentestTools/~3/tNdi51C9tqU/bucky-automatic-s3-bucket-discovery-tool.html)
 - [Kaiju - A Binary Analysis Framework Extension For The Ghidra Software Reverse Engineering Suite](http://feedproxy.google.com/~r/PentestTools/~3/RWyP4Cy-GOI/kaiju-binary-analysis-framework.html)
