@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Metarget - Framework Providing Automatic Constructions Of Vulnerable Infrastructures](http://feedproxy.google.com/~r/PentestTools/~3/5U826nZIZIM/metarget-framework-providing-automatic.html)
 - [Penglab - Abuse Of Google Colab For Cracking Hashes](http://feedproxy.google.com/~r/PentestTools/~3/0vjU4bnzga0/penglab-abuse-of-google-colab-for.html)
 - [Bn-Uefi-Helper - Helper Plugin For Analyzing UEFI Firmware](http://feedproxy.google.com/~r/PentestTools/~3/H3dg10284_0/bn-uefi-helper-helper-plugin-for.html)
 - [403Fuzzer - Fuzz 403/401Ing Endpoints For Bypasses](http://feedproxy.google.com/~r/PentestTools/~3/Ac5hGOY7bL8/403fuzzer-fuzz-403401ing-endpoints-for.html)
