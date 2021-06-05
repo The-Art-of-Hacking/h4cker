@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ARTi-C2 - A Post-Exploitation Framework Used To Execute Atomic Red Team Test Cases With Rapid Payload Deployment And Execution Capabilities Via .NET's DLR](http://feedproxy.google.com/~r/PentestTools/~3/ggRqmB7raNY/arti-c2-post-exploitation-framework.html)
 - [Metarget - Framework Providing Automatic Constructions Of Vulnerable Infrastructures](http://feedproxy.google.com/~r/PentestTools/~3/5U826nZIZIM/metarget-framework-providing-automatic.html)
 - [Penglab - Abuse Of Google Colab For Cracking Hashes](http://feedproxy.google.com/~r/PentestTools/~3/0vjU4bnzga0/penglab-abuse-of-google-colab-for.html)
 - [Bn-Uefi-Helper - Helper Plugin For Analyzing UEFI Firmware](http://feedproxy.google.com/~r/PentestTools/~3/H3dg10284_0/bn-uefi-helper-helper-plugin-for.html)
