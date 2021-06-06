@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Typodetect - Detect The Active Mutations Of Domains](http://feedproxy.google.com/~r/PentestTools/~3/MXGimzZAUWE/typodetect-detect-active-mutations-of.html)
 - [Shepard - In Progress Persistent Download/Upload/Execution Tool Using Windows BITS](http://feedproxy.google.com/~r/PentestTools/~3/a0mfdvF--HU/shepard-in-progress-persistent.html)
 - [ARTi-C2 - A Post-Exploitation Framework Used To Execute Atomic Red Team Test Cases With Rapid Payload Deployment And Execution Capabilities Via .NET's DLR](http://feedproxy.google.com/~r/PentestTools/~3/ggRqmB7raNY/arti-c2-post-exploitation-framework.html)
 - [Metarget - Framework Providing Automatic Constructions Of Vulnerable Infrastructures](http://feedproxy.google.com/~r/PentestTools/~3/5U826nZIZIM/metarget-framework-providing-automatic.html)
