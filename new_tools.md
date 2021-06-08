@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ColdFire - Golang Malware Development Library](http://feedproxy.google.com/~r/PentestTools/~3/_3-cxxQ1kis/coldfire-golang-malware-development.html)
 - [Link - A Command And Control Framework Written In Rust](http://feedproxy.google.com/~r/PentestTools/~3/EX3MmH4FAow/link-command-and-control-framework.html)
 - [Totp-Ssh-Fluxer - Take Security By Obscurity To The Next Level (This Is A Bad Idea, Don'T Really Use This Please)](http://feedproxy.google.com/~r/PentestTools/~3/6pEPXWNtKTQ/totp-ssh-fluxer-take-security-by.html)
 - [RedWarden - Flexible CobaltStrike Malleable Redirector](http://feedproxy.google.com/~r/PentestTools/~3/Rvmf_IzkJ-s/redwarden-flexible-cobaltstrike.html)
