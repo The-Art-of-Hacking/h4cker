@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpWebServer - HTTP And WebDAV Server With Net-NTLM Hashes Capture Functionality](http://feedproxy.google.com/~r/PentestTools/~3/a5ewQiEWS4w/sharpwebserver-http-and-webdav-server.html)
 - [Bbscope - Scope Gathering Tool For HackerOne, Bugcrowd, And Intigriti!](http://feedproxy.google.com/~r/PentestTools/~3/B13FlDeMvSQ/bbscope-scope-gathering-tool-for.html)
 - [ColdFire - Golang Malware Development Library](http://feedproxy.google.com/~r/PentestTools/~3/_3-cxxQ1kis/coldfire-golang-malware-development.html)
 - [Link - A Command And Control Framework Written In Rust](http://feedproxy.google.com/~r/PentestTools/~3/EX3MmH4FAow/link-command-and-control-framework.html)
