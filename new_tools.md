@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Redpill - Assist Reverse Tcp Shells In Post-Exploration Tasks](http://feedproxy.google.com/~r/PentestTools/~3/PTe-CrQQjC8/redpill-assist-reverse-tcp-shells-in.html)
 - [EmailFinder - Search Emails From A Domain Through Search Engines](http://feedproxy.google.com/~r/PentestTools/~3/V465UJRYNOc/emailfinder-search-emails-from-domain.html)
 - [pyWhat - Identify Anything. Easily Lets You Identify Emails, IP Addresses, And More...](http://feedproxy.google.com/~r/PentestTools/~3/jOygJhiVqds/pywhat-identify-anything-easily-lets.html)
 - [Nebula - Cloud C2 Framework, Which At The Moment Offers Reconnaissance, Enumeration, Exploitation, Post Exploitation On AWS](http://feedproxy.google.com/~r/PentestTools/~3/WkY0uqLUcZk/nebula-cloud-c2-framework-which-at.html)
