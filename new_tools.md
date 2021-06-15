@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [A2P2V - Automated Attack Path Planning and Validation](http://feedproxy.google.com/~r/PentestTools/~3/YSVE2q5BJHQ/a2p2v-automated-attack-path-planning.html)
 - [defenselessV1 - Just Another Vulnerable Web Application](http://feedproxy.google.com/~r/PentestTools/~3/0hI4x8p-kWY/defenselessv1-just-another-vulnerable.html)
 - [Redpill - Assist Reverse Tcp Shells In Post-Exploration Tasks](http://feedproxy.google.com/~r/PentestTools/~3/PTe-CrQQjC8/redpill-assist-reverse-tcp-shells-in.html)
 - [EmailFinder - Search Emails From A Domain Through Search Engines](http://feedproxy.google.com/~r/PentestTools/~3/V465UJRYNOc/emailfinder-search-emails-from-domain.html)
