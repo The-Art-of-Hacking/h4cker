@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Aggrokatz - An Aggressor Plugin Extension For Cobalt Strike Which Enables Pypykatz To Interface With The Beacons Remotely](http://feedproxy.google.com/~r/PentestTools/~3/PgYLryHwupI/aggrokatz-aggressor-plugin-extension.html)
 - [Gundog - Guided Hunting In Microsoft 365 Defender](http://feedproxy.google.com/~r/PentestTools/~3/nrt-WwdJKGg/gundog-guided-hunting-in-microsoft-365.html)
 - [TChopper - Conduct Lateral Movement Attack By Leveraging Unfiltered Services Display Name To Smuggle Binaries As Chunks Into The Target Machine](http://feedproxy.google.com/~r/PentestTools/~3/rx5ELj9dF4c/tchopper-conduct-lateral-movement.html)
 - [A2P2V - Automated Attack Path Planning and Validation](http://feedproxy.google.com/~r/PentestTools/~3/YSVE2q5BJHQ/a2p2v-automated-attack-path-planning.html)
