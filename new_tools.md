@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Joern - Open-source Code Analysis Platform For C/C++/Java Based On Code Property Graphs](http://feedproxy.google.com/~r/PentestTools/~3/UBcN8P4hINM/joern-open-source-code-analysis.html)
 - [PPLdump - Dump The Memory Of A PPL With A Userland Exploit](http://feedproxy.google.com/~r/PentestTools/~3/GBDT4OQGX6g/ppldump-dump-memory-of-ppl-with.html)
 - [Volatility GUI -  GUI For Volatility Forensics Tool](http://feedproxy.google.com/~r/PentestTools/~3/u39FWeRA3js/volatility-gui-gui-for-volatility.html)
 - [Aggrokatz - An Aggressor Plugin Extension For Cobalt Strike Which Enables Pypykatz To Interface With The Beacons Remotely](http://feedproxy.google.com/~r/PentestTools/~3/PgYLryHwupI/aggrokatz-aggressor-plugin-extension.html)
