@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Rustcat - Netcat Alternative](http://feedproxy.google.com/~r/PentestTools/~3/h1GxA_AToyI/rustcat-netcat-alternative.html)
 - [Kconfig-Hardened-Check - A Tool For Checking The Hardening Options In The Linux Kernel Config](http://feedproxy.google.com/~r/PentestTools/~3/Vfx_KNX10T4/kconfig-hardened-check-tool-for.html)
 - [Joern - Open-source Code Analysis Platform For C/C++/Java Based On Code Property Graphs](http://feedproxy.google.com/~r/PentestTools/~3/UBcN8P4hINM/joern-open-source-code-analysis.html)
 - [PPLdump - Dump The Memory Of A PPL With A Userland Exploit](http://feedproxy.google.com/~r/PentestTools/~3/GBDT4OQGX6g/ppldump-dump-memory-of-ppl-with.html)
