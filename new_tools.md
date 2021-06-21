@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Squalr - Squalr Memory Editor - Game Hacking Tool Written In C#](http://feedproxy.google.com/~r/PentestTools/~3/fYMboqEG5pk/squalr-squalr-memory-editor-game.html)
 - [RdpCacheStitcher - RdpCacheStitcher Is A Tool That Supports Forensic Analysts In Reconstructing Useful Images Out Of RDP Cache Bitmaps](http://feedproxy.google.com/~r/PentestTools/~3/7piT9WDswA4/rdpcachestitcher-rdpcachestitcher-is.html)
 - [NamedPipePTH - Pass The Hash To A Named Pipe For Token Impersonation](http://feedproxy.google.com/~r/PentestTools/~3/-HZHrQtMTU0/namedpipepth-pass-hash-to-named-pipe.html)
 - [Ioccheck - A Tool For Simplifying The Process Of Researching IOCs](http://feedproxy.google.com/~r/PentestTools/~3/0M0vf3GU57M/ioccheck-tool-for-simplifying-process.html)
