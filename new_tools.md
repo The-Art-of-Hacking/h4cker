@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CamOver - A Camera Exploitation Tool That Allows To Disclosure Network Camera Admin Password](http://feedproxy.google.com/~r/PentestTools/~3/Zkw_7YuXcXk/camover-camera-exploitation-tool-that.html)
 - [HashCheck - Tool To Assist In The Search For Leaked Passwords](http://feedproxy.google.com/~r/PentestTools/~3/IKIzL1W4yTE/hashcheck-tool-to-assist-in-search-for.html)
 - [Swift-Attack - Unit Tests For Blue Teams To Aid With Building Detections For Some Common macOS Post Exploitation Methods](http://feedproxy.google.com/~r/PentestTools/~3/xokPMO3_qi8/swift-attack-unit-tests-for-blue-teams.html)
 - [Squalr - Squalr Memory Editor - Game Hacking Tool Written In C#](http://feedproxy.google.com/~r/PentestTools/~3/fYMboqEG5pk/squalr-squalr-memory-editor-game.html)
