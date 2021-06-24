@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Shreder - A Powerful Multi-Threaded SSH Protocol Password Bruteforce Tool](http://feedproxy.google.com/~r/PentestTools/~3/sr8OUq5bZeg/shreder-powerful-multi-threaded-ssh.html)
 - [DarkLoadLibrary - LoadLibrary For Offensive Operations](http://feedproxy.google.com/~r/PentestTools/~3/77LyWsRlkqk/darkloadlibrary-loadlibrary-for.html)
 - [CamOver - A Camera Exploitation Tool That Allows To Disclosure Network Camera Admin Password](http://feedproxy.google.com/~r/PentestTools/~3/Zkw_7YuXcXk/camover-camera-exploitation-tool-that.html)
 - [HashCheck - Tool To Assist In The Search For Leaked Passwords](http://feedproxy.google.com/~r/PentestTools/~3/IKIzL1W4yTE/hashcheck-tool-to-assist-in-search-for.html)
