@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BlobHunter - Find Exposed Data In Azure With This Public Blob Scanner](http://feedproxy.google.com/~r/PentestTools/~3/LfLgsUm7ixA/blobhunter-find-exposed-data-in-azure.html)
 - [RomBuster - A Router Exploitation Tool That Allows To Disclosure Network Router Admin Password](http://feedproxy.google.com/~r/PentestTools/~3/6YXGCGm72E8/rombuster-router-exploitation-tool-that.html)
 - [Fully-Homomorphic-Encryption - Libraries And Tools To Perform Fully Homomorphic Encryption Operations On An Encrypted Data Set](http://feedproxy.google.com/~r/PentestTools/~3/NwhFFOomloI/fully-homomorphic-encryption-libraries.html)
 - [Shreder - A Powerful Multi-Threaded SSH Protocol Password Bruteforce Tool](http://feedproxy.google.com/~r/PentestTools/~3/sr8OUq5bZeg/shreder-powerful-multi-threaded-ssh.html)
