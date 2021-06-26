@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpHook - Tool Tath Uses Various API Hooks In Order To Give Us The Desired Credentials](http://feedproxy.google.com/~r/PentestTools/~3/zcNJHbadNwk/sharphook-tool-tath-uses-various-api.html)
 - [CamRaptor - Tool That Exploits Several Vulnerabilities In Popular DVR Cameras To Obtain Network Camera Credentials](http://feedproxy.google.com/~r/PentestTools/~3/6P3t-SmQROA/camraptor-tool-that-exploits-several.html)
 - [BlobHunter - Find Exposed Data In Azure With This Public Blob Scanner](http://feedproxy.google.com/~r/PentestTools/~3/LfLgsUm7ixA/blobhunter-find-exposed-data-in-azure.html)
 - [RomBuster - A Router Exploitation Tool That Allows To Disclosure Network Router Admin Password](http://feedproxy.google.com/~r/PentestTools/~3/6YXGCGm72E8/rombuster-router-exploitation-tool-that.html)
