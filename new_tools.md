@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AWS Pen-Testing Laboratory - Pentesting Lab With A Kali Linux Instance Accessible Via Ssh And Wireguard VPN And With Vulnerable Instances In A Private Subnet](http://feedproxy.google.com/~r/PentestTools/~3/67jcw6D5d0s/aws-pen-testing-laboratory-pentesting.html)
 - [Heappy - A Happy Heap Editor To Support Your Exploitation Process](http://feedproxy.google.com/~r/PentestTools/~3/xPF3ju1Jc_o/heappy-happy-heap-editor-to-support.html)
 - [Mythic - A Collaborative, Multi-Platform, Red Teaming Framework](http://feedproxy.google.com/~r/PentestTools/~3/6IO_l1DVBmI/mythic-collaborative-multi-platform-red.html)
 - [HoneyCreds - Network Credential Injection To Detect Responder And Other Network Poisoners](http://feedproxy.google.com/~r/PentestTools/~3/Huw9_NtLQX8/honeycreds-network-credential-injection.html)
