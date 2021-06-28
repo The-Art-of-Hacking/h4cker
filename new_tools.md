@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Heappy - A Happy Heap Editor To Support Your Exploitation Process](http://feedproxy.google.com/~r/PentestTools/~3/xPF3ju1Jc_o/heappy-happy-heap-editor-to-support.html)
 - [Mythic - A Collaborative, Multi-Platform, Red Teaming Framework](http://feedproxy.google.com/~r/PentestTools/~3/6IO_l1DVBmI/mythic-collaborative-multi-platform-red.html)
 - [HoneyCreds - Network Credential Injection To Detect Responder And Other Network Poisoners](http://feedproxy.google.com/~r/PentestTools/~3/Huw9_NtLQX8/honeycreds-network-credential-injection.html)
 - [SharpHook - Tool Tath Uses Various API Hooks In Order To Give Us The Desired Credentials](http://feedproxy.google.com/~r/PentestTools/~3/zcNJHbadNwk/sharphook-tool-tath-uses-various-api.html)
