@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [S3-Account-Search - S3 Account Search](http://feedproxy.google.com/~r/PentestTools/~3/4J_MWmuGVqk/s3-account-search-s3-account-search.html)
 - [WAF-A-MoLE - A Guided Mutation-Based Fuzzer For ML-based Web Application Firewalls](http://feedproxy.google.com/~r/PentestTools/~3/CzrPAKHtrDo/waf-mole-guided-mutation-based-fuzzer.html)
 - [AWS Pen-Testing Laboratory - Pentesting Lab With A Kali Linux Instance Accessible Via Ssh And Wireguard VPN And With Vulnerable Instances In A Private Subnet](http://feedproxy.google.com/~r/PentestTools/~3/67jcw6D5d0s/aws-pen-testing-laboratory-pentesting.html)
 - [Heappy - A Happy Heap Editor To Support Your Exploitation Process](http://feedproxy.google.com/~r/PentestTools/~3/xPF3ju1Jc_o/heappy-happy-heap-editor-to-support.html)
