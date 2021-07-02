@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gorsair - Hacks Its Way Into Remote Docker Containers That Expose Their APIs](http://feedproxy.google.com/~r/PentestTools/~3/bxk9oLQ0gRc/gorsair-hacks-its-way-into-remote.html)
 - [Lazyrecon - Tool To Automate Your Reconnaissance Process In An Organized Fashion](http://feedproxy.google.com/~r/PentestTools/~3/QZUTPr8ozH8/lazyrecon-tool-to-automate-your.html)
 - [Invoke-DNSteal - Simple And Customizable DNS Data Exfiltrator](http://feedproxy.google.com/~r/PentestTools/~3/JPrjm56IZhA/invoke-dnsteal-simple-and-customizable.html)
 - [OpenAttack - An Open-Source Package For Textual Adversarial Attack](http://feedproxy.google.com/~r/PentestTools/~3/2ZyabkNMJZE/openattack-open-source-package-for.html)
