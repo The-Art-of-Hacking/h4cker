@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FRIDA-DEXDump - Fast Search And Dump Dex On Memory](http://feedproxy.google.com/~r/PentestTools/~3/PopMEkBIBlE/frida-dexdump-fast-search-and-dump-dex.html)
 - [MacHound -  An extension to audit Bloodhound collecting and ingesting of Active Directory relationships on MacOS hosts](http://feedproxy.google.com/~r/PentestTools/~3/s3J3uHpNuVI/machound-extension-to-audit-bloodhound.html)
 - [GDir-Thief - Red Team Tool For Exfiltrating The Target Organization'S Google People Directory That You Have Access To, Via Google's API](http://feedproxy.google.com/~r/PentestTools/~3/G5ziMMlZrmI/gdir-thief-red-team-tool-for.html)
 - [Gorsair - Hacks Its Way Into Remote Docker Containers That Expose Their APIs](http://feedproxy.google.com/~r/PentestTools/~3/bxk9oLQ0gRc/gorsair-hacks-its-way-into-remote.html)
