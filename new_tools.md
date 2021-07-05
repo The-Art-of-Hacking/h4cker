@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Backstab - A Tool To Kill Antimalware Protected Processes](http://feedproxy.google.com/~r/PentestTools/~3/MEAZhBGl6zs/backstab-tool-to-kill-antimalware.html)
 - [Scour - AWS Exploitation Framework](http://feedproxy.google.com/~r/PentestTools/~3/N65Y8JPyNpI/scour-aws-exploitation-framework.html)
 - [FRIDA-DEXDump - Fast Search And Dump Dex On Memory](http://feedproxy.google.com/~r/PentestTools/~3/PopMEkBIBlE/frida-dexdump-fast-search-and-dump-dex.html)
 - [MacHound -  An extension to audit Bloodhound collecting and ingesting of Active Directory relationships on MacOS hosts](http://feedproxy.google.com/~r/PentestTools/~3/s3J3uHpNuVI/machound-extension-to-audit-bloodhound.html)
