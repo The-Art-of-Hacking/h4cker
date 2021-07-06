@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sharperner - Simple Executable Generator With Encrypted Shellcode](http://feedproxy.google.com/~r/PentestTools/~3/WMaqPdZ6KMA/sharperner-simple-executable-generator.html)
 - [TiEtwAgent - PoC Memory Injection Detection Agent Based On ETW, For Offensive And Defensive Research Purposes](http://feedproxy.google.com/~r/PentestTools/~3/ry80zXpWkdM/tietwagent-poc-memory-injection.html)
 - [Salus - Security Scanner Coordinator](http://feedproxy.google.com/~r/PentestTools/~3/FuuTjUbl4e4/salus-security-scanner-coordinator.html)
 - [Backstab - A Tool To Kill Antimalware Protected Processes](http://feedproxy.google.com/~r/PentestTools/~3/MEAZhBGl6zs/backstab-tool-to-kill-antimalware.html)
