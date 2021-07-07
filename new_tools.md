@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FindObjects-BOF - A Cobalt Strike Beacon Object File (BOF) Project Which Uses Direct System Calls To Enumerate Processes For Specific Loaded Modules Or Process Handles](http://feedproxy.google.com/~r/PentestTools/~3/Aq3D_1pzG1Q/findobjects-bof-cobalt-strike-beacon.html)
 - [GitDump - A Pentesting Tool That Dumps The Source Code From .Git Even When The Directory Traversal Is Disabled](http://feedproxy.google.com/~r/PentestTools/~3/OO1BR8qNc6E/gitdump-pentesting-tool-that-dumps.html)
 - [Sharperner - Simple Executable Generator With Encrypted Shellcode](http://feedproxy.google.com/~r/PentestTools/~3/WMaqPdZ6KMA/sharperner-simple-executable-generator.html)
 - [TiEtwAgent - PoC Memory Injection Detection Agent Based On ETW, For Offensive And Defensive Research Purposes](http://feedproxy.google.com/~r/PentestTools/~3/ry80zXpWkdM/tietwagent-poc-memory-injection.html)
