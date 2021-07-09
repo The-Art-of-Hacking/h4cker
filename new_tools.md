@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Security Scorecards - Security Health Metrics For Open Source](http://feedproxy.google.com/~r/PentestTools/~3/qbMhF4J-_lo/security-scorecards-security-health.html)
 - [WFH - Windows Feature Hunter](http://feedproxy.google.com/~r/PentestTools/~3/SQlTN40vWHU/wfh-windows-feature-hunter.html)
 - [Ipa-Medit - Memory Search And Patch Tool For Resigned Ipa Without Jailbreak](http://feedproxy.google.com/~r/PentestTools/~3/nyDDBtriVZI/ipa-medit-memory-search-and-patch-tool.html)
 - [Cariddi - Take A List Of Domains, Crawl Urls And Scan For Endpoints, Secrets, Api Keys, File Extensions, Tokens And More...](http://feedproxy.google.com/~r/PentestTools/~3/p87M-KAS3hw/cariddi-take-list-of-domains-crawl-urls.html)
