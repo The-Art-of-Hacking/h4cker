@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nexfil - OSINT Tool For Finding Profiles By Username](http://feedproxy.google.com/~r/PentestTools/~3/DpiGJAzxGsg/nexfil-osint-tool-for-finding-profiles.html)
 - [The-Bastion - Authentication, Authorization, Traceability And Auditability For SSH Accesses](http://feedproxy.google.com/~r/PentestTools/~3/ioIqn_vllHE/the-bastion-authentication.html)
 - [Security Scorecards - Security Health Metrics For Open Source](http://feedproxy.google.com/~r/PentestTools/~3/qbMhF4J-_lo/security-scorecards-security-health.html)
 - [WFH - Windows Feature Hunter](http://feedproxy.google.com/~r/PentestTools/~3/SQlTN40vWHU/wfh-windows-feature-hunter.html)
