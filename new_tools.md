@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sx - Fast, Modern, Easy-To-Use Network Scanner](http://feedproxy.google.com/~r/PentestTools/~3/cbt10HquvD0/sx-fast-modern-easy-to-use-network.html)
 - [RemotePotato0 - Just Another "Won't Fix" Windows Privilege Escalation From User To Domain Admin](http://feedproxy.google.com/~r/PentestTools/~3/B-yKTJ1Mafc/remotepotato0-just-another-wont-fix.html)
 - [JWTweak - Detects The Algorithm Of Input JWT Token And Provide Options To Generate The New JWT Token Based On The User Selected Algorithm](http://feedproxy.google.com/~r/PentestTools/~3/A-tLXNJ9Kac/jwtweak-detects-algorithm-of-input-jwt.html)
 - [Nexfil - OSINT Tool For Finding Profiles By Username](http://feedproxy.google.com/~r/PentestTools/~3/DpiGJAzxGsg/nexfil-osint-tool-for-finding-profiles.html)
