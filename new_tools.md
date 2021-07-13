@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Whisker - A C# Tool For Taking Over Active Directory User And Computer Accounts By Manipulating Their msDS-KeyCredentialLink Attribute](http://feedproxy.google.com/~r/PentestTools/~3/akE7mbfjX3Q/whisker-c-tool-for-taking-over-active.html)
 - [DNSrr - A Tool Written In Bash, Used To Enumerate All The Juicy Stuff From DNS](http://feedproxy.google.com/~r/PentestTools/~3/X4PnUfbnHU8/dnsrr-tool-written-in-bash-used-to.html)
 - [DcRat - A Simple Remote Tool Written In C#](http://feedproxy.google.com/~r/PentestTools/~3/HOYmuEwfPgE/dcrat-simple-remote-tool-written-in-c.html)
 - [Sx - Fast, Modern, Easy-To-Use Network Scanner](http://feedproxy.google.com/~r/PentestTools/~3/cbt10HquvD0/sx-fast-modern-easy-to-use-network.html)
