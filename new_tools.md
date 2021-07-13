@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DNSrr - A Tool Written In Bash, Used To Enumerate All The Juicy Stuff From DNS](http://feedproxy.google.com/~r/PentestTools/~3/X4PnUfbnHU8/dnsrr-tool-written-in-bash-used-to.html)
 - [DcRat - A Simple Remote Tool Written In C#](http://feedproxy.google.com/~r/PentestTools/~3/HOYmuEwfPgE/dcrat-simple-remote-tool-written-in-c.html)
 - [Sx - Fast, Modern, Easy-To-Use Network Scanner](http://feedproxy.google.com/~r/PentestTools/~3/cbt10HquvD0/sx-fast-modern-easy-to-use-network.html)
 - [RemotePotato0 - Just Another "Won't Fix" Windows Privilege Escalation From User To Domain Admin](http://feedproxy.google.com/~r/PentestTools/~3/B-yKTJ1Mafc/remotepotato0-just-another-wont-fix.html)
