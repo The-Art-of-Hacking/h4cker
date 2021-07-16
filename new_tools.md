@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Exploit_Mitigations - Knowledge Base Of Exploit Mitigations Available Across Numerous Operating Systems, Architectures And Applications And Versions](http://feedproxy.google.com/~r/PentestTools/~3/qgbSp8Db2Q8/exploitmitigations-knowledge-base-of.html)
 - [Ventoy - A New Bootable USB Solution](http://feedproxy.google.com/~r/PentestTools/~3/yp24AmhB8Aw/ventoy-new-bootable-usb-solution.html)
 - [Redteam-Hardware-Toolkit - Red Team Hardware Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/5dIUIQ8MVM4/redteam-hardware-toolkit-red-team.html)
 - [Wpscvn - Wpscvn Is A Tool For Pentesters, Website Owner To Test If Their Websites Had Some Vulnerable Plugins Or Themes](http://feedproxy.google.com/~r/PentestTools/~3/-Pd7AMLAcuI/wpscvn-wpscvn-is-tool-for-pentesters.html)
