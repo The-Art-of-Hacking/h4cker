@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bughound - Static Code Analysis Tool Based On Elasticsearch](http://feedproxy.google.com/~r/PentestTools/~3/BP7dqA8AGcc/bughound-static-code-analysis-tool.html)
 - [Kali-Whoami - A Privacy Tool Developed To Keep You Anonymous On Kali Linux At The Highest Level](http://feedproxy.google.com/~r/PentestTools/~3/43pg-I97vHo/kali-whoami-privacy-tool-developed-to.html)
 - [Exploit_Mitigations - Knowledge Base Of Exploit Mitigations Available Across Numerous Operating Systems, Architectures And Applications And Versions](http://feedproxy.google.com/~r/PentestTools/~3/qgbSp8Db2Q8/exploitmitigations-knowledge-base-of.html)
 - [Ventoy - A New Bootable USB Solution](http://feedproxy.google.com/~r/PentestTools/~3/yp24AmhB8Aw/ventoy-new-bootable-usb-solution.html)
