@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MANSPIDER - Spider Entire Networks For Juicy Files Sitting On SMB Shares. Search Filenames Or File Content - Regex Supported!](http://feedproxy.google.com/~r/PentestTools/~3/FlhVlO1EWgI/manspider-spider-entire-networks-for.html)
 - [Orbitaldump - A Simple Multi-Threaded Distributed SSH Brute-Forcing Tool Written In Python](http://feedproxy.google.com/~r/PentestTools/~3/tacqVf8T3X4/orbitaldump-simple-multi-threaded.html)
 - [ARTIF - An Advanced Real Time Threat Intelligence Framework To Identify Threats And Malicious Web Traffic On The Basis Of IP Reputation And Historical Data.](http://feedproxy.google.com/~r/PentestTools/~3/MNLYc6zffb8/artif-advanced-real-time-threat.html)
 - [DNSStager - Hide Your Payload In DNS](http://feedproxy.google.com/~r/PentestTools/~3/o5RHHZ4WhFI/dnsstager-hide-your-payload-in-dns.html)
