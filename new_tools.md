@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Beanshooter - JMX Enumeration And Attacking Tool](http://feedproxy.google.com/~r/PentestTools/~3/ffOIq6dDCBM/beanshooter-jmx-enumeration-and.html)
 - [Hash-Buster v3.0 - Crack Hashes In Seconds](http://feedproxy.google.com/~r/PentestTools/~3/wy2VigNrEKI/hash-buster-v30-crack-hashes-in-seconds.html)
 - [Allsafe - Intentionally Vulnerable Android Application](http://feedproxy.google.com/~r/PentestTools/~3/v6pzEapdvOk/allsafe-intentionally-vulnerable.html)
 - [Regexploit - Find Regular Expressions Which Are Vulnerable To ReDoS (Regular Expression Denial Of Service)](http://feedproxy.google.com/~r/PentestTools/~3/KpfO7nmCo80/regexploit-find-regular-expressions.html)
