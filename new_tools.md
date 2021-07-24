@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pathprober - Probe And Discover HTTP Pathname Using Brute-Force Methodology And Filtered By Specific Word Or 2 Words At Once](http://feedproxy.google.com/~r/PentestTools/~3/1wfxCYHzFBI/pathprober-probe-and-discover-http.html)
 - [In0ri -  Defacement Detection With Deep Learning](http://feedproxy.google.com/~r/PentestTools/~3/xWTVb5QArRg/in0ri-defacement-detection-with-deep.html)
 - [TeamsUserEnum - User Enumeration With Microsoft Teams API](http://feedproxy.google.com/~r/PentestTools/~3/T__cGxdYbG4/teamsuserenum-user-enumeration-with.html)
 - [Pstf2 - Passive Security Tools Fingerprinting Framework](http://feedproxy.google.com/~r/PentestTools/~3/InDAg7JN4sc/pstf2-passive-security-tools.html)
