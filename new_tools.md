@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ppmap - A Scanner/Exploitation Tool Written In GO, Which Leverages Prototype Pollution To XSS By Exploiting Known Gadgets](http://feedproxy.google.com/~r/PentestTools/~3/_bFPfV2O_ns/ppmap-scannerexploitation-tool-written.html)
 - [Terraguard - Create And Destroy Your Own VPN Service Using WireGuard](http://feedproxy.google.com/~r/PentestTools/~3/LZ0N7_3UGY0/terraguard-create-and-destroy-your-own.html)
 - [Pathprober - Probe And Discover HTTP Pathname Using Brute-Force Methodology And Filtered By Specific Word Or 2 Words At Once](http://feedproxy.google.com/~r/PentestTools/~3/1wfxCYHzFBI/pathprober-probe-and-discover-http.html)
 - [In0ri -  Defacement Detection With Deep Learning](http://feedproxy.google.com/~r/PentestTools/~3/xWTVb5QArRg/in0ri-defacement-detection-with-deep.html)
