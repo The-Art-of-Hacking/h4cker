@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Juumla - Tool Designed To Identify And Scan For Version, Config Files In The CMS Joomla!](http://feedproxy.google.com/~r/PentestTools/~3/pecPkeqPvfI/juumla-tool-designed-to-identify-and.html)
 - [Rconn - Rconn Is A Multiplatform Program For Creating Generic Reverse Connections](http://feedproxy.google.com/~r/PentestTools/~3/FeyUq-I8_sU/rconn-rconn-is-multiplatform-program.html)
 - [Ppmap - A Scanner/Exploitation Tool Written In GO, Which Leverages Prototype Pollution To XSS By Exploiting Known Gadgets](http://feedproxy.google.com/~r/PentestTools/~3/_bFPfV2O_ns/ppmap-scannerexploitation-tool-written.html)
 - [Terraguard - Create And Destroy Your Own VPN Service Using WireGuard](http://feedproxy.google.com/~r/PentestTools/~3/LZ0N7_3UGY0/terraguard-create-and-destroy-your-own.html)
