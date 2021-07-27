@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TokenTactics - Azure JWT Token Manipulation Toolset](http://feedproxy.google.com/~r/PentestTools/~3/lSsXm8DSS6s/tokentactics-azure-jwt-token.html)
 - [Reconmap - VAPT (Vulnerability Assessment And Penetration Testing) Automation And Reporting Platform](http://feedproxy.google.com/~r/PentestTools/~3/xscj_lxM0CY/reconmap-vapt-vulnerability-assessment.html)
 - [Dorothy - Tool To Test Security Monitoring And Detection For Okta Environments](http://feedproxy.google.com/~r/PentestTools/~3/KdeAFE4lXyg/dorothy-tool-to-test-security.html)
 - [Juumla - Tool Designed To Identify And Scan For Version, Config Files In The CMS Joomla!](http://feedproxy.google.com/~r/PentestTools/~3/pecPkeqPvfI/juumla-tool-designed-to-identify-and.html)
