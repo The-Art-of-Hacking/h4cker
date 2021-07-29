@@ -1,5 +1,5 @@
 # Penetration Testing and Wireless Adapters
-As you learned in the course, there are many challenges with different wireless adapters, Linux, and wireless penetration testing tools. This is a fact especially when trying to perform promiscuous monitoring and injecting packets into the wireless network.
+As you learned either in one of my books, courses, or in the Internet, there are many challenges with different wireless adapters, Linux, and wireless penetration testing tools. This is a fact especially when trying to perform promiscuous monitoring and injecting packets into the wireless network.
 
 The following are some of the most popular wireless adapters used by penetration testers (ethical hackers) in the industry.
 
