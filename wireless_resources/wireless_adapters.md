@@ -47,3 +47,6 @@ Very cheap and compatible with Kali Linux. It is not perfect for packet injectio
 
 #### TP-Link N150 Wireless High Gain USB Adapter (TL-WN722N)
 The TP-LINK TL-WN722N uses the Atheros AR9271 Chipset and is a wireless N adapter. Newer versions may not use the same chipset and you may run into problems with Kali Linux.
+
+## WiFi Pineapple 
+[Hak5's Wifi Pineapple](https://shop.hak5.org/products/wifi-pineapple) is a very comprehensive framework (hardware and software) that can be used to easily launch several WiFi attacks.
