@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Radare2 - UNIX-like Reverse Engineering Framework And Command-Line Toolset](http://feedproxy.google.com/~r/PentestTools/~3/UkZL0g8rh7Y/radare2-unix-like-reverse-engineering.html)
 - [CredPhish - A PowerShell Script Designed To Invoke Legitimate Credential Prompts And Exfiltrate Passwords Over DNS](http://feedproxy.google.com/~r/PentestTools/~3/pbm9WI0auMw/credphish-powershell-script-designed-to.html)
 - [LoGiC.NET - A More Advanced Free And Open .NET Obfuscator Using Dnlib](http://feedproxy.google.com/~r/PentestTools/~3/hPYtpZ0YOeA/logicnet-more-advanced-free-and-open.html)
 - [TokenTactics - Azure JWT Token Manipulation Toolset](http://feedproxy.google.com/~r/PentestTools/~3/lSsXm8DSS6s/tokentactics-azure-jwt-token.html)
