@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LightMe - HTTP Server Serving Obfuscated Powershell Scripts/Payloads](http://feedproxy.google.com/~r/PentestTools/~3/IgFvhKcEi_g/lightme-http-server-serving-obfuscated.html)
 - [Rtl_433 - Program To Decode Radio Transmissions From Devices On The ISM Bands (And Other Frequencies)](http://feedproxy.google.com/~r/PentestTools/~3/0QyUY6ElNlw/rtl433-program-to-decode-radio.html)
 - [Sniffle - A Sniffer For Bluetooth 5 And 4.X LE](http://feedproxy.google.com/~r/PentestTools/~3/LYmPk9piHyE/sniffle-sniffer-for-bluetooth-5-and-4x.html)
 - [Radare2 - UNIX-like Reverse Engineering Framework And Command-Line Toolset](http://feedproxy.google.com/~r/PentestTools/~3/UkZL0g8rh7Y/radare2-unix-like-reverse-engineering.html)
