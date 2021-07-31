@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cerbrutus - Network Brute Force Tool, Written In Python](http://feedproxy.google.com/~r/PentestTools/~3/DNMByiC7CXE/cerbrutus-network-brute-force-tool.html)
 - [Ruse - Mobile Camera-Based Application That Attempts To Alter Photos To Preserve Their Utility To Humans While Making Them Unusable For Facial Recognition Systems](http://feedproxy.google.com/~r/PentestTools/~3/bOKl7xd6tZY/ruse-mobile-camera-based-application.html)
 - [LightMe - HTTP Server Serving Obfuscated Powershell Scripts/Payloads](http://feedproxy.google.com/~r/PentestTools/~3/IgFvhKcEi_g/lightme-http-server-serving-obfuscated.html)
 - [Rtl_433 - Program To Decode Radio Transmissions From Devices On The ISM Bands (And Other Frequencies)](http://feedproxy.google.com/~r/PentestTools/~3/0QyUY6ElNlw/rtl433-program-to-decode-radio.html)
