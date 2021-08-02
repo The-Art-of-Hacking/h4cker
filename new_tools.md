@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Domhttpx - A Google Search Engine Dorker With HTTP Toolkit Built With Python, Can Make It Easier For You To Find Many URLs/IPs At Once With Fast Time](http://feedproxy.google.com/~r/PentestTools/~3/mpCd3BNgduk/domhttpx-google-search-engine-dorker.html)
 - [PowerShellArmoury - A PowerShell Armoury For Security Guys And Girls](http://feedproxy.google.com/~r/PentestTools/~3/57kiAzqeCxk/powershellarmoury-powershell-armoury.html)
 - [tsharkVM - Tshark + ELK Analytics Virtual Machine](http://feedproxy.google.com/~r/PentestTools/~3/hQwOrWYf8oU/tsharkvm-tshark-elk-analytics-virtual.html)
 - [CSIRT-Collect - PowerShell Script To Collect Memory And (Triage) Disk Forensics](http://feedproxy.google.com/~r/PentestTools/~3/-tNVO3wk2pY/csirt-collect-powershell-script-to.html)
