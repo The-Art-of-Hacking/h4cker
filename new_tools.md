@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Uchihash - A Small Utility To Deal With Malware Embedded Hashes](http://feedproxy.google.com/~r/PentestTools/~3/nWFl1KEI9K0/uchihash-small-utility-to-deal-with.html)
 - [SharpLAPS - Retrieve LAPS Password From LDAP](http://feedproxy.google.com/~r/PentestTools/~3/cvxWlTfUAqg/sharplaps-retrieve-laps-password-from.html)
 - [Doldrums - A Flutter/Dart Reverse Engineering Tool](http://feedproxy.google.com/~r/PentestTools/~3/b34vQ1uViEk/doldrums-flutterdart-reverse.html)
 - [Rz-Ghidra - Deep Ghidra Decompiler And Sleigh Disassembler Integration For Rizin](http://feedproxy.google.com/~r/PentestTools/~3/Gk9o_TApk4o/rz-ghidra-deep-ghidra-decompiler-and.html)
