@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TwiTi - Tool for extracting IOCs from tweet](http://feedproxy.google.com/~r/PentestTools/~3/_Q2iZQGADZs/twiti-tool-for-extracting-iocs-from.html)
 - [WARCannon - High Speed/Low Cost CommonCrawl RegExp In Node.js](http://feedproxy.google.com/~r/PentestTools/~3/FUFAmzulRD4/warcannon-high-speedlow-cost.html)
 - [ChangeTower - Tool To Help You Watch Changes In Webpages And Get Notified Of Any Changes](http://feedproxy.google.com/~r/PentestTools/~3/Dtcj5jMld9c/changetower-tool-to-help-you-watch.html)
 - [Elpscrk - An Intelligent Common User-Password Profiler Based On Permutations And Statistics](http://feedproxy.google.com/~r/PentestTools/~3/u4KBGfSmBng/elpscrk-intelligent-common-user.html)
