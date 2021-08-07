@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Go-Shellcode - A Repository Of Windows Shellcode Runners And Supporting Utilities](http://feedproxy.google.com/~r/PentestTools/~3/88mSKQeHZoE/go-shellcode-repository-of-windows.html)
 - [cThreadHijack - Beacon Object File (BOF) For Remote Process Injection Via Thread Hijacking](http://feedproxy.google.com/~r/PentestTools/~3/yCCeRISZ1Ms/cthreadhijack-beacon-object-file-bof.html)
 - [TwiTi - Tool for extracting IOCs from tweet](http://feedproxy.google.com/~r/PentestTools/~3/_Q2iZQGADZs/twiti-tool-for-extracting-iocs-from.html)
 - [WARCannon - High Speed/Low Cost CommonCrawl RegExp In Node.js](http://feedproxy.google.com/~r/PentestTools/~3/FUFAmzulRD4/warcannon-high-speedlow-cost.html)
