@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sigurlfind3R - A Reconnaissance Tool, It Fetches URLs From AlienVault's OTX, Common Crawl, URLScan, Github And The Wayback Machine](http://feedproxy.google.com/~r/PentestTools/~3/GgJFWW9bj9g/sigurlfind3r-reconnaissance-tool-it.html)
 - [Php-Jpeg-Injector - Injects Php Payloads Into Jpeg Images](http://feedproxy.google.com/~r/PentestTools/~3/44R1LgwV9f8/php-jpeg-injector-injects-php-payloads.html)
 - [Solitude - A Privacy Analysis Tool That Enables Anyone To Conduct Their Own Privacy Investigations](http://feedproxy.google.com/~r/PentestTools/~3/m8O945wUWZA/solitude-privacy-analysis-tool-that.html)
 - [Go-Shellcode - A Repository Of Windows Shellcode Runners And Supporting Utilities](http://feedproxy.google.com/~r/PentestTools/~3/88mSKQeHZoE/go-shellcode-repository-of-windows.html)
