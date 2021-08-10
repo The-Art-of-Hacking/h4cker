@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [UnhookMe - An Universal Windows API Resolver And Unhooker Addressing Problem Of Invoking Unmonitored System Calls From Within Of Your Red Teams Malware](http://feedproxy.google.com/~r/PentestTools/~3/tcLYZ2VAXwU/unhookme-universal-windows-api-resolver.html)
 - [ADCSPwn - A Tool To Escalate Privileges In An Active Directory Network By Coercing Authenticate From Machine Accounts And Relaying To The Certificate Service](http://feedproxy.google.com/~r/PentestTools/~3/CYU2JFoH43Q/adcspwn-tool-to-escalate-privileges-in.html)
 - [Sigurlfind3R - A Reconnaissance Tool, It Fetches URLs From AlienVault's OTX, Common Crawl, URLScan, Github And The Wayback Machine](http://feedproxy.google.com/~r/PentestTools/~3/GgJFWW9bj9g/sigurlfind3r-reconnaissance-tool-it.html)
 - [Php-Jpeg-Injector - Injects Php Payloads Into Jpeg Images](http://feedproxy.google.com/~r/PentestTools/~3/44R1LgwV9f8/php-jpeg-injector-injects-php-payloads.html)
