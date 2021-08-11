@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Jarm - Active Transport Layer Security (TLS) server fingerprinting tool](http://feedproxy.google.com/~r/PentestTools/~3/QEDgheFSUBs/jarm-active-transport-layer-security.html)
 - [Karton - Distributed Malware Processing Framework Based On Python, Redis And MinIO](http://feedproxy.google.com/~r/PentestTools/~3/tqyPiwebSI8/karton-distributed-malware-processing.html)
 - [UnhookMe - An Universal Windows API Resolver And Unhooker Addressing Problem Of Invoking Unmonitored System Calls From Within Of Your Red Teams Malware](http://feedproxy.google.com/~r/PentestTools/~3/tcLYZ2VAXwU/unhookme-universal-windows-api-resolver.html)
 - [ADCSPwn - A Tool To Escalate Privileges In An Active Directory Network By Coercing Authenticate From Machine Accounts And Relaying To The Certificate Service](http://feedproxy.google.com/~r/PentestTools/~3/CYU2JFoH43Q/adcspwn-tool-to-escalate-privileges-in.html)
