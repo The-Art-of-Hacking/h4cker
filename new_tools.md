@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Http-Request-Smuggling - HTTP Request Smuggling Detection Tool](http://feedproxy.google.com/~r/PentestTools/~3/rJ-iTDnBOFY/http-request-smuggling-http-request.html)
 - [AlanFramework - A Post-Exploitation Framework](http://feedproxy.google.com/~r/PentestTools/~3/e7e0GVr9NqM/alanframework-post-exploitation.html)
 - [Wsh - Web Shell Generator And Command Line Interface](http://feedproxy.google.com/~r/PentestTools/~3/nHvvlSRCbi8/wsh-web-shell-generator-and-command.html)
 - [Jarm - Active Transport Layer Security (TLS) server fingerprinting tool](http://feedproxy.google.com/~r/PentestTools/~3/QEDgheFSUBs/jarm-active-transport-layer-security.html)
