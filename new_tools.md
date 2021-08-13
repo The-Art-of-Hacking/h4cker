@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [jwtXploiter - A Tool To Test Security Of Json Web Token](http://feedproxy.google.com/~r/PentestTools/~3/z5wokfUxlcA/jwtxploiter-tool-to-test-security-of.html)
 - [Http-Request-Smuggling - HTTP Request Smuggling Detection Tool](http://feedproxy.google.com/~r/PentestTools/~3/rJ-iTDnBOFY/http-request-smuggling-http-request.html)
 - [AlanFramework - A Post-Exploitation Framework](http://feedproxy.google.com/~r/PentestTools/~3/e7e0GVr9NqM/alanframework-post-exploitation.html)
 - [Wsh - Web Shell Generator And Command Line Interface](http://feedproxy.google.com/~r/PentestTools/~3/nHvvlSRCbi8/wsh-web-shell-generator-and-command.html)
