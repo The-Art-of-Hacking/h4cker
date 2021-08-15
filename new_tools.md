@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Raider - Web Authentication Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/lAzSIlU68zo/raider-web-authentication-testing.html)
 - [Tko-Subs - A Tool That Can Help Detect And Takeover Subdomains With Dead DNS Records](http://feedproxy.google.com/~r/PentestTools/~3/TAgNg2xW_LI/tko-subs-tool-that-can-help-detect-and.html)
 - [Bantam - A PHP Backdoor Management And Generation tool/C2 Featuring End To End Encrypted Payload Streaming Designed To Bypass WAF, IDS, SIEM Systems](http://feedproxy.google.com/~r/PentestTools/~3/wZFgmyRBTqI/bantam-php-backdoor-management-and.html)
 - [NinjaDroid - Ninja Reverse Engineering On Android APK Packages](http://feedproxy.google.com/~r/PentestTools/~3/A8IxFPEBMBc/ninjadroid-ninja-reverse-engineering-on.html)
