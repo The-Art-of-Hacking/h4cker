@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PickleC2 - A Post-Exploitation And Lateral Movements Framework](http://feedproxy.google.com/~r/PentestTools/~3/nsHYXxh_5Z4/picklec2-post-exploitation-and-lateral.html)
 - [CamPhish - Grab Cam Shots From Target'S Phone Front Camera Or PC Webcam Just Sending A Link.](http://feedproxy.google.com/~r/PentestTools/~3/9rUpMezlGe0/camphish-grab-cam-shots-from-targets.html)
 - [Raider - Web Authentication Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/lAzSIlU68zo/raider-web-authentication-testing.html)
 - [Tko-Subs - A Tool That Can Help Detect And Takeover Subdomains With Dead DNS Records](http://feedproxy.google.com/~r/PentestTools/~3/TAgNg2xW_LI/tko-subs-tool-that-can-help-detect-and.html)
