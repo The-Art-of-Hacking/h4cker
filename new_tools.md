@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Allstar - GitHub App To Set And Enforce Security Policies](http://feedproxy.google.com/~r/PentestTools/~3/PJKJmcnHyWI/allstar-github-app-to-set-and-enforce.html)
 - [Jsleak - A Go Code To Detect Leaks In JS Files Via Regex Patterns](http://feedproxy.google.com/~r/PentestTools/~3/nMMZ9f_sz-g/jsleak-go-code-to-detect-leaks-in-js.html)
 - [AuraBorealisApp - Do You Know What's In Your Python Packages? A Tool For Visualizing Python Package Registry Security Audit Data](http://feedproxy.google.com/~r/PentestTools/~3/ZiyR-QHv6AI/auraborealisapp-do-you-know-whats-in.html)
 - [SGXRay - Automating Vulnerability Detection for SGX Apps](http://feedproxy.google.com/~r/PentestTools/~3/CupjFNIWzxQ/sgxray-automating-vulnerability.html)
