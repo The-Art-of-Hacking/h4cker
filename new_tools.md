@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FisherMan - CLI Program That Collects Information From Facebook User Profiles Via Selenium](http://feedproxy.google.com/~r/PentestTools/~3/nUJjKv3m7dw/fisherman-cli-program-that-collects.html)
 - [REW-sploit - Emulate And Dissect MSF And *Other* Attacks](http://feedproxy.google.com/~r/PentestTools/~3/GyJX5QzJXDk/rew-sploit-emulate-and-dissect-msf-and.html)
 - [Allstar - GitHub App To Set And Enforce Security Policies](http://feedproxy.google.com/~r/PentestTools/~3/PJKJmcnHyWI/allstar-github-app-to-set-and-enforce.html)
 - [Jsleak - A Go Code To Detect Leaks In JS Files Via Regex Patterns](http://feedproxy.google.com/~r/PentestTools/~3/nMMZ9f_sz-g/jsleak-go-code-to-detect-leaks-in-js.html)
