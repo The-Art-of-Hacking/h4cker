@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PackageDNA - Tool To Analyze Software Packages Of Different Programming Languages That Are Being Or Will Be Used In Their Codes](http://feedproxy.google.com/~r/PentestTools/~3/-d4PufNyJIk/packagedna-tool-to-analyze-software.html)
 - [FisherMan - CLI Program That Collects Information From Facebook User Profiles Via Selenium](http://feedproxy.google.com/~r/PentestTools/~3/nUJjKv3m7dw/fisherman-cli-program-that-collects.html)
 - [REW-sploit - Emulate And Dissect MSF And *Other* Attacks](http://feedproxy.google.com/~r/PentestTools/~3/GyJX5QzJXDk/rew-sploit-emulate-and-dissect-msf-and.html)
 - [Allstar - GitHub App To Set And Enforce Security Policies](http://feedproxy.google.com/~r/PentestTools/~3/PJKJmcnHyWI/allstar-github-app-to-set-and-enforce.html)
