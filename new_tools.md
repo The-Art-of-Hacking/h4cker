@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Brutus - An Educational Exploitation Framework Shipped On A Modular And Highly Extensible Multi-Tasking And Multi-Processing Architecture](http://feedproxy.google.com/~r/PentestTools/~3/cpJ4PKfGYUA/brutus-educational-exploitation.html)
 - [PackageDNA - Tool To Analyze Software Packages Of Different Programming Languages That Are Being Or Will Be Used In Their Codes](http://feedproxy.google.com/~r/PentestTools/~3/-d4PufNyJIk/packagedna-tool-to-analyze-software.html)
 - [FisherMan - CLI Program That Collects Information From Facebook User Profiles Via Selenium](http://feedproxy.google.com/~r/PentestTools/~3/nUJjKv3m7dw/fisherman-cli-program-that-collects.html)
 - [REW-sploit - Emulate And Dissect MSF And *Other* Attacks](http://feedproxy.google.com/~r/PentestTools/~3/GyJX5QzJXDk/rew-sploit-emulate-and-dissect-msf-and.html)
