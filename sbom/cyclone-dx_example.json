@@ -1,0 +1,157 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.2",
+  "serialNumber": "urn:uuid:5086ac52-50b2-f7c9-69db-207de37cde08",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2021-08-22T05:36:56Z",
+    "authors": [
+      {
+        "name": "ACME-Hospital-Division()"
+      }
+    ],
+    "component": {
+      "type": "application",
+      "bom-ref": "a0bb435c-24c4-9dce-8d6d-1322fa07021c",
+      "name": "INFUSION",
+      "purl": "pkg:supplier/ACME/INFUSION@1.0",
+      "supplier": {
+        "name": "ACME"
+      },
+      "version": "1.0",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "c76bcb7f54e0485d04f939f397259118d0e9eea4de47240b3a73ed4d7d248e97"
+        }
+      ]
+    },
+    "manufacture": {
+      "name": "ACME"
+    }
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "78a6e7eb-fd82-28bd-4451-dd953d62f30a",
+      "name": "Windows Embedded Standard 7",
+      "purl": "pkg:supplier/Microsoft/Windows%20Embedded%20Standard%207@6.1.7601",
+      "publisher": "Microsoft",
+      "version": "6.1.7601",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "89b6e837e94330999d4221be9db9f17a7f51d1bfad360a75ed8cfd71a2e1e24d"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "5fd67cd3-12db-72b7-ae71-33aabfded828",
+      "name": "Windows Embedded Standard 7 with SP1 patches",
+      "purl": "pkg:supplier/Microsoft/Windows%20Embedded%20Standard%207%20with%20SP1%20patches@3.0",
+      "publisher": "Microsoft",
+      "version": "3.0",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "e4386ef0d2f144b1275544eee3914a81d59e4c75930a2174654c70edd71d55ea"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "88778c2b-3e43-fece-2e8d-e87672706ac6",
+      "name": "SQL 2005 Express",
+      "purl": "pkg:supplier/Microsoft/SQL%202005%20Express@9.00.5000.00,SP4",
+      "publisher": "Microsoft",
+      "version": "9.00.5000.00,SP4",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "369a2d0fc60383d8a03eac3464618d46868cefe89913a4ddf3822c0e69ebf7ff"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "70e06f6c-ea5d-4470-9ea6-43064533a00f",
+      "name": ".Net Frame Work",
+      "purl": "pkg:supplier/Microsoft/.Net%20Frame%20Work@V2.1.21022.8,SP2",
+      "publisher": "Microsoft",
+      "version": "V2.1.21022.8,SP2",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "924a2321096a5d46146f007038960df62bd8b4455c17d5e081d4b852c7743899"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "cd101e21-2058-4f30-47e1-3a00c665a26e",
+      "name": "Java 8",
+      "purl": "pkg:supplier/Oracle/Java%208@v1.8",
+      "publisher": "Oracle",
+      "version": "v1.8",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "2617534e463dc57d91a92a075b507eea972e455193e83db25be480e5e1cc0e40"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+      "name": "Tomcat 9",
+      "purl": "pkg:supplier/Apache%20Foundation/Tomcat%209@v9.037",
+      "publisher": "Apache Foundation",
+      "version": "v9.037",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "8c1f9ad48e6a91b648a3ff3cab2120eea966f6e84b6c0bc069fbafe2fbb77e5b"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "9c0531c5-2779-ddf0-4200-eb43fee967e9",
+      "name": "Spring Framework",
+      "purl": "pkg:supplier/Apache%20Foundation/Spring%20Framework@v4.7",
+      "publisher": "Apache Foundation",
+      "version": "v4.7",
+      "hashes": [
+        {
+          "alg": "SHA256",
+          "content": "66ad8bd2c06338b533b15f8171709407ad6aea24d87a5ae0d0eb3d37e78df9c9"
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "a0bb435c-24c4-9dce-8d6d-1322fa07021c",
+      "dependsOn": [
+        "78a6e7eb-fd82-28bd-4451-dd953d62f30a",
+        "5fd67cd3-12db-72b7-ae71-33aabfded828",
+        "88778c2b-3e43-fece-2e8d-e87672706ac6",
+        "cd101e21-2058-4f30-47e1-3a00c665a26e"
+      ]
+    },
+    {
+      "ref": "78a6e7eb-fd82-28bd-4451-dd953d62f30a",
+      "dependsOn": [
+        "70e06f6c-ea5d-4470-9ea6-43064533a00f"
+      ]
+    },
+    {
+      "ref": "cd101e21-2058-4f30-47e1-3a00c665a26e",
+      "dependsOn": [
+        "5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+        "9c0531c5-2779-ddf0-4200-eb43fee967e9"
+      ]
+    }
+  ]
+}
