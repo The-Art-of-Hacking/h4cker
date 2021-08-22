@@ -1,0 +1,203 @@
+{
+  "document": {
+    "category": "vex",
+    "csaf_version": "2.0",
+    "notes": [
+      {
+        "category": "summary",
+        "text": "Vulnerability information for SBOM ACME-INFUSION-1.0-SBOM-DRAFT ",
+        "title": "Summary"
+      },
+      {
+        "category": "legal_disclaimer",
+        "text": "THIS DOCUMENT IS PROVIDED ON AN \"AS IS\" BASIS AND DOES NOT IMPLY ANY KIND OF GUARANTEE OR WARRANTY, INCLUDING THE WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR USE. YOUR USE OF THE INFORMATION ON THE DOCUMENT OR MATERIALS LINKED FROM THE DOCUMENT IS AT YOUR OWN RISK.",
+        "title": "Legal Disclaimer"
+      }
+    ],
+    "publisher": {
+      "category": "coordinator",
+      "contact_details": "Email: cert@cert.org, Phone: +1412 268 5800",
+      "issuing_authority": "CERT/CC under DHS/CISA https://www.cisa.gov/cybersecurity also see https://kb.cert.org/ ",
+      "name": "CERT/CC",
+      "namespace": "https://kb.cert.org/"
+    },
+    "references": [
+      {
+        "url": "https://vuls.cert.org/confluence/display/Wiki/Vulnerability+Disclosure+Policy",
+        "summary": "CERT/CC vulnerability disclosure policy"
+      }
+    ],
+    "title": "SBOM Reference Advisory for ACME-INFUSION-1.0-SBOM-DRAFT",
+    "tracking": {
+      "current_release_date": "2021-08-22T01:36:56.415",
+      "generator": {
+        "engine": {
+          "name": "SwiftBOM",
+          "version": "5.2.5"
+        }
+      },
+      "id": "SwiftBOM-CSAF-ACME-INFUSION-1.0-SBOM-DRAFT",
+      "initial_release_date": "2021-08-22T01:36:56.415",
+      "revision_history": [
+        {
+          "date": "2021-08-22T01:36:56.415",
+          "number": "1.0.0",
+          "summary": "Draft for demo purposes"
+        }
+      ],
+      "status": "draft",
+      "version": "1.0.0"
+    }
+  },
+  "vulnerabilities": [
+    {
+      "cve": "CVE-2019-2697",
+      "product_status": {
+        "known_affected": [
+          "CSAFPID-cd101e21-2058-4f30-47e1-3a00c665a26e",
+          "CSAFPID-5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+          "CSAFPID-9c0531c5-2779-ddf0-4200-eb43fee967e9",
+          "CSAFPID-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+        ]
+      },
+      "notes": [
+        {
+          "category": "summary",
+          "text": "Vulnerability in the Java SE component of Oracle Java SE (subcomponent: 2D). Supported versions that are affected are Java SE: 7u211 and 8u202. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE. Successful attacks of this vulnerability can result in takeover of Java SE. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets (in Java SE 8), that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability does not apply to Java deployments, typically in servers, that load and run only trusted code (e.g., code installed by an administrator). CVSS 3.0 Base Score 8.1 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H)."
+        }
+      ],
+      "remediations": [
+        {
+          "category": "vendor_fix",
+          "product_ids": [
+            "CSAFPID-cd101e21-2058-4f30-47e1-3a00c665a26e",
+            "CSAFPID-5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+            "CSAFPID-9c0531c5-2779-ddf0-4200-eb43fee967e9",
+            "CSAFPID-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+          ],
+          "details": "Please update to the latest version of the software provided by the Vendor."
+        }
+      ],
+      "scores": [
+        {
+          "products": [
+            "CSAFPID-cd101e21-2058-4f30-47e1-3a00c665a26e",
+            "CSAFPID-5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+            "CSAFPID-9c0531c5-2779-ddf0-4200-eb43fee967e9",
+            "CSAFPID-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+          ],
+          "cvss_v3": {
+            "version": "3.0",
+            "vectorString": "CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+            "attackVector": "NETWORK",
+            "attackComplexity": "HIGH",
+            "privilegesRequired": "NONE",
+            "userInteraction": "NONE",
+            "scope": "UNCHANGED",
+            "confidentialityImpact": "HIGH",
+            "integrityImpact": "HIGH",
+            "availabilityImpact": "HIGH",
+            "baseScore": 8.1,
+            "baseSeverity": "HIGH"
+          }
+        }
+      ]
+    }
+  ],
+  "product_tree": {
+    "branches": [
+      {
+        "category": "vendor",
+        "name": "Oracle",
+        "branches": [
+          {
+            "category": "product_name",
+            "name": "Java 8",
+            "branches": [
+              {
+                "category": "product_version",
+                "name": "v1.8",
+                "product": {
+                  "product_id": "CSAFPID-cd101e21-2058-4f30-47e1-3a00c665a26e",
+                  "name": "Oracle Java 8 v1.8",
+                  "product_identification_helper": {
+                    "purl": "pkg:supplier/undefined/undefined@v1.8"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "vendor",
+        "name": "Apache Foundation",
+        "branches": [
+          {
+            "category": "product_name",
+            "name": "Tomcat 9",
+            "branches": [
+              {
+                "category": "product_version",
+                "name": "v9.037",
+                "product": {
+                  "product_id": "CSAFPID-5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+                  "name": "Apache Foundation Tomcat 9 v9.037",
+                  "product_identification_helper": {
+                    "purl": "pkg:supplier/undefined/undefined@v9.037"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "vendor",
+        "name": "Apache Foundation",
+        "branches": [
+          {
+            "category": "product_name",
+            "name": "Spring Framework",
+            "branches": [
+              {
+                "category": "product_version",
+                "name": "v4.7",
+                "product": {
+                  "product_id": "CSAFPID-9c0531c5-2779-ddf0-4200-eb43fee967e9",
+                  "name": "Apache Foundation Spring Framework v4.7",
+                  "product_identification_helper": {
+                    "purl": "pkg:supplier/undefined/undefined@v4.7"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "vendor",
+        "name": "ACME",
+        "branches": [
+          {
+            "category": "product_name",
+            "name": "INFUSION",
+            "branches": [
+              {
+                "category": "product_version",
+                "name": "1.0",
+                "product": {
+                  "product_id": "CSAFPID-a0bb435c-24c4-9dce-8d6d-1322fa07021c",
+                  "name": "ACME INFUSION 1.0",
+                  "product_identification_helper": {
+                    "purl": "pkg:supplier/undefined/undefined@1.0"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
