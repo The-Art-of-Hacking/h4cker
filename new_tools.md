@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SQLancer - Detecting Logic Bugs In DBMS](http://feedproxy.google.com/~r/PentestTools/~3/YNuhBAyT6-0/sqlancer-detecting-logic-bugs-in-dbms.html)
 - [XLMMacroDeobfuscator - Extract And Deobfuscate XLM Macros (A.K.A Excel 4.0 Macros)](http://feedproxy.google.com/~r/PentestTools/~3/a1S6tCAs5k0/xlmmacrodeobfuscator-extract-and.html)
 - [Brutus - An Educational Exploitation Framework Shipped On A Modular And Highly Extensible Multi-Tasking And Multi-Processing Architecture](http://feedproxy.google.com/~r/PentestTools/~3/cpJ4PKfGYUA/brutus-educational-exploitation.html)
 - [PackageDNA - Tool To Analyze Software Packages Of Different Programming Languages That Are Being Or Will Be Used In Their Codes](http://feedproxy.google.com/~r/PentestTools/~3/-d4PufNyJIk/packagedna-tool-to-analyze-software.html)
