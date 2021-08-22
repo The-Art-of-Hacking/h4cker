@@ -1,0 +1,359 @@
+{
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "spdxVersion": "SPDX-2.1",
+  "creationInfo": {
+    "comment": "Draft ACME INFUSION PoC II SBOM document in SPDX format. Unofficial content for demonstration purposes only",
+    "created": "2021-08-22T05:36:56Z",
+    "creators": [
+      "Organization: ACME-Hospital-Division()"
+    ]
+  },
+  "name": "ACME-INFUSION-1.0-SBOM-DRAFT",
+  "dataLicense": "CC0-1.0",
+  "documentNamespace": "http://www.hospitalproducts.acme",
+  "documentDescribes": [
+    "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+  ],
+  "packages": [
+    {
+      "SPDXID": "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c",
+      "comment": "PURL is pkg:supplier/ACME/INFUSION@1.0  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/ACME/INFUSION@1.0",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": "INFUSION",
+      "supplier": "Organization: ACME",
+      "versionInfo": "1.0"
+    },
+    {
+      "SPDXID": "SPDXRef-78a6e7eb-fd82-28bd-4451-dd953d62f30a",
+      "comment": "PURL is pkg:supplier/Microsoft/Windows%20Embedded%20Standard%207@6.1.7601  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/Microsoft/Windows%20Embedded%20Standard%207@6.1.7601",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-78a6e7eb-fd82-28bd-4451-dd953d62f30a"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": "Windows Embedded Standard 7",
+      "supplier": "Organization: Microsoft",
+      "versionInfo": "6.1.7601"
+    },
+    {
+      "SPDXID": "SPDXRef-5fd67cd3-12db-72b7-ae71-33aabfded828",
+      "comment": "PURL is pkg:supplier/Microsoft/Windows%20Embedded%20Standard%207%20with%20SP1%20patches@3.0  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/Microsoft/Windows%20Embedded%20Standard%207%20with%20SP1%20patches@3.0",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-5fd67cd3-12db-72b7-ae71-33aabfded828"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": "Windows Embedded Standard 7 with SP1 patches",
+      "supplier": "Organization: Microsoft",
+      "versionInfo": "3.0"
+    },
+    {
+      "SPDXID": "SPDXRef-88778c2b-3e43-fece-2e8d-e87672706ac6",
+      "comment": "PURL is pkg:supplier/Microsoft/SQL%202005%20Express@9.00.5000.00,SP4  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/Microsoft/SQL%202005%20Express@9.00.5000.00,SP4",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-88778c2b-3e43-fece-2e8d-e87672706ac6"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": "SQL 2005 Express",
+      "supplier": "Organization: Microsoft",
+      "versionInfo": "9.00.5000.00,SP4"
+    },
+    {
+      "SPDXID": "SPDXRef-70e06f6c-ea5d-4470-9ea6-43064533a00f",
+      "comment": "PURL is pkg:supplier/Microsoft/.Net%20Frame%20Work@V2.1.21022.8,SP2  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/Microsoft/.Net%20Frame%20Work@V2.1.21022.8,SP2",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-70e06f6c-ea5d-4470-9ea6-43064533a00f"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": ".Net Frame Work",
+      "supplier": "Organization: Microsoft",
+      "versionInfo": "V2.1.21022.8,SP2"
+    },
+    {
+      "SPDXID": "SPDXRef-cd101e21-2058-4f30-47e1-3a00c665a26e",
+      "comment": "PURL is pkg:supplier/Oracle/Java%208@v1.8  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/Oracle/Java%208@v1.8",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-cd101e21-2058-4f30-47e1-3a00c665a26e"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": "Java 8",
+      "supplier": "Organization: Oracle",
+      "versionInfo": "v1.8"
+    },
+    {
+      "SPDXID": "SPDXRef-5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+      "comment": "PURL is pkg:supplier/Apache%20Foundation/Tomcat%209@v9.037  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/Apache%20Foundation/Tomcat%209@v9.037",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-5803cc4b-c10b-5c77-8e0e-f081c245f1c5"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": "Tomcat 9",
+      "supplier": "Organization: Apache Foundation",
+      "versionInfo": "v9.037"
+    },
+    {
+      "SPDXID": "SPDXRef-9c0531c5-2779-ddf0-4200-eb43fee967e9",
+      "comment": "PURL is pkg:supplier/Apache%20Foundation/Spring%20Framework@v4.7  ",
+      "copyrightText": "NOASSERTION",
+      "downloadLocation": "NOASSERTION",
+      "externalRefs": [
+        {
+          "referenceCategory": "PACKAGE_MANAGER",
+          "referenceLocator": "pkg:supplier/Apache%20Foundation/Spring%20Framework@v4.7",
+          "referenceType": "purl"
+        }
+      ],
+      "filesAnalyzed": true,
+      "hasFiles": [
+        "SPDXRef-File-9c0531c5-2779-ddf0-4200-eb43fee967e9"
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "name": "Spring Framework",
+      "supplier": "Organization: Apache Foundation",
+      "versionInfo": "v4.7"
+    }
+  ],
+  "files": [
+    {
+      "SPDXID": "SPDXRef-File-a0bb435c-24c4-9dce-8d6d-1322fa07021c",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "c76bcb7f54e0485d04f939f397259118d0e9eea4de47240b3a73ed4d7d248e97"
+        }
+      ],
+      "fileName": "INFUSION.iso"
+    },
+    {
+      "SPDXID": "SPDXRef-File-78a6e7eb-fd82-28bd-4451-dd953d62f30a",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "89b6e837e94330999d4221be9db9f17a7f51d1bfad360a75ed8cfd71a2e1e24d"
+        }
+      ],
+      "fileName": "Windows7-Embedded.pkg"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5fd67cd3-12db-72b7-ae71-33aabfded828",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "e4386ef0d2f144b1275544eee3914a81d59e4c75930a2174654c70edd71d55ea"
+        }
+      ],
+      "fileName": "MS-Windows-7-tr.iso"
+    },
+    {
+      "SPDXID": "SPDXRef-File-88778c2b-3e43-fece-2e8d-e87672706ac6",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "369a2d0fc60383d8a03eac3464618d46868cefe89913a4ddf3822c0e69ebf7ff"
+        }
+      ],
+      "fileName": "SQL-2005-Express.msi"
+    },
+    {
+      "SPDXID": "SPDXRef-File-70e06f6c-ea5d-4470-9ea6-43064533a00f",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "924a2321096a5d46146f007038960df62bd8b4455c17d5e081d4b852c7743899"
+        }
+      ],
+      "fileName": "Windows-NET-Framework.exe"
+    },
+    {
+      "SPDXID": "SPDXRef-File-cd101e21-2058-4f30-47e1-3a00c665a26e",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "2617534e463dc57d91a92a075b507eea972e455193e83db25be480e5e1cc0e40"
+        }
+      ],
+      "fileName": "java-8.3.1-re.exe"
+    },
+    {
+      "SPDXID": "SPDXRef-File-5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "8c1f9ad48e6a91b648a3ff3cab2120eea966f6e84b6c0bc069fbafe2fbb77e5b"
+        }
+      ],
+      "fileName": "apache-tomcat-8.5.69.zip"
+    },
+    {
+      "SPDXID": "SPDXRef-File-9c0531c5-2779-ddf0-4200-eb43fee967e9",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "66ad8bd2c06338b533b15f8171709407ad6aea24d87a5ae0d0eb3d37e78df9c9"
+        }
+      ],
+      "fileName": "spring-instrument.jar"
+    }
+  ],
+  "relationships": [
+    {
+      "relatedSpdxElement": "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c",
+      "relationshipType": "DESCRIBES",
+      "spdxElementId": "SPDXRef-DOCUMENT"
+    },
+    {
+      "relatedSpdxElement": "NONE",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-78a6e7eb-fd82-28bd-4451-dd953d62f30a",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+    },
+    {
+      "relatedSpdxElement": "NOASSERTION",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-78a6e7eb-fd82-28bd-4451-dd953d62f30a"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-5fd67cd3-12db-72b7-ae71-33aabfded828",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+    },
+    {
+      "relatedSpdxElement": "NOASSERTION",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-5fd67cd3-12db-72b7-ae71-33aabfded828"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-88778c2b-3e43-fece-2e8d-e87672706ac6",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+    },
+    {
+      "relatedSpdxElement": "NOASSERTION",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-88778c2b-3e43-fece-2e8d-e87672706ac6"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-70e06f6c-ea5d-4470-9ea6-43064533a00f",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-78a6e7eb-fd82-28bd-4451-dd953d62f30a"
+    },
+    {
+      "relatedSpdxElement": "NOASSERTION",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-70e06f6c-ea5d-4470-9ea6-43064533a00f"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-cd101e21-2058-4f30-47e1-3a00c665a26e",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-a0bb435c-24c4-9dce-8d6d-1322fa07021c"
+    },
+    {
+      "relatedSpdxElement": "NOASSERTION",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-cd101e21-2058-4f30-47e1-3a00c665a26e"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-5803cc4b-c10b-5c77-8e0e-f081c245f1c5",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-cd101e21-2058-4f30-47e1-3a00c665a26e"
+    },
+    {
+      "relatedSpdxElement": "NOASSERTION",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-5803cc4b-c10b-5c77-8e0e-f081c245f1c5"
+    },
+    {
+      "relatedSpdxElement": "SPDXRef-9c0531c5-2779-ddf0-4200-eb43fee967e9",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-cd101e21-2058-4f30-47e1-3a00c665a26e"
+    },
+    {
+      "relatedSpdxElement": "NOASSERTION",
+      "relationshipType": "CONTAINS",
+      "spdxElementId": "SPDXRef-9c0531c5-2779-ddf0-4200-eb43fee967e9"
+    }
+  ]
+}
