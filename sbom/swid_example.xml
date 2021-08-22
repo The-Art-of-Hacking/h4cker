@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+	<SoftwareIdentity xmlns="http://standards.iso.org/iso/19770/-2/2015/schema.xsd"
+			  xmlns:xsi="htttp://www.w3.org/2001/XMLSchema-instance"
+			  name="INFUSION"
+			  tagId="ACME-INFUSION-1.0"
+			  version="1.0">
+	  <Entity name="ACME" role="softwareCreator"/>
+	  <Meta generator="SwiftBOM SBOM Generator v1.3" /> 
+      	<Link  rel="component" href="swid: Microsoft-Windows%20Embedded%20Standard%207-6.1.7601"
+	       use="required" />
+      	<Link  rel="component" href="swid: Microsoft-Windows%20Embedded%20Standard%207%20with%20SP1%20patches-3.0"
+	       use="required" />
+      	<Link  rel="component" href="swid: Microsoft-SQL%202005%20Express-9.00.5000.00,SP4"
+	       use="required" />
+      	<Link  rel="component" href="swid: Microsoft-.Net%20Frame%20Work-V2.1.21022.8,SP2"
+	       use="required" />
+      	<Link  rel="component" href="swid: Oracle-Java%208-v1.8"
+	       use="required" />
+      	<Link  rel="component" href="swid: Apache%20Foundation-Tomcat%209-v9.037"
+	       use="required" />
+      	<Link  rel="component" href="swid: Apache%20Foundation-Spring%20Framework-v4.7"
+	       use="required" />
+      
+</SoftwareIdentity>
