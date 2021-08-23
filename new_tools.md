@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Process-Dump - Windows Tool For Dumping Malware PE Files From Memory Back To Disk For Analysis](http://feedproxy.google.com/~r/PentestTools/~3/-cIZrbxL2ds/process-dump-windows-tool-for-dumping.html)
 - [Keimpx - Check For Valid Credentials Across A Network Over SMB](http://feedproxy.google.com/~r/PentestTools/~3/Ih24bP9zZoU/keimpx-check-for-valid-credentials.html)
 - [SQLancer - Detecting Logic Bugs In DBMS](http://feedproxy.google.com/~r/PentestTools/~3/YNuhBAyT6-0/sqlancer-detecting-logic-bugs-in-dbms.html)
 - [XLMMacroDeobfuscator - Extract And Deobfuscate XLM Macros (A.K.A Excel 4.0 Macros)](http://feedproxy.google.com/~r/PentestTools/~3/a1S6tCAs5k0/xlmmacrodeobfuscator-extract-and.html)
