@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Git-Secret - Go Scripts For Finding An API Key / Some Keywords In Repository](http://feedproxy.google.com/~r/PentestTools/~3/zIQZFc-S3t0/git-secret-go-scripts-for-finding-api.html)
 - [LazySign - Create Fake Certs For Binaries Using Windows Binaries And The Power Of Bat Files](http://feedproxy.google.com/~r/PentestTools/~3/lHQs5U2wO4Y/lazysign-create-fake-certs-for-binaries.html)
 - [Process-Dump - Windows Tool For Dumping Malware PE Files From Memory Back To Disk For Analysis](http://feedproxy.google.com/~r/PentestTools/~3/-cIZrbxL2ds/process-dump-windows-tool-for-dumping.html)
 - [Keimpx - Check For Valid Credentials Across A Network Over SMB](http://feedproxy.google.com/~r/PentestTools/~3/Ih24bP9zZoU/keimpx-check-for-valid-credentials.html)
