@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PSPKIAudit - PowerShell toolkit for auditing Active Directory Certificate Services (AD CS)](http://feedproxy.google.com/~r/PentestTools/~3/R12aYWFxQWo/pspkiaudit-powershell-toolkit-for.html)
 - [DNSMonster - Passive DNS Capture/Monitoring Framework](http://feedproxy.google.com/~r/PentestTools/~3/A7hAzJU8kWs/dnsmonster-passive-dns.html)
 - [Git-Secret - Go Scripts For Finding An API Key / Some Keywords In Repository](http://feedproxy.google.com/~r/PentestTools/~3/zIQZFc-S3t0/git-secret-go-scripts-for-finding-api.html)
 - [LazySign - Create Fake Certs For Binaries Using Windows Binaries And The Power Of Bat Files](http://feedproxy.google.com/~r/PentestTools/~3/lHQs5U2wO4Y/lazysign-create-fake-certs-for-binaries.html)
