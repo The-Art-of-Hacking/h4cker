@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BeaconEye - Hunts Out CobaltStrike Beacons And Logs Operator Command Output](http://feedproxy.google.com/~r/PentestTools/~3/oZh9hj1qj9s/beaconeye-hunts-out-cobaltstrike.html)
 - [Dorkify - Perform Google Dork Search](http://feedproxy.google.com/~r/PentestTools/~3/LQIlKNPIm-Q/dorkify-perform-google-dork-search.html)
 - [SLSA - Supply-chain Levels For Software Artifacts](http://feedproxy.google.com/~r/PentestTools/~3/XTfqwYR_QDU/slsa-supply-chain-levels-for-software.html)
 - [PSPKIAudit - PowerShell toolkit for auditing Active Directory Certificate Services (AD CS)](http://feedproxy.google.com/~r/PentestTools/~3/R12aYWFxQWo/pspkiaudit-powershell-toolkit-for.html)
