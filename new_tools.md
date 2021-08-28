@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pantagrule - Large Hashcat Rulesets Generated From Real-World Compromised Passwords](http://feedproxy.google.com/~r/PentestTools/~3/umlUE-7HEXM/pantagrule-large-hashcat-rulesets.html)
 - [Ctf-Screenshotter - A CTF Web Challenge About Making Screenshots](http://feedproxy.google.com/~r/PentestTools/~3/4a1bH4q4jso/ctf-screenshotter-ctf-web-challenge.html)
 - [adalanche - Active Directory ACL Visualizer and Explorer](http://feedproxy.google.com/~r/PentestTools/~3/3ZwARpBSg6o/adalanche-active-directory-acl.html)
 - [BeaconEye - Hunts Out CobaltStrike Beacons And Logs Operator Command Output](http://feedproxy.google.com/~r/PentestTools/~3/oZh9hj1qj9s/beaconeye-hunts-out-cobaltstrike.html)
