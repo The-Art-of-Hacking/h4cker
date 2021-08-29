@@ -8,7 +8,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Damn Vulnerable ARM Router (DVAR)](http://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
 - [Damn Vulnerable iOS Application (DVIA)](http://damnvulnerableiosapp.com)
 - [Damn Vulnerable Web App (DVWA)](https://github.com/ethicalhack3r/DVWA)
-- [Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)
+- [Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws-node)
 - [Damn Vulnerable WordPress](https://github.com/vavkamil/dvwp)
 - [DOMXSS](http://www.domxss.com/domxss/)
 - [Extreme Vulnerable Node Application(XVNA)](https://github.com/vegabird/xvna)
