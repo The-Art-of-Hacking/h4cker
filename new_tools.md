@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MEAT - This Toolkit Aims To Help Forensicators Perform Different Kinds Of Acquisitions On iOS Devices](http://feedproxy.google.com/~r/PentestTools/~3/tBxfj4OX5ww/meat-this-toolkit-aims-to-help.html)
 - [Huan - Encrypted PE Loader Generator](http://feedproxy.google.com/~r/PentestTools/~3/3wGj5W9YJvs/huan-encrypted-pe-loader-generator.html)
 - [Pantagrule - Large Hashcat Rulesets Generated From Real-World Compromised Passwords](http://feedproxy.google.com/~r/PentestTools/~3/umlUE-7HEXM/pantagrule-large-hashcat-rulesets.html)
 - [Ctf-Screenshotter - A CTF Web Challenge About Making Screenshots](http://feedproxy.google.com/~r/PentestTools/~3/4a1bH4q4jso/ctf-screenshotter-ctf-web-challenge.html)
