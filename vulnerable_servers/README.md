@@ -30,7 +30,6 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [RailsGoat](https://github.com/OWASP/railsgoat)
 - [RootMe](https://www.root-me.org)
-- [Samurai Web Testing Framework](http://www.samurai-wtf.org/)
 - [Server-Side Request Forgery (SSRF) vulnerable Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab)
 - [Snyk exploit-workshop](https://github.com/snyk/exploit-workshop)
 - [Try2Hack](http://www.try2hack.nl)
