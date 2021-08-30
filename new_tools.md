@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Reg1c1de - Registry Permission Scanner For Finding Potential Privesc Avenues Within Registry](http://feedproxy.google.com/~r/PentestTools/~3/U8q-dBAlnj0/reg1c1de-registry-permission-scanner.html)
 - [Speakeasy - Windows Kernel And User Mode Emulation](http://feedproxy.google.com/~r/PentestTools/~3/D9FQ9jwjf88/speakeasy-windows-kernel-and-user-mode.html)
 - [PEzor - Open-Source Shellcode And PE Packer](http://feedproxy.google.com/~r/PentestTools/~3/0-qtKseBaP8/pezor-open-source-shellcode-and-pe.html)
 - [MEAT - This Toolkit Aims To Help Forensicators Perform Different Kinds Of Acquisitions On iOS Devices](http://feedproxy.google.com/~r/PentestTools/~3/tBxfj4OX5ww/meat-this-toolkit-aims-to-help.html)
