@@ -35,7 +35,6 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Try2Hack](http://www.try2hack.nl)
 - [Vicnum](http://vicnum.ciphertechs.com)
 - [Vulnerable Single Sign-On (SSO)](https://github.com/dogangcr/vulnerable-sso)
-- [Web Security Dojo](https://www.mavensecurity.com/resources/web-security-dojo)
 - [WebGoat](https://github.com/WebGoat/WebGoat)
 - [XXE Lab](https://github.com/jbarone/xxelab)
 
