@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fpicker - A Frida-based Fuzzing Suite Supporting Various Modes (Including AFL++ In-Process Fuzzing)](http://feedproxy.google.com/~r/PentestTools/~3/al_FpYF6D0g/fpicker-frida-based-fuzzing-suite.html)
 - [Keyhacks - A Repository Which Shows Quick Ways In Which API Keys Leaked By A Bug Bounty Program Can Be Checked To See If They'Re Valid](http://feedproxy.google.com/~r/PentestTools/~3/XNN85kEDGgM/keyhacks-repository-which-shows-quick.html)
 - [Reg1c1de - Registry Permission Scanner For Finding Potential Privesc Avenues Within Registry](http://feedproxy.google.com/~r/PentestTools/~3/U8q-dBAlnj0/reg1c1de-registry-permission-scanner.html)
 - [Speakeasy - Windows Kernel And User Mode Emulation](http://feedproxy.google.com/~r/PentestTools/~3/D9FQ9jwjf88/speakeasy-windows-kernel-and-user-mode.html)
