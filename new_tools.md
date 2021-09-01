@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [403Bypasser - Automates The Techniques Used To Circumvent Access Control Restrictions On Target Pages](http://feedproxy.google.com/~r/PentestTools/~3/UL3R5g-HqHA/403bypasser-automates-techniques-used.html)
 - [SigFlip - A Tool For Patching Authenticode Signed PE Files (Exe, Dll, Sys ..Etc) Without Invalidating Or Breaking The Existing Signature](http://feedproxy.google.com/~r/PentestTools/~3/aVNf5kjJjMA/sigflip-tool-for-patching-authenticode.html)
 - [Fpicker - A Frida-based Fuzzing Suite Supporting Various Modes (Including AFL++ In-Process Fuzzing)](http://feedproxy.google.com/~r/PentestTools/~3/al_FpYF6D0g/fpicker-frida-based-fuzzing-suite.html)
 - [Keyhacks - A Repository Which Shows Quick Ways In Which API Keys Leaked By A Bug Bounty Program Can Be Checked To See If They'Re Valid](http://feedproxy.google.com/~r/PentestTools/~3/XNN85kEDGgM/keyhacks-repository-which-shows-quick.html)
