@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [KnockOutlook - A Little Tool To Play With Outlook](http://feedproxy.google.com/~r/PentestTools/~3/iDLH5L2UZuA/knockoutlook-little-tool-to-play-with.html)
 - [Assless-Chaps - Crack MSCHAPv2 Challenge/Responses Quickly Using A Database Of NT Hashes](http://feedproxy.google.com/~r/PentestTools/~3/-YTusn0Rks8/assless-chaps-crack-mschapv2.html)
 - [403Bypasser - Automates The Techniques Used To Circumvent Access Control Restrictions On Target Pages](http://feedproxy.google.com/~r/PentestTools/~3/UL3R5g-HqHA/403bypasser-automates-techniques-used.html)
 - [SigFlip - A Tool For Patching Authenticode Signed PE Files (Exe, Dll, Sys ..Etc) Without Invalidating Or Breaking The Existing Signature](http://feedproxy.google.com/~r/PentestTools/~3/aVNf5kjJjMA/sigflip-tool-for-patching-authenticode.html)
