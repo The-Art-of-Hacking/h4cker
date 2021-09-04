@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Zuthaka - An Open Source Application Designed To Assist Red-Teaming Efforts, By Simplifying The Task Of Managing Different APTs And Other Post-Exploitation Tools](http://feedproxy.google.com/~r/PentestTools/~3/M1jwxLUQMf0/zuthaka-open-source-application.html)
 - [CobaltStrikeParser - Python parser for CobaltStrike Beacon's configuration](http://feedproxy.google.com/~r/PentestTools/~3/DLkBRbrlRNQ/cobaltstrikeparser-python-parser-for.html)
 - [MobileAudit - SAST and Malware Analysis for Android Mobile APKs](http://feedproxy.google.com/~r/PentestTools/~3/e9v2Qwc0eu4/mobileaudit-sast-and-malware-analysis.html)
 - [KnockOutlook - A Little Tool To Play With Outlook](http://feedproxy.google.com/~r/PentestTools/~3/iDLH5L2UZuA/knockoutlook-little-tool-to-play-with.html)
