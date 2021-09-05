@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GoPurple - Yet Another Shellcode Runner Consists Of Different Techniques For Evaluating Detection Capabilities Of Endpoint Security Solutions](http://feedproxy.google.com/~r/PentestTools/~3/HV3PgY89qfw/gopurple-yet-another-shellcode-runner.html)
 - [Bugs-feed - A Local Hosted Portal Where You Can Search For The Latest News, Videos, CVEs, Vulnerabilities...](http://feedproxy.google.com/~r/PentestTools/~3/NjE5h6FmU20/bugs-feed-local-hosted-portal-where-you.html)
 - [Zuthaka - An Open Source Application Designed To Assist Red-Teaming Efforts, By Simplifying The Task Of Managing Different APTs And Other Post-Exploitation Tools](http://feedproxy.google.com/~r/PentestTools/~3/M1jwxLUQMf0/zuthaka-open-source-application.html)
 - [CobaltStrikeParser - Python parser for CobaltStrike Beacon's configuration](http://feedproxy.google.com/~r/PentestTools/~3/DLkBRbrlRNQ/cobaltstrikeparser-python-parser-for.html)
