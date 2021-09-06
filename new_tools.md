@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nettacker - Automated Penetration Testing Framework](http://feedproxy.google.com/~r/PentestTools/~3/1k-7aSHxgOM/nettacker-automated-penetration-testing.html)
 - [Ligolo-Ng - An Advanced, Yet Simple, Tunneling/Pivoting Tool That Uses A TUN Interface](http://feedproxy.google.com/~r/PentestTools/~3/jShzRMiCfeo/ligolo-ng-advanced-yet-simple.html)
 - [GoPurple - Yet Another Shellcode Runner Consists Of Different Techniques For Evaluating Detection Capabilities Of Endpoint Security Solutions](http://feedproxy.google.com/~r/PentestTools/~3/HV3PgY89qfw/gopurple-yet-another-shellcode-runner.html)
 - [Bugs-feed - A Local Hosted Portal Where You Can Search For The Latest News, Videos, CVEs, Vulnerabilities...](http://feedproxy.google.com/~r/PentestTools/~3/NjE5h6FmU20/bugs-feed-local-hosted-portal-where-you.html)
