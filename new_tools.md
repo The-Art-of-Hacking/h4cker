@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpStrike - A Post Exploitation Tool Written In C# Uses Either CIM Or WMI To Query Remote Systems](http://feedproxy.google.com/~r/PentestTools/~3/J68_CzliZXY/sharpstrike-post-exploitation-tool.html)
 - [TREVORspray - A Featureful Round-Robin SOCKS Proxy And Python O365 Sprayer Based On MSOLSpray Which Uses The Microsoft Graph API](http://feedproxy.google.com/~r/PentestTools/~3/onkb_CV3sJY/trevorspray-featureful-round-robin.html)
 - [TIGMINT - OSINT (Open Source Intelligence) GUI Software Framework](http://feedproxy.google.com/~r/PentestTools/~3/0Tm-_o92Lfw/tigmint-osint-open-source-intelligence.html)
 - [Penelope - Shell Handler](http://feedproxy.google.com/~r/PentestTools/~3/QnsZG9iNOyU/penelope-shell-handler.html)
