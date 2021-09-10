@@ -4,7 +4,7 @@
 Vagrant.configure("2") do |config|
 
 #Box settings
-  config.vm.box = "offensive-security/kali-linux"
+  config.vm.box = "kalilinux/rolling"
   
 # Example for VirtualBox:
 #
