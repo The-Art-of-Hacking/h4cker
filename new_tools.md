@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [EDD - Enumerate Domain Data](http://feedproxy.google.com/~r/PentestTools/~3/yWykr_gYfy0/edd-enumerate-domain-data.html)
 - [Owt - The Most Compact WiFi Auditing Tool That Works On Command Line Linux](http://feedproxy.google.com/~r/PentestTools/~3/ardYBcdEwxg/owt-most-compact-wifi-auditing-tool.html)
 - [Graphw00F - GraphQL fingerprinting tool for GQL endpoints](http://feedproxy.google.com/~r/PentestTools/~3/5Y8vQjCH630/graphw00f-graphql-fingerprinting-tool.html)
 - [SharpStrike - A Post Exploitation Tool Written In C# Uses Either CIM Or WMI To Query Remote Systems](http://feedproxy.google.com/~r/PentestTools/~3/J68_CzliZXY/sharpstrike-post-exploitation-tool.html)
