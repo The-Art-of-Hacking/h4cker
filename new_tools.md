@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ODBParser - OSINT Tool To Search, Parse And Dump Only The Open Elasticsearch And MongoDB Directories That Have The Data You Care About Exposing](http://feedproxy.google.com/~r/PentestTools/~3/ev3M5QBZo94/odbparser-osint-tool-to-search-parse.html)
 - [Pollenisator - Collaborative Pentest Tool With Highly Customizable Tools](http://feedproxy.google.com/~r/PentestTools/~3/MKAbMDRfEaQ/pollenisator-collaborative-pentest-tool.html)
 - [Karta - Source Code Assisted Fast Binary Matching Plugin For IDA](http://feedproxy.google.com/~r/PentestTools/~3/3fLcgF_xDrE/karta-source-code-assisted-fast-binary.html)
 - [WWWGrep - OWASP Foundation Web Respository](http://feedproxy.google.com/~r/PentestTools/~3/8rvQtLS_byo/wwwgrep-owasp-foundation-web-respository.html)
