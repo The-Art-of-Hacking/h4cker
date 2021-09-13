@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Peirates - Kubernetes Penetration Testing Tool](http://feedproxy.google.com/~r/PentestTools/~3/mPr5fV37y6c/peirates-kubernetes-penetration-testing.html)
 - [Gokart - A Static Analysis Tool For Securing Go Code](http://feedproxy.google.com/~r/PentestTools/~3/UXVTFt9Ltzk/gokart-static-analysis-tool-for.html)
 - [Autoharness - A Tool That Automatically Creates Fuzzing Harnesses Based On A Library](http://feedproxy.google.com/~r/PentestTools/~3/BVqzkn1V4vI/autoharness-tool-that-automatically.html)
 - [ODBParser - OSINT Tool To Search, Parse And Dump Only The Open Elasticsearch And MongoDB Directories That Have The Data You Care About Exposing](http://feedproxy.google.com/~r/PentestTools/~3/ev3M5QBZo94/odbparser-osint-tool-to-search-parse.html)
