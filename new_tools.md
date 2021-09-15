@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Rootend - A *Nix Enumerator And Auto Privilege Escalation Tool](http://feedproxy.google.com/~r/PentestTools/~3/AOxmY5gAEKI/rootend-nix-enumerator-and-auto.html)
 - [BoobSnail - Allows Generating Excel 4.0 XLM Macro](http://feedproxy.google.com/~r/PentestTools/~3/ZlJ0Sy3bKS8/boobsnail-allows-generating-excel-40.html)
 - [targetedKerberoast - Kerberoast With ACL Abuse Capabilities](http://feedproxy.google.com/~r/PentestTools/~3/t2afWvJJ2BM/targetedkerberoast-kerberoast-with-acl.html)
 - [Peirates - Kubernetes Penetration Testing Tool](http://feedproxy.google.com/~r/PentestTools/~3/mPr5fV37y6c/peirates-kubernetes-penetration-testing.html)
