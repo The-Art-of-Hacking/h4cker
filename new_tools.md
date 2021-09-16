@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kali Linux 2021.3 - Penetration Testing and Ethical Hacking Linux Distribution](http://feedproxy.google.com/~r/PentestTools/~3/L7jNh3MCrWg/kali-linux-20213-penetration-testing.html)
 - [Vailyn - A Phased, Evasive Path Traversal + LFI Scanning & Exploitation Tool In Python](http://feedproxy.google.com/~r/PentestTools/~3/nT5Gy55GDdI/vailyn-phased-evasive-path-traversal.html)
 - [Rootend - A *Nix Enumerator And Auto Privilege Escalation Tool](http://feedproxy.google.com/~r/PentestTools/~3/AOxmY5gAEKI/rootend-nix-enumerator-and-auto.html)
 - [BoobSnail - Allows Generating Excel 4.0 XLM Macro](http://feedproxy.google.com/~r/PentestTools/~3/ZlJ0Sy3bKS8/boobsnail-allows-generating-excel-40.html)
