@@ -17,6 +17,8 @@ Note: The folks at Offensive Security have created a free training and book that
 
 - [Offensive Docker](https://github.com/aaaguirrep/pentest): Image with the more used tools to create a pentest environment easily and quickly.
 
+- [PwnMachine by YesWeHack](https://github.com/yeswehack/pwn-machine): a self hosting solution based on docker aiming to provide an easy to use pwning station for bug hunters. The basic install include a web interface, a DNS server and a reverse proxy.
+
 ## Vulnerable Servers and Applications
 
 There are several intentionally vulnerable applications and virtual machines that you can deploy in a lab (safe) environment to practice your skills. You can also run some of them in Docker containers. 
