@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [On-The-Fly - Tool  Which Gives Capabilities To Perform Pentesting Tests In Several Domains (IoT, ICS & IT)](http://feedproxy.google.com/~r/PentestTools/~3/Ir0jOgIne4w/on-fly-tool-which-gives-capabilities-to.html)
 - [DNSTake - A Fast Tool To Check Missing Hosted DNS Zones That Can Lead To Subdomain Takeover](http://feedproxy.google.com/~r/PentestTools/~3/FVcZf9Ub77E/dnstake-fast-tool-to-check-missing.html)
 - [CVE-2021-40444 PoC - Malicious docx generator to exploit CVE-2021-40444 (Microsoft Office Word Remote Code Execution)](http://feedproxy.google.com/~r/PentestTools/~3/LWE03MWYTeY/cve-2021-40444-poc-malicious-docx.html)
 - [Plution - Prototype Pollution Scanner Using Headless Chrome](http://feedproxy.google.com/~r/PentestTools/~3/GFNOPRWcYV0/plution-prototype-pollution-scanner.html)
