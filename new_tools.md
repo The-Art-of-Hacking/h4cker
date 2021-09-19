@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [InlineExecute-Assembly - A PoC Beacon Object File (BOF) That Allows Security Professionals To Perform In Process .NET Assembly Execution](http://feedproxy.google.com/~r/PentestTools/~3/OMysaUjdez8/inlineexecute-assembly-poc-beacon.html)
 - [QLOG - Windows Security Logging](http://feedproxy.google.com/~r/PentestTools/~3/RYfab7WQ10s/qlog-windows-security-logging.html)
 - [BatchQL - GraphQL Security Auditing Script With A Focus On Performing Batch GraphQL Queries And Mutations](http://feedproxy.google.com/~r/PentestTools/~3/SwAM0mx-n-Q/batchql-graphql-security-auditing.html)
 - [Concealed Position - Bring Your Own Print Driver Privilege Escalation Tool](http://feedproxy.google.com/~r/PentestTools/~3/2DO3NvabZho/concealed-position-bring-your-own-print.html)
