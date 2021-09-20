@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CrowdSec - An Open-Source Massively Multiplayer Firewall Able To Analyze Visitor Behavior And Provide An Adapted Response To All Kinds Of Attacks](http://feedproxy.google.com/~r/PentestTools/~3/gG9kwuvxeY8/crowdsec-open-source-massively.html)
 - [PS2EXE - Module To Compile Powershell Scripts To Executables](http://feedproxy.google.com/~r/PentestTools/~3/4GCtqIm0RZA/ps2exe-module-to-compile-powershell.html)
 - [InlineExecute-Assembly - A PoC Beacon Object File (BOF) That Allows Security Professionals To Perform In Process .NET Assembly Execution](http://feedproxy.google.com/~r/PentestTools/~3/OMysaUjdez8/inlineexecute-assembly-poc-beacon.html)
 - [QLOG - Windows Security Logging](http://feedproxy.google.com/~r/PentestTools/~3/RYfab7WQ10s/qlog-windows-security-logging.html)
