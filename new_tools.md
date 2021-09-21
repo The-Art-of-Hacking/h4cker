@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PyHook - An Offensive API Hooking Tool Written In Python Designed To Catch Various Credentials Within The API Call](http://feedproxy.google.com/~r/PentestTools/~3/i9bydF92nT4/pyhook-offensive-api-hooking-tool.html)
 - [MailRipV2 - Improved SMTP Checker / SMTP Cracker With Proxy-Support, Inbox Test And Many More Features](http://feedproxy.google.com/~r/PentestTools/~3/lZVzuxef1ks/mailripv2-improved-smtp-checker-smtp.html)
 - [CrowdSec - An Open-Source Massively Multiplayer Firewall Able To Analyze Visitor Behavior And Provide An Adapted Response To All Kinds Of Attacks](http://feedproxy.google.com/~r/PentestTools/~3/gG9kwuvxeY8/crowdsec-open-source-massively.html)
 - [PS2EXE - Module To Compile Powershell Scripts To Executables](http://feedproxy.google.com/~r/PentestTools/~3/4GCtqIm0RZA/ps2exe-module-to-compile-powershell.html)
