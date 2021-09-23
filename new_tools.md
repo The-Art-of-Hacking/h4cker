@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [JSPanda - Client-Side Prototype Pullution Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/KjYw519PYXo/jspanda-client-side-prototype-pullution.html)
 - [Wordlistgen - Quickly Generate Context-Specific Wordlists For Content Discovery From Lists Of URLs Or Paths](http://feedproxy.google.com/~r/PentestTools/~3/GRG_wZ0LS6o/wordlistgen-quickly-generate-context.html)
 - [AES256_Passwd_Store - Secure Open-Source Password Manager](http://feedproxy.google.com/~r/PentestTools/~3/-DNEyil7GdE/aes256passwdstore-secure-open-source.html)
 - [DirSearch - A Go Implementation Of Dirsearch](http://feedproxy.google.com/~r/PentestTools/~3/9BLvnet-WEI/dirsearch-go-implementation-of-dirsearch.html)
