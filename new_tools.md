@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Haklistgen - Turns Any Junk Text Into A Usable Wordlist For Brute-Forcing](http://feedproxy.google.com/~r/PentestTools/~3/jKyaaIf77tQ/haklistgen-turns-any-junk-text-into.html)
 - [Reconky - A Great Content Discovery Bash Script For Bug Bounty Hunters Which Automate Lot Of Task And Organized It](http://feedproxy.google.com/~r/PentestTools/~3/lZ-2AjIZmaE/reconky-great-content-discovery-bash.html)
 - [JSPanda - Client-Side Prototype Pullution Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/KjYw519PYXo/jspanda-client-side-prototype-pullution.html)
 - [Wordlistgen - Quickly Generate Context-Specific Wordlists For Content Discovery From Lists Of URLs Or Paths](http://feedproxy.google.com/~r/PentestTools/~3/GRG_wZ0LS6o/wordlistgen-quickly-generate-context.html)
