@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DongTai - An Interactive Application Security testing(IAST) Product That Supports The Detection Of OWASP WEB TOP 10 Vulnerabilities, Multi-Request Related Vulnerabilities (Including Logic Vulnerabilities, Unauthorized Access Vulnerabilities, Etc.), Third-Party Component Vulnerabilities, Etc.](http://feedproxy.google.com/~r/PentestTools/~3/Nh9bfWuJlu4/dongtai-interactive-application.html)
 - [QueenSono - Golang Binary For Data Exfiltration With ICMP Protocol](http://feedproxy.google.com/~r/PentestTools/~3/yjtSw5APOBY/queensono-golang-binary-for-data.html)
 - [PoW-Shield - Project Dedicated To Fight DDoS And Spam With Proof Of Work, Featuring An Additional WA](http://feedproxy.google.com/~r/PentestTools/~3/hdNsinW4eGU/pow-shield-project-dedicated-to-fight.html)
 - [Haklistgen - Turns Any Junk Text Into A Usable Wordlist For Brute-Forcing](http://feedproxy.google.com/~r/PentestTools/~3/jKyaaIf77tQ/haklistgen-turns-any-junk-text-into.html)
