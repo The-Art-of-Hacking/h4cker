@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpSpray - Active Directory Password Spraying Tool. Auto Fetches User List And Avoids Potential Lockouts](http://feedproxy.google.com/~r/PentestTools/~3/rJEwDTYMExM/sharpspray-active-directory-password.html)
 - [StreamDivert - Redirecting (Specific) TCP, UDP And ICMP Traffic To Another Destination](http://feedproxy.google.com/~r/PentestTools/~3/WhvVHceGOT0/streamdivert-redirecting-specific-tcp.html)
 - [Cloudquery - Transforms Your Cloud Infrastructure Into SQL Database For Easy Monitoring, Governance And Security](http://feedproxy.google.com/~r/PentestTools/~3/jA9ZBHWIEaw/cloudquery-transforms-your-cloud.html)
 - [JadedWraith - Light-weight UNIX Backdoor](http://feedproxy.google.com/~r/PentestTools/~3/JwOqxOz8Tpg/jadedwraith-light-weight-unix-backdoor.html)
