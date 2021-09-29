@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kodex - A Privacy And Security Engineering Toolkit: Discover, Understand, Pseudonymize, Anonymize, Encrypt And Securely Share Sensitive And Personal Data: Privacy And Security As Code](http://feedproxy.google.com/~r/PentestTools/~3/w0OPtiiYjn0/kodex-privacy-and-security-engineering.html)
 - [LittleCorporal - A C# Automated Maldoc Generator](http://feedproxy.google.com/~r/PentestTools/~3/cHo6-nT03MA/littlecorporal-c-automated-maldoc.html)
 - [SharpSpray - Active Directory Password Spraying Tool. Auto Fetches User List And Avoids Potential Lockouts](http://feedproxy.google.com/~r/PentestTools/~3/rJEwDTYMExM/sharpspray-active-directory-password.html)
 - [StreamDivert - Redirecting (Specific) TCP, UDP And ICMP Traffic To Another Destination](http://feedproxy.google.com/~r/PentestTools/~3/WhvVHceGOT0/streamdivert-redirecting-specific-tcp.html)
