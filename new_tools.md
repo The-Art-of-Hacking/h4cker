@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PKINITtools - Tools For Kerberos PKINIT And Relaying To AD CS](http://feedproxy.google.com/~r/PentestTools/~3/IiXFP04JS1Q/pkinittools-tools-for-kerberos-pkinit.html)
 - [SharpML - Machine Learning Network Share Password Hunting Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/yLHH2NeKXEo/sharpml-machine-learning-network-share.html)
 - [Webstor - A Script To Quickly Enumerate All Websites Across All Of Your Organization'S Networks, Store Their Responses, And Query For Known Web Technologies, Such As Those With Zero-Day Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/n_OJpQTHbog/webstor-script-to-quickly-enumerate-all.html)
 - [Kodex - A Privacy And Security Engineering Toolkit: Discover, Understand, Pseudonymize, Anonymize, Encrypt And Securely Share Sensitive And Personal Data: Privacy And Security As Code](http://feedproxy.google.com/~r/PentestTools/~3/w0OPtiiYjn0/kodex-privacy-and-security-engineering.html)
