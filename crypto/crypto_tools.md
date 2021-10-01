@@ -1,5 +1,5 @@
 # Cryptography Ethical Hacking Tools
-The following list does not include cracking tools. It includes some of the most popular tools to test crypto implementations.
+The following list includes some of the most popular tools to test crypto implementations.
 
 
 <table class="table">
