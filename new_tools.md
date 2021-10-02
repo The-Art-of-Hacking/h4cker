@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LeakDB - Web-Scale NoSQL Idempotent Cloud-Native Big-Data Serverless Plaintext Credential Search](http://feedproxy.google.com/~r/PentestTools/~3/HH-rLzC8CmU/leakdb-web-scale-nosql-idempotent-cloud.html)
 - [Kekeo - A Little Toolbox To Play With Microsoft Kerberos In C](http://feedproxy.google.com/~r/PentestTools/~3/79MeWbwODY4/kekeo-little-toolbox-to-play-with.html)
 - [Pwncat - Fancy Reverse And Bind Shell Handler](http://feedproxy.google.com/~r/PentestTools/~3/VxgChsw38Qk/pwncat-fancy-reverse-and-bind-shell.html)
 - [Certify - Active Directory Certificate Abuse](http://feedproxy.google.com/~r/PentestTools/~3/sY-oxNvbm64/certify-active-directory-certificate.html)
