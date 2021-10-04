@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bopscrk - Tool To Generate Smart And Powerful Wordlists](http://feedproxy.google.com/~r/PentestTools/~3/tVnIBBKBI-c/bopscrk-tool-to-generate-smart-and.html)
 - [AutomatedLab - A Provisioning Solution And Framework That Lets You Deploy Complex Labs On HyperV And Azure With Simple PowerShell Scripts](http://feedproxy.google.com/~r/PentestTools/~3/f2dNEhwRatY/automatedlab-provisioning-solution-and.html)
 - [efiXplorer - IDA Plugin For UEFI Firmware Analysis And Reverse Engineering Automation](http://feedproxy.google.com/~r/PentestTools/~3/EOgwR1mGuz8/efixplorer-ida-plugin-for-uefi-firmware.html)
 - [LeakDB - Web-Scale NoSQL Idempotent Cloud-Native Big-Data Serverless Plaintext Credential Search](http://feedproxy.google.com/~r/PentestTools/~3/HH-rLzC8CmU/leakdb-web-scale-nosql-idempotent-cloud.html)
