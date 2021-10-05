@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CarPunk - The Car Hacking Toolkit](http://feedproxy.google.com/~r/PentestTools/~3/GsLUHFbclmc/carpunk-car-hacking-toolkit.html)
 - [BurpCrypto - A Collection Of Burpsuite Encryption Plug-Ins, Support AES/RSA/DES/ExecJs(execute JS Encryption Code In Burpsuite)](http://feedproxy.google.com/~r/PentestTools/~3/qaQ9L4eSaAI/burpcrypto-collection-of-burpsuite.html)
 - [Bopscrk - Tool To Generate Smart And Powerful Wordlists](http://feedproxy.google.com/~r/PentestTools/~3/tVnIBBKBI-c/bopscrk-tool-to-generate-smart-and.html)
 - [AutomatedLab - A Provisioning Solution And Framework That Lets You Deploy Complex Labs On HyperV And Azure With Simple PowerShell Scripts](http://feedproxy.google.com/~r/PentestTools/~3/f2dNEhwRatY/automatedlab-provisioning-solution-and.html)
