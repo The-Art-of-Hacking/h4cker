@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Covert-Tube - Youtube As Covert-Channel - Control Systems Remotely And Execute Commands By Uploading Videos To Youtube](http://feedproxy.google.com/~r/PentestTools/~3/m5mQp-AUSfc/covert-tube-youtube-as-covert-channel.html)
 - [Attack-Surface-Framework - Tool To Discover External And Internal Network Attack Surface](http://feedproxy.google.com/~r/PentestTools/~3/ItlxzRQG16Q/attack-surface-framework-tool-to.html)
 - [SpoolSploit - A Collection Of Windows Print Spooler Exploits Containerized With Other Utilities For Practical Exploitation](http://feedproxy.google.com/~r/PentestTools/~3/gQfX9VnOHyc/spoolsploit-collection-of-windows-print.html)
 - [Smersh - A Pentest Oriented Collaborative Tool Used To Track The Progress Of Your Company'S Missions](http://feedproxy.google.com/~r/PentestTools/~3/ytnkMByZc9s/smersh-pentest-oriented-collaborative.html)
