@@ -10,7 +10,7 @@
 - [ironssh](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
 - [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
-- [Tomb](https://github.com/dyne/Tomb)
+- [Tomb](https://github.com/dyne/Tomb) - easy encryption and backup of personal files.
 - [ves](https://ves.host/docs/ves-util) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 - [git-secret](https://sobolevn.github.io/git-secret/) - Bash-tool to store your private data inside a git repository.
