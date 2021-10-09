@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AF-ShellHunter - Auto Shell Lookup](http://feedproxy.google.com/~r/PentestTools/~3/subWGZyFiO8/af-shellhunter-auto-shell-lookup.html)
 - [Viper - Intranet Pentesting Tool With Webui](http://feedproxy.google.com/~r/PentestTools/~3/abBX2bHMdvY/viper-intranet-pentesting-tool-with.html)
 - [Covert-Tube - Youtube As Covert-Channel - Control Systems Remotely And Execute Commands By Uploading Videos To Youtube](http://feedproxy.google.com/~r/PentestTools/~3/m5mQp-AUSfc/covert-tube-youtube-as-covert-channel.html)
 - [Attack-Surface-Framework - Tool To Discover External And Internal Network Attack Surface](http://feedproxy.google.com/~r/PentestTools/~3/ItlxzRQG16Q/attack-surface-framework-tool-to.html)
