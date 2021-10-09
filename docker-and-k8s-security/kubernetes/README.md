@@ -3,6 +3,7 @@
 ## Resources from k8s, Cloud Native Foundation, and Others
 - [Kubernetes.io](https://kubernetes.io/)
 - [Kubernetes GitHub](https://github.com/kubernetes/kubernetes)
+- [NSA Kubernetes Hardening Guidance](https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
 - [Kubernetes Security and Disclosure Information](https://kubernetes.io/docs/reference/issues-security/security/)
 - [Cloud Native Security](https://kubernetes.io/docs/concepts/security/overview/)
 - [Pod Security Standards](https://kubernetes.io/docs/concepts/security/pod-security-standards/)
