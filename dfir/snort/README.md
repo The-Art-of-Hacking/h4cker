@@ -2,6 +2,7 @@
 
 - [Snort Documents](https://snort.org/documents)
 - [Snort Manual](https://github.com/snort3/snort3/releases/download/3.1.6.0/snort_user.pdf)
+- [Snort Rules Writing Guide](https://snort-org-site.s3.amazonaws.com/production/document_files/files/000/000/596/original/Rules_Writers_Guide_to_Snort_3_Rules.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIXACIED2SPMSC7GA%2F20211011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211011T165700Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=1d5134d3a84db0f7b1ece95fcf98387a0cc32ff131b6c95e6a80d3cd4b616a5c)
 
 ## Snort Docker Container
 
