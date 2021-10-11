@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Azur3Alph4 - A PowerShell Module That Automates Red-Team Tasks For Ops On Objective](http://feedproxy.google.com/~r/PentestTools/~3/YwVyBC5FquY/azur3alph4-powershell-module-that.html)
 - [BruteLoops - Protocol Agnostic Online Password Guessing API](http://feedproxy.google.com/~r/PentestTools/~3/wwR0hGoKq-Y/bruteloops-protocol-agnostic-online.html)
 - [FUSE - A Penetration Testing Tool For Finding File Upload Bugs](http://feedproxy.google.com/~r/PentestTools/~3/qb0qD_9M5no/fuse-penetration-testing-tool-for.html)
 - [Qu1cksc0pe - All-in-One Static Malware Analysis Tool](http://feedproxy.google.com/~r/PentestTools/~3/ys6mOCgDrS8/qu1cksc0pe-all-in-one-static-malware.html)
