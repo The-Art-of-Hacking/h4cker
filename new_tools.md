@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Shisho - Lightweight Static Analyzer For Several Programming Languages](http://feedproxy.google.com/~r/PentestTools/~3/9rRB_tnw4YY/shisho-lightweight-static-analyzer-for.html)
 - [LinuxCatScale - Incident Response Collection And Processing Scripts With Automated Reporting Scripts](http://feedproxy.google.com/~r/PentestTools/~3/vDw0z1GeXfE/linuxcatscale-incident-response.html)
 - [Azur3Alph4 - A PowerShell Module That Automates Red-Team Tasks For Ops On Objective](http://feedproxy.google.com/~r/PentestTools/~3/YwVyBC5FquY/azur3alph4-powershell-module-that.html)
 - [BruteLoops - Protocol Agnostic Online Password Guessing API](http://feedproxy.google.com/~r/PentestTools/~3/wwR0hGoKq-Y/bruteloops-protocol-agnostic-online.html)
