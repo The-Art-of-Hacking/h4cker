@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Xmap - A Fast Network Scanner Designed For Performing Internet-wide IPv6 &Amp; IPv4 Network Research Scanning](http://feedproxy.google.com/~r/PentestTools/~3/ltQ_QnrDSGo/xmap-fast-network-scanner-designed-for.html)
 - [PowerShx - Run Powershell Without Software Restrictions](http://feedproxy.google.com/~r/PentestTools/~3/QOHWfv3DTV4/powershx-run-powershell-without.html)
 - [Rdesktop - Open Source Client for Microsoft's RDP protocol](http://feedproxy.google.com/~r/PentestTools/~3/tgfbjNKOzJU/rdesktop-open-source-client-for.html)
 - [Shisho - Lightweight Static Analyzer For Several Programming Languages](http://feedproxy.google.com/~r/PentestTools/~3/9rRB_tnw4YY/shisho-lightweight-static-analyzer-for.html)
