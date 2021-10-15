@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Networkit - A Growing Open-Source Toolkit For Large-Scale Network Analysis](http://feedproxy.google.com/~r/PentestTools/~3/APyByCQkyB4/networkit-growing-open-source-toolkit.html)
 - [ForgeCert - "Golden" Certificates](http://feedproxy.google.com/~r/PentestTools/~3/xon0uLv8Tq8/forgecert-golden-certificates.html)
 - [Xmap - A Fast Network Scanner Designed For Performing Internet-wide IPv6 &Amp; IPv4 Network Research Scanning](http://feedproxy.google.com/~r/PentestTools/~3/ltQ_QnrDSGo/xmap-fast-network-scanner-designed-for.html)
 - [PowerShx - Run Powershell Without Software Restrictions](http://feedproxy.google.com/~r/PentestTools/~3/QOHWfv3DTV4/powershx-run-powershell-without.html)
