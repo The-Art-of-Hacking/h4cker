@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DorkScout - Golang Tool To Automate Google Dork Scan Against The Entiere Internet Or Specific Targets](http://feedproxy.google.com/~r/PentestTools/~3/j0heDM-lqiE/dorkscout-golang-tool-to-automate.html)
 - [Domain-Protect - Protect Against Subdomain Takeover](http://feedproxy.google.com/~r/PentestTools/~3/OnGaSHB3eUI/domain-protect-protect-against.html)
 - [Packet-Sniffer - A pure-Python Network Packet Sniffing Tool](http://feedproxy.google.com/~r/PentestTools/~3/OJ0nyfCCzAY/packet-sniffer-pure-python-network.html)
 - [Crawlergo - A Powerful Browser Crawler For Web Vulnerability Scanners](http://feedproxy.google.com/~r/PentestTools/~3/Vzcn4MyEzto/crawlergo-powerful-browser-crawler-for.html)
