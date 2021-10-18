@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ImpulsiveDLLHijack - C# Based Tool Which Automates The Process Of Discovering And Exploiting DLL Hijacks In Target Binaries](http://feedproxy.google.com/~r/PentestTools/~3/2borWVTuDHQ/impulsivedllhijack-c-based-tool-which.html)
 - [Fapro - Free, Cross-platform, Single-file mass network protocol server simulator](http://feedproxy.google.com/~r/PentestTools/~3/CnJZy6huyrw/fapro-free-cross-platform-single-file.html)
 - [DorkScout - Golang Tool To Automate Google Dork Scan Against The Entiere Internet Or Specific Targets](http://feedproxy.google.com/~r/PentestTools/~3/j0heDM-lqiE/dorkscout-golang-tool-to-automate.html)
 - [Domain-Protect - Protect Against Subdomain Takeover](http://feedproxy.google.com/~r/PentestTools/~3/OnGaSHB3eUI/domain-protect-protect-against.html)
