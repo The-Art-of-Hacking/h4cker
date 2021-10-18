@@ -1,2 +1,9 @@
-# threat-hunting-analysis
-Threat Hunting Analysis labs
+# Threat Hunting Analysis
+Threat Hunting Analysis labs for live training: "Cybersecurity Defender in 4 Weeks: Think Like an Attacker - Breach Prevention and Detection".
+
+This four-day training provides hands-on and real-world incident response exercises covering topics such as threat intelligence, threat hunting, orchestration, automation, security monitoring, and incident response methodologies. Learn how to use the most current and useful tools available, including Security Onion, Suricata, Zeek (formerly known as Bro), Fleet, HUNT, osquery, TheHive, Elasticsearch, logstash, and Kibana (ELK), Caldera, Atomic Red Team, Metasploit, Maltego, Yeti, and many others. You will learn how these tools can be used in combination with the MITRE ATT&CK Framework to perform threat hunting and adversarial simulation or emulation. This training is also a great way to gain the extra insight needed to help pass a number of certifications, including CISSP, CompTIA Security+, CompTIA CySA+, CompTIA CASP+, GSEC, GNFA, GCTI, Cisco's CyberOps Associate and CyberOps Professional.
+
+## Relevant Files within this Folder
+- [http.log](http.log): the log file to be analyzed.
+- [HTTP Nmap Indicator Detection.ipynb](https://github.com/The-Art-of-Hacking/h4cker/blob/master/dfir/threat-hunting-analysis-main/HTTP%20Nmap%20Indicator%20Detection.ipynb): Jupyter Notebook for detecting the HTTP Nmap indicators.  Uses [matplotlib](https://matplotlib.org/) and [numpy](https://numpy.org/). 
+- [Detecting Nmap Behavior with Bro HTTP Logs.ipynb](https://github.com/The-Art-of-Hacking/h4cker/blob/master/dfir/threat-hunting-analysis-main/Detecting%20Nmap%20Behavior%20with%20Bro%20HTTP%20Logs.ipynb): Jupyter Notebook for detecting the scan using Zeek (formerly known as Bro). Uses [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/), and [pandas](https://pandas.pydata.org/). 
