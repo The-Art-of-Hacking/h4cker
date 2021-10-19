@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LazyCSRF - A More Useful CSRF PoC Generator](http://feedproxy.google.com/~r/PentestTools/~3/x-MbT93aUIE/lazycsrf-more-useful-csrf-poc-generator.html)
 - [Karma_V2 - A Passive Open Source Intelligence (OSINT) Automated Reconnaissance (Framework)](http://feedproxy.google.com/~r/PentestTools/~3/R6ga1P5yE_E/karmav2-passive-open-source.html)
 - [Inceptor - Template-Driven AV/EDR Evasion Framework](http://feedproxy.google.com/~r/PentestTools/~3/IOpkwQ8RfqE/inceptor-template-driven-avedr-evasion.html)
 - [ImpulsiveDLLHijack - C# Based Tool Which Automates The Process Of Discovering And Exploiting DLL Hijacks In Target Binaries](http://feedproxy.google.com/~r/PentestTools/~3/2borWVTuDHQ/impulsivedllhijack-c-based-tool-which.html)
