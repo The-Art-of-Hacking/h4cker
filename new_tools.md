@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Metabadger - Prevent SSRF Attacks On AWS EC2 Via Automated Upgrades To The More Secure Instance Metadata Service V2 (IMDSv2)](http://feedproxy.google.com/~r/PentestTools/~3/PwLgmrEsls4/metabadger-prevent-ssrf-attacks-on-aws.html)
 - [Limelighter - A Tool For Generating Fake Code Signing Certificates Or Signing Real Ones](http://feedproxy.google.com/~r/PentestTools/~3/J9jpNvhhI4M/limelighter-tool-for-generating-fake.html)
 - [LazyCSRF - A More Useful CSRF PoC Generator](http://feedproxy.google.com/~r/PentestTools/~3/x-MbT93aUIE/lazycsrf-more-useful-csrf-poc-generator.html)
 - [Karma_V2 - A Passive Open Source Intelligence (OSINT) Automated Reconnaissance (Framework)](http://feedproxy.google.com/~r/PentestTools/~3/R6ga1P5yE_E/karmav2-passive-open-source.html)
