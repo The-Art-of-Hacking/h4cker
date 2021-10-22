@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PowerShx - Run Powershell Without Software Restrictions](http://feedproxy.google.com/~r/PentestTools/~3/x_toIpDzAM0/powershx-run-powershell-without_0539831274.html)
 - [PortBender - TCP Port Redirection Utility](http://feedproxy.google.com/~r/PentestTools/~3/O1I1TogLMyU/portbender-tcp-port-redirection-utility.html)
 - [PEASS-ng - Privilege Escalation Awesome Scripts SUITE new generation](http://feedproxy.google.com/~r/PentestTools/~3/wJhUdlf1qeE/peass-ng-privilege-escalation-awesome.html)
 - [NTFSTool - Forensics Tool For NTFS (Parser, MTF, Bitlocker, Deleted Files)](http://feedproxy.google.com/~r/PentestTools/~3/t5Sd7kW6OSw/ntfstool-forensics-tool-for-ntfs-parser.html)
