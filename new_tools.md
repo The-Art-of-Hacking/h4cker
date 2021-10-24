@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Terra - OSINT Tool On Twitter And Instagram](http://feedproxy.google.com/~r/PentestTools/~3/AllG-KrOBVo/terra-osint-tool-on-twitter-and.html)
 - [SysFlow - Cloud-native System Telemetry Pipeline](http://feedproxy.google.com/~r/PentestTools/~3/-QhN4dZQpGY/sysflow-cloud-native-system-telemetry.html)
 - [SubCrawl - A Modular Framework For Discovering Open Directories, Identifying Unique Content Through Signatures And Organizing The Data With Optional Output Modules, Such As MISP](http://feedproxy.google.com/~r/PentestTools/~3/hgb_KHFgats/subcrawl-modular-framework-for.html)
 - [PowerShx - Run Powershell Without Software Restrictions](http://feedproxy.google.com/~r/PentestTools/~3/x_toIpDzAM0/powershx-run-powershell-without_0539831274.html)
