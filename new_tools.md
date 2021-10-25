@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [VECTR - A Tool That Facilitates Tracking Of Your Red And Blue Team Testing Activities To Measure Detection And Prevention Capabilities Across Different Attack Scenarios](http://feedproxy.google.com/~r/PentestTools/~3/W7FX4P3lR1A/vectr-tool-that-facilitates-tracking-of.html)
 - [ThreadStackSpoofer - PoC For An Advanced In-Memory Evasion Technique Allowing To Better Hide Injected Shellcode'S Memory Allocation From Scanners And Analysts](http://feedproxy.google.com/~r/PentestTools/~3/UWXjxJVJErg/threadstackspoofer-poc-for-advanced-in.html)
 - [Terra - OSINT Tool On Twitter And Instagram](http://feedproxy.google.com/~r/PentestTools/~3/AllG-KrOBVo/terra-osint-tool-on-twitter-and.html)
 - [SysFlow - Cloud-native System Telemetry Pipeline](http://feedproxy.google.com/~r/PentestTools/~3/-QhN4dZQpGY/sysflow-cloud-native-system-telemetry.html)
