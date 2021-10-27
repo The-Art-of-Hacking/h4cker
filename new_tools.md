@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Lorsrf - SSRF Parameter Bruteforce](http://feedproxy.google.com/~r/PentestTools/~3/M8KciApVxSg/lorsrf-ssrf-parameter-bruteforce.html)
 - [Keeweb - Free Cross-Platform Password Manager Compatible With KeePass](http://feedproxy.google.com/~r/PentestTools/~3/ZqdnszgOOM0/keeweb-free-cross-platform-password.html)
 - [Mediator - An Extensible, End-To-End Encrypted Reverse Shell With A Novel Approach To Its Architecture](http://feedproxy.google.com/~r/PentestTools/~3/JxbKF0rqHSg/mediator-extensible-end-to-end.html)
 - [Webdiscover - The Purpose Of This Script Is To Automate The Web Enumeration Process And Search For Exploits](http://feedproxy.google.com/~r/PentestTools/~3/ZKxlFwj14UI/webdiscover-purpose-of-this-script-is.html)
