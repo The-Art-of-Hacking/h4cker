@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HTTPUploadExfil - A Simple HTTP Server For Exfiltrating Files/Data During, For Example, CTFs](http://feedproxy.google.com/~r/PentestTools/~3/7BhOqREsxrI/httpuploadexfil-simple-http-server-for.html)
 - [DonPAPI - Dumping DPAPI Credz Remotely](http://feedproxy.google.com/~r/PentestTools/~3/6sVzDunmsiY/donpapi-dumping-dpapi-credz-remotely.html)
 - [Clash - A Rule-Based Tunnel In Go](http://feedproxy.google.com/~r/PentestTools/~3/E4kHYd9ksh4/clash-rule-based-tunnel-in-go.html)
 - [Lorsrf - SSRF Parameter Bruteforce](http://feedproxy.google.com/~r/PentestTools/~3/M8KciApVxSg/lorsrf-ssrf-parameter-bruteforce.html)
