@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Http-Protocol-Exfil - Exfiltrate Files Using The HTTP Protocol Version ("HTTP/1.0" Is A 0 And "HTTP/1.1" Is A 1)](http://feedproxy.google.com/~r/PentestTools/~3/og4CpW83aso/http-protocol-exfil-exfiltrate-files.html)
 - [HTTPUploadExfil - A Simple HTTP Server For Exfiltrating Files/Data During, For Example, CTFs](http://feedproxy.google.com/~r/PentestTools/~3/7BhOqREsxrI/httpuploadexfil-simple-http-server-for.html)
 - [DonPAPI - Dumping DPAPI Credz Remotely](http://feedproxy.google.com/~r/PentestTools/~3/6sVzDunmsiY/donpapi-dumping-dpapi-credz-remotely.html)
 - [Clash - A Rule-Based Tunnel In Go](http://feedproxy.google.com/~r/PentestTools/~3/E4kHYd9ksh4/clash-rule-based-tunnel-in-go.html)
