@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PeTeReport - An Open-Source Application Vulnerability Reporting Tool](http://feedproxy.google.com/~r/PentestTools/~3/6lwkVPX2eP8/petereport-open-source-application.html)
 - [Dockerized-Android - A Container-Based Framework To Enable The Integration Of Mobile Components In Security Training Platforms](http://feedproxy.google.com/~r/PentestTools/~3/SCuXI_UPSk4/dockerized-android-container-based.html)
 - [GC2 - A Command And Control Application That Allows An Attacker To Execute Commands On The Target Machine Using Google Sheet And Exfiltrate Data Using Google Drive](http://feedproxy.google.com/~r/PentestTools/~3/cz7YJpJ3GSo/gc2-command-and-control-application.html)
 - [Scarce-Apache2 - A Framework For Bug Hunting Or Pentesting Targeting Websites That Have CVE-2021-41773 Vulnerability In Public](http://feedproxy.google.com/~r/PentestTools/~3/8_TI1-FA7is/scarce-apache2-framework-for-bug.html)
