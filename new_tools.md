@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LDAPmonitor - Monitor Creation, Deletion And Changes To LDAP Objects Live During Your Pentest Or System Administration!](http://feedproxy.google.com/~r/PentestTools/~3/QhbZDWrvsf8/ldapmonitor-monitor-creation-deletion.html)
 - [TIWAP - Totally Insecure Web Application Project](http://feedproxy.google.com/~r/PentestTools/~3/ryaDOslOPo0/tiwap-totally-insecure-web-application.html)
 - [HandleKatz - PIC Lsass Dumper Using Cloned Handles](http://feedproxy.google.com/~r/PentestTools/~3/l-0eZWXudvo/handlekatz-pic-lsass-dumper-using.html)
 - [ADLab - Custom PowerShell Module To Setup An Active Directory Lab Environment To Practice Penetration Testing](http://feedproxy.google.com/~r/PentestTools/~3/ODPn-u28lGI/adlab-custom-powershell-module-to-setup.html)
