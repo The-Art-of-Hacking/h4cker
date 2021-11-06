@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Smuggler - An HTTP Request Smuggling / Desync Testing Tool](http://feedproxy.google.com/~r/PentestTools/~3/qzTgEKQeN0o/smuggler-http-request-smuggling-desync.html)
 - [Certipy - Python Implementation For Active Directory Certificate Abuse](http://feedproxy.google.com/~r/PentestTools/~3/BbAXzJqZvIs/certipy-python-implementation-for.html)
 - [Tor-Rootkit - A Python 3 Standalone Windows 10 / Linux Rootkit Using Tor](http://feedproxy.google.com/~r/PentestTools/~3/90ux4gBXcFE/tor-rootkit-python-3-standalone-windows.html)
 - [PyRDP - RDP Monster-In-The-Middle (Mitm) And Library For Python With The Ability To Watch Connections Live Or After The Fact](http://feedproxy.google.com/~r/PentestTools/~3/NPqVgUfEnv4/pyrdp-rdp-monster-in-middle-mitm-and.html)
