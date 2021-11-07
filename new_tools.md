@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hashdb-Ida - HashDB API Hash Lookup Plugin For IDA Pro](http://feedproxy.google.com/~r/PentestTools/~3/o-e69-Jlipo/hashdb-ida-hashdb-api-hash-lookup.html)
 - [Etl-Parser - Event Trace Log File Parser In Pure Python](http://feedproxy.google.com/~r/PentestTools/~3/hZwlZkWKuxg/etl-parser-event-trace-log-file-parser.html)
 - [Smuggler - An HTTP Request Smuggling / Desync Testing Tool](http://feedproxy.google.com/~r/PentestTools/~3/qzTgEKQeN0o/smuggler-http-request-smuggling-desync.html)
 - [Certipy - Python Implementation For Active Directory Certificate Abuse](http://feedproxy.google.com/~r/PentestTools/~3/BbAXzJqZvIs/certipy-python-implementation-for.html)
