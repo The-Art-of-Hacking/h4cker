@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ddosify - High-performance Load Testing Tool](http://feedproxy.google.com/~r/PentestTools/~3/d-bwUREmCJM/ddosify-high-performance-load-testing.html)
 - [Koppeling - Adaptive DLL Hijacking / Dynamic Export Forwarding](http://feedproxy.google.com/~r/PentestTools/~3/5x-AiuigbLo/koppeling-adaptive-dll-hijacking.html)
 - [Kunyu - More Efficient Corporate Asset Collection](http://feedproxy.google.com/~r/PentestTools/~3/rptEYYjcdOs/kunyu-more-efficient-corporate-asset.html)
 - [Hashdb-Ida - HashDB API Hash Lookup Plugin For IDA Pro](http://feedproxy.google.com/~r/PentestTools/~3/o-e69-Jlipo/hashdb-ida-hashdb-api-hash-lookup.html)
