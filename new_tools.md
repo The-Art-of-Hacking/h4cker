@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FormatFuzzer - A Framework For High-Efficiency, High-Quality Generation And Parsing Of Binary Inputs](http://feedproxy.google.com/~r/PentestTools/~3/2rheSbxKC6w/formatfuzzer-framework-for-high.html)
 - [RottenPotatoNG - A C++ DLL And Standalone C++ Binary - No Need For Meterpreter Or Other Tools](http://feedproxy.google.com/~r/PentestTools/~3/ePALH_2XoBE/rottenpotatong-c-dll-and-standalone-c.html)
 - [Private Set Membership (PSM) - Cryptographic Protocol That Allows Clients To Privately Query](http://feedproxy.google.com/~r/PentestTools/~3/pqJa8i58-Wk/private-set-membership-psm.html)
 - [Ddosify - High-performance Load Testing Tool](http://feedproxy.google.com/~r/PentestTools/~3/d-bwUREmCJM/ddosify-high-performance-load-testing.html)
