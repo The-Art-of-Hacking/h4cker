@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Abaddon - Make red team operations faster, more repeatable, stealthier, while including value-added tools and bringing numerous reporting capabilities](http://www.kitploit.com/2021/11/abaddon-make-red-team-operations-faster.html)
 - [Boofuzz - Network Protocol Fuzzing for Humans](http://www.kitploit.com/2021/11/boofuzz-network-protocol-fuzzing-for.html)
 - [Covert-Control - Google Drive, OneDrive And Youtube As Covert-Channels - Control Systems Remotely By Uploading Files To Google Drive, OneDrive, Youtube Or Telegram](http://www.kitploit.com/2021/11/covert-control-google-drive-onedrive.html)
 - [FormatFuzzer - A Framework For High-Efficiency, High-Quality Generation And Parsing Of Binary Inputs](http://feedproxy.google.com/~r/PentestTools/~3/2rheSbxKC6w/formatfuzzer-framework-for-high.html)
