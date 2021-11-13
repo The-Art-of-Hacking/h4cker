@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AzureHunter - A Cloud Forensics Powershell Module To Run Threat Hunting Playbooks On Data From Azure And O365](http://www.kitploit.com/2021/11/azurehunter-cloud-forensics-powershell.html)
 - [Ad-Honeypot-Autodeploy - Deploy A Small, Intentionally Insecure, Vulnerable Windows Domain For RDP Honeypot Fully Automatically](http://www.kitploit.com/2021/11/ad-honeypot-autodeploy-deploy-small.html)
 - [Abaddon - Make red team operations faster, more repeatable, stealthier, while including value-added tools and bringing numerous reporting capabilities](http://www.kitploit.com/2021/11/abaddon-make-red-team-operations-faster.html)
 - [Boofuzz - Network Protocol Fuzzing for Humans](http://www.kitploit.com/2021/11/boofuzz-network-protocol-fuzzing-for.html)
