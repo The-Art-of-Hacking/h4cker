@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [EXOCET - AV-evading, Undetectable, Payload Delivery Tool](http://www.kitploit.com/2021/11/exocet-av-evading-undetectable-payload.html)
 - [Cumulus - Web Application Weakness Monitoring, It Would Be Working By Add Just 3 Codelines](http://www.kitploit.com/2021/11/cumulus-web-application-weakness.html)
 - [Clash - A Rule-Based Tunnel In Go](http://www.kitploit.com/2021/11/clash-rule-based-tunnel-in-go.html)
 - [ChopChop - ChopChop Is A CLI To Help Developers Scanning Endpoints And Identifying Exposition Of Sensitive Services/Files/Folders](http://www.kitploit.com/2021/11/chopchop-chopchop-is-cli-to-help.html)
