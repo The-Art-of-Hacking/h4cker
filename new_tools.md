@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hyenae-Ng - An Advanced Cross-Platform Network Packet Generator And The Successor Of Hyenae](http://www.kitploit.com/2021/11/hyenae-ng-advanced-cross-platform.html)
 - [Gotanda - Browser Web Extension For OSINT](http://www.kitploit.com/2021/11/gotanda-browser-web-extension-for-osint.html)
 - [Fhex - A Full-Featured HexEditor](http://www.kitploit.com/2021/11/fhex-full-featured-hexeditor.html)
 - [EXOCET - AV-evading, Undetectable, Payload Delivery Tool](http://www.kitploit.com/2021/11/exocet-av-evading-undetectable-payload.html)
