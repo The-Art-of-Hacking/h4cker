@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [pwnSpoof - Generates realistic spoofed log files for common web servers with customisable attack scenarios](http://www.kitploit.com/2021/11/pwnspoof-generates-realistic-spoofed.html)
 - [Nosferatu - Lsass NTLM Authentication Backdoor](http://www.kitploit.com/2021/11/nosferatu-lsass-ntlm-authentication.html)
 - [Msticpy - Microsoft Threat Intelligence Security Tools](http://www.kitploit.com/2021/11/msticpy-microsoft-threat-intelligence.html)
 - [Kubernetes-Goat - Is A "Vulnerable By Design" Kubernetes Cluster. Designed To Be An Intentionally Vulnerable Cluster Environment To Learn And Practice Kubernetes Security](http://www.kitploit.com/2021/11/kubernetes-goat-is-vulnerable-by-design.html)
