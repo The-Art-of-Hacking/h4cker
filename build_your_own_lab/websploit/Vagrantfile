@@ -26,46 +26,7 @@ Vagrant.configure("2") do |config|
   # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
   # documentation for more information about their specific syntax and use.
   config.vm.provision "shell", inline: <<-SHELL
-    sudo apt-get update
-
-    #installing Docker
-    sudo apt-get install -y docker.io
-    
-    # setup containers
-    sudo docker run --name webgoat -d --restart unless-stopped -p 6661:8080 -t santosomar/webgoat
-    sudo docker run --name juice-shop --restart unless-stopped -d -p 6662:3000 santosomar/juice-shop
-    sudo docker run --name dvwa --restart unless-stopped -itd -p 6663:80 santosomar/dvwa
-    sudo docker run --name mutillidae_2 --restart unless-stopped -d -p 6664:80 santosomar/mutillidae_2
-    sudo docker run --name bwapp2 --restart unless-stopped -d -p 6665:80 santosomar/bwapp
-    sudo docker run --name dvna --restart unless-stopped -d -p 6666:9090 santosomar/dvna
-    sudo docker run --name hackazon -d --restart unless-stopped -p 6667:80 santosomar/hackazon
-    sudo docker run --name hackme-rtov -d --restart unless-stopped -p 9000:80 santosomar/hackme-rtov
-
-    # for bwapp - go to /install.php then user/pass is bee/bug
-    # not ready for prod:
-    # docker run --name vapp2 --restart unless-stopped -d -p 9090:80 santosomar/vuln_app
-
-    #setting up look and feel
-    cd /root/Pictures
-    wget https://h4cker.org/img/h4cker_wallpaper.png
-    gsettings set org.gnome.desktop.background picture-uri "file:///root/Pictures/h4cker_wallpaper.png"
-
-    #cloning H4cker github
-    sudo cd /root
-    sudo git clone https://github.com/The-Art-of-Hacking/h4cker.git
-
-    #getting test ssl script
-    sudo curl -L https://testssl.sh --output testssl.sh
-    sudo chmod +x testssl.sh
-
-    #Installing Jupyter Notebooks
-    sudo apt install -y jupyter-notebook
-
-    #Installing radamnsa
-    sudo cd /root
-    sudo git clone https://gitlab.com/akihe/radamsa.git && cd radamsa && make && sudo make install
-    clear
-    echo "All set! Have fun! - Ωr"
+  curl -sSL https://websploit.org/install.sh | sudo bash 
 
   SHELL
 end
