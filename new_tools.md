@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [UDP-Hunter - Network Assessment Tool For Various UDP Services Covering Both IPv4 And IPv6 Protocols](http://www.kitploit.com/2021/11/udp-hunter-network-assessment-tool-for.html)
 - [ThreatBox - A Standard And Controlled Linux Based Attack Platform](http://www.kitploit.com/2021/11/threatbox-standard-and-controlled-linux.html)
 - [ThreadBoat - Program Uses Thread Execution Hijacking To Inject Native Shell-code Into A Standard Win32 Application](http://www.kitploit.com/2021/11/threadboat-program-uses-thread.html)
 - [Stacs - Static Token And Credential Scanner](http://www.kitploit.com/2021/11/stacs-static-token-and-credential.html)
