@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Redherd Framework -A Collaborative And Serverless Framework For Orchestrating A Geographically Distributed Group Of Assets](http://www.kitploit.com/2021/11/redherd-framework-collaborative-and.html)
 - [Whoc - A Container Image That Extracts The Underlying Container Runtime](http://www.kitploit.com/2021/11/whoc-container-image-that-extracts.html)
 - [Whispers - Identify Hardcoded Secrets In Static Structured Text](http://www.kitploit.com/2021/11/whispers-identify-hardcoded-secrets-in.html)
 - [UDP-Hunter - Network Assessment Tool For Various UDP Services Covering Both IPv4 And IPv6 Protocols](http://www.kitploit.com/2021/11/udp-hunter-network-assessment-tool-for.html)
