@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ELFXtract - An Automated Analysis Tool Used For Enumerating ELF Binaries](http://www.kitploit.com/2021/11/elfxtract-automated-analysis-tool-used.html)
 - [goEnumBruteSpray - User Enumeration And Password Bruteforce On Azure, ADFS, OWA, O365 And Gather Emails On Linkedin](http://www.kitploit.com/2021/11/goenumbrutespray-user-enumeration-and.html)
 - [Nanobrok - Web Service For Control And Protect Your Android Device Remotely](http://www.kitploit.com/2021/11/nanobrok-web-service-for-control-and.html)
 - [LOLBins - PyQT5 App For LOLBAS And GTFOBins](http://www.kitploit.com/2021/11/lolbins-pyqt5-app-for-lolbas-and.html)
