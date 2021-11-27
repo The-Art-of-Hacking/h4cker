@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cracken - A Fast Password Wordlist Generator, Smartlist Creation And Password Hybrid-Mask Analysis Tool](http://www.kitploit.com/2021/11/cracken-fast-password-wordlist.html)
 - [FakeDataGen - Full Valid Fake Data Generator](http://www.kitploit.com/2021/11/fakedatagen-full-valid-fake-data.html)
 - [ELFXtract - An Automated Analysis Tool Used For Enumerating ELF Binaries](http://www.kitploit.com/2021/11/elfxtract-automated-analysis-tool-used.html)
 - [goEnumBruteSpray - User Enumeration And Password Bruteforce On Azure, ADFS, OWA, O365 And Gather Emails On Linkedin](http://www.kitploit.com/2021/11/goenumbrutespray-user-enumeration-and.html)
