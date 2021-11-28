@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DetectionLabELK - A Fork From DetectionLab With ELK Stack Instead Of Splunk](http://www.kitploit.com/2021/11/detectionlabelk-fork-from-detectionlab.html)
 - [4-ZERO-3 - 403/401 Bypass Methods + Bash Automation](http://www.kitploit.com/2021/11/4-zero-3-403401-bypass-methods-bash.html)
 - [Cracken - A Fast Password Wordlist Generator, Smartlist Creation And Password Hybrid-Mask Analysis Tool](http://www.kitploit.com/2021/11/cracken-fast-password-wordlist.html)
 - [FakeDataGen - Full Valid Fake Data Generator](http://www.kitploit.com/2021/11/fakedatagen-full-valid-fake-data.html)
