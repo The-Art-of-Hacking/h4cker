@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Digital-Forensics-Lab - Free Hands-On Digital Forensics Labs For Students And Faculty](http://www.kitploit.com/2021/11/digital-forensics-lab-free-hands-on.html)
 - [OffensiveRust - Rust Weaponization For Red Team Engagements](http://www.kitploit.com/2021/11/offensiverust-rust-weaponization-for.html)
 - [DetectionLabELK - A Fork From DetectionLab With ELK Stack Instead Of Splunk](http://www.kitploit.com/2021/11/detectionlabelk-fork-from-detectionlab.html)
 - [4-ZERO-3 - 403/401 Bypass Methods + Bash Automation](http://www.kitploit.com/2021/11/4-zero-3-403401-bypass-methods-bash.html)
