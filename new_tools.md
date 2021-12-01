@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [XC - A Small Reverse Shell For Linux And Windows](http://www.kitploit.com/2021/12/xc-small-reverse-shell-for-linux-and.html)
 - [ZipExec - A Unique Technique To Execute Binaries From A Password Protected Zip](http://www.kitploit.com/2021/11/zipexec-unique-technique-to-execute.html)
 - [Kit_Hunter - A Basic Phishing Kit Scanner For Dedicated And Semi-Dedicated Hosting](http://www.kitploit.com/2021/11/kithunter-basic-phishing-kit-scanner.html)
 - [Digital-Forensics-Lab - Free Hands-On Digital Forensics Labs For Students And Faculty](http://www.kitploit.com/2021/11/digital-forensics-lab-free-hands-on.html)
