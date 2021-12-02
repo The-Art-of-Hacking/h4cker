@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Crawpy - Yet Another Content Discovery Tool](http://www.kitploit.com/2021/12/crawpy-yet-another-content-discovery.html)
 - [Kerberoast - Kerberoast Attack -Pure Python-](http://www.kitploit.com/2021/12/kerberoast-kerberoast-attack-pure-python.html)
 - [ShonyDanza - A Customizable, Easy-To-Navigate Tool For Researching, Pen Testing, And Defending With The Power Of Shodan](http://www.kitploit.com/2021/12/shonydanza-customizable-easy-to.html)
 - [XC - A Small Reverse Shell For Linux And Windows](http://www.kitploit.com/2021/12/xc-small-reverse-shell-for-linux-and.html)
