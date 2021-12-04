@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DLLHijackingScanner - This Is A PoC For Bypassing UAC Using DLL Hijacking And Abusing The "Trusted Directories" Verification](http://www.kitploit.com/2021/12/dllhijackingscanner-this-is-poc-for.html)
 - [IDA2Obj - Static Binary Instrumentation](http://www.kitploit.com/2021/12/ida2obj-static-binary-instrumentation.html)
 - [ClusterFuzzLite - Simple Continuous Fuzzing That Runs In CI](http://www.kitploit.com/2021/12/clusterfuzzlite-simple-continuous.html)
 - [Crawpy - Yet Another Content Discovery Tool](http://www.kitploit.com/2021/12/crawpy-yet-another-content-discovery.html)
