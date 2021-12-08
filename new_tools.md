@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SMBeagle - Fileshare Auditing Tool That Hunts Out All Files It Can See In The Network And Reports If The File Can Be Read And/Or Written](http://www.kitploit.com/2021/12/smbeagle-fileshare-auditing-tool-that.html)
 - [Fileless-Xec - Stealth Dropper Executing Remote Binaries Without Dropping Them On Disk](http://www.kitploit.com/2021/12/fileless-xec-stealth-dropper-executing.html)
 - [KaliIntelligenceSuite - Shall Aid In The Fast, Autonomous, Central, And Comprehensive Collection Of Intelligence By Executing Standard Penetration Testing Tools](http://www.kitploit.com/2021/12/kaliintelligencesuite-shall-aid-in-fast.html)
 - [Swurg - Parse OpenAPI Documents Into Burp Suite For Automating OpenAPI-based APIs Security Assessments](http://www.kitploit.com/2021/12/swurg-parse-openapi-documents-into-burp.html)
