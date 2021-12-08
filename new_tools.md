@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [KaliIntelligenceSuite - Shall Aid In The Fast, Autonomous, Central, And Comprehensive Collection Of Intelligence By Executing Standard Penetration Testing Tools](http://www.kitploit.com/2021/12/kaliintelligencesuite-shall-aid-in-fast.html)
 - [Swurg - Parse OpenAPI Documents Into Burp Suite For Automating OpenAPI-based APIs Security Assessments](http://www.kitploit.com/2021/12/swurg-parse-openapi-documents-into-burp.html)
 - [STEWS - A Security Tool For Enumerating WebSockets](http://www.kitploit.com/2021/12/stews-security-tool-for-enumerating.html)
 - [Toutatis - A Tool That Allows You To Extract Information From Instagrams Accounts Such As E-Mails, Phone Numbers And More](http://www.kitploit.com/2021/12/toutatis-tool-that-allows-you-to.html)
