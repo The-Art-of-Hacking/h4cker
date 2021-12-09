@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [O365Spray - Username Enumeration And Password Spraying Tool Aimed At Microsoft O365](http://www.kitploit.com/2021/12/o365spray-username-enumeration-and.html)
 - [SMBeagle - Fileshare Auditing Tool That Hunts Out All Files It Can See In The Network And Reports If The File Can Be Read And/Or Written](http://www.kitploit.com/2021/12/smbeagle-fileshare-auditing-tool-that.html)
 - [Fileless-Xec - Stealth Dropper Executing Remote Binaries Without Dropping Them On Disk](http://www.kitploit.com/2021/12/fileless-xec-stealth-dropper-executing.html)
 - [KaliIntelligenceSuite - Shall Aid In The Fast, Autonomous, Central, And Comprehensive Collection Of Intelligence By Executing Standard Penetration Testing Tools](http://www.kitploit.com/2021/12/kaliintelligencesuite-shall-aid-in-fast.html)
