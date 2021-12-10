@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DInjector - Collection Of Shellcode Injection Techniques Packed In A D/Invoke Weaponized DLL](http://www.kitploit.com/2021/12/dinjector-collection-of-shellcode.html)
 - [AFLTriage - Tool To Triage Crashing Input Files Using A Debugger](http://www.kitploit.com/2021/12/afltriage-tool-to-triage-crashing-input.html)
 - [O365Spray - Username Enumeration And Password Spraying Tool Aimed At Microsoft O365](http://www.kitploit.com/2021/12/o365spray-username-enumeration-and.html)
 - [SMBeagle - Fileshare Auditing Tool That Hunts Out All Files It Can See In The Network And Reports If The File Can Be Read And/Or Written](http://www.kitploit.com/2021/12/smbeagle-fileshare-auditing-tool-that.html)
