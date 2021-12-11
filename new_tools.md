@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CaptfEncoder - An Extensible Cross Platform Network Security Tool Suite](http://www.kitploit.com/2021/12/captfencoder-extensible-cross-platform.html)
 - [ADenum - A Pentesting Tool That Allows To Find Misconfiguration Through The The Protocol LDAP And Exploit Some Of Those Weaknesses With Kerberos](http://www.kitploit.com/2021/12/adenum-pentesting-tool-that-allows-to.html)
 - [Tarian - Antivirus for Kubernetes](http://www.kitploit.com/2021/12/tarian-antivirus-for-kubernetes.html)
 - [DInjector - Collection Of Shellcode Injection Techniques Packed In A D/Invoke Weaponized DLL](http://www.kitploit.com/2021/12/dinjector-collection-of-shellcode.html)
