@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Jektor - A Windows User-Mode Shellcode Execution Tool That Demonstrates Various Techniques That Malware Uses](http://www.kitploit.com/2021/12/jektor-windows-user-mode-shellcode.html)
 - [Haptyc - Test Generation Framework](http://www.kitploit.com/2021/12/haptyc-test-generation-framework.html)
 - [FiddleZAP - A Simplified Version Of EKFiddle For OWASP ZAP](http://www.kitploit.com/2021/12/fiddlezap-simplified-version-of.html)
 - [CloudSpec - An Open Source Tool For Validating Your Resources In Your Cloud Providers Using A Logical Language](http://www.kitploit.com/2021/12/cloudspec-open-source-tool-for.html)
