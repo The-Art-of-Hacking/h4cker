@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Mariana Trench - Security Focused Static Analysis Tool For Android And Java Applications](http://www.kitploit.com/2021/12/mariana-trench-security-focused-static.html)
 - [log4j-scan - A fully automated, accurate, and extensive scanner for finding vulnerable log4j hosts](http://www.kitploit.com/2021/12/log4j-scan-fully-automated-accurate-and.html)
 - [Log4J-Detector - Detects Log4J versions on your file-system within any application that are vulnerable to CVE-2021-44228 and CVE-2021-45046](http://www.kitploit.com/2021/12/log4j-detector-detects-log4j-versions.html)
 - [Jektor - A Windows User-Mode Shellcode Execution Tool That Demonstrates Various Techniques That Malware Uses](http://www.kitploit.com/2021/12/jektor-windows-user-mode-shellcode.html)
