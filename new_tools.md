@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Web Cache Vulnerability Scanner - A Go-based CLI Tool For Testing For Web Cache Poisoning](http://www.kitploit.com/2021/12/web-cache-vulnerability-scanner-go.html)
 - [Mesh-Kridik - An Open-Source Security Checker That Performs Various Security Checks On A Kubernetes Cluster With Istio Service Mesh And Is Leveraged By OPA (Open Policy Agent) To Enforce Security Rules](http://www.kitploit.com/2021/12/mesh-kridik-open-source-security.html)
 - [Mariana Trench - Security Focused Static Analysis Tool For Android And Java Applications](http://www.kitploit.com/2021/12/mariana-trench-security-focused-static.html)
 - [log4j-scan - A fully automated, accurate, and extensive scanner for finding vulnerable log4j hosts](http://www.kitploit.com/2021/12/log4j-scan-fully-automated-accurate-and.html)
