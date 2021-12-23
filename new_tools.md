@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MultiPotato - Another Potato to get SYSTEM via SeImpersonate privileges](http://www.kitploit.com/2021/12/multipotato-another-potato-to-get.html)
 - [TrojanSourceFinder - Help Find Trojan Source Vulnerability In Code](http://www.kitploit.com/2021/12/trojansourcefinder-help-find-trojan.html)
 - [Umay - IoT Malware Similarity Analysis Platform](http://www.kitploit.com/2021/12/umay-iot-malware-similarity-analysis.html)
 - [MUI - A GUI Plugin For Binary Ninja To Easily Interact With And View The Progress Of Manticore](http://www.kitploit.com/2021/12/mui-gui-plugin-for-binary-ninja-to.html)
