@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Spamscanner - Spam Scanner Is The Best Anti-Spam, Email Filtering, And Phishing Prevention Service](http://www.kitploit.com/2021/12/spamscanner-spam-scanner-is-best-anti.html)
 - [Spray365 - Makes Spraying Microsoft Accounts (Office 365 / Azure AD) Easy Through Its Customizable Two-Step Password Spraying Approach](http://www.kitploit.com/2021/12/spray365-makes-spraying-microsoft.html)
 - [SQLbit - Just Another Script For Automatize Boolean-Based Blind SQL Injections](http://www.kitploit.com/2021/12/sqlbit-just-another-script-for.html)
 - [MultiPotato - Another Potato to get SYSTEM via SeImpersonate privileges](http://www.kitploit.com/2021/12/multipotato-another-potato-to-get.html)
