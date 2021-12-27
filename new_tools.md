@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Snap-Scraper - Snap Scraper Enables Users To Download Media Uploaded To Snapchat's Snap Map Using A Set Of Latitude And Longitude Coordinates](http://www.kitploit.com/2021/12/snap-scraper-snap-scraper-enables-users.html)
 - [SourceLeakHacker -  A Multi Threads Web Application Source Leak Scanner](http://www.kitploit.com/2021/12/sourceleakhacker-multi-threads-web.html)
 - [Onionservice - Manage Your Onion Services Via CLI Or TUI On Unix-like Operating System With A POSIX Compliant Shell](http://www.kitploit.com/2021/12/onionservice-manage-your-onion-services.html)
 - [NimHollow - Nim Implementation Of Process Hollowing Using Syscalls (PoC)](http://www.kitploit.com/2021/12/nimhollow-nim-implementation-of-process.html)
