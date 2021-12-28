@@ -3,6 +3,7 @@ The following are a collection of recently-released pen test tools. I update thi
 
 ----
 - [Top 20 Most Popular Hacking Tools in 2021](http://www.kitploit.com/2021/12/top-20-most-popular-hacking-tools-in.html)
+- [Top 20 Most Popular Hacking Tools in 2021](http://www.kitploit.com/2021/12/top-20-most-popular-hacking-tools-in.html)
 - [ShonyDanza - A Customizable, Easy-To-Navigate Tool For Researching, Pen Testing, And Defending With The Power Of Shodan](http://www.kitploit.com/2021/12/shonydanza-customizable-easy-to_01477721372.html)
 - [Snap-Scraper - Snap Scraper Enables Users To Download Media Uploaded To Snapchat's Snap Map Using A Set Of Latitude And Longitude Coordinates](http://www.kitploit.com/2021/12/snap-scraper-snap-scraper-enables-users.html)
 - [SourceLeakHacker -  A Multi Threads Web Application Source Leak Scanner](http://www.kitploit.com/2021/12/sourceleakhacker-multi-threads-web.html)
