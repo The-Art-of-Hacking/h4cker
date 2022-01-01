@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PMAT-labs - Labs For Practical Malware Analysis And Triage](http://www.kitploit.com/2022/01/pmat-labs-labs-for-practical-malware.html)
 - [Top 20 Most Popular Hacking Tools in 2021](http://www.kitploit.com/2021/12/top-20-most-popular-hacking-tools-in.html)
 - [Top 20 Most Popular Hacking Tools in 2021](http://www.kitploit.com/2021/12/top-20-most-popular-hacking-tools-in.html)
 - [ShonyDanza - A Customizable, Easy-To-Navigate Tool For Researching, Pen Testing, And Defending With The Power Of Shodan](http://www.kitploit.com/2021/12/shonydanza-customizable-easy-to_01477721372.html)
