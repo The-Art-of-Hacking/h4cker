@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Msmailprobe - Office 365 And Exchange Enumeration](http://www.kitploit.com/2022/01/msmailprobe-office-365-and-exchange.html)
 - [Lsarelayx - NTLM Relaying For Windows Made Easy](http://www.kitploit.com/2022/01/lsarelayx-ntlm-relaying-for-windows.html)
 - [RiotPot - Resilient IoT And Operational Technology Honeypot](http://www.kitploit.com/2022/01/riotpot-resilient-iot-and-operational.html)
 - [Skrull - A Malware DRM, That Prevents Automatic Sample Submission By AV/EDR And Signature Scanning From Kernel](http://www.kitploit.com/2022/01/skrull-malware-drm-that-prevents.html)
