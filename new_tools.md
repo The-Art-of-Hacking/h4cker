@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SyntheticSun - A Defense-In-Depth Security Automation And Monitoring Framework Which Utilizes Threat Intelligence, Machine Learning, Managed AWS Security Services And, Serverless Technologies To Continuously Prevent, Detect And Respond To Threats](http://www.kitploit.com/2022/01/syntheticsun-defense-in-depth-security.html)
 - [RPC Firewall - Stopping Lateral Movement via the RPC Firewall](http://www.kitploit.com/2022/01/rpc-firewall-stopping-lateral-movement.html)
 - [Msmailprobe - Office 365 And Exchange Enumeration](http://www.kitploit.com/2022/01/msmailprobe-office-365-and-exchange.html)
 - [Lsarelayx - NTLM Relaying For Windows Made Easy](http://www.kitploit.com/2022/01/lsarelayx-ntlm-relaying-for-windows.html)
