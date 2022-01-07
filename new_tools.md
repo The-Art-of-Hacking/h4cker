@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Mortar - Evasion Technique To Defeat And Divert Detection And Prevention Of Security Products (AV/EDR/XDR)](http://www.kitploit.com/2022/01/mortar-evasion-technique-to-defeat-and.html)
 - [Log4J-Detect - Script To Detect The "Log4j" Java Library Vulnerability (CVE-2021-44228) For A List Of URLs With Multithreading](http://www.kitploit.com/2022/01/log4j-detect-script-to-detect-log4j.html)
 - [Rustpad - Multi-Threaded Padding Oracle Attacks Against Any Service](http://www.kitploit.com/2022/01/rustpad-multi-threaded-padding-oracle.html)
 - [SyntheticSun - A Defense-In-Depth Security Automation And Monitoring Framework Which Utilizes Threat Intelligence, Machine Learning, Managed AWS Security Services And, Serverless Technologies To Continuously Prevent, Detect And Respond To Threats](http://www.kitploit.com/2022/01/syntheticsun-defense-in-depth-security.html)
