@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Shellcode-Encryptor - A Simple Shell Code Encryptor/Decryptor/Executor To Bypass Anti Virus](http://www.kitploit.com/2022/01/shellcode-encryptor-simple-shell-code.html)
 - [RCLocals - Linux Startup Analyzer](http://www.kitploit.com/2022/01/rclocals-linux-startup-analyzer.html)
 - [Mortar - Evasion Technique To Defeat And Divert Detection And Prevention Of Security Products (AV/EDR/XDR)](http://www.kitploit.com/2022/01/mortar-evasion-technique-to-defeat-and.html)
 - [Log4J-Detect - Script To Detect The "Log4j" Java Library Vulnerability (CVE-2021-44228) For A List Of URLs With Multithreading](http://www.kitploit.com/2022/01/log4j-detect-script-to-detect-log4j.html)
