@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LACheck - Multithreaded C# .NET Assembly Local Administrative Privilege Enumeration](http://www.kitploit.com/2022/01/lacheck-multithreaded-c-net-assembly.html)
 - [Shellcode-Encryptor - A Simple Shell Code Encryptor/Decryptor/Executor To Bypass Anti Virus](http://www.kitploit.com/2022/01/shellcode-encryptor-simple-shell-code.html)
 - [RCLocals - Linux Startup Analyzer](http://www.kitploit.com/2022/01/rclocals-linux-startup-analyzer.html)
 - [Mortar - Evasion Technique To Defeat And Divert Detection And Prevention Of Security Products (AV/EDR/XDR)](http://www.kitploit.com/2022/01/mortar-evasion-technique-to-defeat-and.html)
