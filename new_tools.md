@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WannaRace - WebApp Intentionally Made Vulnerable To Race Condition For Practicing Race Condition](http://www.kitploit.com/2022/01/wannarace-webapp-intentionally-made.html)
 - [PasteMonitor - Scrape Pastebin API To Collect Daily Pastes, Setup A Wordlist And Be Alerted By Email When You Have A Match](http://www.kitploit.com/2022/01/pastemonitor-scrape-pastebin-api-to.html)
 - [LACheck - Multithreaded C# .NET Assembly Local Administrative Privilege Enumeration](http://www.kitploit.com/2022/01/lacheck-multithreaded-c-net-assembly.html)
 - [Shellcode-Encryptor - A Simple Shell Code Encryptor/Decryptor/Executor To Bypass Anti Virus](http://www.kitploit.com/2022/01/shellcode-encryptor-simple-shell-code.html)
