@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RAUDI - A Repo To Automatically Generate And Keep Updated A Series Of Docker Images Through GitHub Actions](http://www.kitploit.com/2022/01/raudi-repo-to-automatically-generate.html)
 - [SpoofThatMail - Bash Script To Check If A Domain Or List Of Domains Can Be Spoofed Based In DMARC Records](http://www.kitploit.com/2022/01/spoofthatmail-bash-script-to-check-if.html)
 - [WannaRace - WebApp Intentionally Made Vulnerable To Race Condition For Practicing Race Condition](http://www.kitploit.com/2022/01/wannarace-webapp-intentionally-made.html)
 - [PasteMonitor - Scrape Pastebin API To Collect Daily Pastes, Setup A Wordlist And Be Alerted By Email When You Have A Match](http://www.kitploit.com/2022/01/pastemonitor-scrape-pastebin-api-to.html)
