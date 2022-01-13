@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Scemu - X86 32bits Emulator, For Securely Emulating Shellcodes](http://www.kitploit.com/2022/01/scemu-x86-32bits-emulator-for-securely.html)
 - [Wifi-Framework - Wi-Fi Framework For Creating Proof-Of-Concepts, Automated Experiments, Test Suites, Fuzzers, And More...](http://www.kitploit.com/2022/01/wifi-framework-wi-fi-framework-for.html)
 - [RAUDI - A Repo To Automatically Generate And Keep Updated A Series Of Docker Images Through GitHub Actions](http://www.kitploit.com/2022/01/raudi-repo-to-automatically-generate.html)
 - [SpoofThatMail - Bash Script To Check If A Domain Or List Of Domains Can Be Spoofed Based In DMARC Records](http://www.kitploit.com/2022/01/spoofthatmail-bash-script-to-check-if.html)
