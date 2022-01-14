@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Espoofer - An Email Spoofing Testing Tool That Aims To Bypass SPF/DKIM/DMARC And Forge DKIM Signatures](http://www.kitploit.com/2022/01/espoofer-email-spoofing-testing-tool.html)
 - [Raven - Advanced Cyber Threat Map (Simplified, Customizable, Responsive)](http://www.kitploit.com/2022/01/raven-advanced-cyber-threat-map.html)
 - [AlphaGolang - IDApython Scripts For Analyzing Golang Binaries](http://www.kitploit.com/2022/01/alphagolang-idapython-scripts-for.html)
 - [Scemu - X86 32bits Emulator, For Securely Emulating Shellcodes](http://www.kitploit.com/2022/01/scemu-x86-32bits-emulator-for-securely.html)
