@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TokenUniverse - An Advanced Tool For Working With Access Tokens And Windows Security Policy](http://www.kitploit.com/2022/01/tokenuniverse-advanced-tool-for-working.html)
 - [Iptable_Evil - An Evil Bit Backdoor For Iptables](http://www.kitploit.com/2022/01/iptableevil-evil-bit-backdoor-for.html)
 - [Narthex - Modular Personalized Dictionary Generator](http://www.kitploit.com/2022/01/narthex-modular-personalized-dictionary.html)
 - [Espoofer - An Email Spoofing Testing Tool That Aims To Bypass SPF/DKIM/DMARC And Forge DKIM Signatures](http://www.kitploit.com/2022/01/espoofer-email-spoofing-testing-tool.html)
