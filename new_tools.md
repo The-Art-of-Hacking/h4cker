@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Registry-Spy - Cross-platform Registry Browser For Raw Windows Registry Files](http://www.kitploit.com/2022/01/registry-spy-cross-platform-registry.html)
 - [TokenUniverse - An Advanced Tool For Working With Access Tokens And Windows Security Policy](http://www.kitploit.com/2022/01/tokenuniverse-advanced-tool-for-working.html)
 - [Iptable_Evil - An Evil Bit Backdoor For Iptables](http://www.kitploit.com/2022/01/iptableevil-evil-bit-backdoor-for.html)
 - [Narthex - Modular Personalized Dictionary Generator](http://www.kitploit.com/2022/01/narthex-modular-personalized-dictionary.html)
