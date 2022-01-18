@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [goCabrito - Super Organized And Flexible Script For Sending Phishing Campaigns](http://www.kitploit.com/2022/01/gocabrito-super-organized-and-flexible.html)
 - [Driftwood - Private Key Usage Verification](http://www.kitploit.com/2022/01/driftwood-private-key-usage-verification.html)
 - [reFlutter - Flutter Reverse Engineering Framework](http://www.kitploit.com/2022/01/reflutter-flutter-reverse-engineering.html)
 - [Inject-Assembly - Inject .NET Assemblies Into An Existing Process](http://www.kitploit.com/2022/01/inject-assembly-inject-net-assemblies.html)
