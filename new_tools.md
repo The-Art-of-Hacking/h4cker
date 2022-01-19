@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Http-Desync-Guardian - Analyze HTTP Requests To Minimize Risks Of HTTP Desync Attacks (Precursor For HTTP Request Smuggling/Splitting)](http://www.kitploit.com/2022/01/http-desync-guardian-analyze-http.html)
 - [Pip-Audit - Audits Python Environments And Dependency Trees For Known Vulnerabilities](http://www.kitploit.com/2022/01/pip-audit-audits-python-environments.html)
 - [goCabrito - Super Organized And Flexible Script For Sending Phishing Campaigns](http://www.kitploit.com/2022/01/gocabrito-super-organized-and-flexible.html)
 - [Driftwood - Private Key Usage Verification](http://www.kitploit.com/2022/01/driftwood-private-key-usage-verification.html)
