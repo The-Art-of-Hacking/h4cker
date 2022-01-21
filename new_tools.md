@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wireshark-Forensics-Plugin -  A cross-platform Wireshark plugin that correlates network traffic data with threat intelligence, asset categorization & vulnerability data](http://www.kitploit.com/2022/01/wireshark-forensics-plugin-cross.html)
 - [Dep-Scan - Fully Open-Source Security Audit For Project Dependencies Based On Known Vulnerabilities And Advisories. Supports Both Local Repos And Container Images. Integrates With Various CI Environments Such As Azure Pipelines, CircleCI, Google CloudBuild](http://www.kitploit.com/2022/01/dep-scan-fully-open-source-security.html)
 - [Http-Desync-Guardian - Analyze HTTP Requests To Minimize Risks Of HTTP Desync Attacks (Precursor For HTTP Request Smuggling/Splitting)](http://www.kitploit.com/2022/01/http-desync-guardian-analyze-http.html)
 - [Pip-Audit - Audits Python Environments And Dependency Trees For Known Vulnerabilities](http://www.kitploit.com/2022/01/pip-audit-audits-python-environments.html)
