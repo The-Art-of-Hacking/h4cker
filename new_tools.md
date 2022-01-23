@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Whatfiles - Log What Files Are Accessed By Any Linux Process](http://www.kitploit.com/2022/01/whatfiles-log-what-files-are-accessed.html)
 - [Second-Order - Subdomain Takeover Scanner](http://www.kitploit.com/2022/01/second-order-subdomain-takeover-scanner.html)
 - [Mandiant-Azure-AD-Investigator - PowerShell module for detecting artifacts that may be indicators of UNC2452 and other threat actor activity](http://www.kitploit.com/2022/01/mandiant-azure-ad-investigator.html)
 - [Pwndora - Massive IPv4 Scanner, Find And Analyze Internet-Connected Devices In Minutes, Create Your Own IoT Search Engine At Home](http://www.kitploit.com/2022/01/pwndora-massive-ipv4-scanner-find-and.html)
