@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SpoofThatMail - Bash Script To Check If A Domain Or List Of Domains Can Be Spoofed Based In DMARC Records](http://www.kitploit.com/2022/01/spoofthatmail-bash-script-to-check-if.html)
 - [Whatfiles - Log What Files Are Accessed By Any Linux Process](http://www.kitploit.com/2022/01/whatfiles-log-what-files-are-accessed.html)
 - [Second-Order - Subdomain Takeover Scanner](http://www.kitploit.com/2022/01/second-order-subdomain-takeover-scanner.html)
 - [Mandiant-Azure-AD-Investigator - PowerShell module for detecting artifacts that may be indicators of UNC2452 and other threat actor activity](http://www.kitploit.com/2022/01/mandiant-azure-ad-investigator.html)
