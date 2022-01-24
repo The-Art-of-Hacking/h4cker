@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Http2Smugl - Tool to detect and exploit HTTP request smuggling in cases it can be achieved via HTTP/2 -> HTTP/1.1 conversion](http://www.kitploit.com/2022/01/http2smugl-tool-to-detect-and-exploit.html)
 - [VulnLab - A Web Vulnerability Lab Project](http://www.kitploit.com/2022/01/vulnlab-web-vulnerability-lab-project.html)
 - [SpoofThatMail - Bash Script To Check If A Domain Or List Of Domains Can Be Spoofed Based In DMARC Records](http://www.kitploit.com/2022/01/spoofthatmail-bash-script-to-check-if.html)
 - [Whatfiles - Log What Files Are Accessed By Any Linux Process](http://www.kitploit.com/2022/01/whatfiles-log-what-files-are-accessed.html)
