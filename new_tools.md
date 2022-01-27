@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BloodyAD - An Active Directory Privilege Escalation Framework](http://www.kitploit.com/2022/01/bloodyad-active-directory-privilege.html)
 - [Ninjasworkout - Vulnerable NodeJS Web Application](http://www.kitploit.com/2022/01/ninjasworkout-vulnerable-nodejs-web.html)
 - [Xolo -  Tool To Crawl, Visualize And Interact With SQL Server Links In A D3 Graph](http://www.kitploit.com/2022/01/xolo-tool-to-crawl-visualize-and.html)
 - [Dontgo403 - Tool To Bypass 40X Response Codes](http://www.kitploit.com/2022/01/dontgo403-tool-to-bypass-40x-response.html)
