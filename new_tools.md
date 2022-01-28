@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Mininode - A CLI Tool To Reduce The Attack Surface Of The Node.js Applications By Using Static Analysis](http://www.kitploit.com/2022/01/mininode-cli-tool-to-reduce-attack.html)
 - [Combobulator - Framework To Detect And Prevent Dependency Confusion Leakage And Potential Attacks](http://www.kitploit.com/2022/01/combobulator-framework-to-detect-and.html)
 - [Gh-Dork - Github Dorking Tool](http://www.kitploit.com/2022/01/gh-dork-github-dorking-tool.html)
 - [BloodyAD - An Active Directory Privilege Escalation Framework](http://www.kitploit.com/2022/01/bloodyad-active-directory-privilege.html)
