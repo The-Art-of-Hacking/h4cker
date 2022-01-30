@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CRT - CrowdStrike Reporting Tool for Azure](http://www.kitploit.com/2022/01/crt-crowdstrike-reporting-tool-for-azure.html)
 - [Mininode - A CLI Tool To Reduce The Attack Surface Of The Node.js Applications By Using Static Analysis](http://www.kitploit.com/2022/01/mininode-cli-tool-to-reduce-attack.html)
 - [Combobulator - Framework To Detect And Prevent Dependency Confusion Leakage And Potential Attacks](http://www.kitploit.com/2022/01/combobulator-framework-to-detect-and.html)
 - [Gh-Dork - Github Dorking Tool](http://www.kitploit.com/2022/01/gh-dork-github-dorking-tool.html)
