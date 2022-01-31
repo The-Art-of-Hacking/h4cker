@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RecoverPy - Interactively Find And Recover Deleted Or Overwritten Files From Your Terminal](http://www.kitploit.com/2022/01/recoverpy-interactively-find-and.html)
 - [Bluffy - Convert Shellcode Into Different Formats!](http://www.kitploit.com/2022/01/bluffy-convert-shellcode-into-different.html)
 - [Kerbrute - An Script To Perform Kerberos Bruteforcing By Using Impacket](http://www.kitploit.com/2022/01/kerbrute-script-to-perform-kerberos.html)
 - [CRT - CrowdStrike Reporting Tool for Azure](http://www.kitploit.com/2022/01/crt-crowdstrike-reporting-tool-for-azure.html)
