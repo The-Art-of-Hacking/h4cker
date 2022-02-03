@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Heaptrace - Helps Visualize Heap Operations For Pwn And Debugging](http://www.kitploit.com/2022/02/heaptrace-helps-visualize-heap.html)
 - [Phant0m - Windows Event Log Killer](http://www.kitploit.com/2022/02/phant0m-windows-event-log-killer.html)
 - [Ipsourcebypass - This Python Script Can Be Used To Bypass IP Source Restrictions Using HTTP Headers](http://www.kitploit.com/2022/02/ipsourcebypass-this-python-script-can.html)
 - [Rathole - A Lightweight, Stable And High-Performance Reverse Proxy For NAT Traversal, Written In Rust. An Alternative To Frp And Ngrok](http://www.kitploit.com/2022/02/rathole-lightweight-stable-and-high.html)
