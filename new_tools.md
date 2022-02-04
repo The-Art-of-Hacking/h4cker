@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SQLRecon - A C# MS SQL Toolkit Designed For Offensive Reconnaissance And Post-Exploitation](http://www.kitploit.com/2022/02/sqlrecon-c-ms-sql-toolkit-designed-for.html)
 - [Elfloader - An Architecture-Agnostic ELF File Flattener For Shellcode](http://www.kitploit.com/2022/02/elfloader-architecture-agnostic-elf.html)
 - [wmiexec-RegOut - Modify Version Of Impacket Wmiexec.Py, Get Output(Data,Response) From Registry, Don'T Need SMB Connection, Also Bypassing Antivirus-Software In Lateral Movement Like WMIHACKER](http://www.kitploit.com/2022/02/wmiexec-regout-modify-version-of.html)
 - [Heaptrace - Helps Visualize Heap Operations For Pwn And Debugging](http://www.kitploit.com/2022/02/heaptrace-helps-visualize-heap.html)
