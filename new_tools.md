@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Espionage - A Network Packet And Traffic Interceptor For Linux. Spoof ARP And Wiretap A Network](http://www.kitploit.com/2022/02/espionage-network-packet-and-traffic.html)
 - [IDACode - An Integration For IDA And VS Code Which Connects Both To Easily Execute And Debug IDAPython Scripts](http://www.kitploit.com/2022/02/idacode-integration-for-ida-and-vs-code.html)
 - [SentryPeer - A Distributed Peer To Peer List Of Bad Actor IP Addresses And Phone Numbers Collected Via A SIP Honeypot](http://www.kitploit.com/2022/02/sentrypeer-distributed-peer-to-peer.html)
 - [SMBSR - Lookup For Interesting Stuff In SMB Shares](http://www.kitploit.com/2022/02/smbsr-lookup-for-interesting-stuff-in.html)
