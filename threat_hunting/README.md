@@ -33,6 +33,10 @@
 
 ## Videos
 
+- [SANS Threat Hunting and IR Summit 2021](https://www.youtube.com/playlist?list=PLfouvuAjspTpxI8P68vblkcLAtJWKuOxu)
+- [SANS Threat Hunting and IR Summit 2020](https://www.youtube.com/playlist?list=PLfouvuAjspTpESwgitHe8roa7XBOnemFa)
+- [SANS Threat Hunting and IR Summit 2019](https://www.youtube.com/playlist?list=PLfouvuAjspToqZfYaOuWlnHCZUcBTRjzq)
+- [SANS Threat Hunting and IR Summit 2018](https://www.youtube.com/playlist?list=PLfouvuAjspTrUOTh_FTljg3qAXHPtOrIx)
 - [SANS Threat Hunting and IR Summit 2017](https://www.youtube.com/playlist?list=PLfouvuAjspTr95R60Kt7ZcoerR6tYoCLA)
 - [SANS Threat Hunting and IR Summit 2016](https://www.youtube.com/playlist?list=PLfouvuAjspTokaa-LdUHqszL-KACkCsKT)
 - [BotConf 2016 - Advanced Incident Detection and Threat Hunting using Sysmon and Splunk](https://www.youtube.com/watch?v=vv_VXntQTpE)
