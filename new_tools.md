@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wslu - A Collection Of Utilities For Windows 10 Linux Subsystems](http://www.kitploit.com/2022/02/wslu-collection-of-utilities-for.html)
 - [EDRHunt - Scan Installed EDRs And AVs On Windows](http://www.kitploit.com/2022/02/edrhunt-scan-installed-edrs-and-avs-on.html)
 - [SocialPwned - An OSINT Tool That Allows To Get The Emails, From A Target, Published In Social Networks Such As Instagram, Linkedin And Twitter To Find Possible Credentials Leaks In PwnDB Or Dehashed And Obtain Google Account Information Via GHunt](http://www.kitploit.com/2022/02/socialpwned-osint-tool-that-allows-to.html)
 - [Instaloctrack - An Instagram OSINT Tool To Collect All The Geotagged Locations Available On An Instagram Profile In Order To Plot Them On A Map, And Dump Them In A JSON](http://www.kitploit.com/2022/02/instaloctrack-instagram-osint-tool-to.html)
