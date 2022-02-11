@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [TerraGoat - Vulnerable Terraform Infrastructure](http://www.kitploit.com/2022/02/terragoat-vulnerable-terraform.html)
 - [Php-Malware-Finder - Detect Potentially Malicious PHP Files](http://www.kitploit.com/2022/02/php-malware-finder-detect-potentially.html)
 - [LDAP-Password-Hunter - Password Hunter In The LDAP Infamous Database](http://www.kitploit.com/2022/02/ldap-password-hunter-password-hunter-in.html)
 - [AWS-Loot - Pull Secrets From An AWS Environment](http://www.kitploit.com/2022/02/aws-loot-pull-secrets-from-aws.html)
