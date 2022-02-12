@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cloudsploit - Cloud Security Posture Management (CSPM)](http://www.kitploit.com/2022/02/cloudsploit-cloud-security-posture.html)
 - [Dive - A Tool For Exploring Each Layer In A Docker Image](http://www.kitploit.com/2022/02/dive-tool-for-exploring-each-layer-in.html)
 - [TerraGoat - Vulnerable Terraform Infrastructure](http://www.kitploit.com/2022/02/terragoat-vulnerable-terraform.html)
 - [Php-Malware-Finder - Detect Potentially Malicious PHP Files](http://www.kitploit.com/2022/02/php-malware-finder-detect-potentially.html)
