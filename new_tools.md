@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Exrop - Automatic ROP Chain Generation](http://www.kitploit.com/2022/02/exrop-automatic-rop-chain-generation.html)
 - [Get-RBCD-Threaded - Tool To Discover Resource-Based Constrained Delegation Attack Paths In Active Directory Environments](http://www.kitploit.com/2022/02/get-rbcd-threaded-tool-to-discover.html)
 - [truffleHog - Searches Through Git Repositories For High Entropy Strings And Secrets, Digging Deep Into Commit History](http://www.kitploit.com/2022/02/trufflehog-searches-through-git.html)
 - [Cloudsploit - Cloud Security Posture Management (CSPM)](http://www.kitploit.com/2022/02/cloudsploit-cloud-security-posture.html)
