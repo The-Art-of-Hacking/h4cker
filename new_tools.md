@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FakeLogonScreen - Fake Windows Logon Screen To Steal Passwords](http://www.kitploit.com/2022/02/fakelogonscreen-fake-windows-logon.html)
 - [Kali Linux 2022.1 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/02/kali-linux-20221-penetration-testing.html)
 - [Shellcodetester - An Application To Test Windows And Linux Shellcodes](http://www.kitploit.com/2022/02/shellcodetester-application-to-test.html)
 - [Flare-Qdb - Command-line And Python Debugger For Instrumenting And Modifying Native Software Behavior On Windows And Linux](http://www.kitploit.com/2022/02/flare-qdb-command-line-and-python.html)
