@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Snaffler - A Tool For Pentesters To Help Find Delicious Candy](http://www.kitploit.com/2022/02/snaffler-tool-for-pentesters-to-help.html)
 - [Macrome - Excel Macro Document Reader/Writer For Red Teamers And Analysts](http://www.kitploit.com/2022/02/macrome-excel-macro-document.html)
 - [FakeLogonScreen - Fake Windows Logon Screen To Steal Passwords](http://www.kitploit.com/2022/02/fakelogonscreen-fake-windows-logon.html)
 - [Kali Linux 2022.1 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/02/kali-linux-20221-penetration-testing.html)
