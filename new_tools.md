@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HybridTestFramework - End To End Testing Of Web, API And Security](http://www.kitploit.com/2022/02/hybridtestframework-end-to-end-testing.html)
 - [Talisman - By Hooking Into The Pre-Push Hook Provided By Git, Talisman Validates The Outgoing Changeset For Things That Look Suspicious](http://www.kitploit.com/2022/02/talisman-by-hooking-into-pre-push-hook.html)
 - [SharpCookieMonster - Extracts Cookies From Chrome](http://www.kitploit.com/2022/02/sharpcookiemonster-extracts-cookies.html)
 - [Boko - Application Hijack Scanner For macOS](http://www.kitploit.com/2022/02/boko-application-hijack-scanner-for.html)
