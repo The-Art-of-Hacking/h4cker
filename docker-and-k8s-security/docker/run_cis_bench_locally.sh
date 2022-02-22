@@ -2,7 +2,7 @@
 # A simple script to install Chef inspec and the CIS Docker Benchmark InSpec Profile
 # Runs on Ubuntu, Debian, Parrot, and Kali Linux
 # Author: Omar Santos @santosomar
-# version 0.1
+# version 0.2
 
 #color settings
 red=$(tput setaf 1)
@@ -15,7 +15,7 @@ echo "🔥🔥🔥 ${green} R U N   C I S   D O C K E R   B E N C H M A R K ${re
 
 Author: Omar Ωr Santos
 Twitter: @santosomar
-Version: 0.1
+Version: 0.2
 
 ${red}This script will automatically install or upgrade InSpec and will run the latest CIS Docker Benchmark from github/dev-sec/cis-docker-benchmark
 "
