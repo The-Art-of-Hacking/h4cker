@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Jatayu - Stealthy Stand Alone PHP Web Shell](http://www.kitploit.com/2022/02/jatayu-stealthy-stand-alone-php-web.html)
 - [Chain-Reactor - An Open Source Framework For Composing Executables That Simulate Adversary Behaviors And Techniques On Linux Endpoints](http://www.kitploit.com/2022/02/chain-reactor-open-source-framework-for.html)
 - [Voltron - A Hacky Debugger UI For Hackers](http://www.kitploit.com/2022/02/voltron-hacky-debugger-ui-for-hackers.html)
 - [SSRFire - An Automated SSRF Finder. Just Give The Domain Name And Your Server And Chill! Also Has Options To Find XSS And Open Redirects](http://www.kitploit.com/2022/02/ssrfire-automated-ssrf-finder-just-give.html)
