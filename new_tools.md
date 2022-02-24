@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Win-Brute-Logon - Crack Any Microsoft Windows Users Password Without Any Privilege (Guest Account Included)](http://www.kitploit.com/2022/02/win-brute-logon-crack-any-microsoft.html)
 - [Scylla - The Simplistic Information Gathering Engine | Find Advanced Information On A Username, Website, Phone Number, Etc](http://www.kitploit.com/2022/02/scylla-simplistic-information-gathering.html)
 - [Jatayu - Stealthy Stand Alone PHP Web Shell](http://www.kitploit.com/2022/02/jatayu-stealthy-stand-alone-php-web.html)
 - [Chain-Reactor - An Open Source Framework For Composing Executables That Simulate Adversary Behaviors And Techniques On Linux Endpoints](http://www.kitploit.com/2022/02/chain-reactor-open-source-framework-for.html)
