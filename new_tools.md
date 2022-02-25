@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [openSquat - Detection Of Phishing Domains And Domain Squatting. Supports Permutations Such As Homograph Attack, Typosquatting And Bitsquatting](http://www.kitploit.com/2022/02/opensquat-detection-of-phishing-domains.html)
 - [JNDI-Injection-Exploit - A Tool Which Generates JNDI Links Can Start Several Servers To Exploit JNDI Injection Vulnerability](http://www.kitploit.com/2022/02/jndi-injection-exploit-tool-which.html)
 - [Win-Brute-Logon - Crack Any Microsoft Windows Users Password Without Any Privilege (Guest Account Included)](http://www.kitploit.com/2022/02/win-brute-logon-crack-any-microsoft.html)
 - [Scylla - The Simplistic Information Gathering Engine | Find Advanced Information On A Username, Website, Phone Number, Etc](http://www.kitploit.com/2022/02/scylla-simplistic-information-gathering.html)
