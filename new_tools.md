@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BruteShark - Network Analysis Tool](http://www.kitploit.com/2022/03/bruteshark-network-analysis-tool.html)
 - [Checkov - Prevent Cloud Misconfigurations During Build-Time For Terraform, CloudFormation, Kubernetes, Serverless Framework And Other Infrastructure-As-Code-Languages](http://www.kitploit.com/2022/03/checkov-prevent-cloud-misconfigurations.html)
 - [DRAKVUF Sandbox - Automated Hypervisor-Level Malware Analysis System](http://www.kitploit.com/2022/02/drakvuf-sandbox-automated-hypervisor.html)
 - [StayKit - Cobalt Strike Kit For Persistence](http://www.kitploit.com/2022/02/staykit-cobalt-strike-kit-for.html)
