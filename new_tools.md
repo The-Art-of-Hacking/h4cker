@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Litefuzz - A Multi-Platform Fuzzer For Poking At Userland Binaries And Servers](http://www.kitploit.com/2022/03/litefuzz-multi-platform-fuzzer-for.html)
 - [Searpy - Search Engine Tookit](http://www.kitploit.com/2022/03/searpy-search-engine-tookit.html)
 - [CAPEv2 - Malware Configuration And Payload Extraction](http://www.kitploit.com/2022/03/capev2-malware-configuration-and.html)
 - [BruteShark - Network Analysis Tool](http://www.kitploit.com/2022/03/bruteshark-network-analysis-tool.html)
