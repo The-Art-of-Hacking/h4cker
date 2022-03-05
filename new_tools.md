@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IOC Scraper - A Fast And Reliable Service That Enables You To Extract IOCs And Intelligence From Different Data Sources](http://www.kitploit.com/2022/03/ioc-scraper-fast-and-reliable-service.html)
 - [HaccTheHub - Open Source Self-Hosted Cyber Security Learning Platform](http://www.kitploit.com/2022/03/haccthehub-open-source-self-hosted.html)
 - [Ocr-Recon - Tool To Find A Particular String In A List Of URLs Using Tesseract'S OCR (Optical Character Recognition) Capabilities](http://www.kitploit.com/2022/03/ocr-recon-tool-to-find-particular.html)
 - [Chaya - Advance Image Steganography](http://www.kitploit.com/2022/03/chaya-advance-image-steganography.html)
