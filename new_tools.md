@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PyShell - Multiplatform Python WebShell](http://www.kitploit.com/2022/03/pyshell-multiplatform-python-webshell.html)
 - [Authz0 - An Automated Authorization Test Tool. Unauthorized Access Can Be Identified Based On URLs And RolesAnd Credentials](http://www.kitploit.com/2022/03/authz0-automated-authorization-test.html)
 - [IOC Scraper - A Fast And Reliable Service That Enables You To Extract IOCs And Intelligence From Different Data Sources](http://www.kitploit.com/2022/03/ioc-scraper-fast-and-reliable-service.html)
 - [HaccTheHub - Open Source Self-Hosted Cyber Security Learning Platform](http://www.kitploit.com/2022/03/haccthehub-open-source-self-hosted.html)
