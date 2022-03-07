@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fastfuz-Chrome-Ext - Site Fast Fuzzing With Chorme Extension](http://www.kitploit.com/2022/03/fastfuz-chrome-ext-site-fast-fuzzing.html)
 - [PwnKit-Exploit - Proof Of Concept (PoC) CVE-2021-4034](http://www.kitploit.com/2022/03/pwnkit-exploit-proof-of-concept-poc-cve.html)
 - [Osmedeus - A Workflow Engine For Offensive Security](http://www.kitploit.com/2022/03/osmedeus-workflow-engine-for-offensive.html)
 - [PyShell - Multiplatform Python WebShell](http://www.kitploit.com/2022/03/pyshell-multiplatform-python-webshell.html)
