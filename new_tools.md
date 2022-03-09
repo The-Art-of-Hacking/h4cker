@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Geowifi - Search WiFi Geolocation Data By BSSID And SSID On Different Public Databases](http://www.kitploit.com/2022/03/geowifi-search-wifi-geolocation-data-by.html)
 - [GONET-Scanner - Golang Network Scanner With Arp Discovery And Own Parser](http://www.kitploit.com/2022/03/gonet-scanner-golang-network-scanner.html)
 - [GraphQL Cop - Security Auditor Utility For GraphQL APIs](http://www.kitploit.com/2022/03/graphql-cop-security-auditor-utility.html)
 - [Fastfuz-Chrome-Ext - Site Fast Fuzzing With Chorme Extension](http://www.kitploit.com/2022/03/fastfuz-chrome-ext-site-fast-fuzzing.html)
