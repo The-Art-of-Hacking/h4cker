@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Scanmycode-Ce - Code Scanning/SAST/Static Analysis/Linting Using Many tools/Scanners With One Report - Scanmycode Community Edition (CE)](http://www.kitploit.com/2022/03/scanmycode-ce-code-scanningsaststatic.html)
 - [Master_Librarian - A Simple Tool To Audit Unix/*BSD/Linux System Libraries To Find Public Security Vulnerabilities](http://www.kitploit.com/2022/03/masterlibrarian-simple-tool-to-audit.html)
 - [Geowifi - Search WiFi Geolocation Data By BSSID And SSID On Different Public Databases](http://www.kitploit.com/2022/03/geowifi-search-wifi-geolocation-data-by.html)
 - [GONET-Scanner - Golang Network Scanner With Arp Discovery And Own Parser](http://www.kitploit.com/2022/03/gonet-scanner-golang-network-scanner.html)
