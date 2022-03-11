@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WSVuls - Website Vulnerability Scanner Detect Issues (Outdated Server Software And Insecure HTTP Headers)](http://www.kitploit.com/2022/03/wsvuls-website-vulnerability-scanner.html)
 - [ASSAMEE - Free Advance Encryptor For Anon Cloud](http://www.kitploit.com/2022/03/assamee-free-advance-encryptor-for-anon.html)
 - [Scanmycode-Ce - Code Scanning/SAST/Static Analysis/Linting Using Many tools/Scanners With One Report - Scanmycode Community Edition (CE)](http://www.kitploit.com/2022/03/scanmycode-ce-code-scanningsaststatic.html)
 - [Master_Librarian - A Simple Tool To Audit Unix/*BSD/Linux System Libraries To Find Public Security Vulnerabilities](http://www.kitploit.com/2022/03/masterlibrarian-simple-tool-to-audit.html)
