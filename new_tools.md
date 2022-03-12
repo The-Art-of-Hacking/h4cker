@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Codecat v0.56 - An Open-Source Tool To Help You Find/Track User Input Sinks And Security Bugs Using Static Code Analysis](http://www.kitploit.com/2022/03/codecat-v056-open-source-tool-to-help.html)
 - [Nivistealer - Steal Victim Images Exact Location Device Info And Much More](http://www.kitploit.com/2022/03/nivistealer-steal-victim-images-exact.html)
 - [WSVuls - Website Vulnerability Scanner Detect Issues (Outdated Server Software And Insecure HTTP Headers)](http://www.kitploit.com/2022/03/wsvuls-website-vulnerability-scanner.html)
 - [ASSAMEE - Free Advance Encryptor For Anon Cloud](http://www.kitploit.com/2022/03/assamee-free-advance-encryptor-for-anon.html)
