@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dome - Fast And Reliable Python Script That Makes Active And/Or Passive Scan To Obtain Subdomains And Search For Open Ports](http://www.kitploit.com/2022/03/dome-fast-and-reliable-python-script.html)
 - [DomainAlerting - Daily Alert When A New Domain Name Is Registered And Contains Your Keywords](http://www.kitploit.com/2022/03/domainalerting-daily-alert-when-new.html)
 - [Codecat v0.56 - An Open-Source Tool To Help You Find/Track User Input Sinks And Security Bugs Using Static Code Analysis](http://www.kitploit.com/2022/03/codecat-v056-open-source-tool-to-help.html)
 - [Nivistealer - Steal Victim Images Exact Location Device Info And Much More](http://www.kitploit.com/2022/03/nivistealer-steal-victim-images-exact.html)
