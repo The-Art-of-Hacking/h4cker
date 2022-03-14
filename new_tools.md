@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Lnkbomb - Malicious Shortcut Generator For Collecting NTLM Hashes From Insecure File Shares](http://www.kitploit.com/2022/03/lnkbomb-malicious-shortcut-generator.html)
 - [CodeAnalysis - Static Code Analysis](http://www.kitploit.com/2022/03/codeanalysis-static-code-analysis.html)
 - [GoodHound - Uses Sharphound, Bloodhound And Neo4j To Produce An Actionable List Of Attack Paths For Targeted Remediation](http://www.kitploit.com/2022/03/goodhound-uses-sharphound-bloodhound.html)
 - [Dome - Fast And Reliable Python Script That Makes Active And/Or Passive Scan To Obtain Subdomains And Search For Open Ports](http://www.kitploit.com/2022/03/dome-fast-and-reliable-python-script.html)
