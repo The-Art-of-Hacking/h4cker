@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [RefleXXion - A Utility Designed To Aid In Bypassing User-Mode Hooks Utilised By AV/EPP/EDR Etc](http://www.kitploit.com/2022/03/reflexxion-utility-designed-to-aid-in.html)
 - [WMEye - A Post Exploitation Tool That Uses WMI Event Filter And MSBuild Execution For Lateral Movement](http://www.kitploit.com/2022/03/wmeye-post-exploitation-tool-that-uses.html)
 - [Patching - An Interactive Binary Patching Plugin For IDA Pro](http://www.kitploit.com/2022/03/patching-interactive-binary-patching.html)
 - [Lnkbomb - Malicious Shortcut Generator For Collecting NTLM Hashes From Insecure File Shares](http://www.kitploit.com/2022/03/lnkbomb-malicious-shortcut-generator.html)
