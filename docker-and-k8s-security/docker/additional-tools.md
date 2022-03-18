@@ -1,4 +1,4 @@
-# Additinal Docker Security Tools and Resources
+# Additional Docker Security Tools and Resources
 
 - [Anchor Engine](https://github.com/anchore/anchore) - Analyze images for CVE vulnerabilities and against custom security policies by [@Anchor](https://github.com/anchore)
 - [Aqua Security](https://www.aquasec.com) :heavy_dollar_sign: - Securing container-based applications from Dev to Production on any platform
