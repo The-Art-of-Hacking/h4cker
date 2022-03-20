@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PSRansom - PowerShell Ransomware Simulator With C2 Server](http://www.kitploit.com/2022/03/psransom-powershell-ransomware.html)
 - [S3Sec - Check AWS S3 Instances For Read/Write/Delete Access](http://www.kitploit.com/2022/03/s3sec-check-aws-s3-instances-for.html)
 - [Nuclei-Burp-Plugin - Nuclei Plugin For BurpSuite](http://www.kitploit.com/2022/03/nuclei-burp-plugin-nuclei-plugin-for.html)
 - [Ghostbuster - Eliminate Dangling Elastic IPs By Performing Analysis On Your Resources Within All Your AWS Accounts](http://www.kitploit.com/2022/03/ghostbuster-eliminate-dangling-elastic.html)
