@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FastFinder - Incident Response - Fast Suspicious File Finder](http://www.kitploit.com/2022/03/fastfinder-incident-response-fast.html)
 - [Vortex - VPN Overall Reconnaissance, Testing, Enumeration And eXploitation Toolkit](http://www.kitploit.com/2022/03/vortex-vpn-overall-reconnaissance.html)
 - [Oh365UserFinder - Python3 O365 User Enumeration Tool](http://www.kitploit.com/2022/03/oh365userfinder-python3-o365-user.html)
 - [PSRansom - PowerShell Ransomware Simulator With C2 Server](http://www.kitploit.com/2022/03/psransom-powershell-ransomware.html)
