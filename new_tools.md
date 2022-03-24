@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Tiktok-Scraper - TikTok Scraper. Download Video Posts, Collect User/Trend/Hashtag/Music Feed Metadata, Sign URL And Etc](http://www.kitploit.com/2022/03/tiktok-scraper-tiktok-scraper-download.html)
 - [ADExplorerSnapshot.py - An AD Explorer Snapshot Parser. It Is Made As An Ingestor For BloodHound, And Also Supports Full-Object Dumping To NDJSON](http://www.kitploit.com/2022/03/adexplorersnapshotpy-ad-explorer.html)
 - [ShellcodeTemplate - An Easily Modifiable Shellcode Template For Windows X64/X86](http://www.kitploit.com/2022/03/shellcodetemplate-easily-modifiable.html)
 - [FastFinder - Incident Response - Fast Suspicious File Finder](http://www.kitploit.com/2022/03/fastfinder-incident-response-fast.html)
