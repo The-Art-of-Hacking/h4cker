@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Zkar - A Java Serialization Protocol Analysis Tool Implement In Go](http://www.kitploit.com/2022/03/zkar-java-serialization-protocol.html)
 - [SysWhispers3 - AV/EDR Evasion Via Direct System Calls](http://www.kitploit.com/2022/03/syswhispers3-avedr-evasion-via-direct.html)
 - [Factual-Rules-Generator - An Open Source Project Which Aims To Generate YARA Rules About Installed Software From A Machine](http://www.kitploit.com/2022/03/factual-rules-generator-open-source.html)
 - [Tiktok-Scraper - TikTok Scraper. Download Video Posts, Collect User/Trend/Hashtag/Music Feed Metadata, Sign URL And Etc](http://www.kitploit.com/2022/03/tiktok-scraper-tiktok-scraper-download.html)
