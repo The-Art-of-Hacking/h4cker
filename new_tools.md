@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ostorlab - A Security Scanning Platform That Enables Running Complex Security Scanning Tasks Involving Multiple Tools In An Easy, Scalable And Distributed Way](http://www.kitploit.com/2022/03/ostorlab-security-scanning-platform.html)
 - [Nimcrypt2 - .NET, PE, And Raw Shellcode Packer/Loader Written In Nim](http://www.kitploit.com/2022/03/nimcrypt2-net-pe-and-raw-shellcode.html)
 - [Request_Smuggler - Http Request Smuggling Vulnerability Scanner](http://www.kitploit.com/2022/03/requestsmuggler-http-request-smuggling.html)
 - [Zkar - A Java Serialization Protocol Analysis Tool Implement In Go](http://www.kitploit.com/2022/03/zkar-java-serialization-protocol.html)
