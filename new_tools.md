@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nimcrypt2 - .NET, PE, And Raw Shellcode Packer/Loader Written In Nim](http://www.kitploit.com/2022/03/nimcrypt2-net-pe-and-raw-shellcode.html)
 - [Request_Smuggler - Http Request Smuggling Vulnerability Scanner](http://www.kitploit.com/2022/03/requestsmuggler-http-request-smuggling.html)
 - [Zkar - A Java Serialization Protocol Analysis Tool Implement In Go](http://www.kitploit.com/2022/03/zkar-java-serialization-protocol.html)
 - [SysWhispers3 - AV/EDR Evasion Via Direct System Calls](http://www.kitploit.com/2022/03/syswhispers3-avedr-evasion-via-direct.html)
