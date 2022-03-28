@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fennec - Artifact Collection Tool For *Nix Systems](http://www.kitploit.com/2022/03/fennec-artifact-collection-tool-for-nix.html)
 - [Gitcolombo - Extract And Analyze Contributors Info From Git Repos](http://www.kitploit.com/2022/03/gitcolombo-extract-and-analyze.html)
 - [Ostorlab - A Security Scanning Platform That Enables Running Complex Security Scanning Tasks Involving Multiple Tools In An Easy, Scalable And Distributed Way](http://www.kitploit.com/2022/03/ostorlab-security-scanning-platform.html)
 - [Nimcrypt2 - .NET, PE, And Raw Shellcode Packer/Loader Written In Nim](http://www.kitploit.com/2022/03/nimcrypt2-net-pe-and-raw-shellcode.html)
