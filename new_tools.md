@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CVE-2022-27254 - PoC For Vulnerability In Honda's Remote Keyless System](http://www.kitploit.com/2022/03/cve-2022-27254-poc-for-vulnerability-in.html)
 - [Casper-Fs - A Custom Hidden Linux Kernel Module Generator. Each Module Works In The File System To Protect And Hide Secret Files](http://www.kitploit.com/2022/03/casper-fs-custom-hidden-linux-kernel.html)
 - [LAZYPARIAH - A Tool For Generating Reverse Shell Payloads On The Fly](http://www.kitploit.com/2022/03/lazypariah-tool-for-generating-reverse.html)
 - [Socid-Extractor - Extract Accounts Info From Personal Pages On Various Sites For OSINT Purpose](http://www.kitploit.com/2022/03/socid-extractor-extract-accounts-info.html)
