@@ -115,6 +115,8 @@
 - [KubiScan](https://github.com/cyberark/KubiScan)
 - [Kubernetes Audit by Trail of Bits](https://github.com/trailofbits/audit-kubernetes)
 - [kubeaudit](https://github.com/Shopify/kubeaudit)
+- [SecretScanner](https://github.com/deepfence/SecretScanner)
+- [ThreatMapper](https://github.com/deepfence/ThreatMapper)
 - [falco](https://github.com/falcosecurity/falco)
 - [kubesec](https://github.com/controlplaneio/kubesec)
 - [kube-bench](https://github.com/aquasecurity/kube-bench)
