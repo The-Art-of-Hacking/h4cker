@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Slyther - AWS Security Tool](http://www.kitploit.com/2022/04/slyther-aws-security-tool.html)
 - [Spring-Spel-0Day-Poc - Spring-Cloud / spring-cloud-function, spring.cloud.function.routing-expression, RCE, 0day, 0-day, POC, EXP](http://www.kitploit.com/2022/03/spring-spel-0day-poc-spring-cloud.html)
 - [CVE-2022-22963 - PoC Spring Java Framework 0-day Remote Code Execution Vulnerability](http://www.kitploit.com/2022/03/cve-2022-22963-poc-spring-java.html)
 - [CVE-2022-27254 - PoC For Vulnerability In Honda's Remote Keyless System](http://www.kitploit.com/2022/03/cve-2022-27254-poc-for-vulnerability-in.html)
