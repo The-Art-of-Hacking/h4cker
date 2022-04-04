@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Live-Forensicator - Powershell Script To Aid Incidence Response And Live Forensics](http://www.kitploit.com/2022/04/live-forensicator-powershell-script-to.html)
 - [Phantun - Transforms UDP Stream Into (Fake) TCP Streams That Can Go Through Layer 3 &Amp; Layer 4 (NAPT) firewalls/NATs](http://www.kitploit.com/2022/04/phantun-transforms-udp-stream-into-fake.html)
 - [CobaltBus - Cobalt Strike External C2 Integration With Azure Servicebus, C2 Traffic Via Azure Servicebus](http://www.kitploit.com/2022/04/cobaltbus-cobalt-strike-external-c2.html)
 - [Odin - Central IoC Scanner Based On Loki](http://www.kitploit.com/2022/04/odin-central-ioc-scanner-based-on-loki.html)
