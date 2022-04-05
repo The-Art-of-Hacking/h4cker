@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ScheduleRunner - A C# Tool With More Flexibility To Customize Scheduled Task For Both Persistence And Lateral Movement In Red Team Operation](http://www.kitploit.com/2022/04/schedulerunner-c-tool-with-more.html)
 - [DarthSidious - Building An Active Directory Domain And Hacking It](http://www.kitploit.com/2022/04/darthsidious-building-active-directory.html)
 - [ICMP-TransferTools - Transfer Files To And From A Windows Host Via ICMP In Restricted Network Environments](http://www.kitploit.com/2022/04/icmp-transfertools-transfer-files-to.html)
 - [Live-Forensicator - Powershell Script To Aid Incidence Response And Live Forensics](http://www.kitploit.com/2022/04/live-forensicator-powershell-script-to.html)
