@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cloak - A Censorship Circumvention Tool To Evade Detection By Authoritarian State Adversaries](http://www.kitploit.com/2022/04/cloak-censorship-circumvention-tool-to.html)
 - [OffensiveNotion - Notion As A Platform For Offensive Operations](http://www.kitploit.com/2022/04/offensivenotion-notion-as-platform-for.html)
 - [Octosuite - Advanced Github OSINT Framework](http://www.kitploit.com/2022/04/octosuite-advanced-github-osint.html)
 - [Gitbleed_Tools - For Extracting Data From Mirrorred Git Repositories](http://www.kitploit.com/2022/04/gitbleedtools-for-extracting-data-from.html)
