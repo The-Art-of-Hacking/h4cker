@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Skanuvaty - Dangerously Fast DNS/network/port Scanner](http://www.kitploit.com/2022/04/skanuvaty-dangerously-fast.html)
 - [Uncover - Quickly Discover Exposed Hosts On The Internet Using Multiple Search Engine](http://www.kitploit.com/2022/04/uncover-quickly-discover-exposed-hosts.html)
 - [Cloak - A Censorship Circumvention Tool To Evade Detection By Authoritarian State Adversaries](http://www.kitploit.com/2022/04/cloak-censorship-circumvention-tool-to.html)
 - [OffensiveNotion - Notion As A Platform For Offensive Operations](http://www.kitploit.com/2022/04/offensivenotion-notion-as-platform-for.html)
