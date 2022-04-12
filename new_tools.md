@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [NimPackt-v1 - Nim-based Assembly Packer And Shellcode Loader For Opsec And Profit](http://www.kitploit.com/2022/04/nimpackt-v1-nim-based-assembly-packer.html)
 - [EvilSelenium - A Tool That Weaponizes Selenium To Attack Chromium Based Browsers](http://www.kitploit.com/2022/04/evilselenium-tool-that-weaponizes.html)
 - [Wholeaked - A File-Sharing Tool That Allows You To Find The Responsible Person In Case Of A Leakage](http://www.kitploit.com/2022/04/wholeaked-file-sharing-tool-that-allows.html)
 - [LDAP shell - AD ACL Abuse](http://www.kitploit.com/2022/04/ldap-shell-ad-acl-abuse.html)
