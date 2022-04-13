@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Melody - A Transparent Internet Sensor Built For Threat Intelligence](http://www.kitploit.com/2022/04/melody-transparent-internet-sensor.html)
 - [Maat - Open-source Symbolic Execution Framework](http://www.kitploit.com/2022/04/maat-open-source-symbolic-execution.html)
 - [NimPackt-v1 - Nim-based Assembly Packer And Shellcode Loader For Opsec And Profit](http://www.kitploit.com/2022/04/nimpackt-v1-nim-based-assembly-packer.html)
 - [EvilSelenium - A Tool That Weaponizes Selenium To Attack Chromium Based Browsers](http://www.kitploit.com/2022/04/evilselenium-tool-that-weaponizes.html)
