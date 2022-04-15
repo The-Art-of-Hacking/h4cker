@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [modifyCertTemplate - ADCS Cert Template Modification And ACL Enumeration](http://www.kitploit.com/2022/04/modifycerttemplate-adcs-cert-template.html)
 - [vAPI - Vulnerable Adversely Programmed Interface Which Is Self-Hostable API That Mimics OWASP API Top 10 Scenarios Through Exercises](http://www.kitploit.com/2022/04/vapi-vulnerable-adversely-programmed.html)
 - [365Inspect - A PowerShell Script That Automates The Security Assessment Of Microsoft Office 365 Environments](http://www.kitploit.com/2022/04/365inspect-powershell-script-that.html)
 - [Presshell - Quick And Dirty Wordpress Command Execution Shell](http://www.kitploit.com/2022/04/presshell-quick-and-dirty-wordpress.html)
