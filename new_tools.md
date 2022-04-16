@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [EDRSandblast - Tool That Weaponize A Vulnerable Signed Driver To Bypass EDR Detections And LSASS Protections](http://www.kitploit.com/2022/04/edrsandblast-tool-that-weaponize.html)
 - [Shhhloader - SysWhispers Shellcode Loader](http://www.kitploit.com/2022/04/shhhloader-syswhispers-shellcode-loader.html)
 - [modifyCertTemplate - ADCS Cert Template Modification And ACL Enumeration](http://www.kitploit.com/2022/04/modifycerttemplate-adcs-cert-template.html)
 - [vAPI - Vulnerable Adversely Programmed Interface Which Is Self-Hostable API That Mimics OWASP API Top 10 Scenarios Through Exercises](http://www.kitploit.com/2022/04/vapi-vulnerable-adversely-programmed.html)
