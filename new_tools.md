@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OWASP Coraza WAF - A Golang Modsecurity Compatible Web Application Firewall Library](http://www.kitploit.com/2022/04/owasp-coraza-waf-golang-modsecurity.html)
 - [Kraken - A Multi-Platform Distributed Brute-Force Password Cracking System](http://www.kitploit.com/2022/04/kraken-multi-platform-distributed-brute.html)
 - [EDRSandblast - Tool That Weaponize A Vulnerable Signed Driver To Bypass EDR Detections And LSASS Protections](http://www.kitploit.com/2022/04/edrsandblast-tool-that-weaponize.html)
 - [Shhhloader - SysWhispers Shellcode Loader](http://www.kitploit.com/2022/04/shhhloader-syswhispers-shellcode-loader.html)
