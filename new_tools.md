@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Zircolite - A Standalone SIGMA-based Detection Tool For EVTX, Auditd And Sysmon For Linux Logs](http://www.kitploit.com/2022/04/zircolite-standalone-sigma-based.html)
 - [linWinPwn - A Bash Script That Automates A Number Of Active Directory Enumeration And Vulnerability Checks](http://www.kitploit.com/2022/04/linwinpwn-bash-script-that-automates.html)
 - [OWASP Coraza WAF - A Golang Modsecurity Compatible Web Application Firewall Library](http://www.kitploit.com/2022/04/owasp-coraza-waf-golang-modsecurity.html)
 - [Kraken - A Multi-Platform Distributed Brute-Force Password Cracking System](http://www.kitploit.com/2022/04/kraken-multi-platform-distributed-brute.html)
