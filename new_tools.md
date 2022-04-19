@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ADReaper - A Fast Enumeration Tool For Windows Active Directory Pentesting Written In Go](http://www.kitploit.com/2022/04/adreaper-fast-enumeration-tool-for.html)
 - [KrbRelay - Framework For Kerberos Relaying](http://www.kitploit.com/2022/04/krbrelay-framework-for-kerberos-relaying.html)
 - [Zircolite - A Standalone SIGMA-based Detection Tool For EVTX, Auditd And Sysmon For Linux Logs](http://www.kitploit.com/2022/04/zircolite-standalone-sigma-based.html)
 - [linWinPwn - A Bash Script That Automates A Number Of Active Directory Enumeration And Vulnerability Checks](http://www.kitploit.com/2022/04/linwinpwn-bash-script-that-automates.html)
