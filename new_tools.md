@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ecapture - Capture SSL/TLS Text Content Without CA Cert By eBPF](http://www.kitploit.com/2022/04/ecapture-capture-ssltls-text-content.html)
 - [Jfscan - A Super Fast And Customisable Port Scanner, Based On Masscan And NMap](http://www.kitploit.com/2022/04/jfscan-super-fast-and-customisable-port.html)
 - [Ma2Tl - macOS Forensic Timeline Generator Using The Analysis Result DBs Of Mac_Apt](http://www.kitploit.com/2022/04/ma2tl-macos-forensic-timeline-generator.html)
 - [DumpSMBShare - A Script To Dump Files And Folders Remotely From A Windows SMB Share](http://www.kitploit.com/2022/04/dumpsmbshare-script-to-dump-files-and.html)
