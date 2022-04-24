@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Git-Dumper - A Tool To Dump A Git Repository From A Website](http://www.kitploit.com/2022/04/git-dumper-tool-to-dump-git-repository.html)
 - [Spock SLAF - A Shared Library Application Firewall "SLAF"](http://www.kitploit.com/2022/04/spock-slaf-shared-library-application.html)
 - [Sub3Suite - A Free, Open Source, Cross Platform Intelligence Gathering Tool](http://www.kitploit.com/2022/04/sub3suite-free-open-source-cross.html)
 - [Ecapture - Capture SSL/TLS Text Content Without CA Cert By eBPF](http://www.kitploit.com/2022/04/ecapture-capture-ssltls-text-content.html)
