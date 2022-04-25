@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wpgarlic - A Proof-Of-Concept WordPress Plugin Fuzzer](http://www.kitploit.com/2022/04/wpgarlic-proof-of-concept-wordpress.html)
 - [DDexec - A Technique To Run Binaries Filelessly And Stealthily On Linux Using Dd To Replace The Shell With Another Process](http://www.kitploit.com/2022/04/ddexec-technique-to-run-binaries.html)
 - [Spring4Shell-Scan - A Fully Automated, Reliable, And Accurate Scanner For Finding Spring4Shell And Spring Cloud RCE Vulnerabilities](http://www.kitploit.com/2022/04/spring4shell-scan-fully-automated.html)
 - [Malwarescanner - Simple Malware Scanner Written In Python](http://www.kitploit.com/2022/04/malwarescanner-simple-malware-scanner.html)
