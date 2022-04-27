@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [O365-Doppelganger - A Quick Handy Script To Harvest Credentials Off Of A User During A Red Team And Get Execution Of A File From The User](http://www.kitploit.com/2022/04/o365-doppelganger-quick-handy-script-to.html)
 - [VulFi -  Plugin To IDA Pro Which Can Be Used To Assist During Bug Hunting In Binaries](http://www.kitploit.com/2022/04/vulfi-plugin-to-ida-pro-which-can-be.html)
 - [Bore - Simple CLI Tool For Making Tunnels To Localhost](http://www.kitploit.com/2022/04/bore-simple-cli-tool-for-making-tunnels.html)
 - [Wpgarlic - A Proof-Of-Concept WordPress Plugin Fuzzer](http://www.kitploit.com/2022/04/wpgarlic-proof-of-concept-wordpress.html)
