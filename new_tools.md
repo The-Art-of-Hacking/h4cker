@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [IOSSecuritySuite - iOS Platform Security And Anti-Tampering Swift Library](http://www.kitploit.com/2022/04/iossecuritysuite-ios-platform-security.html)
 - [Rip Raw - Small Tool To Analyse The Memory Of Compromised Linux Systems](http://www.kitploit.com/2022/04/rip-raw-small-tool-to-analyse-memory-of.html)
 - [BITB - Browser In The Browser (BITB) Templates](http://www.kitploit.com/2022/04/bitb-browser-in-browser-bitb-templates.html)
 - [O365-Doppelganger - A Quick Handy Script To Harvest Credentials Off Of A User During A Red Team And Get Execution Of A File From The User](http://www.kitploit.com/2022/04/o365-doppelganger-quick-handy-script-to.html)
