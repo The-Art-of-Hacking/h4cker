@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Requests-Ip-Rotator - A Python Library To Utilize AWS API Gateway's Large IP Pool As A Proxy To Generate Pseudo-Infinite IPs For Web Scraping And Brute Forcing](http://www.kitploit.com/2022/04/requests-ip-rotator-python-library-to.html)
 - [Osinteye - Username Enumeration And Reconnaisance Suite](http://www.kitploit.com/2022/04/osinteye-username-enumeration-and.html)
 - [Lupo - Malware IOC Extractor. Debugging Module For Malware Analysis Automation](http://www.kitploit.com/2022/04/lupo-malware-ioc-extractor-debugging.html)
 - [IOSSecuritySuite - iOS Platform Security And Anti-Tampering Swift Library](http://www.kitploit.com/2022/04/iossecuritysuite-ios-platform-security.html)
