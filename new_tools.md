@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BackupOperatorToDA - From An Account Member Of The Group Backup Operators To Domain Admin Without RDP Or WinRM On The Domain Controller](http://www.kitploit.com/2022/05/backupoperatortoda-from-account-member.html)
 - [Dora - Find Exposed API Keys Based On RegEx And Get Exploitation Methods For Some Of Keys That Are Found](http://www.kitploit.com/2022/04/dora-find-exposed-api-keys-based-on.html)
 - [Requests-Ip-Rotator - A Python Library To Utilize AWS API Gateway's Large IP Pool As A Proxy To Generate Pseudo-Infinite IPs For Web Scraping And Brute Forcing](http://www.kitploit.com/2022/04/requests-ip-rotator-python-library-to.html)
 - [Osinteye - Username Enumeration And Reconnaisance Suite](http://www.kitploit.com/2022/04/osinteye-username-enumeration-and.html)
