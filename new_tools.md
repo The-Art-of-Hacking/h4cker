@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Moonwalk - Cover Your Tracks During Linux Exploitation By Leaving Zero Traces On System Logs And Filesystem Timestamps](http://www.kitploit.com/2022/05/moonwalk-cover-your-tracks-during-linux.html)
 - [Nanodump - A Crappy LSASS Dumper With No ASCII Art](http://www.kitploit.com/2022/05/nanodump-crappy-lsass-dumper-with-no.html)
 - [BackupOperatorToDA - From An Account Member Of The Group Backup Operators To Domain Admin Without RDP Or WinRM On The Domain Controller](http://www.kitploit.com/2022/05/backupoperatortoda-from-account-member.html)
 - [Dora - Find Exposed API Keys Based On RegEx And Get Exploitation Methods For Some Of Keys That Are Found](http://www.kitploit.com/2022/04/dora-find-exposed-api-keys-based-on.html)
