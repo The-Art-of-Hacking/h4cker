@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LeakedHandlesFinder - Leaked Windows Processes Handles Identification Tool](http://www.kitploit.com/2022/05/leakedhandlesfinder-leaked-windows.html)
 - [FirmWire -b Full-System Baseband Firmware Emulation Platform For Fuzzing, Debugging, And Root-Cause Analysis Of Smartphone Baseband Firmwares](http://www.kitploit.com/2022/05/firmwire-b-full-system-baseband.html)
 - [Pybatfish - Python Client For Batfish (Network Configuration Analysis Tool)](http://www.kitploit.com/2022/05/pybatfish-python-client-for-batfish.html)
 - [Moonwalk - Cover Your Tracks During Linux Exploitation By Leaving Zero Traces On System Logs And Filesystem Timestamps](http://www.kitploit.com/2022/05/moonwalk-cover-your-tracks-during-linux.html)
