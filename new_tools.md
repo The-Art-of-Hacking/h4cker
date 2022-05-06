@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PEzor-Docker - With The Help Of This Docker Image, You Can Easily Access PEzor On Your System!](http://www.kitploit.com/2022/05/pezor-docker-with-help-of-this-docker.html)
 - [Malicious-Pdf -  Generate A Bunch Of Malicious Pdf Files With Phone-Home Functionality](http://www.kitploit.com/2022/05/malicious-pdf-generate-bunch-of.html)
 - [Graphql-Threat-Matrix - GraphQL Threat Framework Used By Security Professionals To Research Security Gaps In GraphQL Implementations](http://www.kitploit.com/2022/05/graphql-threat-matrix-graphql-threat.html)
 - [Cliam - Multi Cloud IAM Permissions Enumeration Tool](http://www.kitploit.com/2022/05/cliam-multi-cloud-iam-permissions.html)
