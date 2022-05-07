@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GoSH - Golang Reverse/Bind Shell Generator](http://www.kitploit.com/2022/05/gosh-golang-reversebind-shell-generator.html)
 - [Email-Prediction-Asterisks - Script That Allows You To Identify The Emails Hidden Behind Asterisks](http://www.kitploit.com/2022/05/email-prediction-asterisks-script-that.html)
 - [PEzor-Docker - With The Help Of This Docker Image, You Can Easily Access PEzor On Your System!](http://www.kitploit.com/2022/05/pezor-docker-with-help-of-this-docker.html)
 - [Malicious-Pdf -  Generate A Bunch Of Malicious Pdf Files With Phone-Home Functionality](http://www.kitploit.com/2022/05/malicious-pdf-generate-bunch-of.html)
