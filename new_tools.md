@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Spring4Shell-Poc - Spring Core RCE 0-day Vulnerability](http://www.kitploit.com/2022/05/spring4shell-poc-spring-core-rce-0-day.html)
 - [Spring4Shell-POC - Dockerized Spring4Shell (CVE-2022-22965) PoC Application And Exploit](http://www.kitploit.com/2022/05/spring4shell-poc-dockerized.html)
 - [AutoResponder - Carbon Black Response IR Tool](http://www.kitploit.com/2022/05/autoresponder-carbon-black-response-ir.html)
 - [CVE-Tracker - With The Help Of This Automated Script, You Will Never Lose Track Of Recently Released CVEs](http://www.kitploit.com/2022/05/cve-tracker-with-help-of-this-automated.html)
