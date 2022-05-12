@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SSOh-No - User Enumeration And Password Spraying Tool For Testing Azure AD](http://www.kitploit.com/2022/05/ssoh-no-user-enumeration-and-password.html)
 - [DuplicateDump - Dumping LSASS With A Duplicated Handle From Custom LSA Plugin](http://www.kitploit.com/2022/05/duplicatedump-dumping-lsass-with.html)
 - [Kubeclarity - Tool For Detection And Management Of Software Bill Of Materials (SBOM) And Vulnerabilities Of Container Images And Filesystems](http://www.kitploit.com/2022/05/kubeclarity-tool-for-detection-and.html)
 - [Spring4Shell-Poc - Spring Core RCE 0-day Vulnerability](http://www.kitploit.com/2022/05/spring4shell-poc-spring-core-rce-0-day.html)
