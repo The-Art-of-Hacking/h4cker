@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Process_Overwriting - Yet Another Variant Of Process Hollowing](http://www.kitploit.com/2022/05/processoverwriting-yet-another-variant.html)
 - [Heyserial - Programmatically Create Hunting Rules For Deserialization Exploitation With Multiple Keywords, Gadget Chains, Object Types, Encodings, And Rule Types](http://www.kitploit.com/2022/05/heyserial-programmatically-create.html)
 - [SSOh-No - User Enumeration And Password Spraying Tool For Testing Azure AD](http://www.kitploit.com/2022/05/ssoh-no-user-enumeration-and-password.html)
 - [DuplicateDump - Dumping LSASS With A Duplicated Handle From Custom LSA Plugin](http://www.kitploit.com/2022/05/duplicatedump-dumping-lsass-with.html)
