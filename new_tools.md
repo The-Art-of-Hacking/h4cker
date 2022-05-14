@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [BWASP - BoB Web Application Security Project](http://www.kitploit.com/2022/05/bwasp-bob-web-application-security.html)
 - [RogueAssemblyHunter - Rogue Assembly Hunter Is A Utility For Discovering 'Interesting' .NET CLR Modules In Running Processes](http://www.kitploit.com/2022/05/rogueassemblyhunter-rogue-assembly.html)
 - [Process_Overwriting - Yet Another Variant Of Process Hollowing](http://www.kitploit.com/2022/05/processoverwriting-yet-another-variant.html)
 - [Heyserial - Programmatically Create Hunting Rules For Deserialization Exploitation With Multiple Keywords, Gadget Chains, Object Types, Encodings, And Rule Types](http://www.kitploit.com/2022/05/heyserial-programmatically-create.html)
