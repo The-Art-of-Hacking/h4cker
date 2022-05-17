@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Vaas - Verdict-as-a-Service SDKs: Analyze Files For Malicious Content](http://www.kitploit.com/2022/05/vaas-verdict-as-service-sdks-analyze.html)
 - [Kali Linux 2022.2 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/05/kali-linux-20222-penetration-testing.html)
 - [BirDuster - A Multi Threaded Python Script Designed To Brute Force Directories And Files Names On Webservers](http://www.kitploit.com/2022/05/birduster-multi-threaded-python-script.html)
 - [Chlonium - Chromium Cookie Import / Export Tool](http://www.kitploit.com/2022/05/chlonium-chromium-cookie-import-export.html)
