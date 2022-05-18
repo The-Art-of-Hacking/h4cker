@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ShadowClone - Unleash The Power Of Cloud](http://www.kitploit.com/2022/05/shadowclone-unleash-power-of-cloud.html)
 - [Grafiki - Threat Hunting Tool About Sysmon And Graphs](http://www.kitploit.com/2022/05/grafiki-threat-hunting-tool-about.html)
 - [Vaas - Verdict-as-a-Service SDKs: Analyze Files For Malicious Content](http://www.kitploit.com/2022/05/vaas-verdict-as-service-sdks-analyze.html)
 - [Kali Linux 2022.2 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/05/kali-linux-20222-penetration-testing.html)
