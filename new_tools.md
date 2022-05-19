@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PowerProxy - PowerShell SOCKS Proxy With Reverse Proxy Capabilities](http://www.kitploit.com/2022/05/powerproxy-powershell-socks-proxy-with.html)
 - [Cyph - Cryptographically Secure Messaging And Social Networking Service](http://www.kitploit.com/2022/05/cyph-cryptographically-secure-messaging.html)
 - [ShadowClone - Unleash The Power Of Cloud](http://www.kitploit.com/2022/05/shadowclone-unleash-power-of-cloud.html)
 - [Grafiki - Threat Hunting Tool About Sysmon And Graphs](http://www.kitploit.com/2022/05/grafiki-threat-hunting-tool-about.html)
