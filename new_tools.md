@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Octopus - Open Source Pre-Operation C2 Server Based On Python And Powershell](http://www.kitploit.com/2022/05/octopus-open-source-pre-operation-c2.html)
 - [C2concealer - Command Line Tool That Generates Randomized C2 Malleable Profiles For Use In Cobalt Strike](http://www.kitploit.com/2022/05/c2concealer-command-line-tool-that.html)
 - [PowerProxy - PowerShell SOCKS Proxy With Reverse Proxy Capabilities](http://www.kitploit.com/2022/05/powerproxy-powershell-socks-proxy-with.html)
 - [Cyph - Cryptographically Secure Messaging And Social Networking Service](http://www.kitploit.com/2022/05/cyph-cryptographically-secure-messaging.html)
