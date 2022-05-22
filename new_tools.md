@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fb_Friend_List_Scraper - OSINT Tool To Scrape Names And Usernames From Large Friend Lists On Facebook, Without Being Rate Limited](http://www.kitploit.com/2022/05/fbfriendlistscraper-osint-tool-to.html)
 - [Zphisher-GUI-Back_office - A Zphisher GUI Back-Office Plugin](http://www.kitploit.com/2022/05/zphisher-gui-backoffice-zphisher-gui.html)
 - [Tetanus - Mythic C2 Agent Targeting Linux And Windows Hosts Written In Rust](http://www.kitploit.com/2022/05/tetanus-mythic-c2-agent-targeting-linux.html)
 - [Xepor - Web Routing Framework For Reverse Engineers And Security Researchers, Brings The Best Of Mitmproxy And Flask](http://www.kitploit.com/2022/05/xepor-web-routing-framework-for-reverse.html)
