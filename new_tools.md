@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Frelatage - The Python Fuzzer That The World Deserves](http://www.kitploit.com/2022/05/frelatage-python-fuzzer-that-world.html)
 - [Findwall - Check If Your Provider Is Blocking You!](http://www.kitploit.com/2022/05/findwall-check-if-your-provider-is.html)
 - [RedTeam-Physical-Tools - Red Team Toolkit - A Curated List Of Tools That Are Commonly Used In The Field For Physical Security, Red Teaming, And Tactical Covert Entry](http://www.kitploit.com/2022/05/redteam-physical-tools-red-team-toolkit.html)
 - [Fb_Friend_List_Scraper - OSINT Tool To Scrape Names And Usernames From Large Friend Lists On Facebook, Without Being Rate Limited](http://www.kitploit.com/2022/05/fbfriendlistscraper-osint-tool-to.html)
