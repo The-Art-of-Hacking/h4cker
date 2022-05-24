@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Tornado - Anonymously Reverse Shell Over Tor Network Using Hidden Services Without Portforwarding](http://www.kitploit.com/2022/05/tornado-anonymously-reverse-shell-over.html)
 - [Reposaur - The Open Source Compliance Tool For Development Platforms](http://www.kitploit.com/2022/05/reposaur-open-source-compliance-tool.html)
 - [Frelatage - The Python Fuzzer That The World Deserves](http://www.kitploit.com/2022/05/frelatage-python-fuzzer-that-world.html)
 - [Findwall - Check If Your Provider Is Blocking You!](http://www.kitploit.com/2022/05/findwall-check-if-your-provider-is.html)
