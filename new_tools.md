@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FindFunc - Advanced Filtering/Finding of Functions in IDA Pro](http://www.kitploit.com/2022/05/findfunc-advanced-filteringfinding-of.html)
 - [Frida-Ios-Hook - A Tool That Helps You Easy Trace Classes, Functions, And Modify The Return Values Of Methods On iOS Platform](http://www.kitploit.com/2022/05/frida-ios-hook-tool-that-helps-you-easy.html)
 - [DroidDetective - A Machine Learning Malware Analysis Framework For Android Apps](http://www.kitploit.com/2022/05/droiddetective-machine-learning-malware.html)
 - [Tornado - Anonymously Reverse Shell Over Tor Network Using Hidden Services Without Portforwarding](http://www.kitploit.com/2022/05/tornado-anonymously-reverse-shell-over.html)
