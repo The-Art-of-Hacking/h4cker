@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LEAF - Linux Evidence Acquisition Framework](http://www.kitploit.com/2022/05/leaf-linux-evidence-acquisition.html)
 - [Ransomware-Simulator - Ransomware Simulator Written In Golang](http://www.kitploit.com/2022/05/ransomware-simulator-ransomware.html)
 - [Pocsploit - A Lightweight, Flexible And Novel Open Source Poc Verification Framework](http://www.kitploit.com/2022/05/pocsploit-lightweight-flexible-and.html)
 - [FindFunc - Advanced Filtering/Finding of Functions in IDA Pro](http://www.kitploit.com/2022/05/findfunc-advanced-filteringfinding-of.html)
