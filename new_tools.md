@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PersistBOF -  Tool To Help Automate Common Persistence Mechanisms](http://www.kitploit.com/2022/05/persistbof-tool-to-help-automate-common.html)
 - [Mitmproxy2Swagger - Automagically Reverse-Engineer REST APIs Via Capturing Traffic](http://www.kitploit.com/2022/05/mitmproxy2swagger-automagically-reverse.html)
 - [Hakoriginfinder - Tool For Discovering The Origin Host Behind A Reverse Proxy. Useful For Bypassing Cloud WAFs!](http://www.kitploit.com/2022/05/hakoriginfinder-tool-for-discovering.html)
 - [BinAbsInspector - Vulnerability Scanner For Binaries](http://www.kitploit.com/2022/05/binabsinspector-vulnerability-scanner.html)
