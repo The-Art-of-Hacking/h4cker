@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [K0Otkit - Universal Post-Penetration Technique Which Could Be Used In Penetrations Against Kubernetes Clusters](http://www.kitploit.com/2022/05/k0otkit-universal-post-penetration.html)
 - [Labtainers - A Docker-based Cyber Lab Framework](http://www.kitploit.com/2022/05/labtainers-docker-based-cyber-lab.html)
 - [PersistBOF -  Tool To Help Automate Common Persistence Mechanisms](http://www.kitploit.com/2022/05/persistbof-tool-to-help-automate-common.html)
 - [Mitmproxy2Swagger - Automagically Reverse-Engineer REST APIs Via Capturing Traffic](http://www.kitploit.com/2022/05/mitmproxy2swagger-automagically-reverse.html)
