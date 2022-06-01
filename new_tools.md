@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Zap-Scripts - Zed Attack Proxy Scripts For Finding CVEs And Secrets](http://www.kitploit.com/2022/06/zap-scripts-zed-attack-proxy-scripts.html)
 - [PowerGram - Multiplatform Telegram Bot In Pure PowerShell](http://www.kitploit.com/2022/06/powergram-multiplatform-telegram-bot-in.html)
 - [Wrongsecrets - Examples With How To Not Use Secrets](http://www.kitploit.com/2022/05/wrongsecrets-examples-with-how-to-not.html)
 - [K0Otkit - Universal Post-Penetration Technique Which Could Be Used In Penetrations Against Kubernetes Clusters](http://www.kitploit.com/2022/05/k0otkit-universal-post-penetration.html)
