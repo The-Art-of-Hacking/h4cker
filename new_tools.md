@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Notionterm - Embed Reverse Shell In Notion Pages](http://www.kitploit.com/2022/06/notionterm-embed-reverse-shell-in.html)
 - [MITM_Intercept - A Little Bit Less Hackish Way To Intercept And Modify non-HTTP Protocols Through Burp And Others](http://www.kitploit.com/2022/06/mitmintercept-little-bit-less-hackish.html)
 - [Zap-Scripts - Zed Attack Proxy Scripts For Finding CVEs And Secrets](http://www.kitploit.com/2022/06/zap-scripts-zed-attack-proxy-scripts.html)
 - [PowerGram - Multiplatform Telegram Bot In Pure PowerShell](http://www.kitploit.com/2022/06/powergram-multiplatform-telegram-bot-in.html)
