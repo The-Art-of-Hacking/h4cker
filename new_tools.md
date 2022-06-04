@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CRLFsuite - Fast CRLF Injection Scanning Tool](http://www.kitploit.com/2022/06/crlfsuite-fast-crlf-injection-scanning.html)
 - [SMB-Session-Spoofing - Tool To Create A Fake SMB Session](http://www.kitploit.com/2022/06/smb-session-spoofing-tool-to-create.html)
 - [Atomic-Operator - A Python Package Is Used To Execute Atomic Red Team Tests (Atomics) Across Multiple Operating System Environments](http://www.kitploit.com/2022/06/atomic-operator-python-package-is-used.html)
 - [Notionterm - Embed Reverse Shell In Notion Pages](http://www.kitploit.com/2022/06/notionterm-embed-reverse-shell-in.html)
