@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AzureRT - A Powershell Module Implementing Various Azure Red Team Tactics](http://www.kitploit.com/2022/06/azurert-powershell-module-implementing.html)
 - [COM-Hunter - COM Hijacking VOODOO](http://www.kitploit.com/2022/06/com-hunter-com-hijacking-voodoo.html)
 - [CRLFsuite - Fast CRLF Injection Scanning Tool](http://www.kitploit.com/2022/06/crlfsuite-fast-crlf-injection-scanning.html)
 - [SMB-Session-Spoofing - Tool To Create A Fake SMB Session](http://www.kitploit.com/2022/06/smb-session-spoofing-tool-to-create.html)
