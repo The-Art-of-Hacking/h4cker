@@ -128,6 +128,7 @@
 - [CIS Kubernetes Benchmark - InSpec Profile](https://github.com/dev-sec/cis-kubernetes-benchmark)
 - [Kube PodSecurityPolicy Advisor](https://github.com/sysdiglabs/kube-psp-advisor)
 - [Inspektor Gadget](https://github.com/kinvolk/inspektor-gadget)
+- [PacketStreamer](https://github.com/deepfence/PacketStreamer)
 - [Starboard](https://github.com/aquasecurity/starboard)
 - [Advocacy Site for Kubernetes RBAC](https://github.com/mhausenblas/rbac.dev)
 - [Helm-Snyk](https://github.com/snyk-labs/helm-snyk)
