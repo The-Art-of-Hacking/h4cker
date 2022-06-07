@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sentinel-Attack - Tools To Rapidly Deploy A Threat Hunting Capability On Azure Sentinel That Leverages Sysmon And MITRE ATT&CK](http://www.kitploit.com/2022/06/sentinel-attack-tools-to-rapidly-deploy.html)
 - [Lockc - Making Containers More Secure With eBPF And Linux Security Modules (LSM)](http://www.kitploit.com/2022/06/lockc-making-containers-more-secure.html)
 - [AWS-Threat-Simulation-and-Detection - Playing Around With Stratus Red Team (Cloud Attack Simulation Tool) And SumoLogic](http://www.kitploit.com/2022/06/aws-threat-simulation-and-detection.html)
 - [Puwr - SSH Pivoting Script For Expanding Attack Surfaces On Local Networks](http://www.kitploit.com/2022/06/puwr-ssh-pivoting-script-for-expanding.html)
