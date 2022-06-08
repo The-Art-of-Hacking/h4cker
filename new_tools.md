@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AutoPWN Suite - Project For Scanning Vulnerabilities And Exploiting Systems Automatically](http://www.kitploit.com/2022/06/autopwn-suite-project-for-scanning.html)
 - [Socialhunter - Crawls The Website And Finds Broken Social Media Links That Can Be Hijacked](http://www.kitploit.com/2022/06/socialhunter-crawls-website-and-finds.html)
 - [Nipe - An Engine To Make Tor Network Your Default Gateway](http://www.kitploit.com/2022/06/nipe-engine-to-make-tor-network-your.html)
 - [Sentinel-Attack - Tools To Rapidly Deploy A Threat Hunting Capability On Azure Sentinel That Leverages Sysmon And MITRE ATT&CK](http://www.kitploit.com/2022/06/sentinel-attack-tools-to-rapidly-deploy.html)
