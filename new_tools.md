@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PacketStreamer - Distributed Tcpdump For Cloud Native Environments](http://www.kitploit.com/2022/06/packetstreamer-distributed-tcpdump-for.html)
 - [Blackbird - An OSINT Tool To Search For Accounts By Username In 101 Social Networks](http://www.kitploit.com/2022/06/blackbird-osint-tool-to-search-for.html)
 - [Offensive-Azure - Collection Of Offensive Tools Targeting Microsoft Azure](http://www.kitploit.com/2022/06/offensive-azure-collection-of-offensive.html)
 - [AutoPWN Suite - Project For Scanning Vulnerabilities And Exploiting Systems Automatically](http://www.kitploit.com/2022/06/autopwn-suite-project-for-scanning.html)
