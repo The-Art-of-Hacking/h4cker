@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Exfilkit - Data Exfiltration Utility For Testing Detection Capabilities](http://www.kitploit.com/2022/06/exfilkit-data-exfiltration-utility-for.html)
 - [Pulsar - Data Exfiltration And Covert Communication Tool](http://www.kitploit.com/2022/06/pulsar-data-exfiltration-and-covert.html)
 - [WhiteBeam - Transparent Endpoint Security](http://www.kitploit.com/2022/06/whitebeam-transparent-endpoint-security.html)
 - [Jeeves - Time-Based Blind SQLInjection Finder](http://www.kitploit.com/2022/06/jeeves-time-based-blind-sqlinjection.html)
