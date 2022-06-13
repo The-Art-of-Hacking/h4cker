@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpEventPersist - Persistence By Writing/Reading Shellcode From Event Log](http://www.kitploit.com/2022/06/sharpeventpersist-persistence-by.html)
 - [confluencePot - Simple Honeypot For Atlassian Confluence (CVE-2022-26134)](http://www.kitploit.com/2022/06/confluencepot-simple-honeypot-for.html)
 - [DOMDig - DOM XSS Scanner For Single Page Applications](http://www.kitploit.com/2022/06/domdig-dom-xss-scanner-for-single-page.html)
 - [Exfilkit - Data Exfiltration Utility For Testing Detection Capabilities](http://www.kitploit.com/2022/06/exfilkit-data-exfiltration-utility-for.html)
