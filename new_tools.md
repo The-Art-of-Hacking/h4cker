@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Admin-Panel_Finder - A Burp Suite Extension That Enumerates Infrastructure And Application Admin Interfaces (OTG-CONFIG-005)](http://www.kitploit.com/2022/06/admin-panelfinder-burp-suite-extension.html)
 - [Gshell - A Flexible And Scalable Cross-Plaform Shell Generator Tool](http://www.kitploit.com/2022/06/gshell-flexible-and-scalable-cross.html)
 - [Goreplay - Open-Source Tool For Capturing And Replaying Live HTTP Traffic Into A Test Environment In Order To Continuously Test Your System With Real Data](http://www.kitploit.com/2022/06/goreplay-open-source-tool-for-capturing.html)
 - [SharpEventPersist - Persistence By Writing/Reading Shellcode From Event Log](http://www.kitploit.com/2022/06/sharpeventpersist-persistence-by.html)
