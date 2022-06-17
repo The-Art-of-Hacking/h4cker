@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OSIPs - Gathers All Valid IP Addresses From All Text Files From A Directory, And Checks Them Against Whois Database, TOR Relays And Location](http://www.kitploit.com/2022/06/osips-gathers-all-valid-ip-addresses.html)
 - [LambdaGuard - AWS Serverless Security](http://www.kitploit.com/2022/06/lambdaguard-aws-serverless-security.html)
 - [Frostbyte - FrostByte Is A POC Project That Combines Different Defense Evasion Techniques To Build Better Redteam Payloads](http://www.kitploit.com/2022/06/frostbyte-frostbyte-is-poc-project-that.html)
 - [Admin-Panel_Finder - A Burp Suite Extension That Enumerates Infrastructure And Application Admin Interfaces (OTG-CONFIG-005)](http://www.kitploit.com/2022/06/admin-panelfinder-burp-suite-extension.html)
