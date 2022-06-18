@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hunt-Sleeping-Beacons - Aims To Identify Sleeping Beacons](http://www.kitploit.com/2022/06/hunt-sleeping-beacons-aims-to-identify.html)
 - [Nightingale - Docker Environment For Pentesting Which Having All The Required Tool For VAPT](http://www.kitploit.com/2022/06/nightingale-docker-environment-for.html)
 - [OSIPs - Gathers All Valid IP Addresses From All Text Files From A Directory, And Checks Them Against Whois Database, TOR Relays And Location](http://www.kitploit.com/2022/06/osips-gathers-all-valid-ip-addresses.html)
 - [LambdaGuard - AWS Serverless Security](http://www.kitploit.com/2022/06/lambdaguard-aws-serverless-security.html)
