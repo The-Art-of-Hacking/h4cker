@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [VAmPI - Vulnerable REST API With OWASP Top 10 Vulnerabilities For Security Testing](http://www.kitploit.com/2022/06/vampi-vulnerable-rest-api-with-owasp.html)
 - [Cervantes - Collaborative Platform For Pentesters Or Red Teams Who Want To Save Time To Manage Their Projects, Clients, Vulnerabilities And Reports In One Place](http://www.kitploit.com/2022/06/cervantes-collaborative-platform-for.html)
 - [Hunt-Sleeping-Beacons - Aims To Identify Sleeping Beacons](http://www.kitploit.com/2022/06/hunt-sleeping-beacons-aims-to-identify.html)
 - [Nightingale - Docker Environment For Pentesting Which Having All The Required Tool For VAPT](http://www.kitploit.com/2022/06/nightingale-docker-environment-for.html)
