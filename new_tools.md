@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Msprobe - Finding All Things On-Prem Microsoft For Password Spraying And Enumeration](http://www.kitploit.com/2022/06/msprobe-finding-all-things-on-prem.html)
 - [SharpSniper - Find Specific Users In Active Directory Via Their Username And Logon IP Address](http://www.kitploit.com/2022/06/sharpsniper-find-specific-users-in.html)
 - [Xss_Vulnerability_Challenges - This Repository Is A Docker Containing Some "XSS Vulnerability" Challenges And Bypass Examples](http://www.kitploit.com/2022/06/xssvulnerabilitychallenges-this.html)
 - [VAmPI - Vulnerable REST API With OWASP Top 10 Vulnerabilities For Security Testing](http://www.kitploit.com/2022/06/vampi-vulnerable-rest-api-with-owasp.html)
