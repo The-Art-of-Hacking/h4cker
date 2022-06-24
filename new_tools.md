@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Authcov - Web App Authorisation Coverage Scanning](http://www.kitploit.com/2022/06/authcov-web-app-authorisation-coverage.html)
 - [Norimaci - Simple And Lightweight Malware Analysis Sandbox For macOS](http://www.kitploit.com/2022/06/norimaci-simple-and-lightweight-malware.html)
 - [TrelloC2 - Simple C2 Over The Trello API](http://www.kitploit.com/2022/06/trelloc2-simple-c2-over-trello-api.html)
 - [WEF - Wi-Fi Exploitation Framework](http://www.kitploit.com/2022/06/wef-wi-fi-exploitation-framework.html)
