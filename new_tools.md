@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DFSCoerce - PoC For MS-DFSNM Coerce Authentication Using NetrDfsRemoveStdRoot Method](http://www.kitploit.com/2022/06/dfscoerce-poc-for-ms-dfsnm-coerce.html)
 - [Nim-Loader - WIP Shellcode Loader In Nim With EDR Evasion Techniques](http://www.kitploit.com/2022/06/nim-loader-wip-shellcode-loader-in-nim.html)
 - [Authcov - Web App Authorisation Coverage Scanning](http://www.kitploit.com/2022/06/authcov-web-app-authorisation-coverage.html)
 - [Norimaci - Simple And Lightweight Malware Analysis Sandbox For macOS](http://www.kitploit.com/2022/06/norimaci-simple-and-lightweight-malware.html)
