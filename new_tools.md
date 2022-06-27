@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [EmoCheck - Emotet Detection Tool For Windows OS](http://www.kitploit.com/2022/06/emocheck-emotet-detection-tool-for.html)
 - [Sealighter - Easy ETW Tracing for Security Research](http://www.kitploit.com/2022/06/sealighter-easy-etw-tracing-for.html)
 - [Scout - Lightweight URL Fuzzer And Spider: Discover A Web Server'S Undisclosed Files, Directories And VHOSTs](http://www.kitploit.com/2022/06/scout-lightweight-url-fuzzer-and-spider.html)
 - [DFSCoerce - PoC For MS-DFSNM Coerce Authentication Using NetrDfsRemoveStdRoot Method](http://www.kitploit.com/2022/06/dfscoerce-poc-for-ms-dfsnm-coerce.html)
