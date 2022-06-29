@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gallia - Extendable Pentesting Framework](http://www.kitploit.com/2022/06/gallia-extendable-pentesting-framework.html)
 - [Jwtear - Modular Command-Line Tool To Parse, Create And Manipulate JWT Tokens For Hackers](http://www.kitploit.com/2022/06/jwtear-modular-command-line-tool-to.html)
 - [Nimc2 - A C2 Fully Written In Nim](http://www.kitploit.com/2022/06/nimc2-c2-fully-written-in-nim.html)
 - [secureCodeBox (SCB) - Continuous Secure Delivery Out Of The Box](http://www.kitploit.com/2022/06/securecodebox-scb-continuous-secure.html)
