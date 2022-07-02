@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dlinject - Inject A Shared Library (I.E. Arbitrary Code) Into A Live Linux Process, Without Ptrace](http://www.kitploit.com/2022/07/dlinject-inject-shared-library-ie.html)
 - [awsEnum - Enumerate AWS Cloud Resources Based On Provided Credential](http://www.kitploit.com/2022/07/awsenum-enumerate-aws-cloud-resources.html)
 - [SharpWSUS - CSharp tool for lateral movement through WSUS](http://www.kitploit.com/2022/06/sharpwsus-csharp-tool-for-lateral.html)
 - [Gallia - Extendable Pentesting Framework](http://www.kitploit.com/2022/06/gallia-extendable-pentesting-framework.html)
