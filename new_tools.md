@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [CrackQL - GraphQL Password Brute-Force And Fuzzing Utility](http://www.kitploit.com/2022/07/crackql-graphql-password-brute-force.html)
 - [Cspparse - A Tool To Evaluate Content Security Policies](http://www.kitploit.com/2022/07/cspparse-tool-to-evaluate-content.html)
 - [Aiodnsbrute - DNS Asynchronous Brute Force Utility](http://www.kitploit.com/2022/07/aiodnsbrute-dns-asynchronous-brute.html)
 - [DeepTraffic - Deep Learning Models For Network Traffic Classification](http://www.kitploit.com/2022/07/deeptraffic-deep-learning-models-for.html)
