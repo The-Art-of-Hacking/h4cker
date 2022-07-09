@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pamspy - Credentials Dumper For Linux Using eBPF](http://www.kitploit.com/2022/07/pamspy-credentials-dumper-for-linux.html)
 - [Haxx - Untethered + Unsandboxed Code Execution Haxx As Root On iOS 14 - iOS 14.8.1](http://www.kitploit.com/2022/07/haxx-untethered-unsandboxed-code.html)
 - [CrackQL - GraphQL Password Brute-Force And Fuzzing Utility](http://www.kitploit.com/2022/07/crackql-graphql-password-brute-force.html)
 - [Cspparse - A Tool To Evaluate Content Security Policies](http://www.kitploit.com/2022/07/cspparse-tool-to-evaluate-content.html)
