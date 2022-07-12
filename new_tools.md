@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [WebView2-Cookie-Stealer - Attacking With WebView2 Applications](http://www.kitploit.com/2022/07/webview2-cookie-stealer-attacking-with.html)
 - [Tofu - Windows Offline Filesystem Hacking Tool For Linux](http://www.kitploit.com/2022/07/tofu-windows-offline-filesystem-hacking.html)
 - [Secretflow - A Unified Framework For Privacy-Preserving Data Analysis And Machine Learning](http://www.kitploit.com/2022/07/secretflow-unified-framework-for.html)
 - [Pamspy - Credentials Dumper For Linux Using eBPF](http://www.kitploit.com/2022/07/pamspy-credentials-dumper-for-linux.html)
