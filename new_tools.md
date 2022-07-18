@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Koh - The Token Stealer](http://www.kitploit.com/2022/07/koh-token-stealer.html)
 - [Zenbuster - Multi-threaded URL Enumeration/Brute-Forcing Tool](http://www.kitploit.com/2022/07/zenbuster-multi-threaded-url.html)
 - [Kubeaudit - Tool To Audit Your Kubernetes Clusters Against Common Security Controls](http://www.kitploit.com/2022/07/kubeaudit-tool-to-audit-your-kubernetes.html)
 - [Dumpscan -  Tool To Extract And Dump Secrets From Kernel And Windows Minidump Formats](http://www.kitploit.com/2022/07/dumpscan-tool-to-extract-and-dump.html)
