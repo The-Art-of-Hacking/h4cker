@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pinecone - A WLAN Red Team Framework](http://www.kitploit.com/2022/07/pinecone-wlan-red-team-framework.html)
 - [Trufflehog - Find Credentials All Over The Place](http://www.kitploit.com/2022/07/trufflehog-find-credentials-all-over.html)
 - [Dumpscan -  Tool To Extract And Dump Secrets From Kernel And Windows Minidump Formats](http://www.kitploit.com/2022/07/dumpscan-tool-to-extract-and-dump.html)
 - [Kubeaudit - Tool To Audit Your Kubernetes Clusters Against Common Security Controls](http://www.kitploit.com/2022/07/kubeaudit-tool-to-audit-your-kubernetes.html)
