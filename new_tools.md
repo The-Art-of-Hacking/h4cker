@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [LiveTargetsFinder - Generates Lists Of Live Hosts And URLs For Targeting, Automating The Usage Of MassDNS, Masscan And Nmap To Filter Out Unreachable Hosts And Gather Service Information](http://www.kitploit.com/2022/07/livetargetsfinder-generates-lists-of.html)
 - [RESim - Reverse Engineering Software Using A Full System Simulator](http://www.kitploit.com/2022/07/resim-reverse-engineering-software.html)
 - [Cdb - Automate Common Chrome Debug Protocol Tasks To Help Debug Web Applications From The Command-Line And Actively Monitor And Intercept HTTP Requests And Responses](http://www.kitploit.com/2022/07/cdb-automate-common-chrome-debug.html)
 - [Pinecone - A WLAN Red Team Framework](http://www.kitploit.com/2022/07/pinecone-wlan-red-team-framework.html)
