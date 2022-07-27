@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pretender - Your MitM Sidekick For Relaying Attacks Featuring DHCPv6 DNS Takeover As Well As mDNS, LLMNR And NetBIOS-NS Spoofing](http://www.kitploit.com/2022/07/pretender-your-mitm-sidekick-for.html)
 - [Laurel - Transform Linux Audit Logs For SIEM Usage](http://www.kitploit.com/2022/07/laurel-transform-linux-audit-logs-for.html)
 - [Bpflock - eBPF Driven Security For Locking And Auditing Linux Machines](http://www.kitploit.com/2022/07/bpflock-ebpf-driven-security-for.html)
 - [Doenerium - Fully Undetected Grabber (Grabs Wallets, Passwords, Cookies, Modifies Discord Client Etc.)](http://www.kitploit.com/2022/07/doenerium-fully-undetected-grabber.html)
