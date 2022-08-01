@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SilentHound - Quietly Enumerate An Active Directory Domain Via LDAP Parsing Users, Admins, Groups, Etc.](http://www.kitploit.com/2022/08/silenthound-quietly-enumerate-active.html)
 - [PR-DNSd - Passive-Recursive DNS Daemon](http://www.kitploit.com/2022/07/pr-dnsd-passive-recursive-dns-daemon.html)
 - [Maldev-For-Dummies - A Workshop About Malware Development](http://www.kitploit.com/2022/07/maldev-for-dummies-workshop-about.html)
 - [TerraformGoat - "Vulnerable By Design" Multi Cloud Deployment Tool](http://www.kitploit.com/2022/07/terraformgoat-vulnerable-by-design.html)
