@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cirrusgo - A Fast Tool To Scan SAAS, PAAS App Written In Go](http://www.kitploit.com/2022/08/cirrusgo-fast-tool-to-scan-saas-paas.html)
 - [Kage - Graphical User Interface For Metasploit Meterpreter And Session Handler](http://www.kitploit.com/2022/08/kage-graphical-user-interface-for.html)
 - [SilentHound - Quietly Enumerate An Active Directory Domain Via LDAP Parsing Users, Admins, Groups, Etc.](http://www.kitploit.com/2022/08/silenthound-quietly-enumerate-active.html)
 - [PR-DNSd - Passive-Recursive DNS Daemon](http://www.kitploit.com/2022/07/pr-dnsd-passive-recursive-dns-daemon.html)
