@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pict - Post-Infection Collection Toolkit](http://www.kitploit.com/2022/08/pict-post-infection-collection-toolkit.html)
 - [Peetch - An eBPF Playground](http://www.kitploit.com/2022/08/peetch-ebpf-playground.html)
 - [Cirrusgo - A Fast Tool To Scan SAAS, PAAS App Written In Go](http://www.kitploit.com/2022/08/cirrusgo-fast-tool-to-scan-saas-paas.html)
 - [Kage - Graphical User Interface For Metasploit Meterpreter And Session Handler](http://www.kitploit.com/2022/08/kage-graphical-user-interface-for.html)
