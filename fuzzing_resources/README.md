@@ -1,20 +1,22 @@
 # Fuzzing Resources
 
 ## Commercial Fuzzers
-* [Codenomicon Defensics](http://www.codenomicon.com)
-* [Spirent CyberFlood](https://www.spirent.com/Products/CyberFlood)
-* [Peach Fuzzer](https://www.peach.tech)
+- [Synopsis Defensics](https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html)
+- [Code Intelligence](https://www.code-intelligence.com/)
+- [Mayhem for Code](https://forallsecure.com/mayhem-for-code)
+- [BeyondSecurity Fuzzer](https://www.beyondsecurity.com/solutions/bestorm-dynamic-application-security-testing)
+
 
 ## Community-supported/Open Source Fuzzers
-* [Peach Fuzzer Community Edition](http://www.peach.tech/resources/peachcommunity/)
-* [Munity Fuzzer](https://github.com/Cisco-Talos/mutiny-fuzzer)
-* [Sulley](https://github.com/OpenRCE/sulley)
-* [Boofuzz](https://github.com/jtpereyda/boofuzz)
-* [Radamsa](https://github.com/aoh/radamsa)
-* [Zzuf](http://caca.zoy.org/wiki/zzuf)
-* [OWASP Zed Attack Proxy Fuzz Add-on](https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsFuzzConcepts)
-* [American Fuzzy Lop](http://lcamtuf.coredump.cx/afl/)
-* [Honggfuzz](http://honggfuzz.com/)
+- [GitLab Protocol Fuzzer Community Edition](https://gitlab.com/gitlab-org/security-products/protocol-fuzzer-ce)
+- [Munity Fuzzer](https://github.com/Cisco-Talos/mutiny-fuzzer)
+- [Sulley](https://github.com/OpenRCE/sulley)
+- [Boofuzz](https://github.com/jtpereyda/boofuzz)
+- [Radamsa](https://github.com/aoh/radamsa)
+- [Zzuf](http://caca.zoy.org/wiki/zzuf)
+- [OWASP Zed Attack Proxy Fuzz Add-on](https://github.com/zaproxy/zap-core-help/wiki/HelpAddonsFuzzConcepts)
+- [American Fuzzy Lop](http://lcamtuf.coredump.cx/afl/)
+- [Honggfuzz](http://honggfuzz.com/)
 
 ## Free Tutorials
 - [Fuzzing with AFL - by Michael Macnair](https://www.youtube.com/watch?v=6YLz9IGAGLw&t=3752s)
