@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Smap - A Drop-In Replacement For Nmap Powered By Shodan.Io](http://www.kitploit.com/2022/08/smap-drop-in-replacement-for-nmap.html)
 - [BlackStone - Pentesting Reporting Tool](http://www.kitploit.com/2022/08/blackstone-pentesting-reporting-tool.html)
 - [Pict - Post-Infection Collection Toolkit](http://www.kitploit.com/2022/08/pict-post-infection-collection-toolkit.html)
 - [Peetch - An eBPF Playground](http://www.kitploit.com/2022/08/peetch-ebpf-playground.html)
