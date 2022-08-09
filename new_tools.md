@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MrKaplan - Tool Aimed To Help Red Teamers To Stay Hidden By Clearing Evidence Of Execution](http://www.kitploit.com/2022/08/mrkaplan-tool-aimed-to-help-red-teamers.html)
 - [Sealighter - Easy ETW Tracing for Security Research](http://www.kitploit.com/2022/06/sealighter-easy-etw-tracing-for.html)
 - [EmoCheck - Emotet Detection Tool For Windows OS](http://www.kitploit.com/2022/06/emocheck-emotet-detection-tool-for.html)
 - [secureCodeBox (SCB) - Continuous Secure Delivery Out Of The Box](http://www.kitploit.com/2022/06/securecodebox-scb-continuous-secure.html)
