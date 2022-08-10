@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Packj - Large-Scale Security Analysis Platform To Detect Malicious/Risky Open-Source Packages](http://www.kitploit.com/2022/08/packj-large-scale-security-analysis.html)
 - [MrKaplan - Tool Aimed To Help Red Teamers To Stay Hidden By Clearing Evidence Of Execution](http://www.kitploit.com/2022/08/mrkaplan-tool-aimed-to-help-red-teamers.html)
 - [Sealighter - Easy ETW Tracing for Security Research](http://www.kitploit.com/2022/06/sealighter-easy-etw-tracing-for.html)
 - [EmoCheck - Emotet Detection Tool For Windows OS](http://www.kitploit.com/2022/06/emocheck-emotet-detection-tool-for.html)
