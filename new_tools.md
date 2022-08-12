@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OffensiveVBA - Code Execution And AV Evasion Methods For Macros In Office Documents](http://www.kitploit.com/2022/08/offensivevba-code-execution-and-av.html)
 - [Faraday Community - Open Source Penetration Testing and Vulnerability Management Platform](http://www.kitploit.com/2022/08/faraday-community-open-source.html)
 - [Faraday Community - Open Source Penetration Testing and Vulnerability Management Platform](http://www.kitploit.com/2022/08/faraday-community-open-source.html)
 - [Kali Linux 2022.3 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/08/kali-linux-20223-penetration-testing.html)
