@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Hoaxshell - An Unconventional Windows Reverse Shell, Currently Undetected By Microsoft Defender And Various Other AV Solutions, Solely Based On Http(S) Traffic](http://www.kitploit.com/2022/08/hoaxshell-unconventional-windows.html)
 - [VLANPWN - VLAN Attacks Toolkit](http://www.kitploit.com/2022/08/vlanpwn-vlan-attacks-toolkit.html)
 - [RedGuard - C2 Front Flow Control Tool, Can Avoid Blue Teams, AVs, EDRs Check](http://www.kitploit.com/2022/08/redguard-c2-front-flow-control-tool-can.html)
 - [Chisel-Strike - A .NET XOR Encrypted Cobalt Strike Aggressor Implementation For Chisel To Utilize Faster Proxy And Advanced Socks5 Capabilities](http://www.kitploit.com/2022/08/chisel-strike-net-xor-encrypted-cobalt.html)
