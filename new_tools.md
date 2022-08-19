@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [crAPI - Completely Ridiculous API](http://www.kitploit.com/2022/08/crapi-completely-ridiculous-api.html)
 - [Ropr - A Blazing Fast Multithreaded ROP Gadget Finder. Ropper / Ropgadget Alternative](http://www.kitploit.com/2022/08/ropr-blazing-fast-multithreaded-rop.html)
 - [Hoaxshell - An Unconventional Windows Reverse Shell, Currently Undetected By Microsoft Defender And Various Other AV Solutions, Solely Based On Http(S) Traffic](http://www.kitploit.com/2022/08/hoaxshell-unconventional-windows.html)
 - [VLANPWN - VLAN Attacks Toolkit](http://www.kitploit.com/2022/08/vlanpwn-vlan-attacks-toolkit.html)
