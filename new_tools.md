@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [dnsReaper - Subdomain Takeover Tool For Attackers, Bug Bounty Hunters And The Blue Team!](http://www.kitploit.com/2022/08/dnsreaper-subdomain-takeover-tool-for.html)
 - [PR-DNSd - Passive-Recursive DNS Daemon](http://www.kitploit.com/2022/07/pr-dnsd-passive-recursive-dns-daemon.html)
 - [Kali Linux 2022.3 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/08/kali-linux-20223-penetration-testing.html)
 - [Faraday Community - Open Source Penetration Testing and Vulnerability Management Platform](http://www.kitploit.com/2022/08/faraday-community-open-source.html)
