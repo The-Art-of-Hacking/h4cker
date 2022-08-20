@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PR-DNSd - Passive-Recursive DNS Daemon](http://www.kitploit.com/2022/07/pr-dnsd-passive-recursive-dns-daemon.html)
+- [Kali Linux 2022.3 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/08/kali-linux-20223-penetration-testing.html)
+- [Faraday Community - Open Source Penetration Testing and Vulnerability Management Platform](http://www.kitploit.com/2022/08/faraday-community-open-source.html)
 - [Bpflock - eBPF Driven Security For Locking And Auditing Linux Machines](http://www.kitploit.com/2022/07/bpflock-ebpf-driven-security-for.html)
 - [Laurel - Transform Linux Audit Logs For SIEM Usage](http://www.kitploit.com/2022/07/laurel-transform-linux-audit-logs-for.html)
 - [Pretender - Your MitM Sidekick For Relaying Attacks Featuring DHCPv6 DNS Takeover As Well As mDNS, LLMNR And NetBIOS-NS Spoofing](http://www.kitploit.com/2022/07/pretender-your-mitm-sidekick-for.html)
