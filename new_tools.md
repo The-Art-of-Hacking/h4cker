@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [System Informer - A Free, Powerful, Multi-Purpose Tool That Helps You Monitor System Resources, Debug Software And Detect Malware](http://www.kitploit.com/2022/08/system-informer-free-powerful-multi.html)
 - [RPCMon - RPC Monitor Tool Based On Event Tracing For Windows](http://www.kitploit.com/2022/08/rpcmon-rpc-monitor-tool-based-on-event.html)
 - [Concealed_Code_Execution - Tools And Technical Write-Ups Describing Attacking Techniques That Rely On Concealing Code Execution On Windows](http://www.kitploit.com/2022/08/concealedcodeexecution-tools-and.html)
 - [dnsReaper - Subdomain Takeover Tool For Attackers, Bug Bounty Hunters And The Blue Team!](http://www.kitploit.com/2022/08/dnsreaper-subdomain-takeover-tool-for.html)
