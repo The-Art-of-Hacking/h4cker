@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ReconPal - Leveraging NLP For Infosec](http://www.kitploit.com/2022/08/reconpal-leveraging-nlp-for-infosec.html)
 - [dBmonster - Track WiFi Devices With Their Recieved Signal Strength](http://www.kitploit.com/2022/08/dbmonster-track-wifi-devices-with-their.html)
 - [Ox4Shell - Deobfuscate Log4Shell Payloads With Ease](http://www.kitploit.com/2022/08/ox4shell-deobfuscate-log4shell-payloads.html)
 - [System Informer - A Free, Powerful, Multi-Purpose Tool That Helps You Monitor System Resources, Debug Software And Detect Malware](http://www.kitploit.com/2022/08/system-informer-free-powerful-multi.html)
