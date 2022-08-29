@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Erlik - Vulnerable Soap Service](http://www.kitploit.com/2022/08/erlik-vulnerable-soap-service.html)
 - [Toxssin - An XSS Exploitation Command-Line Interface And Payload Generator](http://www.kitploit.com/2022/08/toxssin-xss-exploitation-command-line.html)
 - [Rekono - Execute Full Pentesting Processes Combining Multiple Hacking Tools Automatically](http://www.kitploit.com/2022/08/rekono-execute-full-pentesting.html)
 - [ReconPal - Leveraging NLP For Infosec](http://www.kitploit.com/2022/08/reconpal-leveraging-nlp-for-infosec.html)
