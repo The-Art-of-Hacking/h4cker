@@ -24,6 +24,7 @@ The following are a few resources related to hardening Linux implementations.
 - [Tomoyo Linux](https://en.wikipedia.org/wiki/Tomoyo_Linux)
 
 ## Additional Resources
+- [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 - [The Linux Auditing Framework](https://github.com/linux-audit/audit-userspace)
 - [DevSec Linux Baseline](https://github.com/dev-sec/linux-baseline)
 - [Security Content Automation Protocol (SCAP)](https://www.open-scap.org/security-policies/)
