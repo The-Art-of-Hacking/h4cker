@@ -102,6 +102,7 @@
 - [DarkNet Diaries](https://darknetdiaries.com/)
 - [Security Weekly](https://securityweekly.com/)
 - [Risky Business](https://risky.biz/netcasts/risky-business/)
+- [Firewalls Don’t Stop Dragons](https://firewallsdontstopdragons.com/podcast/)
 - [The Unsupervised Learning Podcast](https://danielmiessler.com/podcast/#gs.=RDc3aY)
 - [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/)
 - [Smashing Security](https://www.smashingsecurity.com/)
