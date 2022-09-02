@@ -4,6 +4,7 @@
 (sorted alphabetically)
 
 - [Ars Technica ](https://arstechnica.com)
+- [Becoming a Hacker](https://becomingahacker.org)
 - [Bruce Schneier's Blog](https://www.schneier.com)
 - [CIO](https://www.cio.com/category/security)
 - [Cisco Security Blog](https://blogs.cisco.com/security)
