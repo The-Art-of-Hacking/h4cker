@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Aura - Python Source Code Auditing And Static Analysis On A Large Scale](http://www.kitploit.com/2022/09/aura-python-source-code-auditing-and.html)
 - [BeatRev - POC For Frustrating/Defeating Malware Analysts](http://www.kitploit.com/2022/09/beatrev-poc-for-frustratingdefeating.html)
 - [ApacheTomcatScanner - A Python Script To Scan For Apache Tomcat Server Vulnerabilities](http://www.kitploit.com/2022/09/apachetomcatscanner-python-script-to.html)
 - [Aced - Tool to parse and resolve a single targeted Active Directory principal's DACL](http://www.kitploit.com/2022/09/aced-tool-to-parse-and-resolve-single.html)
