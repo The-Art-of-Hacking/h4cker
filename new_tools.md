@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [noPac - Exploiting CVE-2021-42278 And CVE-2021-42287 To Impersonate DA From Standard Domain User](http://www.kitploit.com/2022/09/nopac-exploiting-cve-2021-42278-and-cve.html)
 - [Aura - Python Source Code Auditing And Static Analysis On A Large Scale](http://www.kitploit.com/2022/09/aura-python-source-code-auditing-and.html)
 - [BeatRev - POC For Frustrating/Defeating Malware Analysts](http://www.kitploit.com/2022/09/beatrev-poc-for-frustratingdefeating.html)
 - [ApacheTomcatScanner - A Python Script To Scan For Apache Tomcat Server Vulnerabilities](http://www.kitploit.com/2022/09/apachetomcatscanner-python-script-to.html)
