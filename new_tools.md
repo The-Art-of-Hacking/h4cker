@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ForceAdmin - Create Infinite UAC Prompts Forcing A User To Run As Admin](http://www.kitploit.com/2022/09/forceadmin-create-infinite-uac-prompts.html)
 - [Coercer - A Python Script To Automatically Coerce A Windows Server To Authenticate On An Arbitrary Machine Through 9 Methods](http://www.kitploit.com/2022/09/coercer-python-script-to-automatically.html)
 - [noPac - Exploiting CVE-2021-42278 And CVE-2021-42287 To Impersonate DA From Standard Domain User](http://www.kitploit.com/2022/09/nopac-exploiting-cve-2021-42278-and-cve.html)
 - [Aura - Python Source Code Auditing And Static Analysis On A Large Scale](http://www.kitploit.com/2022/09/aura-python-source-code-auditing-and.html)
