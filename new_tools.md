@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nim-RunPE - A Nim Implementation Of Reflective PE-Loading From Memory](http://www.kitploit.com/2022/09/nim-runpe-nim-implementation-of.html)
 - [GraphCrawler - GraphQL Automated Security Testing Toolkit](http://www.kitploit.com/2022/09/graphcrawler-graphql-automated-security.html)
 - [Gohide - Tunnel Port To Port Traffic Over An Obfuscated Channel With AES-GCM Encryption](http://www.kitploit.com/2022/09/gohide-tunnel-port-to-port-traffic-over.html)
 - [ForceAdmin - Create Infinite UAC Prompts Forcing A User To Run As Admin](http://www.kitploit.com/2022/09/forceadmin-create-infinite-uac-prompts.html)
