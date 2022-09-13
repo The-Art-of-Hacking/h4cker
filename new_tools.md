@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pinecone - A WLAN Red Team Framework](http://www.kitploit.com/2022/09/pinecone-wlan-red-team-framework.html)
 - [PersistenceSniper - Powershell Script That Can Be Used By Blue Teams, Incident Responders And System Administrators To Hunt Persistences Implanted In Windows Machines](http://www.kitploit.com/2022/09/persistencesniper-powershell-script.html)
 - [Nim-RunPE - A Nim Implementation Of Reflective PE-Loading From Memory](http://www.kitploit.com/2022/09/nim-runpe-nim-implementation-of.html)
 - [GraphCrawler - GraphQL Automated Security Testing Toolkit](http://www.kitploit.com/2022/09/graphcrawler-graphql-automated-security.html)
