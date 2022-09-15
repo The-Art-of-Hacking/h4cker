@@ -1,0 +1,32 @@
+#Original and Powerful Database Dorks
+
+intitle:index.of.?.database site:pk
+"sql" intitle:index.of.?. site:in
+intext:dump intitle:index.of.?. site:edu.in
+intext:db_password || intitle:index.of.?.dev site:pk
+intext:dump intitle:index.of.?. site:pk
+intext:dump intitle:index.of.?. site:pk | sql
+intext:dump intitle:index.of.?. site:pk | dump.sql
+intitle:index.of.?. "sql" site:pk
+intitle:index.of.?. site:pk intext:db
+intitle:index.of.?. intext:password site:pk
+site:.in inurl:php "id=" university
+site:edu.in inurl:php "id="
+intext:dump intitle:index.of.?. "sql"
+"sql" filetype:xls password
+intext:dump intitle:index.of.?. site:pk | sql-dumps 
+intitle:index.of.?.database site:in
+"sql" intitle:index.of.?. site:pk
+intext:dump intitle:index.of.?. site:edu.pk
+intext:db_password || intitle:index.of.?.dev site:in
+intext:dump intitle:index.of.?. site:in
+intext:dump intitle:index.of.?. site:in | sql
+intext:dump intitle:index.of.?. site:in | dump.sql
+intitle:index.of.?. "sql" site:in
+intitle:index.of.?. site:in intext:db
+intitle:index.of.?. intext:password site:in
+site:.pk inurl:php "id=" university
+site:edu.pk inurl:php "id="
+intext:dump intitle:index.of.?. "sql"
+"sql" filetype:xls password
+intext:dump intitle:index.of.?. site:in | sql-dumps 
