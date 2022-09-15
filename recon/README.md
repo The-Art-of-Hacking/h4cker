@@ -49,4 +49,8 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 * Resources from Pentest-standard.org - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Intelligence_Gathering
 
 ## Active Recon
-* Tons of references to scanners and vulnerability management software for active reconnaissance - http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Vulnerability_Analysis
+* [Tons of references to scanners and vulnerability management software for active reconnaissance](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Vulnerability_Analysis)
+* [nmap cheat sheet](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cheat_sheets/NMAP_cheat_sheet.md)
+* nikto
+* [nuclei](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cheat_sheets/NMAP_cheat_sheet.md)
+* [OWASP ZAP](https://www.zaproxy.org)

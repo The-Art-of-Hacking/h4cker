@@ -33,6 +33,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Server-Side Request Forgery (SSRF) vulnerable Lab](https://github.com/incredibleindishell/SSRF_Vulnerable_Lab)
 - [Snyk exploit-workshop](https://github.com/snyk/exploit-workshop)
 - [Try2Hack](http://www.try2hack.nl)
+- [VAmPI - vulnerable API](https://github.com/erev0s/VAmPI)
 - [Vicnum](http://vicnum.ciphertechs.com)
 - [Vulnerable Single Sign-On (SSO)](https://github.com/dogangcr/vulnerable-sso)
 - [WebGoat](https://github.com/WebGoat/WebGoat)
