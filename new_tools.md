@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DeathSleep - A PoC Implementation For An Evasion Technique To Terminate The Current Thread And Restore It Before Resuming Execution, While Implementing Page Protection Changes During No Execution](http://www.kitploit.com/2022/09/deathsleep-poc-implementation-for.html)
 - [XLL_Phishing - XLL Phishing Tradecraft](http://www.kitploit.com/2022/09/xllphishing-xll-phishing-tradecraft.html)
 - [SharpImpersonation - A User Impersonation Tool - Via Token Or Shellcode Injection](http://www.kitploit.com/2022/09/sharpimpersonation-user-impersonation.html)
 - [SDomDiscover - A Easy-To-Use Python Tool To Perform DNS Recon](http://www.kitploit.com/2022/09/sdomdiscover-easy-to-use-python-tool-to.html)
