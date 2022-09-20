@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kam1n0 - Assembly Analysis Platform](http://www.kitploit.com/2022/09/kam1n0-assembly-analysis-platform.html)
 - [CATS - REST API Fuzzer And Negative Testing Tool For OpenAPI Endpoints](http://www.kitploit.com/2022/09/cats-rest-api-fuzzer-and-negative.html)
 - [FISSURE - Frequency Independent SDR-based Signal Understanding and Reverse Engineering](http://www.kitploit.com/2022/09/fissure-frequency-independent-sdr-based.html)
 - [DeathSleep - A PoC Implementation For An Evasion Technique To Terminate The Current Thread And Restore It Before Resuming Execution, While Implementing Page Protection Changes During No Execution](http://www.kitploit.com/2022/09/deathsleep-poc-implementation-for.html)
