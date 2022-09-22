@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OSRipper - AV Evading OSX Backdoor And Crypter Framework](http://www.kitploit.com/2022/09/osripper-av-evading-osx-backdoor-and.html)
 - [NimGetSyscallStub - Get Fresh Syscalls From A Fresh Ntdll.Dll Copy](http://www.kitploit.com/2022/09/nimgetsyscallstub-get-fresh-syscalls.html)
 - [Kam1n0 - Assembly Analysis Platform](http://www.kitploit.com/2022/09/kam1n0-assembly-analysis-platform.html)
 - [CATS - REST API Fuzzer And Negative Testing Tool For OpenAPI Endpoints](http://www.kitploit.com/2022/09/cats-rest-api-fuzzer-and-negative.html)
