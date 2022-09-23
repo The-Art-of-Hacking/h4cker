@@ -2,6 +2,14 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OSRipper - AV Evading OSX Backdoor And Crypter Framework](http://www.kitploit.com/2022/09/osripper-av-evading-osx-backdoor-and.html)
+- [NimGetSyscallStub - Get Fresh Syscalls From A Fresh Ntdll.Dll Copy](http://www.kitploit.com/2022/09/nimgetsyscallstub-get-fresh-syscalls.html)
+- [Kam1n0 - Assembly Analysis Platform](http://www.kitploit.com/2022/09/kam1n0-assembly-analysis-platform.html)
+- [CATS - REST API Fuzzer And Negative Testing Tool For OpenAPI Endpoints](http://www.kitploit.com/2022/09/cats-rest-api-fuzzer-and-negative.html)
+- [FISSURE - Frequency Independent SDR-based Signal Understanding and Reverse Engineering](http://www.kitploit.com/2022/09/fissure-frequency-independent-sdr-based.html)
+- [DeathSleep - A PoC Implementation For An Evasion Technique To Terminate The Current Thread And Restore It Before Resuming Execution, While Implementing Page Protection Changes During No Execution](http://www.kitploit.com/2022/09/deathsleep-poc-implementation-for.html)
+- [XLL_Phishing - XLL Phishing Tradecraft](http://www.kitploit.com/2022/09/xllphishing-xll-phishing-tradecraft.html)
+- [SharpImpersonation - A User Impersonation Tool - Via Token Or Shellcode Injection](http://www.kitploit.com/2022/09/sharpimpersonation-user-impersonation.html)
 - [SDomDiscover - A Easy-To-Use Python Tool To Perform DNS Recon](http://www.kitploit.com/2022/09/sdomdiscover-easy-to-use-python-tool-to.html)
 - [Pinecone - A WLAN Red Team Framework](http://www.kitploit.com/2022/09/pinecone-wlan-red-team-framework.html)
 - [PersistenceSniper - Powershell Script That Can Be Used By Blue Teams, Incident Responders And System Administrators To Hunt Persistences Implanted In Windows Machines](http://www.kitploit.com/2022/09/persistencesniper-powershell-script.html)
