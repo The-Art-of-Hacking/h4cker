@@ -1,0 +1,27 @@
+apply plugin: 'java'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'net.portswigger.burp.extender:burp-extender-api:1.7.22'
+}
+
+sourceSets {
+    main {
+        java {
+            srcDir 'Java/src'
+        }
+    }
+}
+
+task fatJar(type: Jar) {
+    baseName = project.name + '-all'
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}

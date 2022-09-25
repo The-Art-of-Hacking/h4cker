@@ -1,0 +1,12 @@
+Uuid: 33e4402eee514724b768c0342abadb8a
+ExtensionType: 1
+Name: Command Injection Attacker
+RepoName: command-injection-attacker
+ScreenVersion: 2.0
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: False
+Author: Julian Horoszkiewicz, Secarma Ltd.
+ShortDescription: Customizable payload generator to detect and exploit command injection flaws during blind testing.
+EntryPoint: ./build/libs/shelling.jar
+BuildCommand: gradle jar

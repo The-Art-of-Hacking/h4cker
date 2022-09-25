@@ -1,0 +1,11 @@
+<p>This extension is a customizable payload generator, suitable for detecting OS command injection flaws during dynamic testing - which is usually conducted with no access to the source code or the filesystem. Creation of SUCCESSFUL payloads in this kind of assessments requires a lot of guesswork, especially:</p>
+
+<ul>
+<li>The eventual syntax of the expression we are injecting into (e.g. quoted expressions)</li>
+<li>Input sanitizing mechanisms rejecting individual characters (e.g. spaces)</li>
+<li>Platform-specific conditions (e.g. there is no "sleep" on windows)</li>
+<li>Callback method (e.g. asynchronous execution, no outbound traffic allowed)</li>
+</ul>
+
+<p>The purpose of creating this tool was to reach the non-trivial OS command injection cases, which stay undetected by generally known and used tools and sets of payloads.</p>
+
