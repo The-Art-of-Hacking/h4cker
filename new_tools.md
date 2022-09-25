@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PSAsyncShell - PowerShell Asynchronous TCP Reverse Shell](http://www.kitploit.com/2022/09/psasyncshell-powershell-asynchronous.html)
 - [Pax - CLI Tool For PKCS7 Padding Oracle Attacks](http://www.kitploit.com/2022/09/pax-cli-tool-for-pkcs7-padding-oracle.html)
 - [SCodeScanner - Stands For Source Code Scanner Where The User Can Scans The Source Code For Finding The Critical Vulnerabilities](http://www.kitploit.com/2022/09/scodescanner-stands-for-source-code.html)
 - [OSRipper - AV Evading OSX Backdoor And Crypter Framework](http://www.kitploit.com/2022/09/osripper-av-evading-osx-backdoor-and.html)
