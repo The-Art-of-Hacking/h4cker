@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SpyCast - A Crossplatform mDNS Enumeration Tool](http://www.kitploit.com/2022/09/spycast-crossplatform-mdns-enumeration.html)
 - [Psudohash - Password List Generator That Focuses On Keywords Mutated By Commonly Used Password Creation Patterns](http://www.kitploit.com/2022/09/psudohash-password-list-generator-that.html)
 - [Scan4All - Vuls Scan: 15000+PoCs; 21 Kinds Of Application Password Crack; 7000+Web Fingerprints; 146 Protocols And 90000+ Rules Port Scanning; Fuzz, HW, Awesome BugBounty...](http://www.kitploit.com/2022/09/scan4all-vuls-scan-15000pocs-21-kinds.html)
 - [pyFlipper - Unoffical Flipper Zero Cli Wrapper Written In Python](http://www.kitploit.com/2022/09/pyflipper-unoffical-flipper-zero-cli.html)
