@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Deadfinder - Find Dead-Links (Broken Links)](http://www.kitploit.com/2022/10/deadfinder-find-dead-links-broken-links.html)
 - [Pmanager - Store And Retrieve Your Passwords From A Secure Offline Database. Check If Your Passwords Has Leaked Previously To Prevent Targeted Password Reuse Attacks](http://www.kitploit.com/2022/09/pmanager-store-and-retrieve-your.html)
 - [SpyCast - A Crossplatform mDNS Enumeration Tool](http://www.kitploit.com/2022/09/spycast-crossplatform-mdns-enumeration.html)
 - [Psudohash - Password List Generator That Focuses On Keywords Mutated By Commonly Used Password Creation Patterns](http://www.kitploit.com/2022/09/psudohash-password-list-generator-that.html)
