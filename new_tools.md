@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Java-Remote-Class-Loader -  Tool to send Java bytecode to your victims to load and execute using Java ClassLoader together with Reflect API](http://www.kitploit.com/2022/10/java-remote-class-loader-tool-to-send.html)
+- [Utkuici - Nessus Automation](http://www.kitploit.com/2022/10/utkuici-nessus-automation.html)
+- [Erlik 2 - Vulnerable-Flask-App](http://www.kitploit.com/2022/10/erlik-2-vulnerable-flask-app.html)
 - [Bayanay - Python Wardriving Tool](http://www.kitploit.com/2022/10/bayanay-python-wardriving-tool.html)
 - [Deadfinder - Find Dead-Links (Broken Links)](http://www.kitploit.com/2022/10/deadfinder-find-dead-links-broken-links.html)
 - [Pmanager - Store And Retrieve Your Passwords From A Secure Offline Database. Check If Your Passwords Has Leaked Previously To Prevent Targeted Password Reuse Attacks](http://www.kitploit.com/2022/09/pmanager-store-and-retrieve-your.html)
