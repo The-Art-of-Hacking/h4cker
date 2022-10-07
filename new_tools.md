@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Arsenal - Recon Tool installer](http://www.kitploit.com/2022/10/arsenal-recon-tool-installer.html)
+- [Parrot 5.1 - Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind](http://www.kitploit.com/2022/10/parrot-51-security-gnulinux.html)
+- [Cloudfox - Automating Situational Awareness For Cloud Penetration Tests](http://www.kitploit.com/2022/10/cloudfox-automating-situational.html)
 - [Java-Remote-Class-Loader -  Tool to send Java bytecode to your victims to load and execute using Java ClassLoader together with Reflect API](http://www.kitploit.com/2022/10/java-remote-class-loader-tool-to-send.html)
 - [Utkuici - Nessus Automation](http://www.kitploit.com/2022/10/utkuici-nessus-automation.html)
 - [Erlik 2 - Vulnerable-Flask-App](http://www.kitploit.com/2022/10/erlik-2-vulnerable-flask-app.html)
