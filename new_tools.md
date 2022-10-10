@@ -2,6 +2,8 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [EvilnoVNC - Ready To Go Phishing Platform](http://www.kitploit.com/2022/10/evilnovnc-ready-to-go-phishing-platform.html)
+- [HSTP - Simple Hyper Service Transfer Protocol On Networks](http://www.kitploit.com/2022/10/hstp-simple-hyper-service-transfer.html)
 - [AoratosWin - A Tool That Removes Traces Of Executed Applications On Windows OS](http://www.kitploit.com/2022/10/aoratoswin-tool-that-removes-traces-of.html)
 - [Arsenal - Recon Tool installer](http://www.kitploit.com/2022/10/arsenal-recon-tool-installer.html)
 - [Parrot 5.1 - Security GNU/Linux Distribution Designed with Cloud Pentesting and IoT Security in Mind](http://www.kitploit.com/2022/10/parrot-51-security-gnulinux.html)
