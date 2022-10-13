@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [FUD-UUID-Shellcode - Another shellcode injection technique using C++ that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings madness](http://www.kitploit.com/2022/10/fud-uuid-shellcode-another-shellcode.html)
 - [Monkey365 - Tool For Security Consultants To Easily Conduct Not Only Microsoft 365, But Also Azure Subscriptions And Azure Active Directory Security Configuration Reviews](http://www.kitploit.com/2022/10/monkey365-tool-for-security-consultants.html)
 - [SteaLinG - Open-Source Penetration Testing Framework Designed For Social Engineering](http://www.kitploit.com/2022/10/stealing-open-source-penetration.html)
 - [EvilnoVNC - Ready To Go Phishing Platform](http://www.kitploit.com/2022/10/evilnovnc-ready-to-go-phishing-platform.html)
