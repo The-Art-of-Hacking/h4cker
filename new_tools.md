@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [JSubFinder - Searches Webpages For Javascript And Analyzes Them For Hidden Subdomains And Secrets](http://www.kitploit.com/2022/10/jsubfinder-searches-webpages-for.html)
+- [xnLinkFinder - A Python Tool Used To Discover Endpoints (And Potential Parameters) For A Given Target](http://www.kitploit.com/2022/10/xnlinkfinder-python-tool-used-to.html)
+- [PenguinTrace - Tool To Show How Code Runs At The Hardware Level](http://www.kitploit.com/2022/10/penguintrace-tool-to-show-how-code-runs.html)
 - [GodGenesis - A Python3 Based C2 Server To Make Life Of Red Teamer A Bit Easier. The Payload Is Capable To Bypass All The Known Antiviruses And Endpoints](http://www.kitploit.com/2022/10/godgenesis-python3-based-c2-server-to.html)
 - [Matano - The Open-Source Security Lake Platform For AWS](http://www.kitploit.com/2022/10/matano-open-source-security-lake.html)
 - [FUD-UUID-Shellcode - Another shellcode injection technique using C++ that attempts to bypass Windows Defender using XOR encryption sorcery and UUID strings madness](http://www.kitploit.com/2022/10/fud-uuid-shellcode-another-shellcode.html)
