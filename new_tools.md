@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ProtectMyTooling - Multi-Packer Wrapper Letting Us Daisy-Chain Various Packers, Obfuscators And Other Red Team Oriented Weaponry](http://www.kitploit.com/2022/10/protectmytooling-multi-packer-wrapper.html)
 - [Shomon - Shodan Monitoring Integration For TheHive](http://www.kitploit.com/2022/10/shomon-shodan-monitoring-integration.html)
 - [Bomber - Scans Software Bill Of Materials (SBOMs) For Security Vulnerabilities](http://www.kitploit.com/2022/10/bomber-scans-software-bill-of-materials.html)
 - [Mangle - Tool That Manipulates Aspects Of Compiled Executables (.Exe Or DLL) To Avoid Detection From EDRs](http://www.kitploit.com/2022/10/mangle-tool-that-manipulates-aspects-of.html)
