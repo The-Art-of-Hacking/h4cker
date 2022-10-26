@@ -2,6 +2,9 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Shomon - Shodan Monitoring Integration For TheHive](http://www.kitploit.com/2022/10/shomon-shodan-monitoring-integration.html)
+- [Bomber - Scans Software Bill Of Materials (SBOMs) For Security Vulnerabilities](http://www.kitploit.com/2022/10/bomber-scans-software-bill-of-materials.html)
+- [Mangle - Tool That Manipulates Aspects Of Compiled Executables (.Exe Or DLL) To Avoid Detection From EDRs](http://www.kitploit.com/2022/10/mangle-tool-that-manipulates-aspects-of.html)
 - [Usbsas - Tool And Framework For Securely Reading Untrusted USB Mass Storage Devices](http://www.kitploit.com/2022/10/usbsas-tool-and-framework-for-securely.html)
 - [PartyLoud - A Simple Tool To Generate Fake Web Browsing And Mitigate Tracking](http://www.kitploit.com/2022/10/partyloud-simple-tool-to-generate-fake.html)
 - [MHDDoS - DDoS Attack Script With 56 Methods](http://www.kitploit.com/2022/10/mhddos-ddos-attack-script-with-56.html)
