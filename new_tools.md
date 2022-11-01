@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Cicd-Goat - A Deliberately Vulnerable CI/CD Environment](http://www.kitploit.com/2022/11/cicd-goat-deliberately-vulnerable-cicd.html)
 - [Reverse_SSH - SSH Based Reverse Shell](http://www.kitploit.com/2022/10/reversessh-ssh-based-reverse-shell.html)
 - [Ermir - An Evil Java RMI Registry](http://www.kitploit.com/2022/10/ermir-evil-java-rmi-registry.html)
 - [Threatest - Threatest Is A Go Framework For End-To-End Testing Threat Detection Rules](http://www.kitploit.com/2022/10/threatest-threatest-is-go-framework-for.html)
