@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [VuCSA - Vulnerable Client-Server Application -  Made For Learning/Presenting How To Perform Penetration Tests Of Non-Http Thick Clients](http://www.kitploit.com/2022/11/vucsa-vulnerable-client-server.html)
 - [Jscythe - Abuse The Node.Js Inspector Mechanism In Order To Force Any Node.Js/Electron/V8 Based Process To Execute Arbitrary Javascript Code](http://www.kitploit.com/2022/11/jscythe-abuse-nodejs-inspector.html)
 - [Cicd-Goat - A Deliberately Vulnerable CI/CD Environment](http://www.kitploit.com/2022/11/cicd-goat-deliberately-vulnerable-cicd.html)
 - [Reverse_SSH - SSH Based Reverse Shell](http://www.kitploit.com/2022/10/reversessh-ssh-based-reverse-shell.html)
