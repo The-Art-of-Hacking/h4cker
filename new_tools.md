@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [autoSSRF - Smart Context-Based SSRF Vulnerabiltiy Scanner](http://www.kitploit.com/2022/11/autossrf-smart-context-based-ssrf.html)
 - [TeamFiltration - Cross-Platform Framework For Enumerating, Spraying, Exfiltrating, And Backdooring O365 AAD Accounts](http://www.kitploit.com/2022/11/teamfiltration-cross-platform-framework.html)
 - [NGWAF - First Iteration Of ML Based Feedback WAF](http://www.kitploit.com/2022/11/ngwaf-first-iteration-of-ml-based.html)
 - [RDPHijack-BOF - Cobalt Strike Beacon Object File (BOF) That Uses WinStationConnect API To Perform Local/Remote RDP Session Hijacking](http://www.kitploit.com/2022/11/rdphijack-bof-cobalt-strike-beacon.html)
