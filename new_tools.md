@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dismember - Scan Memory For Secrets And More](http://www.kitploit.com/2022/11/dismember-scan-memory-for-secrets-and.html)
 - [Unblob - Extract Files From Any Kind Of Container Formats](http://www.kitploit.com/2022/11/unblob-extract-files-from-any-kind-of.html)
 - [SCMKit - Source Code Management Attack Toolkit](http://www.kitploit.com/2022/11/scmkit-source-code-management-attack.html)
 - [autoSSRF - Smart Context-Based SSRF Vulnerabiltiy Scanner](http://www.kitploit.com/2022/11/autossrf-smart-context-based-ssrf.html)
