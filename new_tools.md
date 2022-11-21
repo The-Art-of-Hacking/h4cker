@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Sandbox_Scryer - Tool For Producing Threat Hunting And Intelligence Data From Public Sandbox Detonation Output](http://www.kitploit.com/2022/11/sandboxscryer-tool-for-producing-threat.html)
 - [Wodat - Windows Oracle Database Attack Toolkit](http://www.kitploit.com/2022/11/wodat-windows-oracle-database-attack.html)
 - [Slicer - Tool To Automate The Boring Process Of APK Recon](http://www.kitploit.com/2022/11/slicer-tool-to-automate-boring-process.html)
 - [nuvola - Tool To Dump And Perform Automatic And Manual Security Analysis On Aws Environments Configurations And Services](http://www.kitploit.com/2022/11/nuvola-tool-to-dump-and-perform.html)
