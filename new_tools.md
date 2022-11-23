@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Scrcpy - Display And Control Your Android Device](http://www.kitploit.com/2022/11/scrcpy-display-and-control-your-android.html)
 - [Stegowiper - A Powerful And Flexible Tool To Apply Active Attacks For Disrupting Stegomalware](http://www.kitploit.com/2022/11/stegowiper-powerful-and-flexible-tool.html)
 - [Sandbox_Scryer - Tool For Producing Threat Hunting And Intelligence Data From Public Sandbox Detonation Output](http://www.kitploit.com/2022/11/sandboxscryer-tool-for-producing-threat.html)
 - [Wodat - Windows Oracle Database Attack Toolkit](http://www.kitploit.com/2022/11/wodat-windows-oracle-database-attack.html)
