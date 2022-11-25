@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SharpSCCM - A C# Utility For Interacting With SCCM](http://www.kitploit.com/2022/11/sharpsccm-c-utility-for-interacting.html)
 - [Octopii - An AI-powered Personal Identifiable Information (PII) Scanner](http://www.kitploit.com/2022/11/octopii-ai-powered-personal.html)
 - [Scrcpy - Display And Control Your Android Device](http://www.kitploit.com/2022/11/scrcpy-display-and-control-your-android.html)
 - [Stegowiper - A Powerful And Flexible Tool To Apply Active Attacks For Disrupting Stegomalware](http://www.kitploit.com/2022/11/stegowiper-powerful-and-flexible-tool.html)
