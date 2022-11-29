@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pycrypt - Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products](http://www.kitploit.com/2022/11/pycrypt-python-based-crypter-that-can.html)
 - [EvilTree - A Remake Of The Classic "Tree" Command With The Additional Feature Of Searching For User Provided Keywords/Regex In Files, Highlighting Those That Contain Matche](http://www.kitploit.com/2022/11/eviltree-remake-of-classic-tree-command.html)
 - [Kubeeye - Tool To Find Various Problems On Kubernetes, Such As Application Misconfiguration, Unhealthy Cluster Components And Node Problems](http://www.kitploit.com/2022/11/kubeeye-tool-to-find-various-problems.html)
 - [MSMAP  - Memory WebShell Generator](http://www.kitploit.com/2022/11/msmap-memory-webshell-generator.html)
