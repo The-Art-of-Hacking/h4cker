@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Pywirt - Python Windows Incident Response Toolkit](http://www.kitploit.com/2022/12/pywirt-python-windows-incident-response.html)
 - [DomainDouche - OSINT Tool to Abuse SecurityTrails Domain Suggestion API To Find Potentially Related Domains By Keyword And Brute Force](http://www.kitploit.com/2022/12/domaindouche-osint-tool-to-abuse.html)
 - [D4TA-HUNTER - GUI Osint Framework With Kali Linux](http://www.kitploit.com/2022/11/d4ta-hunter-gui-osint-framework-with.html)
 - [Pycrypt - Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products](http://www.kitploit.com/2022/11/pycrypt-python-based-crypter-that-can.html)
