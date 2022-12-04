@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Neton - Tool For Getting Information From Internet Connected Sandboxes](http://www.kitploit.com/2022/12/neton-tool-for-getting-information-from.html)
 - [Shells - Little Script For Generating Revshells](http://www.kitploit.com/2022/12/shells-little-script-for-generating.html)
 - [Pywirt - Python Windows Incident Response Toolkit](http://www.kitploit.com/2022/12/pywirt-python-windows-incident-response.html)
 - [DomainDouche - OSINT Tool to Abuse SecurityTrails Domain Suggestion API To Find Potentially Related Domains By Keyword And Brute Force](http://www.kitploit.com/2022/12/domaindouche-osint-tool-to-abuse.html)
