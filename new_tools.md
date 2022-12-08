@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [R4Ven - Track Ip And GPS Location](http://www.kitploit.com/2022/12/r4ven-track-ip-and-gps-location.html)
 - [Pylirt - Python Linux Incident Response Toolkit](http://www.kitploit.com/2022/12/pylirt-python-linux-incident-response.html)
 - [Klyda - Highly Configurable Script For Dictionary/Spray Attacks Against Online Web Applications](http://www.kitploit.com/2022/12/klyda-highly-configurable-script-for.html)
 - [Scscanner - Tool To Read Website Status Code Response From The Lists](http://www.kitploit.com/2022/12/scscanner-tool-to-read-website-status.html)
