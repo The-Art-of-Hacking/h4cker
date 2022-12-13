@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Codecepticon - .NET Application That Allows You To Obfuscate C#, VBA/VB6 (Macros), And PowerShell Source Code](http://www.kitploit.com/2022/12/codecepticon-net-application-that.html)
 - [Legitify - Detect And Remediate Misconfigurations And Security Risks Across All Your GitHub Assets](http://www.kitploit.com/2022/12/legitify-detect-and-remediate.html)
 - [Pyramid - A Tool To Help Operate In EDRs' Blind Spots](http://www.kitploit.com/2022/12/pyramid-tool-to-help-operate-in-edrs.html)
 - [AzureGraph - Azure AD Enumeration Over MS Graph](http://www.kitploit.com/2022/12/azuregraph-azure-ad-enumeration-over-ms.html)
