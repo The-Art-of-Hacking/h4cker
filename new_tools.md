@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ADFSRelay - Proof Of Concept Utilities Developed To Research NTLM Relaying Attacks Targeting ADFS](http://www.kitploit.com/2022/12/adfsrelay-proof-of-concept-utilities.html)
 - [FarsightAD - PowerShell Script That Aim To Help Uncovering (Eventual) Persistence Mechanisms Deployed By A Threat Actor Following An Active Directory Domain Compromise](http://www.kitploit.com/2022/12/farsightad-powershell-script-that-aim.html)
 - [Codecepticon - .NET Application That Allows You To Obfuscate C#, VBA/VB6 (Macros), And PowerShell Source Code](http://www.kitploit.com/2022/12/codecepticon-net-application-that.html)
 - [Legitify - Detect And Remediate Misconfigurations And Security Risks Across All Your GitHub Assets](http://www.kitploit.com/2022/12/legitify-detect-and-remediate.html)
