@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Octosuite - Advanced Github OSINT Framework](http://www.kitploit.com/2022/12/octosuite-advanced-github-osint.html)
 - [AzureHound - Azure Data Exporter For BloodHound](http://www.kitploit.com/2022/12/azurehound-azure-data-exporter-for.html)
 - [ADFSRelay - Proof Of Concept Utilities Developed To Research NTLM Relaying Attacks Targeting ADFS](http://www.kitploit.com/2022/12/adfsrelay-proof-of-concept-utilities.html)
 - [FarsightAD - PowerShell Script That Aim To Help Uncovering (Eventual) Persistence Mechanisms Deployed By A Threat Actor Following An Active Directory Domain Compromise](http://www.kitploit.com/2022/12/farsightad-powershell-script-that-aim.html)
