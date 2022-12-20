@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [HTTPLoot - An Automated Tool Which Can Simultaneously Crawl, Fill Forms, Trigger Error/Debug Pages And "Loot" Secrets Out Of The Client-Facing Code Of Sites](http://www.kitploit.com/2022/12/httploot-automated-tool-which-can.html)
 - [Kali Linux 2022.4 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2022/12/kali-linux-20224-penetration-testing.html)
 - [Shennina - Automating Host Exploitation With AI](http://www.kitploit.com/2022/12/shennina-automating-host-exploitation.html)
 - [laZzzy - Shellcode Loader, Developed Using Different Open-Source Libraries, That Demonstrates Different Execution Techniques](http://www.kitploit.com/2022/12/lazzzy-shellcode-loader-developed-using.html)
