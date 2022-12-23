@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [S3Crets_Scanner - Hunting For Secrets Uploaded To Public S3 Buckets](http://www.kitploit.com/2022/12/s3cretsscanner-hunting-for-secrets.html)
 - [NetLlix - A Project Created With An Aim To Emulate And Test Exfiltration Of Data Over Different Network Protocols](http://www.kitploit.com/2022/12/netllix-project-created-with-aim-to.html)
 - [Squarephish - An advanced phishing tool that uses a technique combining the OAuth Device code authentication flow and QR codes](http://www.kitploit.com/2022/12/squarephish-advanced-phishing-tool-that.html)
 - [HTTPLoot - An Automated Tool Which Can Simultaneously Crawl, Fill Forms, Trigger Error/Debug Pages And "Loot" Secrets Out Of The Client-Facing Code Of Sites](http://www.kitploit.com/2022/12/httploot-automated-tool-which-can.html)
