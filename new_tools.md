@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [OFRAK - Unpack, Modify, And Repack Binaries](http://www.kitploit.com/2022/12/ofrak-unpack-modify-and-repack-binaries.html)
 - [Autobloody - Tool To Automatically Exploit Active Directory Privilege Escalation Paths Shown By BloodHound](http://www.kitploit.com/2022/12/autobloody-tool-to-automatically.html)
 - [S3Crets_Scanner - Hunting For Secrets Uploaded To Public S3 Buckets](http://www.kitploit.com/2022/12/s3cretsscanner-hunting-for-secrets.html)
 - [NetLlix - A Project Created With An Aim To Emulate And Test Exfiltration Of Data Over Different Network Protocols](http://www.kitploit.com/2022/12/netllix-project-created-with-aim-to.html)
