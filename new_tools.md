@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Aftermath - A Free macOS IR Framework](http://www.kitploit.com/2022/12/aftermath-free-macos-ir-framework.html)
 - [Havoc - Modern and malleable post-exploitation command and control framework](http://www.kitploit.com/2022/12/havoc-modern-and-malleable-post.html)
 - [OFRAK - Unpack, Modify, And Repack Binaries](http://www.kitploit.com/2022/12/ofrak-unpack-modify-and-repack-binaries.html)
 - [Autobloody - Tool To Automatically Exploit Active Directory Privilege Escalation Paths Shown By BloodHound](http://www.kitploit.com/2022/12/autobloody-tool-to-automatically.html)
