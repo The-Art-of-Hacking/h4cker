@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Subparse - Modular Malware Analysis Artifact Collection And Correlation Framework](http://www.kitploit.com/2023/01/subparse-modular-malware-analysis.html)
 - [Cypherhound - Terminal Application That Contains 260+ Neo4j Cyphers For BloodHound Data Sets](http://www.kitploit.com/2023/01/cypherhound-terminal-application-that.html)
 - [Top 20 Most Popular Hacking Tools in 2022](http://www.kitploit.com/2022/12/top-20-most-popular-hacking-tools-in.html)
 - [Aftermath - A Free macOS IR Framework](http://www.kitploit.com/2022/12/aftermath-free-macos-ir-framework.html)
