@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Villain - Windows And Linux Backdoor Generator And Multi-Session Handler That Allows Users To Connect With Sibling Servers And Share Their Backdoor Sessions](http://www.kitploit.com/2023/01/villain-windows-and-linux-backdoor.html)
 - [PXEThief - Set Of Tooling That Can Extract Passwords From The Operating System Deployment Functionality In Microsoft Endpoint Configuration Manager](http://www.kitploit.com/2023/01/pxethief-set-of-tooling-that-can.html)
 - [Subparse - Modular Malware Analysis Artifact Collection And Correlation Framework](http://www.kitploit.com/2023/01/subparse-modular-malware-analysis.html)
 - [Cypherhound - Terminal Application That Contains 260+ Neo4j Cyphers For BloodHound Data Sets](http://www.kitploit.com/2023/01/cypherhound-terminal-application-that.html)
