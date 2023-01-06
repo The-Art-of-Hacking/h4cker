@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DotDumper - An Automatic Unpacker And Logger For DotNet Framework Targeting Files](http://www.kitploit.com/2023/01/dotdumper-automatic-unpacker-and-logger.html)
 - [ExchangeFinder - Find Microsoft Exchange Instance For A Given Domain And Identify The Exact Version](http://www.kitploit.com/2023/01/exchangefinder-find-microsoft-exchange.html)
 - [Villain - Windows And Linux Backdoor Generator And Multi-Session Handler That Allows Users To Connect With Sibling Servers And Share Their Backdoor Sessions](http://www.kitploit.com/2023/01/villain-windows-and-linux-backdoor.html)
 - [PXEThief - Set Of Tooling That Can Extract Passwords From The Operating System Deployment Functionality In Microsoft Endpoint Configuration Manager](http://www.kitploit.com/2023/01/pxethief-set-of-tooling-that-can.html)
