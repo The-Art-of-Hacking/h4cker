@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AceLdr - Cobalt Strike UDRL For Memory Scanner Evasion](http://www.kitploit.com/2023/01/aceldr-cobalt-strike-udrl-for-memory.html)
 - [REST-Attacker - Designed As A Proof-Of-Concept For The Feasibility Of Testing Generic Real-World REST Implementations](http://www.kitploit.com/2023/01/rest-attacker-designed-as-proof-of.html)
 - [DotDumper - An Automatic Unpacker And Logger For DotNet Framework Targeting Files](http://www.kitploit.com/2023/01/dotdumper-automatic-unpacker-and-logger.html)
 - [ExchangeFinder - Find Microsoft Exchange Instance For A Given Domain And Identify The Exact Version](http://www.kitploit.com/2023/01/exchangefinder-find-microsoft-exchange.html)
