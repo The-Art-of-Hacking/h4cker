@@ -16,9 +16,7 @@ SELinux defaults to denying anything that is not explicitly allowed. SELinux has
 2.  Update your system:
 
 ```
-        sudo yum update
-
-    {{< note respectIndent=false >}}
+sudo yum update
 ```
 
 
@@ -33,10 +31,9 @@ In this section, you will install various SELinux packages that will help you wh
 sudo rpm -aq | grep selinux
 ```
 
-    A newly deployed CentOS 8 Linode should have the following packages installed:
+    A newly deployed CentOS system should have the following packages installed:
 
 ```
-    output
     libselinux-2.5-14.1.el7.x86_64
     selinux-policy-3.13.1-252.el7_7.6.noarch
     selinux-policy-targeted-3.13.1-252.el7_7.6.noarch
@@ -59,7 +56,7 @@ Optionally, install `setroubleshoot-server` and `mctrans`. The `setroubleshoot-s
 
 ### SELinux States
 
-When SELinux is installed on your system, it can be either *enabled* or *disabled*. By default, the CentOS 8 image provided by Linode has SELinux in an enabled state.
+When SELinux is installed on your system, it can be either *enabled* or *disabled*. 
 
 - To disable SELinux, update your SELinux configuration file using the text editor of your choice. Set the `SELINUX` directive to `disabled` as shown in the example.
 
@@ -101,7 +98,7 @@ SELinux status:                 disabled
 When SELinux is enabled, it can run in either *enforcing* or *permissive* modes.
 
 
-If SELinux is currently disabled, update your SELinux configuration file with the `SELINUX` directive set to `enabled`, then reboot your system, and SSH back into your Linode. These steps are outlined in the [SELinux States](#selinux-states) section of the guide.
+If SELinux is currently disabled, update your SELinux configuration file with the `SELINUX` directive set to `enabled`, then reboot your system, and SSH back into your system. These steps are outlined in the [SELinux States](#selinux-states) section of the guide.
 
 
  - In enforcing mode, SELinux enforces its policies on your system and denies access based on those policies. Use the following command to view SELinux policy modules currently loaded into memory:
