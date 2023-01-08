@@ -11,7 +11,7 @@ SELinux defaults to denying anything that is not explicitly allowed. SELinux has
 ## Before You Begin
 
 1.  This guide is written for a non-root user. Commands that require elevated privileges are prefixed with `sudo`. If you're not familiar with the `sudo` command, you can check our [Users and Groups](/docs/guides/linux-users-and-groups/) guide.
-    {{< /note >}}
+
     
 2.  Update your system:
 
@@ -60,8 +60,10 @@ When SELinux is installed on your system, it can be either *enabled* or *disable
 
 - To disable SELinux, update your SELinux configuration file using the text editor of your choice. Set the `SELINUX` directive to `disabled` as shown in the example.
 
+Edit `/etc/selinux/config`
+
 ```
-    file {title="/etc/selinux/config"}
+
     # This file controls the state of SELinux on the system.
     # SELINUX= can take one of these three values:
     #     enforcing - SELinux security policy is enforced.
