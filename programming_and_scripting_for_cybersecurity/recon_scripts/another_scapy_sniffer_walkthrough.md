@@ -21,3 +21,21 @@ sniff(prn=packet_callback, filter="tcp and host 10.1.1.2 and port 80", count=1)
 ```
 It's important to note that capturing packets may require root/admin permissions.
 
+## Saving to a pcap file
+
+Here is a modified version of the script that saves the captured packets to a pcap file:
+
+```
+from scapy.all import *
+
+# Define a callback function
+def packet_callback(packet):
+    print(packet.show())
+    wrpcap("captured_packets.pcap", packet, append=True)
+
+# Use the sniff() function to capture packets
+sniff(prn=packet_callback, filter="tcp", count=1)
+
+```
+
+This script uses the `wrpcap()` function from Scapy to save the captured packets to a `pcap` file named "captured_packets.pcap". The `append=True` argument is used to append the packets to the file instead of overwriting it.
