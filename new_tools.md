@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Kscan - Simple Asset Mapping Tool](http://www.kitploit.com/2023/01/kscan-simple-asset-mapping-tool.html)
 - [APTRS - Automated Penetration Testing Reporting System](http://www.kitploit.com/2023/01/aptrs-automated-penetration-testing.html)
 - [LATMA - Lateral Movement Analyzer Tool](http://www.kitploit.com/2023/01/latma-lateral-movement-analyzer-tool.html)
 - [AVIator - Antivirus Evasion Project](http://www.kitploit.com/2023/01/aviator-antivirus-evasion-project.html)
