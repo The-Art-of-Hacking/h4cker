@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ghauri - An Advanced Cross-Platform Tool That Automates The Process Of Detecting And Exploiting SQL Injection Security Flaws](http://www.kitploit.com/2023/01/ghauri-advanced-cross-platform-tool.html)
 - [DragonCastle - A PoC That Combines AutodialDLL Lateral Movement Technique And SSP To Scrape NTLM Hashes From LSASS Process](http://www.kitploit.com/2023/01/dragoncastle-poc-that-combines.html)
 - [Kscan - Simple Asset Mapping Tool](http://www.kitploit.com/2023/01/kscan-simple-asset-mapping-tool.html)
 - [APTRS - Automated Penetration Testing Reporting System](http://www.kitploit.com/2023/01/aptrs-automated-penetration-testing.html)
