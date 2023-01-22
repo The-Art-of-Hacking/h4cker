@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Popeye - A Kubernetes Cluster Resource Sanitizer](http://www.kitploit.com/2023/01/popeye-kubernetes-cluster-resource.html)
 - [Tai-e - An Easy-To-Learn/Use Static Analysis Framework For Java](http://www.kitploit.com/2023/01/tai-e-easy-to-learnuse-static-analysis.html)
 - [Ghauri - An Advanced Cross-Platform Tool That Automates The Process Of Detecting And Exploiting SQL Injection Security Flaws](http://www.kitploit.com/2023/01/ghauri-advanced-cross-platform-tool.html)
 - [DragonCastle - A PoC That Combines AutodialDLL Lateral Movement Technique And SSP To Scrape NTLM Hashes From LSASS Process](http://www.kitploit.com/2023/01/dragoncastle-poc-that-combines.html)
