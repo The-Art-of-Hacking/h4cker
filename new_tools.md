@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Get-AppLockerEventlog - Script For Fetching Applocker Event Log By Parsing The Win-Event Log](http://www.kitploit.com/2023/01/get-applockereventlog-script-for.html)
 - [SQLiDetector - Helps You To Detect SQL Injection "Error Based" By Sending Multiple Requests With 14 Payloads And Checking For 152 Regex Patterns For Different Databases](http://www.kitploit.com/2023/01/sqlidetector-helps-you-to-detect-sql.html)
 - [Popeye - A Kubernetes Cluster Resource Sanitizer](http://www.kitploit.com/2023/01/popeye-kubernetes-cluster-resource.html)
 - [Tai-e - An Easy-To-Learn/Use Static Analysis Framework For Java](http://www.kitploit.com/2023/01/tai-e-easy-to-learnuse-static-analysis.html)
