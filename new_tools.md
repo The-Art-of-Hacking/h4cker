@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GUAC - Aggregates Software Security Metadata Into A High Fidelity Graph Database](http://www.kitploit.com/2023/01/guac-aggregates-software-security.html)
 - [DC-Sonar - Analyzing AD Domains For Security Risks Related To User Accounts](http://www.kitploit.com/2023/01/dc-sonar-analyzing-ad-domains-for.html)
 - [Get-AppLockerEventlog - Script For Fetching Applocker Event Log By Parsing The Win-Event Log](http://www.kitploit.com/2023/01/get-applockereventlog-script-for.html)
 - [SQLiDetector - Helps You To Detect SQL Injection "Error Based" By Sending Multiple Requests With 14 Payloads And Checking For 152 Regex Patterns For Different Databases](http://www.kitploit.com/2023/01/sqlidetector-helps-you-to-detect-sql.html)
