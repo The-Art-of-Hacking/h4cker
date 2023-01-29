@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Yaralyzer - Visually Inspect And Force Decode YARA And Regex Matches Found In Both Binary And Text Data, With Colors](http://www.kitploit.com/2023/01/yaralyzer-visually-inspect-and-force.html)
 - [SSTImap - Automatic SSTI Detection Tool With Interactive Interface](http://www.kitploit.com/2023/01/sstimap-automatic-ssti-detection-tool.html)
 - [BlueHound - Tool That Helps Blue Teams Pinpoint The Security Issues That Actually Matter](http://www.kitploit.com/2023/01/bluehound-tool-that-helps-blue-teams.html)
 - [GUAC - Aggregates Software Security Metadata Into A High Fidelity Graph Database](http://www.kitploit.com/2023/01/guac-aggregates-software-security.html)
