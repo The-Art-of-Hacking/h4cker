@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Monomorph - MD5-Monomorphic Shellcode Packer - All Payloads Have The Same MD5 Hash](http://www.kitploit.com/2023/02/monomorph-md5-monomorphic-shellcode.html)
 - [Sandfly-Entropyscan - Tool To Detect Packed Or Encrypt ed Binaries Related To Malware, Finds Malicious Files And Linux Processes And Gives Output With Cryptographic Hashes](http://www.kitploit.com/2023/01/sandfly-entropyscan-tool-to-detect.html)
 - [DFShell - The Best Forwarded Shell](http://www.kitploit.com/2023/01/dfshell-best-forwarded-shell.html)
 - [Yaralyzer - Visually Inspect And Force Decode YARA And Regex Matches Found In Both Binary And Text Data, With Colors](http://www.kitploit.com/2023/01/yaralyzer-visually-inspect-and-force.html)
