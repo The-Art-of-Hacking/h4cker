@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Winevt_Logs_Analysis - Searching .Evtx Logs For Remote Connections](http://www.kitploit.com/2023/02/winevtlogsanalysis-searching-evtx-logs.html)
 - [EAST - Extensible Azure Security Tool - Documentation](http://www.kitploit.com/2023/02/east-extensible-azure-security-tool.html)
 - [Aws-Security-Assessment-Solution - An AWS Tool To Help You Create A Point In Time Assessment Of Your AWS Account Using Prowler And Scout As Well As Optional AWS Developed Ransomware Checks](http://www.kitploit.com/2023/02/aws-security-assessment-solution-aws.html)
 - [Suborner - The Invisible Account Forger](http://www.kitploit.com/2023/02/suborner-invisible-account-forger.html)
