@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Darkdump2 - Search The Deep Web Straight From Your Terminal](http://www.kitploit.com/2023/02/darkdump2-search-deep-web-straight-from.html)
 - [Heap_Detective - The Simple Way To Detect Heap Memory Pitfalls In C++ And C](http://www.kitploit.com/2023/02/heapdetective-simple-way-to-detect-heap.html)
 - [Winevt_Logs_Analysis - Searching .Evtx Logs For Remote Connections](http://www.kitploit.com/2023/02/winevtlogsanalysis-searching-evtx-logs.html)
 - [EAST - Extensible Azure Security Tool - Documentation](http://www.kitploit.com/2023/02/east-extensible-azure-security-tool.html)
