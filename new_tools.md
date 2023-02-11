@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Powershell-Backdoor-Generator - Obfuscated Powershell Reverse Backdoor With Flipper Zero And USB Rubber Ducky Payloads](http://www.kitploit.com/2023/02/powershell-backdoor-generator.html)
 - [Leaktopus - Keep Your Source Code Under Control](http://www.kitploit.com/2023/02/leaktopus-keep-your-source-code-under.html)
 - [C99Shell-PHP7 - PHP 7 And Safe-Build Update Of The Popular C99 Variant Of PHP Shell](http://www.kitploit.com/2023/02/c99shell-php7-php-7-and-safe-build.html)
 - [Darkdump2 - Search The Deep Web Straight From Your Terminal](http://www.kitploit.com/2023/02/darkdump2-search-deep-web-straight-from.html)
