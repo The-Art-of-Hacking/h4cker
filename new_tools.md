@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Misp-Extractor - Tool That Connects To A MISP Instance And Retrieves Attributes Of Specific Types (Such As IP Addresses, URLs, And Hashes)](http://www.kitploit.com/2023/02/misp-extractor-tool-that-connects-to.html)
 - [Web-Hacking-Playground - Web Application With Vulnerabilities Found In Real Cases, Both In Pentests And In Bug Bounty Programs](http://www.kitploit.com/2023/02/web-hacking-playground-web-application.html)
 - [Invoke-Transfer - PowerShell Clipboard Data Transfer](http://www.kitploit.com/2023/02/invoke-transfer-powershell-clipboard.html)
 - [Email-Vulnerablity-Checker - Find Email Spoofing Vulnerablity Of Domains](http://www.kitploit.com/2023/02/email-vulnerablity-checker-find-email.html)
