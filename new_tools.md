@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Upload_Bypass_Carnage - File Upload Restrictions Bypass, By Using Different Bug Bounty Techniques!](http://www.kitploit.com/2023/02/uploadbypasscarnage-file-upload.html)
 - [OffensivePipeline - Allows You To Download And Build C# Tools, Applying Certain Modifications In Order To Improve Their Evasion For Red Team Exercises](http://www.kitploit.com/2023/02/offensivepipeline-allows-you-to.html)
 - [Misp-Extractor - Tool That Connects To A MISP Instance And Retrieves Attributes Of Specific Types (Such As IP Addresses, URLs, And Hashes)](http://www.kitploit.com/2023/02/misp-extractor-tool-that-connects-to.html)
 - [Web-Hacking-Playground - Web Application With Vulnerabilities Found In Real Cases, Both In Pentests And In Bug Bounty Programs](http://www.kitploit.com/2023/02/web-hacking-playground-web-application.html)
