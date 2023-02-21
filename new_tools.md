@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Reverseip_Py - Domain Parser For IPAddress.com Reverse IP Lookup](http://www.kitploit.com/2023/02/reverseippy-domain-parser-for.html)
 - [Faraday - Open Source Vulnerability Management Platform](http://www.kitploit.com/2023/02/faraday-open-source-vulnerability.html)
 - [ThreatHound - Tool That Help You On Your IR & Threat Hunting And CA](http://www.kitploit.com/2023/02/threathound-tool-that-help-you-on-your.html)
 - [Upload_Bypass_Carnage - File Upload Restrictions Bypass, By Using Different Bug Bounty Techniques!](http://www.kitploit.com/2023/02/uploadbypasscarnage-file-upload.html)
