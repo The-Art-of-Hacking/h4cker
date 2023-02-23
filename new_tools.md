@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Gmailc2 - A Fully Undetectable C2 Server That Communicates Via Google SMTP To Evade Antivirus Protections And Network Traffic Restrictions](http://www.kitploit.com/2023/02/gmailc2-fully-undetectable-c2-server.html)
 - [Probable_Subdomains - Subdomains Analysis And Generation Tool. Reveal The Hidden!](http://www.kitploit.com/2023/02/probablesubdomains-subdomains-analysis.html)
 - [Reverseip_Py - Domain Parser For IPAddress.com Reverse IP Lookup](http://www.kitploit.com/2023/02/reverseippy-domain-parser-for.html)
 - [Faraday - Open Source Vulnerability Management Platform](http://www.kitploit.com/2023/02/faraday-open-source-vulnerability.html)
