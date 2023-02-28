@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [APKHunt - Comprehensive Static Code Analysis Tool For Android Apps That Is Based On The OWASP MASVS Framework](http://www.kitploit.com/2023/02/apkhunt-comprehensive-static-code.html)
 - [IpGeo - Tool To Extract IP Addresses From Captured Network Traffic File](http://www.kitploit.com/2023/02/ipgeo-tool-to-extract-ip-addresses-from.html)
 - [SXDork - A Powerful Tool That Utilizes The Technique Of Google Dorking To Search For Specific Information On The Internet](http://www.kitploit.com/2023/02/sxdork-powerful-tool-that-utilizes.html)
 - [CVE-Vulnerability-Information-Downloader - Downloads Information From NIST (CVSS), First.Org (EPSS), And CISA (Exploited Vulnerabilities) And Combines Them Into One List](http://www.kitploit.com/2023/02/cve-vulnerability-information.html)
