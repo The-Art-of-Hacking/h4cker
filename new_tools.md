@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [DataSurgeon - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers And More From Text](http://www.kitploit.com/2023/03/datasurgeon-quickly-extracts-ips-email.html)
 - [Thunderstorm - Modular Framework To Exploit UPS Devices](http://www.kitploit.com/2023/03/thunderstorm-modular-framework-to.html)
 - [RedTeam-Physical-Tools - Red Team Toolkit - A Curated List Of Tools That Are Commonly Used In The Field For Physical Security, Red Teaming, And Tactical Covert Entry](http://www.kitploit.com/2023/03/redteam-physical-tools-red-team-toolkit.html)
 - [X-force - IBM Security Utilitary Library In Python. Search And Query All Sources: Threat_Activities And Groups, Malware_Analysis, Industries](http://www.kitploit.com/2023/03/x-force-ibm-security-utilitary-library.html)
