@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Graphicator - A GraphQL Enumeration And Extraction Tool](http://www.kitploit.com/2023/03/graphicator-graphql-enumeration-and.html)
 - [MacOSThreatTrack - Bash Tool Used For Proactive Detection Of Malicious Activity On macOS Systems](http://www.kitploit.com/2023/03/macosthreattrack-bash-tool-used-for.html)
 - [DataSurgeon - Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Secuirty Numbers And More From Text](http://www.kitploit.com/2023/03/datasurgeon-quickly-extracts-ips-email.html)
 - [Thunderstorm - Modular Framework To Exploit UPS Devices](http://www.kitploit.com/2023/03/thunderstorm-modular-framework-to.html)
