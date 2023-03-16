@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [GPT_Vuln-analyzer - Uses ChatGPT API And Python-Nmap Module To Use The GPT3 Model To Create Vulnerability Reports Based On Nmap Scan Data](http://www.kitploit.com/2023/03/gptvuln-analyzer-uses-chatgpt-api-and.html)
 - [Kali Linux 2023.1 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2023/03/kali-linux-20231-penetration-testing.html)
 - [CertWatcher - A Tool For Capture And Tracking Certificate Transparency Logs, Using YAML Templates Based DSL](http://www.kitploit.com/2023/03/certwatcher-tool-for-capture-and.html)
 - [CertVerify - A Scanner That Files With Compromised Or Untrusted Code Signing Certificates](http://www.kitploit.com/2023/03/certverify-scanner-that-files-with.html)
