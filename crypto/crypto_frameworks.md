@@ -1,6 +1,6 @@
 # Crypto Frameworks and Libraries
 
-### C
+### C Programming Language
 
 - [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
