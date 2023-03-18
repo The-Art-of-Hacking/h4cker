@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Ator - Authentication Token Obtain and Replace Extender](http://www.kitploit.com/2023/03/ator-authentication-token-obtain-and.html)
 - [Wifi_Db - Script To Parse Aircrack-ng Captures To A SQLite Database](http://www.kitploit.com/2023/03/wifidb-script-to-parse-aircrack-ng.html)
 - [GPT_Vuln-analyzer - Uses ChatGPT API And Python-Nmap Module To Use The GPT3 Model To Create Vulnerability Reports Based On Nmap Scan Data](http://www.kitploit.com/2023/03/gptvuln-analyzer-uses-chatgpt-api-and.html)
 - [Kali Linux 2023.1 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2023/03/kali-linux-20231-penetration-testing.html)
