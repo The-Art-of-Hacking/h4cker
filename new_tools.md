@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PortexAnalyzerGUI - Graphical Interface For PortEx, A Portable Executable And Malware Analysis Library](http://www.kitploit.com/2023/03/portexanalyzergui-graphical-interface.html)
 - [Invoke-PSObfuscation - An In-Depth Approach To Obfuscating The Individual Components Of A PowerShell Payload Whether You'Re On Windows Or Kali Linux](http://www.kitploit.com/2023/03/invoke-psobfuscation-in-depth-approach.html)
 - [NimPlant - A Light-Weight First-Stage C2 Implant Written In Nim](http://www.kitploit.com/2023/03/nimplant-light-weight-first-stage-c2.html)
 - [FindUncommonShares - A Python Equivalent Of PowerView's Invoke-ShareFinder.ps1 Allowing To Quickly Find Uncommon Shares In Vast Windows Domains](http://www.kitploit.com/2023/03/finduncommonshares-python-equivalent-of.html)
