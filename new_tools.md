@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Decider - A Web Application That Assists Network Defenders, Analysts, And Researcher In The Process Of Mapping Adversary Behaviors To The MITRE ATT&CK Framework](http://www.kitploit.com/2023/03/decider-web-application-that-assists.html)
 - [ThunderCloud - Cloud Exploit Framework](http://www.kitploit.com/2023/03/thundercloud-cloud-exploit-framework.html)
 - [Waf-Bypass - Check Your WAF Before An Attacker Does](http://www.kitploit.com/2023/03/waf-bypass-check-your-waf-before.html)
 - [QRExfiltrate - Tool That Allows You To Convert Any Binary File Into A QRcode Movie. The Data Can Then Be Reassembled Visually Allowing Exfiltration Of Data In Air Gapped Systems](http://www.kitploit.com/2023/03/qrexfiltrate-tool-that-allows-you-to.html)
