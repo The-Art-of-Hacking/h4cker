@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fingerprintx - Standalone Utility For Service Discovery On Open Ports!](http://www.kitploit.com/2023/03/fingerprintx-standalone-utility-for.html)
 - [MSI Dump - A Tool That Analyzes Malicious MSI Installation Packages, Extracts Files, Streams, Binary Data And Incorporates YARA Scanner](http://www.kitploit.com/2023/03/msi-dump-tool-that-analyzes-malicious.html)
 - [Apk.Sh - Makes Reverse Engineering Android Apps Easier, Automating Some Repetitive Tasks Like Pulling, Decoding, Rebuilding And Patching An APK](http://www.kitploit.com/2023/03/apksh-makes-reverse-engineering-android.html)
 - [Decider - A Web Application That Assists Network Defenders, Analysts, And Researcher In The Process Of Mapping Adversary Behaviors To The MITRE ATT&CK Framework](http://www.kitploit.com/2023/03/decider-web-application-that-assists.html)
