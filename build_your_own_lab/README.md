@@ -17,9 +17,11 @@ Note: The folks at Offensive Security have created a free training and book that
 
 - [PwnMachine by YesWeHack](https://github.com/yeswehack/pwn-machine): a self hosting solution based on docker aiming to provide an easy to use pwning station for bug hunters. The basic install include a web interface, a DNS server and a reverse proxy.
 
-## Building a Home Lab
-[This repository from @reswob10](https://github.com/reswob10/HomeLabResources) is an amazing resource to learn how to build your own cybersecurity lab at home. The repo includes references of blogs and videos that explain different lab setup, tools, and automation.
+## Privacy Oriented Distributions
 
+- [Tails](https://tails.boum.org/)
+- [Qubes OS](https://www.qubes-os.org)
+- [Whonix](https://www.whonix.org/)
 
 ## WebSploit Labs: A Convenient, Simple, Yet Powerful Learning Environment
 
@@ -38,4 +40,8 @@ Go to the [Vulnerable Servers Section](https://github.com/The-Art-of-Hacking/art
 - [PurpleCloud](https://github.com/iknowjason/PurpleCloud):  Cyber Range environment created by [Jason Ostrom](https://twitter.com/securitypuck) using Active Directory and automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud!
 - [CyberRange by SECDEVOPS@CUSE](https://github.com/secdevops-cuse/CyberRange): AWS-based Cyber Range.
 - [Create A VPS On Google Cloud Platform Or Digital Ocean Easily With The Docker For Pentest](https://github.com/aaaguirrep/offensive-docker-vps)
+- [How to Build a Cloud Hacking Lab](https://www.youtube.com/watch?v=4s_3oNwqImo)
+- [Splunk Attack Range](https://github.com/splunk/attack_range)
 
+## Additional Resources
+[This repository from @reswob10](https://github.com/reswob10/HomeLabResources) is an amazing resource. It includes references of blogs and videos that explain different lab setup, tools, and automation.
