@@ -1,10 +1,15 @@
 # Tshark Cheat Sheet
 
+## List interfaces on which Tshark can capture
+```
+tshark -D
+```
 
 ## Capture Packets with Tshark
 ```
 tshark -i eth0 -w capture-file.pcap
 ```
+
 ## Read a Pcap with Tshark
 ```
 tshark -r capture-file.pcap
