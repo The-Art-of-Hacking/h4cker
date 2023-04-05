@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Grepmarx - A Source Code Static Analysis Platform For AppSec Enthusiasts](http://www.kitploit.com/2023/04/grepmarx-source-code-static-analysis.html)
 - [Shoggoth - Asmjit Based Polymorphic Encryptor](http://www.kitploit.com/2023/04/shoggoth-asmjit-based-polymorphic.html)
 - [RedditC2 - Abusing Reddit API To Host The C2 Traffic, Since Most Of The Blue-Team Members Use Reddit, It Might Be A Great Way To Make The Traffic Look Legit](http://www.kitploit.com/2023/04/redditc2-abusing-reddit-api-to-host-c2.html)
 - [CMLoot - Find Interesting Files Stored On (System Center) Configuration Manager (SCCM/CM) SMB Shares](http://www.kitploit.com/2023/04/cmloot-find-interesting-files-stored-on.html)
