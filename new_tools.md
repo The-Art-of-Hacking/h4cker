@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Seekr - A Multi-Purpose OSINT Toolkit With A Neat Web-Interface](http://www.kitploit.com/2023/04/seekr-multi-purpose-osint-toolkit-with.html)
 - [Grepmarx - A Source Code Static Analysis Platform For AppSec Enthusiasts](http://www.kitploit.com/2023/04/grepmarx-source-code-static-analysis.html)
 - [Shoggoth - Asmjit Based Polymorphic Encryptor](http://www.kitploit.com/2023/04/shoggoth-asmjit-based-polymorphic.html)
 - [RedditC2 - Abusing Reddit API To Host The C2 Traffic, Since Most Of The Blue-Team Members Use Reddit, It Might Be A Great Way To Make The Traffic Look Legit](http://www.kitploit.com/2023/04/redditc2-abusing-reddit-api-to-host-c2.html)
