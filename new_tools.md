@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [SilentMoonwalk - PoC Implementation Of A Fully Dynamic Call Stack Spoofer](http://www.kitploit.com/2023/04/silentmoonwalk-poc-implementation-of.html)
 - [WindowSpy - A Cobalt Strike Beacon Object File Meant For Targetted User Surveillance](http://www.kitploit.com/2023/04/windowspy-cobalt-strike-beacon-object.html)
 - [Seekr - A Multi-Purpose OSINT Toolkit With A Neat Web-Interface](http://www.kitploit.com/2023/04/seekr-multi-purpose-osint-toolkit-with.html)
 - [Grepmarx - A Source Code Static Analysis Platform For AppSec Enthusiasts](http://www.kitploit.com/2023/04/grepmarx-source-code-static-analysis.html)
