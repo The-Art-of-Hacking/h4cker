@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Certwatcher - Tool For Capture And Tracking Certificate Transparency Logs, Using YAML Templates Based DSL](http://www.kitploit.com/2023/04/certwatcher-tool-for-capture-and.html)
 - [Reportly -  An AzureAD User Activity Report Tool](http://www.kitploit.com/2023/04/reportly-azuread-user-activity-report.html)
 - [SilentMoonwalk - PoC Implementation Of A Fully Dynamic Call Stack Spoofer](http://www.kitploit.com/2023/04/silentmoonwalk-poc-implementation-of.html)
 - [WindowSpy - A Cobalt Strike Beacon Object File Meant For Targetted User Surveillance](http://www.kitploit.com/2023/04/windowspy-cobalt-strike-beacon-object.html)
