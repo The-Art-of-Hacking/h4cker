@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [QuadraInspect - Android Framework That Integrates AndroPass, APKUtil, And MobFS, Providing A Powerful Tool For Analyzing The Security Of Android Applications](http://www.kitploit.com/2023/04/quadrainspect-android-framework-that.html)
 - [Certwatcher - Tool For Capture And Tracking Certificate Transparency Logs, Using YAML Templates Based DSL](http://www.kitploit.com/2023/04/certwatcher-tool-for-capture-and.html)
 - [Reportly -  An AzureAD User Activity Report Tool](http://www.kitploit.com/2023/04/reportly-azuread-user-activity-report.html)
 - [SilentMoonwalk - PoC Implementation Of A Fully Dynamic Call Stack Spoofer](http://www.kitploit.com/2023/04/silentmoonwalk-poc-implementation-of.html)
