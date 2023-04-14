@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [debugHunter - Discover Hidden Debugging Parameters And Uncover Web Application Secrets](http://www.kitploit.com/2023/04/debughunter-discover-hidden-debugging.html)
 - [Pinacolada - Wireless Intrusion Detection System For Hak5's WiFi Coconut](http://www.kitploit.com/2023/04/pinacolada-wireless-intrusion-detection.html)
 - [QuadraInspect - Android Framework That Integrates AndroPass, APKUtil, And MobFS, Providing A Powerful Tool For Analyzing The Security Of Android Applications](http://www.kitploit.com/2023/04/quadrainspect-android-framework-that.html)
 - [Certwatcher - Tool For Capture And Tracking Certificate Transparency Logs, Using YAML Templates Based DSL](http://www.kitploit.com/2023/04/certwatcher-tool-for-capture-and.html)
