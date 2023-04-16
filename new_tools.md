@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Nmap-API - Uses Python3.10, Debian, python-Nmap, And Flask Framework To Create A Nmap API That Can Do Scans With A Good Speed Online And Is Easy To Deploy](http://www.kitploit.com/2023/04/nmap-api-uses-python310-debian-python.html)
 - [GVision - A Reverse Image Search App That Use Google Cloud Vision API To Detect Landmarks And Web Entities From Images, Helping You Gather Valuable Information Quickly And Easily](http://www.kitploit.com/2023/04/gvision-reverse-image-search-app-that.html)
 - [debugHunter - Discover Hidden Debugging Parameters And Uncover Web Application Secrets](http://www.kitploit.com/2023/04/debughunter-discover-hidden-debugging.html)
 - [Pinacolada - Wireless Intrusion Detection System For Hak5's WiFi Coconut](http://www.kitploit.com/2023/04/pinacolada-wireless-intrusion-detection.html)
