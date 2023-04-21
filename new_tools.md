@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Striker - A Command And Control (C2)](http://www.kitploit.com/2023/04/striker-command-and-control-c2.html)
 - [UDPX - Fast A nd Lightweight, UDPX Is A Single-Packet UDP Scanner Written In Go That Supports The Discovery Of Over 45 Services With The Ability To Add Custom Ones](http://www.kitploit.com/2023/04/udpx-fast-nd-lightweight-udpx-is-single.html)
 - [Katana - A Next-Generation Crawling And Spidering Framework](http://www.kitploit.com/2023/04/katana-next-generation-crawling-and.html)
 - [Wa-Tunnel - Tunneling Internet Traffic Over Whatsapp](http://www.kitploit.com/2023/04/wa-tunnel-tunneling-internet-traffic.html)
