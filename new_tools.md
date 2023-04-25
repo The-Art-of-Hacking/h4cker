@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [auditpolCIS - CIS Benchmark Testing Of Windows SIEM Configuration](http://www.kitploit.com/2023/04/auditpolcis-cis-benchmark-testing-of.html)
 - [KubeStalk - Discovers Kubernetes And Related Infrastructure Based Attack Surface From A Black-Box Perspective](http://www.kitploit.com/2023/04/kubestalk-discovers-kubernetes-and.html)
 - [Nuclearpond - A Utility Leveraging Nuclei To Perform Internet Wide Scans For The Cost Of A Cup Of Coffee](http://www.kitploit.com/2023/04/nuclearpond-utility-leveraging-nuclei.html)
 - [PowerMeUp - A Small Library Of Powershell Scripts For Post Exploitation That You May Need Or Use!](http://www.kitploit.com/2023/04/powermeup-small-library-of-powershell.html)
