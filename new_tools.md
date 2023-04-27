@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PhoneSploit-Pro - An All-In-One Hacking Tool To Remotely Exploit Android Devices Using ADB And Metasploit-Framework To Get A Meterpreter Session](http://www.kitploit.com/2023/04/phonesploit-pro-all-in-one-hacking-tool.html)
 - [PortEx - Java Library To Analyse Portable Executable Files With A Special Focus On Malware Analysis And PE Malformation Robustness](http://www.kitploit.com/2023/04/portex-java-library-to-analyse-portable.html)
 - [auditpolCIS - CIS Benchmark Testing Of Windows SIEM Configuration](http://www.kitploit.com/2023/04/auditpolcis-cis-benchmark-testing-of.html)
 - [KubeStalk - Discovers Kubernetes And Related Infrastructure Based Attack Surface From A Black-Box Perspective](http://www.kitploit.com/2023/04/kubestalk-discovers-kubernetes-and.html)
