@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [REcollapse Is A Helper Tool For Black-Box Regex Fuzzing To Bypass Validations And Discover Normalizations In Web Applications](http://www.kitploit.com/2023/05/recollapse-is-helper-tool-for-black-box.html)
 - [Sh4D0Wup - Signing-key Abuse And Update Exploitation Framework](http://www.kitploit.com/2023/04/sh4d0wup-signing-key-abuse-and-update.html)
 - [FirebaseExploiter - Vulnerability Discovery Tool That Discovers Firebase Database Which Are Open And Can Be Exploitable](http://www.kitploit.com/2023/04/firebaseexploiter-vulnerability.html)
 - [Bearer - Code Security Scanning Tool (SAST) That Discover, Filter And Prioritize Security Risks And Vulnerabilities Leading To Sensitive Data Exposures (PII, PHI, PD)](http://www.kitploit.com/2023/04/bearer-code-security-scanning-tool-sast.html)
