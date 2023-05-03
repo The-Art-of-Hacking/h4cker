@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Metlo - An Open-Source API Security Platform](http://www.kitploit.com/2023/05/metlo-open-source-api-security-platform.html)
 - [Kubei - A Flexible Kubernetes Runtime Scanner](http://www.kitploit.com/2020/07/kubei-flexible-kubernetes-runtime.html)
 - [hardCIDR - Linux Bash Script To Discover The Netblocks, Or Ranges, Owned By The Target Organization](http://www.kitploit.com/2023/03/hardcidr-linux-bash-script-to-discover.html)
 - [REcollapse Is A Helper Tool For Black-Box Regex Fuzzing To Bypass Validations And Discover Normalizations In Web Applications](http://www.kitploit.com/2023/05/recollapse-is-helper-tool-for-black-box.html)
