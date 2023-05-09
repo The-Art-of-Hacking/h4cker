@@ -20,8 +20,10 @@ Note: The folks at Offensive Security have created a free training and book that
 ## Privacy Oriented Distributions
 
 - [Tails](https://tails.boum.org/)
-- [Qubes OS](https://www.qubes-os.org)
 - [Whonix](https://www.whonix.org/)
+- [Qubes OS](https://www.qubes-os.org/)
+- [Ubuntu Privacy Remix](http://www.privacyremix.org/)
+- [Subgraph OS](https://subgraph.com/sgos/)
 
 ## WebSploit Labs: A Convenient, Simple, Yet Powerful Learning Environment
 
