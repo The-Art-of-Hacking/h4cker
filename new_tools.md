@@ -2,6 +2,13 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Teler-Waf - A Go HTTP Middleware That Provides Teler IDS Functionality To Protect Against Web-Based Attacks And Improve The Security Of Go-based Web Applications](http://www.kitploit.com/2023/05/teler-waf-go-http-middleware-that.html)
+- [Spartacus - DLL Hijacking Discovery Tool](http://www.kitploit.com/2023/05/spartacus-dll-hijacking-discovery-tool.html)
+- [Fuzztruction - Prototype Of A Fuzzer That Does Not Directly Mutate Inputs (As Most Fuzzers Do) But Instead Uses A So-Called Generator Application To Produce An Input For Our Fuzzing Target](http://www.kitploit.com/2023/05/fuzztruction-prototype-of-fuzzer-that.html)
+- [NTLMRecon - A Tool For Performing Light Brute-Forcing Of HTTP Servers To Identify Commonly Accessible NTLM Authentication Endpoints](http://www.kitploit.com/2023/05/ntlmrecon-tool-for-performing-light.html)
+- [Nimbo-C2 - Yet Another (Simple And Lightweight) C2 Framework](http://www.kitploit.com/2023/05/nimbo-c2-yet-another-simple-and.html)
+- [Domain-Protect - OWASP Domain Protect - Prevent Subdomain Takeover](http://www.kitploit.com/2023/05/domain-protect-owasp-domain-protect.html)
+- [SpiderSuite - Advance Web Spider/Crawler For Cyber Security Professionals](http://www.kitploit.com/2023/05/spidersuite-advance-web-spidercrawler.html)
 - [Metlo - An Open-Source API Security Platform](http://www.kitploit.com/2023/05/metlo-open-source-api-security-platform.html)
 - [Kubei - A Flexible Kubernetes Runtime Scanner](http://www.kitploit.com/2020/07/kubei-flexible-kubernetes-runtime.html)
 - [hardCIDR - Linux Bash Script To Discover The Netblocks, Or Ranges, Owned By The Target Organization](http://www.kitploit.com/2023/03/hardcidr-linux-bash-script-to-discover.html)
