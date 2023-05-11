@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Indicator-Intelligence - Finds Related Domains And IPv4 Addresses To Do Threat Intelligence After Indicator-Intelligence Collects Static Files](http://www.kitploit.com/2023/05/indicator-intelligence-finds-related.html)
 - [Teler-Waf - A Go HTTP Middleware That Provides Teler IDS Functionality To Protect Against Web-Based Attacks And Improve The Security Of Go-based Web Applications](http://www.kitploit.com/2023/05/teler-waf-go-http-middleware-that.html)
 - [Spartacus - DLL Hijacking Discovery Tool](http://www.kitploit.com/2023/05/spartacus-dll-hijacking-discovery-tool.html)
 - [Fuzztruction - Prototype Of A Fuzzer That Does Not Directly Mutate Inputs (As Most Fuzzers Do) But Instead Uses A So-Called Generator Application To Produce An Input For Our Fuzzing Target](http://www.kitploit.com/2023/05/fuzztruction-prototype-of-fuzzer-that.html)
