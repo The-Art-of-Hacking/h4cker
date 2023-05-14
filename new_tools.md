@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PassMute - PassMute - A Multi Featured Password Transmutation/Mutator Tool](http://www.kitploit.com/2023/05/passmute-passmute-multi-featured.html)
 - [Lfi-Space - LFI Scan Tool](http://www.kitploit.com/2023/05/lfi-space-lfi-scan-tool.html)
 - [TLDHunt - Domain Availability Checker](http://www.kitploit.com/2023/05/tldhunt-domain-availability-checker.html)
 - [Indicator-Intelligence - Finds Related Domains And IPv4 Addresses To Do Threat Intelligence After Indicator-Intelligence Collects Static Files](http://www.kitploit.com/2023/05/indicator-intelligence-finds-related.html)
