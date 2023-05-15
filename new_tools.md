@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ShadowSpray - A Tool To Spray Shadow Credentials Across An Entire Domain In Hopes Of Abusing Long Forgotten GenericWrite/GenericAll DACLs Over Other Objects In The Domain](http://www.kitploit.com/2023/05/shadowspray-tool-to-spray-shadow.html)
 - [PassMute - PassMute - A Multi Featured Password Transmutation/Mutator Tool](http://www.kitploit.com/2023/05/passmute-passmute-multi-featured.html)
 - [Lfi-Space - LFI Scan Tool](http://www.kitploit.com/2023/05/lfi-space-lfi-scan-tool.html)
 - [TLDHunt - Domain Availability Checker](http://www.kitploit.com/2023/05/tldhunt-domain-availability-checker.html)
