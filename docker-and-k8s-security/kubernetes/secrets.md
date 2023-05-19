@@ -27,38 +27,34 @@ While Kubernetes Secrets provide a convenient way to manage sensitive informatio
 
 These alternatives provide different levels of security, flexibility, and integration options for managing sensitive information in Kubernetes. The choice depends on factors such as the level of security required, compliance regulations, ease of management, and integration with existing systems. It is essential to assess your specific needs and evaluate the trade-offs before selecting the most suitable alternative for your use case.
 
-Comparing HashiCorp Vault and Azure Key Vault:
-+-------------------+-----------------------------------------+----------------------------------+
-|    Feature        |            HashiCorp Vault                |         Azure Key Vault          |
-+-------------------+-----------------------------------------+----------------------------------+
-| Secret Management | Provides a comprehensive solution for    | Offers a secure storage and      |
-|                   | secret management, encryption, and       | management solution for secrets |
-|                   | secure access control.                   | and cryptographic keys.         |
-+-------------------+-----------------------------------------+----------------------------------+
-| Authentication    | Supports various authentication methods, | Integrates with Azure Active     |
-|                   | including tokens, username/password,     | Directory for user authentication|
-|                   | LDAP, and more.                          | and RBAC for access management.  |
-+-------------------+-----------------------------------------+----------------------------------+
-| Encryption        | Offers end-to-end encryption with        | Provides hardware security        |
-|                   | transit encryption and encryption at     | modules (HSMs) for key            |
-|                   | rest for stored secrets.                 | encryption and protection.       |
-+-------------------+-----------------------------------------+----------------------------------+
-| Access Controls   | Provides fine-grained access controls,   | Allows defining access policies   |
-|                   | including policies, ACLs, and            | and permissions for secrets and  |
-|                   | dynamic secrets generation.              | keys based on RBAC and security  |
-|                   |                                         | principals.                      |
-+-------------------+-----------------------------------------+----------------------------------+
-| Integration       | Integrates with various platforms,        | Seamlessly integrates with Azure  |
-|                   | including Kubernetes, AWS, and more.     | services and Azure ecosystem,    |
-|                   | Offers a rich set of APIs and plugins.    | such as Azure Functions, VMs,    |
-|                   |                                         | and more.                        |
-+-------------------+-----------------------------------------+----------------------------------+
-| Compliance        | Provides compliance features, including   | Offers compliance certifications |
-|                   | audit logging, secrets rotation, and     | like ISO 27001, SOC, PCI-DSS,    |
-|                   | centralized auditing and logging.        | and more.                        |
-+-------------------+-----------------------------------------+----------------------------------+
-| Scalability       | Designed to scale and handle large       | Offers scalability and high      |
-|                   | volumes of secrets and requests.         | availability to meet demanding   |
-|                   |                                         | workload requirements.           |
-+-------------------+-----------------------------------------+----------------------------------+
+## Comparing HashiCorp Vault and Azure Key Vault
+
+|    Feature      |                 Calico                    |              Cilium              |
+|-----------------|-----------------------------------------|----------------------------------|
+| Architecture    | Layer 3 approach with BGP routing        | Combination of Layer 3 and        |
+|                 |                                         | Layer 4/Layer 7 proxy-based       |
+|                 |                                         | networking and policy             |
+| Network Policy  | Robust network policy support            | Advanced network policy           |
+| Management      | and integration with Kubernetes          | capabilities including HTTP/HTTPS |
+|                 |                                         | and gRPC-layer filtering          |
+| Security        | Distributed firewall model with          | Deep packet inspection,           |
+|                 | ingress and egress filtering             | identity-based access controls,   |
+|                 |                                         | application-layer security         |
+| Scalability     | Designed to scale to thousands of nodes  | High scalability and              |
+|                 | and handle large-scale deployments       | performance for large              |
+|                 |                                         | Kubernetes clusters                |
+| Service Mesh    | Can be used as a foundation for          | Built-in service mesh             |
+| Integration     | integrating with service mesh solutions  | functionality with support         |
+|                 | like Istio                               | for Envoy and Istio               |
+| Performance     | High-performance networking and          | Efficient packet processing and   |
+|                 | forwarding with low latency              | low latency communication         |
+| Observability   | Network flow logs, policy auditing,      | Advanced observability features   |
+|                 | and visibility into network traffic      | including detailed network flow   |
+|                 |                                         | logs, service mesh observability   |
+|                 |                                         | and tracing                       |
+| Community       | Large and active community backed         | Growing community and strong       |
+|                 | by Project Calico and Tigera             | industry support                   |
+
+
+
 
