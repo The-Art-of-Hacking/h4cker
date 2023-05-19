@@ -2,37 +2,37 @@
 
 By default, Docker Swarm uses an overlay network that encapsulates network traffic, making it difficult for firewall rules to filter or control the traffic. To handle this problem and enforce firewall rules effectively in a Docker Swarm environment, you can follow these steps:
 
-1. Disable Docker's built-in firewall management: Docker includes its own firewall management, which can conflict with external firewalls like firewalld. Disable Docker's built-in firewall management by setting the `iptables` parameter in the Docker daemon configuration to "false". This ensures that Docker does not interfere with the external firewall rules.
+1. **Disable Docker's built-in firewall management**: Docker includes its own firewall management, which can conflict with external firewalls like firewalld. Disable Docker's built-in firewall management by setting the `iptables` parameter in the Docker daemon configuration to "false". This ensures that Docker does not interfere with the external firewall rules.
 
-2. Configure firewall rules using firewalld: Use firewalld or any other firewall management tool to define the desired rules for your Docker Swarm environment. Create appropriate rules to allow necessary ingress and egress traffic to and from the swarm nodes, including control plane and worker nodes.
+2. **Configure firewall rules using firewalld**: Use firewalld or any other firewall management tool to define the desired rules for your Docker Swarm environment. Create appropriate rules to allow necessary ingress and egress traffic to and from the swarm nodes, including control plane and worker nodes.
 
-3. Configure the Docker daemon to use the external firewall: Modify the Docker daemon configuration (`/etc/docker/daemon.json`) to use the external firewall rules. Add the `"iptables": false` option to the configuration file. This prevents Docker from altering the firewall rules, enabling the external firewall to control the network traffic.
+3. **Configure the Docker daemon to use the external firewall**: Modify the Docker daemon configuration (`/etc/docker/daemon.json`) to use the external firewall rules. Add the `"iptables": false` option to the configuration file. This prevents Docker from altering the firewall rules, enabling the external firewall to control the network traffic.
 
-4. Restart the Docker daemon: After making the changes, restart the Docker daemon to apply the updated configuration.
+4. **Restart the Docker daemon**: After making the changes, restart the Docker daemon to apply the updated configuration.
 
-5. Verify firewall rules and connectivity: Ensure that the firewall rules are correctly applied and verify the connectivity to the Docker Swarm cluster. Test communication between nodes and services within the Swarm to ensure that the firewall rules are effectively enforced.
+5. **Verify firewall rules and connectivity**: Ensure that the firewall rules are correctly applied and verify the connectivity to the Docker Swarm cluster. Test communication between nodes and services within the Swarm to ensure that the firewall rules are effectively enforced.
 
 By disabling Docker's built-in firewall management and configuring the external firewall to handle the traffic, you can regain control over the network traffic and effectively secure your Docker Swarm installation while utilizing firewalld or any other firewall management tool of your choice.
 
-Note: Docker Swarm relies on specific network ports for inter-node communication, so ensure that the necessary ports are appropriately configured in your firewall rules to allow communication within the Swarm cluster. Remember to consult the documentation and specific guides for your firewall management tool (e.g., firewalld, iptables, etc.) for detailed instructions on configuring rules and managing network traffic.
+**Note**: Docker Swarm relies on specific network ports for inter-node communication, so ensure that the necessary ports are appropriately configured in your firewall rules to allow communication within the Swarm cluster. Remember to consult the documentation and specific guides for your firewall management tool (e.g., firewalld, iptables, etc.) for detailed instructions on configuring rules and managing network traffic.
 
-- iptables: iptables is a widely used and powerful firewall utility in Linux. It is a command-line tool for configuring the Linux kernel's netfilter firewall system. iptables provides extensive control over network traffic by allowing you to define rules based on IP addresses, ports, protocols, and more.
+- **iptables**: iptables is a widely used and powerful firewall utility in Linux. It is a command-line tool for configuring the Linux kernel's netfilter firewall system. iptables provides extensive control over network traffic by allowing you to define rules based on IP addresses, ports, protocols, and more.
 
-- UFW (Uncomplicated Firewall): UFW is a user-friendly frontend for iptables that simplifies the process of configuring a firewall. It provides an easy-to-use command-line interface and supports basic firewall operations such as allowing or blocking incoming and outgoing traffic based on port numbers or application profiles.
+- **UFW (Uncomplicated Firewall):** UFW is a user-friendly frontend for iptables that simplifies the process of configuring a firewall. It provides an easy-to-use command-line interface and supports basic firewall operations such as allowing or blocking incoming and outgoing traffic based on port numbers or application profiles.
 
-- nftables: nftables is the successor to iptables and provides a more modern and flexible framework for packet filtering and network address translation (NAT) in Linux. nftables allows you to define firewall rules using a more streamlined syntax and offers improved performance compared to iptables.
+- **nftables:** nftables is the successor to iptables and provides a more modern and flexible framework for packet filtering and network address translation (NAT) in Linux. nftables allows you to define firewall rules using a more streamlined syntax and offers improved performance compared to iptables.
 
 Here are the documentation links for iptables, UFW, and nftables:
 
-1. iptables:
+1. **iptables**:
    - [iptables Tutorial](https://www.netfilter.org/documentation/index.html)
    - [iptables Man Page](https://man7.org/linux/man-pages/man8/iptables.8.html)
 
-2. UFW (Uncomplicated Firewall):
+2. **UFW**:
    - [UFW Documentation](https://help.ubuntu.com/community/UFW)
    - [UFW Man Page](https://manpages.ubuntu.com/manpages/bionic/man8/ufw.8.html)
 
-3. nftables:
+3. **nftables**:
    - [nftables wiki](https://wiki.nftables.org/)
    - [nftables in the Linux kernel documentation](https://www.kernel.org/doc/Documentation/networking/nftables.txt)
 
