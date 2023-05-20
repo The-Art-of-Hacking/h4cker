@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Dumpulator - An Easy-To-Use Library For Emulating Memory Dumps. Useful For Malware Analysis (Config Extraction, Unpacking) And Dynamic Analysis In General (Sandboxing)](https://www.kitploit.com/2023/05/dumpulator-easy-to-use-library-for.html)
 - [Cbrutekrag - Penetration Tests On SSH Servers Using Brute Force Or Dictionary Attacks. Written In C](https://www.kitploit.com/2023/05/cbrutekrag-penetration-tests-on-ssh.html)
 - [RustChain - Hide Memory Artifacts Using ROP And Hardware Breakpoints](https://www.kitploit.com/2023/05/rustchain-hide-memory-artifacts-using.html)
 - [Wafaray - Enhance Your Malware Detection With WAF + YARA (WAFARAY)](https://www.kitploit.com/2023/05/wafaray-enhance-your-malware-detection.html)
