@@ -32,7 +32,7 @@ Resources you can refer to understand better about AI secure design:
 
 7. [Privacy and Machine Learning](https://www.youtube.com/watch?v=VGZhrEs4tuk): A video lecture by Google on privacy in machine learning.
 
-8. [OWASP Top Ten for Machine Learning](https://owasp.org/www-project-top-ten-machine-learning-risks/): A list of the top ten security risks in machine learning, as identified by the Open Web Application Security Project (OWASP).
+8. [OWASP Top Ten for Machine Learning](https://owasp.org/www-project-machine-learning-security-top-10): A list of the top ten security risks in machine learning, as identified by the Open Web Application Security Project (OWASP).
 
 9. [The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://arxiv.org/abs/1802.07228): This paper discusses potential malicious uses of AI and possible mitigation strategies.
 
