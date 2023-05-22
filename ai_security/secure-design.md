@@ -24,18 +24,11 @@ Resources you can refer to understand better about AI secure design:
 
 3. [IBM's Trusted AI](https://www.ibm.com/cloud/architecture/content/chapter/artificial-intelligence): This link contains IBM's principles for the development of trusted AI.
 
-4. [Secure and Private AI course by Udacity](https://www.udacity.com/course/secure-and-private-ai--ud185): A course designed in collaboration with Facebook AI, teaching privacy-preserving technologies used in AI.
+4. [Ethics of AI and Robotics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/ethics-ai/): An extensive overview of the ethical considerations in AI, including security and privacy.
 
-5. [Ethics of AI and Robotics (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/ethics-ai/): An extensive overview of the ethical considerations in AI, including security and privacy.
+5. [OWASP Top Ten for Machine Learning](https://owasp.org/www-project-machine-learning-security-top-10): A list of the top ten security risks in machine learning, as identified by the Open Web Application Security Project (OWASP).
 
-6. [Adversarial Robustness - Theory and Practice (Zurich Lectures in Advanced Mathematics)](https://www.amazon.com/Adversarial-Robustness-Practice-Lectures-Mathematics/dp/3037192250): A book by Matthias Hein and Maksym Andriushchenko that offers a comprehensive introduction to the field of adversarial robustness in machine learning.
+6. [The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://arxiv.org/abs/1802.07228): This paper discusses potential malicious uses of AI and possible mitigation strategies.
 
-7. [Privacy and Machine Learning](https://www.youtube.com/watch?v=VGZhrEs4tuk): A video lecture by Google on privacy in machine learning.
-
-8. [OWASP Top Ten for Machine Learning](https://owasp.org/www-project-machine-learning-security-top-10): A list of the top ten security risks in machine learning, as identified by the Open Web Application Security Project (OWASP).
-
-9. [The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation](https://arxiv.org/abs/1802.07228): This paper discusses potential malicious uses of AI and possible mitigation strategies.
-
-10. [AI Security Initiative](https://www.aisecurityinitiative.org/): This initiative provides various resources and conducts research in the field of AI security.
 
 NOTE: Security in AI is a vast field and continuously evolving. So, staying updated with recent developments and vulnerabilities is crucial. Always follow secure coding practices and consider privacy and ethical implications while designing and implementing AI systems.
