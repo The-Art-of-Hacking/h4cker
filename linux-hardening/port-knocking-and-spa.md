@@ -104,6 +104,6 @@ Certainly! Here are the links to the documentation for both Port Knocking and Si
 
 ### Single Packet Authorization (SPA) References:
 - "fwknop: Single Packet Authorization (SPA) ": Offers detailed documentation on fwknop, a widely used SPA implementation.
-   - Link: [fwknop: Single Packet Authorization (SPA) documentation]([https://www.cipherdyne.org/fwknop/docs/SPA.html](https://github.com/mrash/fwknop))
+   - Link: [fwknop: Single Packet Authorization (SPA) documentation](https://github.com/mrash/fwknop)
 
 Remember to refer to the official documentation, user guides, and community resources for the most accurate and up-to-date information on Port Knocking and SPA. These resources will provide more in-depth knowledge, configuration examples, and troubleshooting tips specific to each technique.
