@@ -38,4 +38,4 @@ While tools focus on specific tasks, frameworks provide an overarching structure
 
     [Google AI Hub](https://aihub.cloud.google.com/)
 
-The tools and frameworks discussed in this article are only a small selection of the resources available to developers and researchers working on AI security. As AI continues to evolve and mature, it's crucial to continuously stay informed about the latest developments in AI security and take advantage of the tools and frameworks that best meet your specific needs and contexts. The ultimate goal is to ensure that AI
+The tools and frameworks discussed in this article are only a small selection of the resources available to developers and researchers working on AI security. As AI continues to evolve and mature, it's crucial to continuously stay informed about the latest developments in AI security and take advantage of the tools and frameworks that best meet your specific needs and contexts. 
