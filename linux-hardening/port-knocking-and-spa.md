@@ -107,3 +107,44 @@ Certainly! Here are the links to the documentation for both Port Knocking and Si
    - Link: [fwknop: Single Packet Authorization (SPA) documentation](https://github.com/mrash/fwknop)
 
 Remember to refer to the official documentation, user guides, and community resources for the most accurate and up-to-date information on Port Knocking and SPA. These resources will provide more in-depth knowledge, configuration examples, and troubleshooting tips specific to each technique.
+
+## My SPA Cheat Sheet
+Certainly! Here's a cheat sheet for Single Packet Authorization (SPA):
+
+1. Install fwknop:
+   - Ubuntu/Debian: `sudo apt-get install fwknop`
+
+2. Configure fwknop:
+   - Edit `/etc/fwknop/fwknop.conf`:
+     - Set `ENABLE_RULES` to `Y`.
+     - Define `FW_ACCESS_TIMEOUT` to specify the access window duration.
+     - Configure `AUTH_MODE` and set the appropriate authentication mode.
+     - Specify `KEY_BASE64` or `KEY_FILE` with the shared secret.
+     - Customize other options as needed.
+
+3. Generate SPA packet:
+   - Run `fwknop --generate-key` to generate a new encryption key.
+   - Use `fwknop --nmap <target_IP>` to generate an SPA packet for the target IP.
+   - Copy the generated packet for future use.
+
+4. Configure firewall rules:
+   - Use iptables or ufw to define initial firewall rules.
+   - Block incoming traffic to desired services:
+     - `sudo iptables -A INPUT -p tcp --dport <port_number> -j DROP`
+
+5. Configure firewall integration:
+   - Edit `/etc/fwknop/access.conf`:
+     - Specify the desired service name and port(s).
+     - Define a SPA stanza with the correct access policy, such as `OPEN`.
+
+6. Modify firewall rules with SPA packet:
+   - Run `fwknop -R -p <SPA_packet>` to modify firewall rules dynamically.
+   - Firewall rules are adjusted to allow access for the specified service(s).
+
+7. Test SPA access:
+   - From a separate network, send the SPA packet to the target IP.
+   - Access should be granted to the specified service(s) during the access window.
+
+Remember to adjust the commands and paths based on your specific setup and Linux distribution. Consult the official **fwknop** documentation for detailed configuration options, advanced features, and troubleshooting tips.
+
+**Note**: This cheat sheet provides a general outline of the SPA setup process. It's recommended to refer to the official documentation and resources for **fwknop** and your chosen firewall management tool for more detailed instructions and advanced configurations.
