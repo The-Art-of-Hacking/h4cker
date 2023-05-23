@@ -31,4 +31,4 @@ Container-optimized Linux distributions are designed specifically for deploying,
 
 8. **Photon OS**: VMware’s Photon OS is a lightweight, container-optimized Linux operating system designed for cloud-native applications, cloud platforms, and VMware infrastructure.
 
-Note that when choosing a container-optimized OS, you should consider factors such as the specific needs of your project, hardware requirements, the cloud platform you're using (if any), and your team's familiarity with the OS.
+Note that when choosing a container-optimized OS, you should consider factors such as the specific needs of your project, hardware requirements, the cloud platform you're using (if any), and your familiarity with the OS.
