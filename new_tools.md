@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Acheron - Indirect Syscalls For AV/EDR Evasion In Go Assembly](https://www.kitploit.com/2023/05/acheron-indirect-syscalls-for-avedr.html)
 - [Hades - Go Shellcode Loader That Combines Multiple Evasion Techniques](http://www.kitploit.com/2023/05/hades-go-shellcode-loader-that-combines.html)
 - [Bypass-403 - A Simple Script Just Made For Self Use For Bypassing 403](https://www.kitploit.com/2023/05/bypass-403-simple-script-just-made-for.html)
 - [Dumpulator - An Easy-To-Use Library For Emulating Memory Dumps. Useful For Malware Analysis (Config Extraction, Unpacking) And Dynamic Analysis In General (Sandboxing)](https://www.kitploit.com/2023/05/dumpulator-easy-to-use-library-for.html)
