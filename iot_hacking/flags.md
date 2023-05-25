@@ -35,3 +35,22 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 Connection: close
 ```
 <img width="791" alt="image" src="https://github.com/The-Art-of-Hacking/h4cker/assets/1690898/13f46b3b-1948-4f6e-a6bf-bf28a3c4fc05">
+
+
+## Getting the Admin Password and Secret Key
+
+It is just the default example configuration:
+```
+# default admin user, created on startup
+;admin_user = admin
+
+# default admin password, can be changed before first start of grafana,  or in profile settings
+;admin_password = admin
+
+...
+
+# used for signing
+;secret_key = SW2YcwTIb9zpOOhoPsMm
+```
+
+<img width="1920" alt="image" src="https://github.com/The-Art-of-Hacking/h4cker/assets/1690898/e306aa9c-a980-4001-bc6d-2cbacf7d8b0a">
