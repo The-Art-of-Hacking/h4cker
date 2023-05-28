@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bootlicker - A Generic UEFI Bootkit Used To Achieve Initial Usermode Execution](https://www.kitploit.com/2023/05/bootlicker-generic-uefi-bootkit-used-to.html)
 - [Platbox - UEFI And SMM Assessment Tool](https://www.kitploit.com/2023/05/platbox-uefi-and-smm-assessment-tool.html)
 - [EntropyReducer - Reduce Entropy And Obfuscate Youre Payload With Serialized Linked Lists](https://www.kitploit.com/2023/05/entropyreducer-reduce-entropy-and.html)
 - [REcollapse Is A Helper Tool For Black-Box Regex Fuzzing To Bypass Validations And Discover Normalizations In Web Applications](https://www.kitploit.com/2023/05/recollapse-is-helper-tool-for-black-box.html)
