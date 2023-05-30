@@ -2,6 +2,12 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [rebindMultiA - Tool To Perform a Multiple A Record Rebind Attack](http://www.kitploit.com/2023/05/rebindmultia-tool-to-perform-multiple.html)
+- [EntropyReducer - Reduce Entropy And Obfuscate Youre Payload With Serialized Linked Lists](http://www.kitploit.com/2023/05/entropyreducer-reduce-entropy-and.html)
+- [Platbox - UEFI And SMM Assessment Tool](http://www.kitploit.com/2023/05/platbox-uefi-and-smm-assessment-tool.html)
+- [Bootlicker - A Generic UEFI Bootkit Used To Achieve Initial Usermode Execution](http://www.kitploit.com/2023/05/bootlicker-generic-uefi-bootkit-used-to.html)
+- [PentestGPT - A GPT-empowered Penetration Testing Tool](http://www.kitploit.com/2023/05/pentestgpt-gpt-empowered-penetration.html)
+- [GodPotato - Local Privilege Escalation Tool From A Windows Service Accounts To NT AUTHORITY\SYSTEM](http://www.kitploit.com/2023/05/godpotato-local-privilege-escalation.html)
 - [PentestGPT - A GPT-empowered Penetration Testing Tool](https://www.kitploit.com/2023/05/pentestgpt-gpt-empowered-penetration.html)
 - [Bootlicker - A Generic UEFI Bootkit Used To Achieve Initial Usermode Execution](https://www.kitploit.com/2023/05/bootlicker-generic-uefi-bootkit-used-to.html)
 - [Platbox - UEFI And SMM Assessment Tool](https://www.kitploit.com/2023/05/platbox-uefi-and-smm-assessment-tool.html)
