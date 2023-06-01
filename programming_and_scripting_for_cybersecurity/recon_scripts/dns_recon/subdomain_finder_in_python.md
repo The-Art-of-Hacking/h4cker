@@ -3,7 +3,7 @@
 The following is a sample Python script to find subdomains using DNS. This script is using the `dns.resolver` module from the `dnspython` library. If you don't have the library installed, you can install it using pip:
 
 ```
-pip install dnspython
+pip3 install dnspython
 ```
 
 The following is the Python script that can be used to find subdomains for a given domain using a provided wordlist file:
