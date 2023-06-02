@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Graphcat - Generate Graphs And Charts Based On Password Cracking Result](http://www.kitploit.com/2023/06/graphcat-generate-graphs-and-charts.html)
 - [Azure-AccessPermissions - Easy to use PowerShell script to enumerate access permissions in an Azure Active Directory environment](http://www.kitploit.com/2023/06/azure-accesspermissions-easy-to-use.html)
 - [Nidhogg - All-In-One Simple To Use Rootkit For Red Teams](http://www.kitploit.com/2023/05/nidhogg-all-in-one-simple-to-use.html)
 - [rebindMultiA - Tool To Perform a Multiple A Record Rebind Attack](http://www.kitploit.com/2023/05/rebindmultia-tool-to-perform-multiple.html)
