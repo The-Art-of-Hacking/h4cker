@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [MAAD-AF - MAAD Attack Framework - An Attack Tool For Simple, Fast And Effective Security Testing Of M365 And Azure AD](http://www.kitploit.com/2023/06/maad-af-maad-attack-framework-attack.html)
 - [Burp-Dom-Scanner - Burp Suite's Extension To Scan And Crawl Single Page Applications](http://www.kitploit.com/2023/06/burp-dom-scanner-burp-suites-extension.html)
 - [Graphcat - Generate Graphs And Charts Based On Password Cracking Result](http://www.kitploit.com/2023/06/graphcat-generate-graphs-and-charts.html)
 - [Azure-AccessPermissions - Easy to use PowerShell script to enumerate access permissions in an Azure Active Directory environment](http://www.kitploit.com/2023/06/azure-accesspermissions-easy-to-use.html)
