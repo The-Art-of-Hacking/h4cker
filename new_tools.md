@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [AtomLdr - A DLL Loader With Advanced Evasive Features](http://www.kitploit.com/2023/06/atomldr-dll-loader-with-advanced.html)
 - [LinkedInDumper - Tool To Dump Company Employees From LinkedIn API](http://www.kitploit.com/2023/06/linkedindumper-tool-to-dump-company.html)
 - [Kubestroyer - Kubernetes Exploitation Tool](http://www.kitploit.com/2023/06/kubestroyer-kubernetes-exploitation-tool.html)
 - [DCVC2 - A Golang Discord C2 Unlike Any Other](http://www.kitploit.com/2023/06/dcvc2-golang-discord-c2-unlike-any-other.html)
