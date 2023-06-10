@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [PythonMemoryModule - Pure-Python Implementation Of MemoryModule Technique To Load Dll And Unmanaged Exe Entirely From Memory](http://www.kitploit.com/2023/06/pythonmemorymodule-pure-python.html)
 - [XSS-Exploitation-Tool - An XSS Exploitation Tool](http://www.kitploit.com/2023/06/xss-exploitation-tool-xss-exploitation.html)
 - [Kali Linux 2023.2 - Penetration Testing and Ethical Hacking Linux Distribution](http://www.kitploit.com/2023/06/kali-linux-20232-penetration-testing.html)
 - [AtomLdr - A DLL Loader With Advanced Evasive Features](http://www.kitploit.com/2023/06/atomldr-dll-loader-with-advanced.html)
