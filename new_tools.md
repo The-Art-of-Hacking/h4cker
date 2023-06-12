@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [C2-Hunter - Extract C2 Traffic](http://www.kitploit.com/2023/06/c2-hunter-extract-c2-traffic.html)
 - [Bypass-Sandbox-Evasion - Bypass Malware Sandbox Evasion Ram Check](http://www.kitploit.com/2023/06/bypass-sandbox-evasion-bypass-malware.html)
 - [PythonMemoryModule - Pure-Python Implementation Of MemoryModule Technique To Load Dll And Unmanaged Exe Entirely From Memory](http://www.kitploit.com/2023/06/pythonmemorymodule-pure-python.html)
 - [XSS-Exploitation-Tool - An XSS Exploitation Tool](http://www.kitploit.com/2023/06/xss-exploitation-tool-xss-exploitation.html)
