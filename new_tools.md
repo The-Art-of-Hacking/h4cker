@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Fiber - Using Fibers To Run In-Memory Code In A Different And Stealthy Way](http://www.kitploit.com/2023/06/fiber-using-fibers-to-run-in-memory.html)
 - [Burpgpt - A Burp Suite Extension That Integrates OpenAI's GPT To Perform An Additional Passive Scan For Discovering Highly Bespoke Vulnerabilities, And Enables Running Traffic-Based Analysis Of Any Type](http://www.kitploit.com/2023/06/burpgpt-burp-suite-extension-that.html)
 - [C2-Hunter - Extract C2 Traffic](http://www.kitploit.com/2023/06/c2-hunter-extract-c2-traffic.html)
 - [Bypass-Sandbox-Evasion - Bypass Malware Sandbox Evasion Ram Check](http://www.kitploit.com/2023/06/bypass-sandbox-evasion-bypass-malware.html)
