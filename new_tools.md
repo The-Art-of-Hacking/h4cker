@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [ReconAIzer - A Burp Suite Extension To Add OpenAI (GPT) On Burp And Help You With Your Bug Bounty Recon To Discover Endpoints, Params, URLs, Subdomains And More!](http://www.kitploit.com/2023/06/reconaizer-burp-suite-extension-to-add.html)
 - [HardHatC2 - A C# Command And Control Framework](http://www.kitploit.com/2023/06/hardhatc2-c-command-and-control.html)
 - [Gato - GitHub Self-Hosted Runner Enumeration And Attack Tool](http://www.kitploit.com/2023/06/gato-github-self-hosted-runner.html)
 - [msLDAPDump - LDAP Enumeration Tool](http://www.kitploit.com/2023/06/msldapdump-ldap-enumeration-tool.html)
