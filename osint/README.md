@@ -84,11 +84,11 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 - BPG6: http://lg.he.net/
 
 ### DNS
-- dnsenum -	http://code.google.com/p/dnsenum
-- dnsmap: http://code.google.com/p/dnsmap
-- dnsrecon: http://www.darkoperator.com/tools-and-scripts
-- dnstracer: http://www.mavetju.org/unix/dnstracer.php
-- dnswalk: http://sourceforge.net/projects/dnswalk
+- dnsenum -	https://code.google.com/p/dnsenum
+- dnsmap: https://code.google.com/p/dnsmap
+- dnsrecon: https://www.darkoperator.com/tools-and-scripts
+- dnstracer: https://www.mavetju.org/unix/dnstracer.php
+- dnswalk: https://sourceforge.net/projects/dnswalk
 
 ## The OSINT Framework
 - [OSINT Framework](https://osintframework.com)
