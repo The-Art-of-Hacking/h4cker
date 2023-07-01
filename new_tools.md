@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Bropper - An Automatic Blind ROP Exploitation Tool](http://www.kitploit.com/2023/07/bropper-automatic-blind-rop.html)
 - [Golddigger - Search Files For Gold](http://www.kitploit.com/2023/06/golddigger-search-files-for-gold.html)
 - [Artemis - A Modular Web Reconnaissance Tool And Vulnerability Scanner](http://www.kitploit.com/2023/06/artemis-modular-web-reconnaissance-tool.html)
 - [ReconAIzer - A Burp Suite Extension To Add OpenAI (GPT) On Burp And Help You With Your Bug Bounty Recon To Discover Endpoints, Params, URLs, Subdomains And More!](http://www.kitploit.com/2023/06/reconaizer-burp-suite-extension-to-add.html)
