@@ -2,6 +2,7 @@
 The following are a collection of recently-released pen test tools. I update this list every time that there is a new post and when I find a new one around the Internet. The rest of the repository has hundreds of additional cybersecurity and pen test tools.
 
 ----
+- [Wanderer - An Open-Source Process Injection Enumeration Tool Written In C#](http://www.kitploit.com/2023/07/wanderer-open-source-process-injection.html)
 - [Polaris - Validation Of Best Practices In Your Kubernetes Clusters](http://www.kitploit.com/2023/07/polaris-validation-of-best-practices-in.html)
 - [Bropper - An Automatic Blind ROP Exploitation Tool](http://www.kitploit.com/2023/07/bropper-automatic-blind-rop.html)
 - [Golddigger - Search Files For Gold](http://www.kitploit.com/2023/06/golddigger-search-files-for-gold.html)
