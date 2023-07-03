@@ -24,34 +24,21 @@ session = requests.Session()
 
 parser = argparse.ArgumentParser()
 
-# The user can optionally provide a session cookie. If not provided, a default value is used.
 parser.add_argument("-s", "--session", required=False ,default="9765ac114207245baf67dfd2a5e29f3a",help="Session Cookie Value")
-
-# The URL of the host to be checked for SSRF. It needs to have http or https.
 parser.add_argument("-u", "--url", required=False, default="http://8t2s8yx5gh5nw0z9bd3atkoprgx6lv.burpcollaborator.net",help="URL of host to check will need http or https")
-
-# The Grafana host URL. This argument is required.
 parser.add_argument("-H", "--host", default="http://kubernetes.docker.internal:5000",required=True, help="Host for Grafana")
-
-# Username for the Grafana instance. It's not required by default.
+parser.add_argument("-f", "--file", default="urls.txt",required=False, help="File of URLS to check SSRF Against")
 parser.add_argument("-U", "--username", default="",required=False, help="Username for Grafana")
-
-# Password for the Grafana instance. It's not required by default.
 parser.add_argument("-P", "--password", default="",required=False, help="Password for Grafana")
-
-# If the user wants to use a proxy for debugging, they can provide it here.
 parser.add_argument("-p", "--proxy", default="",required=False, help="Proxy for debugging")
 
-# Parsing the arguments
 args = parser.parse_args()
-
 ssrf_url = args.url
 sessionid = args.session
 ghost = args.host
 files = args.file
 username = args.username
 password = args.password
-
 
 
 if args.proxy:
