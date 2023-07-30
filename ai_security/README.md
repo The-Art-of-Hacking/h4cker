@@ -12,7 +12,3 @@
 - [Cybersecurity Learning Prompts(https://github.com/santosomar/chatgpt-cybersecurity-prompts)
 - [Networking Prompts(https://github.com/santosomar/chatgpt-networking-prompts)
 - [Programming Learning Prompts(https://github.com/santosomar/chatgpt-programming-prompts)
-
-
-
-
