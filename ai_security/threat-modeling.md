@@ -1,4 +1,4 @@
-# Tools for threat modeling AI systems
+# Tools for Threat Modeling AI Systems
 There are several tools and methodologies that you can use to conduct threat modeling for AI systems.
 
 | Tool / Methodology | Description | Link |
