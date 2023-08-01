@@ -9,6 +9,6 @@
 - [Threat Modeling](<AI Security Best Practices/threat-modeling.md>)
 
 ## AI Security Resources from Omar's Training Sessions
-- [Cybersecurity Learning Prompts(https://github.com/santosomar/chatgpt-cybersecurity-prompts)
-- [Networking Prompts(https://github.com/santosomar/chatgpt-networking-prompts)
-- [Programming Learning Prompts(https://github.com/santosomar/chatgpt-programming-prompts)
+- [Cybersecurity Learning Prompts](https://github.com/santosomar/chatgpt-cybersecurity-prompts)
+- [Networking Prompts](https://github.com/santosomar/chatgpt-networking-prompts)
+- [Programming Learning Prompts](https://github.com/santosomar/chatgpt-programming-prompts)
