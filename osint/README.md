@@ -64,9 +64,11 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Umbrella (OpenDNS) Popularity List](http://s3-us-west-1.amazonaws.com/umbrella-static/index.html) 
 
 ### Social Media
-* A tool to scrape LinkedIn: https://github.com/dchrastil/TTSL
-* cree.py	http://ilektrojohn.github.com/creepy
+* [A tool to scrape LinkedIn](https://github.com/dchrastil/TTSL)
+* [cree.py](https://github.com/ilektrojohn/creepy)
 
+### Acquisitions and 
+- [OCCRP Aleph](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
 ### Whois
 WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritative registry for all of the TLDs and is a great starting point for all manual WHOIS queries.
 
