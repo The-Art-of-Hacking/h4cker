@@ -20,6 +20,7 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Web Data Extractor](http://www.webextractor.com)
 - [Xenu](http://home.snafu.de)
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider)
+- [Deepinfo](https://www.deepinfo.com/)
 
 
 ## Open Source Threat Intelligence
