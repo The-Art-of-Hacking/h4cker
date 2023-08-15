@@ -1,6 +1,6 @@
 # GPG: Generating Keys, Encrypting, and Decrypting Files
 
-Here are step-by-step instructions on how to generate GPG keys, and how to use them to encrypt and decrypt files:
+The following are step-by-step instructions on how to generate GPG keys, and how to use them to encrypt and decrypt files:
 
 ## Generating GPG Keys
 
