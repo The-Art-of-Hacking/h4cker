@@ -1,6 +1,3 @@
-Certainly! Here's the complete content for challenge 8, `08_Elliptic_Curve_Key_Pair_Generation.md`, including the introduction, challenge instructions, answer, and code.
-
-```markdown
 # Elliptic Curve Key Pair Generation
 
 **Level:** Intermediate
@@ -85,6 +82,3 @@ Public Key: (15, 13)
 ```
 
 This code defines functions to add and multiply points on an elliptic curve over a finite field. Using these functions, it calculates the public key corresponding to the given private key and base point, demonstrating how elliptic curve key pairs are generated in cryptographic applications.
-```
-
-This file provides a comprehensive explanation and solution for the challenge, giving students a practical example of how elliptic curve cryptography can be used to generate key pairs.
