@@ -12,24 +12,11 @@ n = 3233, e = 17, Encrypted message: [2201, 2332, 1452]
 
 ### Answer:
 
-Here are the detailed solutions for each step:
 
-**Step 1:** Factorize \( n = 3233 \) into two prime numbers:
-   \( p = 61 \), \( q = 53 \)
+<img width="1230" alt="image" src="https://github.com/The-Art-of-Hacking/h4cker/assets/1690898/b4919061-0736-4884-9f44-51f0a53fdcc6">
 
-**Step 2:** Compute the Euler's Totient function \( \phi(n) \):
-   \( \phi(n) = (p-1)(q-1) = 3120 \)
 
-Compute the private key \( d \) such that:
-   \( de \equiv 1 \mod \phi(n) \)
-
-Using Extended Euclidean Algorithm, we can find:
-   \( d = 2753 \)
-
-**Step 3:** Decrypt the message using the private key:
-   Decrypted message: "HEY"
-
-Here's a code snippet in Python to perform the entire decryption:
+Code snippet in Python to perform the entire decryption:
 
 ```python
 def egcd(a, b):
@@ -61,4 +48,4 @@ decrypted_text = decrypt_rsa(ciphertext, n, e)
 print(decrypted_text)  # Output: "HEY"
 ```
 
-This challenge provides an understanding of the RSA algorithm, which is foundational in modern cryptography. It covers important concepts like prime factorization, modular arithmetic, and key derivation.
+This challenge provided you with an understanding of the RSA algorithm. It covered important concepts like prime factorization, modular arithmetic, and key derivation.
