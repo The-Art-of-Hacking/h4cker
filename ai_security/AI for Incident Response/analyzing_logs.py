@@ -22,7 +22,7 @@ with open('logs.txt', 'r') as file:
     log_file = file.read()
 
 # Prepare the prompt
-prompt = [{"role": "user", "content": f"Explain the following logs:\n\n{log_file}"}]
+prompt = [{"role": "user", "content": f"Explain the following logs:\n\n{log_file} . Explain if there is any malicious activity in the logs."}]
 
 # Generate the AI chat completion via the OpenAI API
 # I am only using GTP 3.5 Turbo for this example.
