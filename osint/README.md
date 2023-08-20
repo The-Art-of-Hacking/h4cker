@@ -24,10 +24,35 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 
 
 ## Open Source Threat Intelligence
-
-- [GOSINT](https://github.com/ciscocsirt/gosint) - a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs). GOSINT allows a security analyst to collect and standardize structured and unstructured threat intelligence.
 - [Awesome Threat Intelligence](https://github.com/santosomar/awesome-threat-intelligence) - A curated list of awesome Threat Intelligence resources. This is a great resource and I try to contribute to it.
 
+## OSINT Source Highlights
+| Website             | Description        |
+|---------------------|--------------------|
+| shodan.io           | Server             |
+| google.com          | Dorks              |
+| wigle.net           | WiFi Networks      |
+| grep.app            | Codes Search       |
+| app.binaryedge      | Threat Intelligence|
+| onyphe.io           | Server             |
+| viz.greynoise.io    | Threat Intelligence|
+| censys.io           | Server             |
+| hunter.io           | Email Addresses    |
+| fofa.info           | Threat Intelligence|
+| zoomeye.org         | Threat Intelligence|
+| leakix.net          | Threat Intelligence|
+| intelx.io           | OSINT              |
+| app.netlas.io       | Attack Surface     |
+| searchcode.com      | Codes Search       |
+| urlscan.io          | Threat Intelligence|
+| publicwww.com       | Codes Search       |
+| fullhunt.io         | Attack Surface     |
+| socradar.io         | Threat Intelligence|
+| binaryedge.io       | Attack Surface     |
+| ivre.rocks          | Server             |
+| crt.sh              | Certificate Search|
+| vulners.com         | Vulnerabilities    |
+| pulsedive.com       | Threat Intelligence|
 
 ### Website Exploration and "Google Hacking"
 - censys : https://censys.io
