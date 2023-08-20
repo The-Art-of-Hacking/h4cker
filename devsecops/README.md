@@ -9,3 +9,4 @@
 ## Additional Resources
 - [DevSecOps Pipelines](devsecops_pipelines.md)
 - [Securing Code and Applications](securing_code_and_applications.md)
+- [Building DevSecOps Pipelines](building_devsecops_pipelines.md)
