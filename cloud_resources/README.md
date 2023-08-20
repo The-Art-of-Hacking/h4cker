@@ -5,6 +5,7 @@
 * [Penetration Testing in AWS](https://aws.amazon.com/security/penetration-testing)
 * [Penetration Testing in Google Cloud Platform and Cloud Security FAQ](https://support.google.com/cloud/answer/6262505)
 * [Google Cloud Security Center](https://cloud.google.com/security)
+* [High-level Best Practices when Performing Pen Testing in Cloud Environments](high_level_best_practices_pen_testing.md)
 
 ## Additional AWS Pen Testing References
 - [PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/) - Written by Dwight Hohnstein from [Rhino Security Labs](https://rhinosecuritylabs.com/).
