@@ -5,3 +5,7 @@
 - [OpenDevSecOps](https://github.com/opendevsecops)
 - [Rugged DevOps](https://ruggedsoftware.org/)
 - [DevSecCon](https://www.devseccon.com/)
+
+## Additional Resources
+- [DevSecOps Pipelines](devsecops_pipelines.md)
+- 
