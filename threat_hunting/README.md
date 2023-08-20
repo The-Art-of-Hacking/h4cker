@@ -32,7 +32,8 @@
 
 
 ## Videos
-
+- [SANS Cyber Threat Intelligence Summit 2023](https://www.youtube.com/playlist?list=PLfouvuAjspTpvL3nQFAxSq3oQCeCWfn5P)
+- [SANS DFIR Summit 2022](https://www.youtube.com/playlist?list=PLfouvuAjspToNFRwt0ssrvaSMI11RcSgp)
 - [SANS Threat Hunting and IR Summit 2021](https://www.youtube.com/playlist?list=PLfouvuAjspTpxI8P68vblkcLAtJWKuOxu)
 - [SANS Threat Hunting and IR Summit 2020](https://www.youtube.com/playlist?list=PLfouvuAjspTpESwgitHe8roa7XBOnemFa)
 - [SANS Threat Hunting and IR Summit 2019](https://www.youtube.com/playlist?list=PLfouvuAjspToqZfYaOuWlnHCZUcBTRjzq)
