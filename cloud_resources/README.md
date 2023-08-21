@@ -7,14 +7,10 @@
 * [Google Cloud Security Center](https://cloud.google.com/security)
 * [High-level Best Practices when Performing Pen Testing in Cloud Environments](high_level_best_practices_pen_testing.md)
 
-## Additional AWS Pen Testing References
-- [PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/) - Written by Dwight Hohnstein from [Rhino Security Labs](https://rhinosecuritylabs.com/).
-- [AWS PENETRATION TESTING PART 1. S3 BUCKETS](https://www.virtuesecurity.com/blog/aws-penetration-testing-s3-buckets/) - Written by [@VirtueSecurity](https://twitter.com/VirtueSecurity).
-- [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/blog/aws-penetration-testing-part-2-s3-iam-ec2/) - Written by [@VirtueSecurity](https://twitter.com/VirtueSecurity).
-
 ## Vulnerables
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
 - [Damn Vulnerable Cloud Application(DVCA)](https://github.com/m6a-UdS/dvca)
+- [PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/) - Written by Dwight Hohnstein from [Rhino Security Labs](https://rhinosecuritylabs.com/).
 
 ## Additional Tools
 - [Taken - Takeover AWS Ips And Have A Working POC For Subdomain Takeover](http://feedproxy.google.com/~r/PentestTools/~3/bOdrVajU9Ns/taken-takeover-aws-ips-and-have-working.html)
