@@ -9,7 +9,7 @@
 
 ## Community-supported/Open Source Fuzzers
 - [GitLab Protocol Fuzzer Community Edition](https://gitlab.com/gitlab-org/security-products/protocol-fuzzer-ce)
-- [Munity Fuzzer](https://github.com/Cisco-Talos/mutiny-fuzzer)
+- [Mutiny Fuzzer](https://github.com/Cisco-Talos/mutiny-fuzzer)
 - [Sulley](https://github.com/OpenRCE/sulley)
 - [Boofuzz](https://github.com/jtpereyda/boofuzz)
 - [Radamsa](https://github.com/aoh/radamsa)
