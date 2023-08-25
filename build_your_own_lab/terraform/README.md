@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the ever-evolving landscape of cybersecurity, having a controlled environment to test, simulate, and analyze various scenarios is crucial. Cybersecurity labs serve as a sandbox where professionals can safely experiment with network configurations, vulnerability assessments, and incident response strategies. One of the challenges in setting up such labs is the complexity involved in configuring various components to work together seamlessly. This is where Infrastructure as Code (IaC) tools like Terraform come into play.
+One of the challenges in setting up such labs is the complexity involved in configuring various components to work together seamlessly. This is where Infrastructure as Code (IaC) tools like Terraform come into play.
 
 Terraform allows you to define, provision, and manage infrastructure using a simple, human-readable configuration language. This article aims to guide you through the process of using Terraform to build cybersecurity labs, both on-premises and in the cloud.
 
