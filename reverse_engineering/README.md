@@ -54,8 +54,8 @@
 * [xortool](https://github.com/hellman/xortool)
 
 
-## Awesome Reversing
-* https://github.com/fdivrp/awesome-reversing - a plethora of references of tools, practice sites, and other reverse engineering information
+## Getting into Reversing
+* [A repo to help break into the world of RE](https://github.com/ZakiRucker/Reverse-Engineering) - a plethora of references of tools, practice sites, and other reverse engineering information
 
 ## Reverse Engineering Tutorials
 
