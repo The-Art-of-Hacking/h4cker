@@ -1,0 +1,21 @@
+Decision Trees
+Support Vector Machines (SVM)
+Neural Networks   
+Naïve Bayes
+k-Nearest Neighbors (k-NN)
+Gradient Boosting Machines (GBM)
+Random Forests
+DBSCAN
+Gaussian Mixture Models (GMM)
+Principal Component Analysis (PCA)
+Independent Component Analysis (ICA)
+t-SNE
+Latent Dirichlet Allocation (LDA)
+Association Rules (Apriori, FP-Growth)
+Policy Gradients
+Actor-Critic Methods
+Proximal Policy Optimization (PPO)
+Monte Carlo Tree Search (MCTS)
+SARSA
+Temporal Difference Learning (TD Learning)
+Trust Region Policy Optimization (TRPO)
