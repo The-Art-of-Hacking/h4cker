@@ -1,43 +1,31 @@
-t-SNE: Visualizing High-Dimensional Data in 2D Space
+# t-SNE: Dimentionality Reduction Technique
 
-Understanding complex and high-dimensional data is a challenging task in various fields such as machine learning, data visualization, and computational biology. When dealing with datasets containing numerous features, it becomes crucial to find effective ways to analyze and visualize the underlying patterns. Traditional dimensionality reduction techniques such as Principal Component Analysis (PCA) offer valuable insights, but they often fail to capture the intricate relationships between data points. This is where t-SNE (t-Distributed Stochastic Neighbor Embedding) comes into play.
+![t-SNE](https://scikit-learn.org/stable/_static/tsne_example.png)
 
-What is t-SNE?
+t-SNE, which stands for t-Distributed Stochastic Neighbor Embedding, is a machine learning technique used for dimensionality reduction and visualization of high-dimensional data. It was introduced by Laurens van der Maaten and Geoffrey Hinton in 2008.
 
-t-SNE is a powerful nonlinear dimensionality reduction algorithm introduced by Laurens van der Maaten and Geoffrey Hinton in 2008. It aims to preserve the local similarities between data points while creating low-dimensional embeddings suitable for visualization purposes. By transforming the original high-dimensional data into a lower-dimensional representation, t-SNE enables humans to understand complex patterns and structures that would otherwise remain hidden.
+## Why t-SNE?
 
-How does t-SNE work?
+Dealing with high-dimensional data can be challenging as it becomes difficult to interpret and visualize the data effectively. Traditional visualization techniques like scatter plots fail to capture the complexity of high-dimensional data, which is where t-SNE comes to the rescue.
 
-The primary concept behind t-SNE is rooted in probability theory. It considers each high-dimensional data point as a probability distribution centered around a particular location. The algorithm then constructs a similar probability distribution in the low-dimensional space for each data point. The objective is to minimize the Kullback-Leibler divergence between these two distributions, ensuring that the points with high similarities remain close together.
+t-SNE helps in reducing the dimensionality of the data while preserving the local structures and relationships among the data points. It achieves this by constructing a probability distribution over pairs of high-dimensional data points and a similar distribution over pairs of low-dimensional points. It then minimizes the divergence between these two distributions using gradient descent, resulting in a low-dimensional representation of the data that can be easily visualized.
 
-t-SNE calculates the similarity between data points using a Gaussian distribution to create a probability map. It assigns higher probabilities to nearby points and lower probabilities to distant ones. This emphasis on local distances allows t-SNE to better capture the relationships between neighboring data points.
+## How does it work?
 
-Advantages of t-SNE:
+The t-SNE algorithm consists of two main steps:
 
-1. Preserves Local Structures: Unlike linear approaches such as PCA, t-SNE preserves the local structure of the data. It is particularly useful when dealing with datasets containing clusters, where it can accurately identify the inter and intra-cluster relationships.
+### Step 1: Constructing Similarity Measures
+In this step, t-SNE constructs a similarity matrix that reflects the pairwise similarities between data points in the high-dimensional space. It does so using a Gaussian kernel to calculate the conditional probability of similarity between two points. The bandwidth of the kernel determines the scale at which similarities decay with increasing distance.
 
-2. Visualization: t-SNE is primarily used for data visualization due to its ability to project high-dimensional data into a 2D (or 3D) scatter plot. By mapping complex datasets onto a visual space, it allows researchers to explore and interpret patterns effortlessly.
+### Step 2: Dimensionality Reduction
+Once the similarity matrix is constructed, t-SNE aims to find a low-dimensional representation of the data that best preserves the relationships depicted in the similarity matrix. It constructs a similar probability distribution in the low-dimensional space and minimizes the Kullback-Leibler divergence between the high-dimensional and low-dimensional distributions. This optimization is achieved using stochastic gradient descent.
 
-3. Nonlinearity: t-SNE accounts for nonlinear relationships in the data, making it suitable for discovering intricate patterns that linear techniques might miss.
+## Advantages and Limitations
 
-Limitations and Considerations:
+t-SNE has gained popularity due to its ability to effectively visualize high-dimensional data by preserving local structures. It often reveals hidden patterns, clusters, and outliers that might not be apparent in the original data.
 
-1. Computational Cost: t-SNE is computationally expensive compared to PCA and other linear dimensionality reduction techniques. As it works by iteratively optimizing the embeddings, the algorithm might require substantial computational resources and time for large datasets.
+However, it's important to be aware of some limitations of t-SNE. Firstly, t-SNE is non-linear, meaning that the distances in the reduced space may not correspond to the original distances accurately. Secondly, t-SNE can be highly sensitive to the parameters chosen, such as the perplexity, learning rate, and number of iterations. The perplexity determines the balance between preserving local and global structures, and it often requires experimentation to find the optimal value.
 
-2. Random Initialization: t-SNE requires randomly initializing the embeddings, which means that running the algorithm multiple times with the same data can produce different results. To address this, it is recommended to set the random seed for reproducibility.
+## Conclusion
 
-3. Interpretation Challenges: While t-SNE excels in visualizing data, caution must be exercised when interpreting the relative distances between points. The absolute distances between clusters or points on the t-SNE plot do not hold any meaningful interpretation.
-
-Application Areas:
-
-t-SNE has found applications in various domains, including:
-
-1. Machine Learning: t-SNE can be used as a preprocessing step for complex machine learning tasks such as image classification, anomaly detection, or clustering.
-
-2. Computational Biology: It has proven valuable in analyzing high-dimensional biological data, such as gene expression datasets or protein-protein interactions.
-
-3. Natural Language Processing: t-SNE has been applied to visualize word embeddings and document representations, aiding in understanding semantic relationships.
-
-Conclusion:
-
-t-SNE offers an effective means to analyze and visualize high-dimensional data in a low-dimensional space while preserving local relationships. Its ability to reveal hidden structure makes it a valuable tool in diverse fields. However, it is important to understand its limitations and use it in conjunction with other techniques for comprehensive data analysis.
+t-SNE is a powerful technique for visualizing high-dimensional data and uncovering underlying structures. It has become an essential tool in various domains, including image recognition, natural language processing, bioinformatics, and more. By leveraging t-SNE, researchers and data scientists can gain valuable insights into their data, leading to better understanding and decision-making.
