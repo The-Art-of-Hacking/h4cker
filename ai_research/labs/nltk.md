@@ -135,4 +135,4 @@ print(relevant_docs)
 # No code required. Assign a project to students based on what they learned in the lab.
 ```
 
-These code snippets are examples that demonstrate how to perform each task using Python with NLTK and Spacy. They are quite basic and meant to serve as an introduction to various NLP tasks. You might introduce students to more complex techniques and methodologies as they become more comfortable with these basics.
+These code snippets are examples that demonstrate how to perform each task using Python with NLTK and Spacy. They are quite basic and meant to serve as an introduction to NLP tasks. 
