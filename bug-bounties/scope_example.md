@@ -20,9 +20,7 @@ Briefly describe the objectives of your bug bounty program and what you hope to 
 
 ### Out-of-Scope Targets
 
-- Internal Systems (192.168.x.x)
-- Third-party Applications or Plugins
-- Subdomain3.websploit.org
+- app3.websploit.org
 
 ## Vulnerability Types
 
@@ -37,13 +35,6 @@ Briefly describe the objectives of your bug bounty program and what you hope to 
 
 - Denial of Service (DoS) attacks
 - Social Engineering Attacks
-- Physical Attacks
-
-## Testing Methods
-
-- Automated Scanning (Specify permitted tools)
-- Manual Code Review
-- Penetration Testing (Specify guidelines)
 
 ## Reward Structure
 
