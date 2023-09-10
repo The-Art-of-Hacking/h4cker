@@ -1,4 +1,4 @@
-# Bug Bounty Program Scope
+# Omar's Bug Bounty Program Scope Template
 
 ## Introduction
 
