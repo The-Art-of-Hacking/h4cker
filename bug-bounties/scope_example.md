@@ -9,20 +9,20 @@ Briefly describe the objectives of your bug bounty program and what you hope to 
 ### In-Scope Targets
 
 - **Web Applications**
-  - app1.example.com
-  - app2.example.com
+  - app1.websploit.org
+  - app2.websploit.org
 - **Mobile Applications**
   - Android App (version x.x and above)
   - iOS App (version x.x and above)
 - **APIs**
-  - api.example.com/v1/
-  - api.example.com/v2/
+  - api.websploit.org/v1/
+  - api.websploit.org/v2/
 
 ### Out-of-Scope Targets
 
 - Internal Systems (192.168.x.x)
 - Third-party Applications or Plugins
-- Subdomain3.example.com
+- Subdomain3.websploit.org
 
 ## Vulnerability Types
 
