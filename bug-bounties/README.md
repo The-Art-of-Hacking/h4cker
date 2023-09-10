@@ -14,13 +14,9 @@
 - [Awesome Bug Bounty Writeups](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 
 ## Bug Bounty Platforms
-- [AntiHACK](https://www.antihack.me/)
-- [Bounty Factory](https://bountyfactory.io/)
-- [Bountysource](https://www.bountysource.com/)
-- [BugbountyHQ](https://www.bugbountyhq.com/)
 - [Bugbountyjp](https://bugbounty.jp/)
 - [Bugcrowd](https://bugcrowd.com/)
-- [CESPPA](https://www.cesppa.com/)
+- [Inspectiv](https://www.inspectiv.com)
 - [Cobalt](https://cobalt.io/)
 - [Coder Bounty](http://www.coderbounty.com/)
 - [Detectify](https://cs.detectify.com/)
