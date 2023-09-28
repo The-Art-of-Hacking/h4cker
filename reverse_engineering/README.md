@@ -54,8 +54,8 @@
 * [xortool](https://github.com/hellman/xortool)
 
 
-## Awesome Reversing
-* https://github.com/fdivrp/awesome-reversing - a plethora of references of tools, practice sites, and other reverse engineering information
+## Getting into Reversing
+* [A repo to help break into the world of RE](https://github.com/ZakiRucker/Reverse-Engineering) - a plethora of references of tools, practice sites, and other reverse engineering information
 
 ## Reverse Engineering Tutorials
 
@@ -64,8 +64,8 @@
 * [Binary Auditing Course](http://www.binary-auditing.com/)
 * [Corelan Training](https://www.corelan-training.com/)
 * [Dr. Fu's Malware Analysis](http://fumalwareanalysis.blogspot.sg/p/malware-analysis-tutorials-reverse.html)
-* [Legend of Random](https://tuts4you.com/download.php?list.97)
-* [Lenas Reversing for Newbies](https://tuts4you.com/download.php?list.17)
+* [Legend of Random](https://legend.octopuslabs.io/sample-page.html)
+* [Lenas Reversing for Newbies](https://tuts4you.com/)
 * [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [Offensive and Defensive Android Reversing](https://github.com/rednaga/training/raw/master/DEFCON23/O%26D%20-%20Android%20Reverse%20Engineering.pdf)
 * [Offensive Security](https://www.offensive-security.com/information-security-training/)

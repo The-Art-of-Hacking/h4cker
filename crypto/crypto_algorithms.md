@@ -1,252 +1,102 @@
 # Cryptographic Algorithms
+Let's go over the most common encryption and hashing algorithms, and compare them.
+
+## Hashing Algorithms
+The folloing table that compares some of the most well-known hashing algorithms, along with an indication of whether they are considered to be post-quantum resistant.
+
+| Algorithm Name | Output Size (bits) | Cryptographic | Post-Quantum Ready |
+|----------------|--------------------|---------------|-------------------|
+| MD5            | 128                | Yes           | No                |
+| SHA-1          | 160                | Yes           | No                |
+| SHA-256        | 256                | Yes           | No                |
+| SHA-3          | 224, 256, 384, 512 | Yes           | Yes (believed to) |
+| BLAKE2         | 256, 512           | Yes           | Yes (believed to) |
 
 
-<table>
-<tbody>
-<tr>
-<th scope="col">Algorithm</th>
-<th scope="col">Operation</th>
-<th scope="col">Status</th>
-<th scope="col">Alternative</th>
-<th scope="col">QCR</th>
-</tr>
-<tr>
-<td>DES</td>
-<td>Encryption</td>
-<td>Avoid</td>
-<td>AES</td>
-<td>&mdash;</td>
-</tr>
-<tr>
-<td>3DES</td>
-<td>Encryption</td>
-<td>Legacy</td>
-<td>AES</td>
-<td>&mdash;</td>
-</tr>
-<tr>
-<td>RC4</td>
-<td>Encryption</td>
-<td>Avoid</td>
-<td>AES</td>
-<td>&mdash;</td>
-</tr>
-<tr>
-<td>
-<p>AES-CBC mode</p>
-<p>AES-GCM mode</p>
-</td>
-<td>
-<p>Encryption</p>
-<p>Authenticated encryption</p>
-</td>
-<td>
-<p>Acceptable</p>
-<p>NGE</p>
-</td>
-<td>
-<p>AES-GCM</p>
-<p>&mdash;</p>
-</td>
-<td>
-<p>✓ (256-bit)</p>
-<p>✓ (256-bit)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>DH-768, -1024</p>
-<p>RSA-768, -1024</p>
-DSA-768, -1024</td>
-<td>
-<p>Key exchange</p>
-<p>Encryption</p>
-<p>Authentication</p>
-</td>
-<td>
-<p>Avoid</p>
-</td>
-<td>
-<p>DH-3072 (Group 15)</p>
-<p>RSA-3072</p>
-DSA-3072</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>DH-2048</p>
-<p>RSA-2048</p>
-DSA-2048</td>
-<td>
-<p>Key exchange</p>
-<p>Encryption</p>
-<p>Authentication</p>
-</td>
-<td>
-<p>Acceptable</p>
-</td>
-<td>
-<p>ECDH-256</p>
-<p>&mdash;</p>
-ECDSA-256</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>DH-3072</p>
-<p>RSA-3072</p>
-<p>DSA-3072</p>
-</td>
-<td>
-<p>Key exchange</p>
-<p>Encryption</p>
-<p>Authentication</p>
-</td>
-<td>Acceptable</td>
-<td>
-<p>ECDH-256</p>
-<p>&mdash;</p>
-ECDSA-256</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
-</tr>
-<tr>
-<td>MD5</td>
-<td>Integrity</td>
-<td>Avoid</td>
-<td>SHA-256</td>
-<td>&mdash;</td>
-</tr>
-<tr>
-<td>
-<p>SHA-1</p>
-</td>
-<td>
-<p>Integrity</p>
-</td>
-<td>
-<p>Legacy</p>
-</td>
-<td>
-<p>SHA-256</p>
-</td>
-<td>&mdash;</td>
-</tr>
-<tr>
-<td>
-<p>SHA-256</p>
-<p>SHA-384</p>
-<p>SHA-512</p>
-</td>
-<td>
-<p>Integrity</p>
-</td>
-<td>
-<p>NGE</p>
-</td>
-<td>
-<p>SHA-384</p>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
-<td>
-<p>&mdash;</p>
-<p>✓</p>
-<p>✓</p>
-</td>
-</tr>
-<tr>
-<td>HMAC-MD5</td>
-<td>Integrity</td>
-<td>Legacy</td>
-<td>HMAC-SHA-256</td>
-<td>&mdash;</td>
-</tr>
-<tr>
-<td>HMAC-SHA-1</td>
-<td>Integrity</td>
-<td>Acceptable</td>
-<td>HMAC-SHA-256</td>
-<td>&mdash;</td>
-</tr>
-<tr>
-<td>HMAC-SHA-256</td>
-<td>Integrity</td>
-<td>NGE</td>
-<td>&mdash;</td>
-<td>✓</td>
-</tr>
-<tr>
-<td>
-<p>ECDH-256</p>
-ECDSA-256</td>
-<td>
-<p>Key exchange</p>
-<p>Authentication</p>
-</td>
-<td>
-<p>Acceptable</p>
-</td>
-<td>
-<p>ECDH-384</p>
-ECDSA-384</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>ECDH-384</p>
-ECDSA-384</td>
-<td>
-<p>Key exchange</p>
-<p>Authentication</p>
-</td>
-<td>
-<p>NGE</p>
-</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
-<td>
-<p>&mdash;</p>
-<p>&mdash;</p>
-</td>
-</tr>
-<tr>
-<td colspan="5"><a name="ftn1"></a>
-<p>1. QCR = quantum computer resistant.</p>
-<a name="ftn2"></a>
-<p>2. NGE = next generation encryption.</p>
-</td>
-</tr>
-</tbody>
-</table>
+
+1. **MD5**: An older cryptographic hash function that produces a 128-bit hash value. It is no longer considered secure against well-funded attackers.
+2. **SHA-1**: A cryptographic hash function that produces a 160-bit hash value. It is no longer considered secure against well-funded attackers.
+3. **SHA-256**: A member of the SHA-2 family, it produces a 256-bit hash value and is currently considered secure.
+4. **SHA-3**: The latest member of the Secure Hash Algorithm family, it allows for variable output sizes and is believed to be secure against quantum attacks.
+5. **BLAKE2**: A cryptographic hash function that is faster than MD5, SHA-1, and SHA-256, and is believed to be secure against quantum attacks.
+
+The "Post-Quantum Ready" column is based on current beliefs and knowledge, and the landscape of cryptography is always evolving, especially with the advent of quantum computing. It is recommended to stay updated with the latest research and guidelines from organizations like the [National Institute of Standards and Technology (NIST) for the most accurate information](https://csrc.nist.gov/projects/post-quantum-cryptography).
 
 
-- Avoid: Algorithms that are marked as Avoid do not provide adequate security against modern threats and should not be used to protect sensitive information. It is recommended that these algorithms be replaced with stronger algorithms.
+### HMAC (Hash-Based Message Authentication Code) Implementations and Post-Quantum Readiness
 
-- Legacy: Legacy algorithms provide a marginal but acceptable security level. They should be used only when no better alternatives are available, such as when interoperating with legacy equipment. It is recommended that these legacy algorithms be phased out and replaced with stronger algorithms.
+| HMAC Implementation | Description                                                                                      | Post-Quantum Ready (PQR)  |
+|---------------------|--------------------------------------------------------------------------------------------------|---------------------------|
+| HMAC-MD5            | Uses the MD5 hash function. It is not recommended for further use as MD5 is considered broken.  | No                        |
+| HMAC-SHA1           | Utilizes the SHA-1 hash function. Considered weak due to vulnerabilities in SHA-1.              | No                        |
+| HMAC-SHA256         | Based on the SHA-256 function, part of the SHA-2 family. Currently considered secure.            | Possibly                  |
+| HMAC-SHA3           | Uses the SHA-3 hash function, which is currently considered secure and resistant to quantum attacks. | Yes (believed to be)      |
+| HMAC-BLAKE2         | Implemented with the BLAKE2 hash function, believed to be secure and potentially resistant to quantum attacks. | Yes (believed to be)      |
 
-- Acceptable: Acceptable algorithms provide adequate security.
 
-- Next generation encryption (NGE): NGE algorithms are expected to meet the security and scalability requirements of the next two decades. For more information, see Next Generation Encryption.
+## Encryption Algorithms
 
-- Quantum computer resistant (QCR): There's a lot of research around quantum computers (QCs) and their potential impact on current cryptography standards. Although practical QCs would pose a threat to crypto standards for public-key infrastructure (PKI) key exchange and encryption, no one has demonstrated a practical quantum computer yet. It is an area of active research and growing interest. Although it is possible, it can't be said with certainty whether practical QCs will be built in the future. An algorithm that would be secure even after a QC is built is said to have postquantum security or be quantum computer resistant (QCR). AES-256, SHA-384, and SHA-512 are believed to have postquantum security. There are public key algorithms that are believed to have postquantum security too, but there are no standards for their use in Internet protocols yet.
+
+| Algorithm Name                | Key Size (bits) | Type        | Post-Quantum Ready |
+|-------------------------------|-----------------|-------------|-------------------|
+| AES-128                       | 128             | Symmetric   | No                |
+| AES-256                       | 256             | Symmetric   | No                |
+| RSA                           | 1024, 2048, 3072, 4096 | Asymmetric | No            |
+| ECC                           | 224, 256, 384, 521 | Asymmetric | No                |
+| Lattice-Based Cryptography    | Variable        | Asymmetric  | Yes               |
+| Hash-Based Cryptography       | Variable        | Asymmetric  | Yes               |
+| Code-Based Cryptography       | Variable        | Asymmetric  | Yes               |
+
+
+
+1. **AES-128 / AES-256**: Advanced Encryption Standard, a symmetric encryption algorithm with key sizes of 128 and 256 bits respectively. Not considered post-quantum secure.
+   
+2. **RSA**: An asymmetric encryption algorithm that uses a pair of keys (public and private). The security is based on the difficulty of factoring large composite numbers. Not considered post-quantum secure.
+
+3. **ECC (Elliptic Curve Cryptography)**: An asymmetric encryption algorithm that uses elliptic curves over finite fields. Not considered post-quantum secure.
+   
+4. **Lattice-Based Cryptography**: A type of asymmetric encryption that is considered to be post-quantum secure. It is based on the hardness of certain problems in lattice theory.
+   
+5. **Hash-Based Cryptography**: A type of asymmetric encryption that is considered to be post-quantum secure. It utilizes cryptographic hash functions.
+
+6. **Code-Based Cryptography**: A type of asymmetric encryption that is considered to be post-quantum secure. It is based on the hardness of decoding linear codes.
+
+
+
+### Cryptographic Algorithms Explanation
+
+| Cryptographic Algorithm       | Description                                                                                                                                                        | Examples                     | Post-Quantum Ready |
+|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------------|
+| **Lattice-Based Cryptography**| These algorithms rely on the hardness of lattice problems, including the Shortest Vector Problem (SVP) and Learning With Errors (LWE). They are believed to offer resistance against quantum attacks due to the mathematical problems they are based on, which have not yet been solved efficiently using quantum algorithms. | NTRU, Kyber, Saber | Yes               |
+| **Hash-Based Cryptography**   | These algorithms use cryptographic hash functions as a fundamental building block. They are considered to be secure against quantum attacks as they rely on the hardness of preimage and collision resistance properties of hash functions.                                     | SPHINCS, LMS        | Yes               |
+| **Code-Based Cryptography**   | These algorithms are based on the theory of error-correcting codes. They rely on the difficulty of decoding a general linear code, which is considered to be a hard problem even for quantum computers.                                                        | McEliece, Niederreiter   | Yes               |
+
+
+### AES Modes and Post-Quantum Readiness
+
+| AES Mode        | Description                                                              | Post-Quantum Ready |
+|-----------------|--------------------------------------------------------------------------|--------------------|
+| AES-CBC         | Cipher Block Chaining mode, where each block is XORed with the previous ciphertext block before being encrypted. | No                 |
+| AES-GCM         | Galois/Counter Mode, an authenticated encryption with associated data (AEAD) scheme. It combines the counter mode of encryption with the Galois mode of authentication. | ?                 |
+| AES-CCM         | Counter with CBC-MAC, another authenticated encryption scheme combining counter mode encryption with a CBC-MAC based authentication. | No                 |
+| AES-CTR         | Counter Mode, where plaintext blocks are XORed with an encrypted counter value. The counter is incremented for each subsequent block. | No                 |
+| AES-OFB         | Output Feedback Mode, turns a block cipher into a synchronous stream cipher. It generates keystream blocks, which are then XORed with the plaintext blocks to get the ciphertext. | No                 |
+| AES-CFB         | Cipher Feedback Mode, turns a block cipher into a self-synchronizing stream cipher. Operation is very similar to CBC mode, but CFB mode operates on smaller units (bits or bytes instead of blocks). | No                 |
+| AES-XTS         | XEX-based Tweaked CodeBook mode with ciphertext Stealing, mainly used for disk encryption. | No                 |
+| AES-KW          | Key Wrap, used for wrapping keys with AES encryption. | No                 |
+
+
+### AES Key Lengths and Post-Quantum Readiness
+
+| AES Variant | Key Length (bits) | Post-Quantum Ready (PQR) |
+|-------------|-------------------|--------------------------|
+| AES-128     | 128               | Possibly (with increased key size) |
+| AES-192     | 192               | Possibly (with increased key size) |
+| AES-256     | 256               | Possibly (with increased key size) |
+
+
 
 ## Additional References
+Again, I must emphasize that the field of post-quantum cryptography is evolving, and it is recommended to stay updated with the latest research and guidelines from NIST.
 - NIST Post-Quantum Cryptography Project: https://csrc.nist.gov/projects/post-quantum-cryptography
 - Post Quantum Cryptography (Wikipedia): https://en.wikipedia.org/wiki/Post-quantum_cryptography

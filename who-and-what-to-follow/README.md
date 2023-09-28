@@ -4,6 +4,7 @@
 (sorted alphabetically)
 
 - [Ars Technica ](https://arstechnica.com)
+- [Becoming a Hacker](https://becomingahacker.org)
 - [Bruce Schneier's Blog](https://www.schneier.com)
 - [CIO](https://www.cio.com/category/security)
 - [Cisco Security Blog](https://blogs.cisco.com/security)
@@ -101,6 +102,7 @@
 - [DarkNet Diaries](https://darknetdiaries.com/)
 - [Security Weekly](https://securityweekly.com/)
 - [Risky Business](https://risky.biz/netcasts/risky-business/)
+- [Firewalls Don’t Stop Dragons](https://firewallsdontstopdragons.com/podcast/)
 - [The Unsupervised Learning Podcast](https://danielmiessler.com/podcast/#gs.=RDc3aY)
 - [Down the Security Rabbithole](http://podcast.wh1t3rabbit.net/)
 - [Smashing Security](https://www.smashingsecurity.com/)

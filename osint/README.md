@@ -4,6 +4,7 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 
 ## Passive Recon Tools:
 - [AMass](https://github.com/OWASP/Amass)
+- [Deepinfo (commercial tool)](https://deepinfo.com)
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [ExtractMetadata](http://www.extractmetadata.com)
 - [Findsubdomains](https://findsubdomains.com/)
@@ -23,10 +24,35 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 
 
 ## Open Source Threat Intelligence
-
-- [GOSINT](https://github.com/ciscocsirt/gosint) - a project used for collecting, processing, and exporting high quality indicators of compromise (IOCs). GOSINT allows a security analyst to collect and standardize structured and unstructured threat intelligence.
 - [Awesome Threat Intelligence](https://github.com/santosomar/awesome-threat-intelligence) - A curated list of awesome Threat Intelligence resources. This is a great resource and I try to contribute to it.
 
+## OSINT Source Highlights
+| Website             | Description        |
+|---------------------|--------------------|
+| shodan.io           | Server             |
+| google.com          | Dorks              |
+| wigle.net           | WiFi Networks      |
+| grep.app            | Codes Search       |
+| app.binaryedge      | Threat Intelligence|
+| onyphe.io           | Server             |
+| viz.greynoise.io    | Threat Intelligence|
+| censys.io           | Server             |
+| hunter.io           | Email Addresses    |
+| fofa.info           | Threat Intelligence|
+| zoomeye.org         | Threat Intelligence|
+| leakix.net          | Threat Intelligence|
+| intelx.io           | OSINT              |
+| app.netlas.io       | Attack Surface     |
+| searchcode.com      | Codes Search       |
+| urlscan.io          | Threat Intelligence|
+| publicwww.com       | Codes Search       |
+| fullhunt.io         | Attack Surface     |
+| socradar.io         | Threat Intelligence|
+| binaryedge.io       | Attack Surface     |
+| ivre.rocks          | Server             |
+| crt.sh              | Certificate Search|
+| vulners.com         | Vulnerabilities    |
+| pulsedive.com       | Threat Intelligence|
 
 ### Website Exploration and "Google Hacking"
 - censys : https://censys.io
@@ -64,9 +90,11 @@ Open-source intelligence (OSINT) is data collected from open source and publicly
 - [Umbrella (OpenDNS) Popularity List](http://s3-us-west-1.amazonaws.com/umbrella-static/index.html) 
 
 ### Social Media
-* A tool to scrape LinkedIn: https://github.com/dchrastil/TTSL
-* cree.py	http://ilektrojohn.github.com/creepy
+* [A tool to scrape LinkedIn](https://github.com/dchrastil/TTSL)
+* [cree.py](https://github.com/ilektrojohn/creepy)
 
+### Acquisitions and 
+- [OCCRP Aleph](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
 ### Whois
 WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritative registry for all of the TLDs and is a great starting point for all manual WHOIS queries.
 
@@ -84,11 +112,11 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 - BPG6: http://lg.he.net/
 
 ### DNS
-- dnsenum -	http://code.google.com/p/dnsenum
-- dnsmap: http://code.google.com/p/dnsmap
-- dnsrecon: http://www.darkoperator.com/tools-and-scripts
-- dnstracer: http://www.mavetju.org/unix/dnstracer.php
-- dnswalk: http://sourceforge.net/projects/dnswalk
+- dnsenum -	https://code.google.com/p/dnsenum
+- dnsmap: https://code.google.com/p/dnsmap
+- dnsrecon: https://www.darkoperator.com/tools-and-scripts
+- dnstracer: https://www.mavetju.org/unix/dnstracer.php
+- dnswalk: https://sourceforge.net/projects/dnswalk
 
 ## The OSINT Framework
 - [OSINT Framework](https://osintframework.com)
