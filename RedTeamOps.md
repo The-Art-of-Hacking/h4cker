@@ -1,7 +1,4 @@
-# Awesome-Red-Team-Operation
-
-
-# PenTest and Red Teams Tools by Joas and S3cur3Th1sSh1t
+# Red-Team-Operation Resources
 
 ## Powershell Scripts
 
