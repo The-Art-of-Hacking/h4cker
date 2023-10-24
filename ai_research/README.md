@@ -26,7 +26,7 @@ This is (by far) the best collection of colab notebooks I have found. A bit over
 - [AI Ethics and Privacy Resources](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/ethics_privacy)
 
 ## AWESOME Lists
-- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - a huge collection of resources related to Gen AI and LLMs
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - A Chinese collection of prompt examples to be used with the ChatGPT model.
 - [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
