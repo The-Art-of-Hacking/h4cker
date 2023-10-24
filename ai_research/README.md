@@ -3,7 +3,9 @@
 ## Langchain Resources
 - [Tools, Learning, Notebooks, Bots, Agent examples, etc.](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai_research/LangChain/README.md)
 
-
+## LLM Frameworks
+- [Popular LLM Frameworks](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/LLM-frameworks)
+  
 ## AI Security Best Practices and Tools
 - [High-Level AI Security Best Practices](<AI Security Best Practices/AI-security-tools-and-frameworks.md>)
 - [Homomorphic-Encryption](<AI Security Best Practices/homomorphic-encryption.md>)
