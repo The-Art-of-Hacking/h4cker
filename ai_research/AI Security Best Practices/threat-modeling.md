@@ -1,6 +1,11 @@
 # Tools for Threat Modeling AI Systems
 There are several tools and methodologies that you can use to conduct threat modeling for AI systems.
 
+## AI Village Threat Modeling Research
+- [Threat Modeling LLM Applications by Gavin Klondike](https://aivillage.org/large%20language%20models/threat-modeling-llm)
+
+## Traditional Tools
+
 | Tool / Methodology | Description | Link |
 | --- | --- | --- |
 | Microsoft's STRIDE Model | A model for identifying computer security threats. Useful for categorizing and remembering different types of threats. | [Microsoft STRIDE](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats) |
