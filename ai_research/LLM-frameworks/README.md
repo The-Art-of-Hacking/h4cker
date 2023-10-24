@@ -1,0 +1,55 @@
+# LLM Frameworks
+
+The following is a collection of different LLM frameworks in alphabetical order:
+
+- [Agent-LLM](https://github.com/Josh-XT/Agent-LLM): An Artificial Intelligence Automation Platform. 
+- [AgentFlow](https://github.com/simonmesmith/agentflow): About Complex LLM Workflows from Simple JSON. 
+- [AgentVerse](https://github.com/openbmb/agentverse) Provides a flexible framework that simplifies the process of building custom multi-agent environments for LLMs 
+- [AI Utils](https://github.com/lgrammel/ai-utils.js): TypeScript-first library for building AI apps, chatbots, and agents. 
+- [AI.JSX](https://github.com/fixie-ai/ai-jsx): The AI Application Framework for Javascript 
+- [Autochain](https://github.com/Forethought-Technologies/AutoChain): Build lightweight, extensible, and testable LLM Agents with AutoChain. 
+- [Autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications.
+- [Ax](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript 
+- [Botpress](https://github.com/botpress/botpress): The building blocks for building chatbots 
+- [Dust](https://github.com/dust-tt/dust): Design and Deploy Large Language Model Apps 
+- [e2b](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+- [Embedbase](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. 
+- [FlagAI](https://github.com/FlagAI-Open/FlagAI): FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model. 
+- [Flappy](https://github.com/pleisto/flappy): Production-Ready LLM Agent SDK for Every Developer 
+- [Griptape](https://github.com/griptape-ai/griptape): Python framework for AI workflows and pipelines with chain of thought reasoning, external tools, and memory. 
+- [Haystack](https://github.com/deepset-ai/haystack): NLP framework to interact with your data using Transformer models and LLMs 
+- [Hyv](https://github.com/failfa-st/hyv): Probably the easiest way to use any AI Model in Node.js and create complex interactions with ease. 
+- [Lagent](https://github.com/InternLM/lagent): A lightweight framework for building LLM-based agents 
+- [LangStream](https://github.com/LangStream/langstream): Framework for building and running event-driven LLM applications using no-code and Python (including LangChain-based) agents. 
+- [LlamaIndex](https://github.com/jerryjliu/llama_index): provides a central interface to connect your LLM's with external data. 
+- [LLFn](https://github.com/orgexyz/LLFn): A light-weight framework for creating applications using LLMs 
+- [LLM Agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs 
+- [llm-chain](https://github.com/sobelio/llm-chain): is a powerful rust crate for building chains in LLMs allowing you to summarise text and complete complex tasks. 
+- [LLMFlow](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps 
+- [LLMStack](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. 
+- [LMQL](https://github.com/eth-sri/lmql): A programming language for large language models. 
+- [Magentic](https://github.com/jackmpcollins/magentic): Seamlessly integrate LLMs as Python functions 
+- [Marvin](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy 
+- [MemGPT](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context 
+- [MetaGPT](https://github.com/geekan/MetaGPT): The Multi-Agent Meta Programming Framework: Given one line Requirement, return PRD, Design, Tasks, Repo and CI 
+- [MiniChain](https://github.com/srush/MiniChain): A tiny library for coding with large language models. 
+- [OpenDAN](https://github.com/fiatrete/OpenDAN-Personal-AI-OS): open source Personal AI OS , which consolidates various AI modules in one place for your personal use. 
+- [OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease using OpenLLM. 
+- [OpenLM](https://github.com/r2d4/openlm): a drop-in OpenAI-compatible library that can call LLMs from any other hosted inference API. Also [Typescript](https://github.com/r2d4/llm.ts) 
+- [Outlines](https://github.com/normal-computing/outlines): Fast and reliable neural text generation. 
+- [Outlines](https://github.com/normal-computing/outlines): Generative Model Programming (Python) 
+- [PromptFlow](https://github.com/InsuranceToolkits/promptflow): Create executable flowcharts that link LLMs (Large Language Models), Prompts, Python functions, and conditional logic together. 
+- [Promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality. 
+- [Promptify](https://github.com/promptslab/Promptify): Prompt Engineering | Use GPT or other prompt based models to get structured output. 
+- [PromptSource](https://github.com/bigscience-workshop/promptsource): About Toolkit for creating, sharing and using natural language prompts. 
+- [ReLLM](https://github.com/r2d4/rellm): Regular Expressions for Language Model Completions. 
+- [RestGPT](https://github.com/Yifan-Song793/RestGPT): An LLM-based autonomous agent controlling real-world applications via RESTful APIs 
+- [Rivet](https://github.com/Ironclad/rivet): An IDE for creating complex AI agents and prompt chaining, and embedding it in your application. 
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel): Microsoft C# SDK to integrate cutting-edge LLM technology quickly and easily into your apps 
+- [SimpleAIChat](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. 
+- [SmartGPT](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. 
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. 
+- [TermGPT](https://github.com/Sentdex/TermGPT): Giving LLMs like GPT-4 the ability to plan and execute terminal commands 
+- [TextAI](https://github.com/neuml/txtai): 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows. 
+- [Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents): Provides a natural language API on top of transformers
+- [TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types. 
