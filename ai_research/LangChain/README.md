@@ -1,4 +1,4 @@
-# Langhain Resources
+# Langchain Resources
 This section includes several resources and examples of using LangChain.
 
 ## Langchain Smith and Cookbook
