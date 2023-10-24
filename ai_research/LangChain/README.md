@@ -4,7 +4,7 @@ This section includes several resources and examples of using LangChain.
 ## Langchain Smith and Cookbook
 - [Langchain Smith](https://smith.langchain.com/hub?organizationId=1efeb0d9-eab7-54d7-bfd6-22070d7756de):  a unified developer platform for building, testing, and monitoring LLM applications.
 - [Chat Langchain](https://chat.langchain.com/): Ask me anything about LangChain's Python documentation!
-- [Langchain Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook)
+- [Langchain Cookbook](https://github.com/langchain-ai/langchain/tree/master/cookbook): The cookbook examples, etc.
 
 ## LangChain Framework
 
