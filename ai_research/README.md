@@ -25,45 +25,24 @@ This is (by far) the best collection of colab notebooks I have found. A bit over
 ## AI Ethics and Privacy Resources
 - [AI Ethics and Privacy Resources](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/ethics_privacy)
 
-## Tools & Methods for Data Collection, Cleaning, and Analysis:
-
-- **Data Collection**:
-  - APIs and SDKs
-  - Wireless transmission
-
-### Data Cleaning:
-
-3. **Pandas**:
-   - **Example**: Cleaning a dataset with missing values using Pandas before training a machine learning model.
-   - **Relevant Link**: [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
-   - **Usage in HAR and AI**: Pandas can be used to structure and clean sensor data, making it suitable for training AI models capable of recognizing complex patterns in human activity data.
-
-4. **Sci-kit learn**:
-   - **Example**: Using Sci-kit learn for feature selection and removing irrelevant features from a dataset.
-   - **Relevant Link**: [Sci-kit learn Documentation](https://scikit-learn.org/stable/)
-   - **Usage in HAR and AI**: Sci-kit learn offers various tools for data preprocessing, which is a vital step in preparing data for AI algorithms, enhancing the performance of the models in HAR applications.
-
-### Data Analysis:
-
-5. **TensorFlow**:
-   - **Example**: Developing a deep learning model using TensorFlow to classify different activities based on sensor data.
-   - **Relevant Link**: [TensorFlow Documentation](https://www.tensorflow.org/learn)
-   - **Usage in HAR and AI**: TensorFlow provides a comprehensive platform for developing and training AI models capable of analyzing and recognizing patterns in human activity data.
-
-6. **Keras**:
-   - **Example**: Using Keras to create a convolutional neural network (CNN) for image recognition, an essential task in AI.
-   - **Relevant Link**: [Keras Documentation](https://keras.io/getting_started/intro_to_keras_for_engineers/)
-   - **Usage in HAR and AI**: Keras simplifies the process of building and optimizing neural networks, a crucial component in AI, to analyze human activity data more effectively and make predictions.
-
-### Visualization and Further Analysis:
-
-7. **Matplotlib**:
-   - **Example**: Using Matplotlib to visualize the distribution of different activities within a dataset.
-   - **Relevant Link**: [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
-   - **Usage in HAR and AI**: Visualization of data is essential in AI to understand underlying patterns and trends in data, aiding in the better development and tuning of models for HAR.
-
-8. **Seaborn**:
-   - **Example**: Creating a heatmap using Seaborn to visualize the correlation between different features in a dataset.
-   - **Relevant Link**: [Seaborn Documentation](https://seaborn.pydata.org/)
-   - **Usage in HAR and AI**: Seaborn can enhance data visualization in AI, assisting in identifying relationships and patterns in data which can influence the development and performance of HAR models.
-
+## AWESOME Lists
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - A Chinese collection of prompt examples to be used with the ChatGPT model.
+- [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
+- [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) -  A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models.
+- [Instruction-Tuning-Papers](https://github.com/SinclairCoder/Instruction-Tuning-Papers) - A trend starts from `Natrural-Instruction` (ACL 2022), `FLAN` (ICLR 2022) and `T0` (ICLR 2022).
+- [LLM Reading List](https://github.com/crazyofapple/Reading_groups/) - A paper & resource list of large language models.
+- [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) - Collection of papers and resources on Reasoning using Language Models.
+- [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) - Measuring LLMs' Reasoning Performance
+- [Awesome GPT](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
+- [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
+- [Awesome LLM Human Preference Datasets](https://github.com/PolisAI/awesome-llm-human-preference-datasets) - a collection of human preference datasets for LLM instruction tuning, RLHF and evaluation.
+- [RWKV-howto](https://github.com/Hannibal046/RWKV-howto) - possibly useful materials and tutorial for learning RWKV.
+- [ModelEditingPapers](https://github.com/zjunlp/ModelEditingPapers) - A paper & resource list on model editing for large language models.
+- [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
+- [Awesome-Align-LLM-Human](https://github.com/GaryYufei/AlignLLMHumanSurvey) - A collection of papers and resources about aligning large language models (LLMs) with human.
+- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - An awesome and curated list of best code-LLM for research.
+- [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
+- [Awesome-LLM-Systems](https://github.com/AmberLJC/LLMSys-PaperList) - Awesome LLM systems research papers.
+- [awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) - A collection of open source, actively maintained web apps for LLM applications.
