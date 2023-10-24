@@ -5,6 +5,9 @@
 
 ## LLM Frameworks
 - [Popular LLM Frameworks](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/LLM-frameworks)
+
+## Collection of Jupyter Notebooks
+This is (by far) the best collection of colab notebooks I have found. A bit overwhelming and I wish I had time to go through most of them… Tons of links to papers, videos, etc.: https://github.com/amrzv/awesome-colab-notebooks
   
 ## AI Security Best Practices and Tools
 - [High-Level AI Security Best Practices](<AI Security Best Practices/AI-security-tools-and-frameworks.md>)
