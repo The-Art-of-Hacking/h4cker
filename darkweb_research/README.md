@@ -17,11 +17,27 @@ Initiating the Tor browser doesn't automatically direct you to any specific onio
 One final piece of advice before exploring the dark web: exercise caution with your clicks while navigating the deep web. Merely reading the descriptions of some sites can be disconcerting. It's best to browse with a clear objective and resist the temptation of idle curiosity.
 
 ## Tools and Technologies for Dark Web Research:
-1. Tor Browser: The primary gateway to the dark web, offering anonymity and access to .onion sites.
+1. [Tor Browser](https://www.torproject.org/): The primary gateway to the dark web, offering anonymity and access to .onion sites.
 2. VPNs: Virtual Private Networks add an extra layer of encryption and mask your IP address.
-3. TAILS: A live operating system that you can boot from a USB stick or DVD for enhanced privacy.
+3. [Tails](https://tails.boum.org/) or any other privacy oriented ditribution: A live operating system that you can boot from a USB stick or DVD for enhanced privacy.
 4. Virtual Machines: Isolate your research activities from your main operating system to prevent malware infections.
 5. Encrypted Communication: Tools like PGP (Pretty Good Privacy) for secure messaging.
+
+## Privacy Oriented Distributions
+
+- [Tails](https://tails.boum.org/)
+- [Whonix](https://www.whonix.org/)
+- [Qubes OS](https://www.qubes-os.org/)
+- [Ubuntu Privacy Remix](http://www.privacyremix.org/)
+- [Subgraph OS](https://subgraph.com/sgos/)
+
+| Feature               | Tails                                      | Whonix                                     | Qubes OS                                      | Ubuntu Privacy Remix                         | Subgraph OS                                   |
+|-----------------------|--------------------------------------------|--------------------------------------------|-----------------------------------------------|----------------------------------------------|-----------------------------------------------|
+| Website               | [Tails](https://tails.boum.org/)           | [Whonix](https://www.whonix.org/)           | [Qubes OS](https://www.qubes-os.org/)         | [Ubuntu Privacy Remix](http://www.privacyremix.org/) | [Subgraph OS](https://subgraph.com/sgos/)      |
+| Base Distribution     | Debian                                     | Debian                                     | Fedora                                       | Ubuntu                                       | Debian                                        |
+| Primary Focus         | Anonymity and leaving no trace             | Anonymity and isolation                    | Security through compartmentalization         | Data protection and privacy                  | Security and privacy with user-friendly design |
+| Persistence Option    | Yes, with encrypted persistent storage     | Yes, via Virtual Machines                  | Yes, through separate qubes and templates     | No                                           | Yes, with encrypted storage                   |
+| Recommended for       | Portable and secure browsing, no trace left| High-risk environments, advanced users     | Security-focused professionals, advanced users| Secure offline data handling and editing    | Everyday users seeking enhanced security      |
 
 ## Best Practices for Safe Dark Web Research:
 1. Anonymize Your Identity: Always use Tor in conjunction with a VPN to obscure your digital footprint.
