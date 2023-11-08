@@ -14,16 +14,16 @@
 | MQTT                | -              | Depends on network | Depends on network | TLS/SSL support, username/password, ACLs for permissions    | Remote sensors, home automation, messaging |
 | CoAP                | -              | Depends on network | Depends on network | DTLS for security, supports TLS for TCP                      | Smart homes, energy management           |
 
-**Frequency**: The radio frequency at which the protocol operates.
-**Range**: The typical communication range between devices.
-**Data Rate**: The maximum achievable data transmission speed.
-**Security Features**:
-- **AES-128 encryption**: A symmetric key encryption standard that provides good security.
-- **WPA3/WPA2**: Security protocols for Wi-Fi networks, with WPA3 being the latest and most secure.
-- **ECDH**: Elliptic Curve Diffie-Hellman, a secure key exchange protocol.
-- **SIM-based security**: Utilizes the SIM card for secure key storage and authentication.
-- **Secure boot**: Ensures the device boots using only software that is trusted by the device manufacturer.
-- **TLS/SSL**: Protocols for securing data communications over networks.
-- **DTLS**: Datagram Transport Layer Security, a derivative of TLS designed for datagram protocols.
-- **ACLs**: Access Control Lists, which specify which users or system processes are granted access to objects.
+- **Frequency**: The radio frequency at which the protocol operates.
+- **Range**: The typical communication range between devices.
+- **Data Rate**: The maximum achievable data transmission speed.
+- **Security Features**:
+  - **AES-128 encryption**: A symmetric key encryption standard that provides good security.
+  - **WPA3/WPA2**: Security protocols for Wi-Fi networks, with WPA3 being the latest and most secure.
+  - **ECDH**: Elliptic Curve Diffie-Hellman, a secure key exchange protocol.
+  - **SIM-based security**: Utilizes the SIM card for secure key storage and authentication.
+  - **Secure boot**: Ensures the device boots using only software that is trusted by the device manufacturer.
+  - **TLS/SSL**: Protocols for securing data communications over networks.
+  - **DTLS**: Datagram Transport Layer Security, a derivative of TLS designed for datagram protocols.
+  - **ACLs**: Access Control Lists, which specify which users or system processes are granted access to objects.
 
