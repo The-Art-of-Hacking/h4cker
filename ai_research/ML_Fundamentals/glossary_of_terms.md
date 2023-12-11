@@ -1,0 +1,81 @@
+# A glossary for AI-related terms:
+
+- **Activation Function:** A function in a neural network that introduces non-linear properties to the network, enabling it to learn more complex functions.
+- **Adversarial Machine Learning:** A technique in machine learning where a model is trained to identify and counteract attempts to deceive it.
+- **Agent:** In AI, an entity that perceives its environment and takes actions to maximize its chance of achieving a goal.
+- **Algorithm:** A set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+- **Anomaly Detection:** The identification of rare items, events, or observations which raise suspicions by differing significantly from the majority of the data.
+- **Autoencoder:** A type of neural network used to learn efficient codings of unlabeled data, typically for the purposes of dimensionality reduction.
+- **Backpropagation:** An algorithm for iteratively adjusting the weights used in a neural network system to minimize the difference between actual and predicted outputs.
+- **Bagging (Bootstrap Aggregating):** An ensemble learning technique used to improve the stability and accuracy of machine learning algorithms.
+- **Bayesian Network:** A probabilistic graphical model that represents a set of variables and their conditional dependencies via a directed acyclic graph.
+- **Bias (in AI):** A systematic error in the data or the model that can lead to unfair or prejudiced outcomes.
+- **Big Data:** Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior and interactions.
+- **Boosting:** A machine learning ensemble meta-algorithm for primarily reducing bias, and also variance in supervised learning.
+- **Capsule Network:** A type of neural network that uses capsules to enhance the ability of the network to understand spatial relationships and hierarchies in data.
+- **Chatbot:** A software application used to conduct an online chat conversation via text or text-to-speech, instead of providing direct contact with a live human agent.
+- **Clustering:** The task of dividing the dataset into groups, where members of the same group are more similar to each other than to those in other groups.
+- **Collaborative Filtering:** A method of making automatic predictions about the interests of a user by collecting preferences from many users.
+- **Computer Vision:** An AI field that trains computers to interpret and understand the visual world, using digital images from cameras and videos and deep learning models.
+- **Confusion Matrix:** A table that is often used to describe the performance of a classification model on a set of test data for which the true values are known.
+- **Convolutional Neural Network (CNN):** A deep learning algorithm which can take in an input image, assign importance to various aspects/objects in the image, and be able to differentiate one from the other.
+- **Cross-validation:** A technique for evaluating ML models by training several ML models on subsets of the available input data and evaluating them on the complementary subset of the data.
+- **Data Augmentation:** Techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data.
+- **Data Mining:** The process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.
+- **Data Wrangling:** The process of cleaning, structuring and enriching raw data into a desired format for better decision making in less time.
+- **Dataset:** A collection of related sets of information composed of separate elements but can be manipulated as a unit by a computer.
+- **Decision Tree:** A decision support tool that uses a tree-like model of decisions and their possible consequences, including chance event outcomes, resource costs, and utility.
+- **Deep Learning:** A subset of ML that uses neural networks with many layers (deep networks) to analyze various factors in large volumes of data.
+- **Dense Layer:** A fully connected neural network layer where each input node is connected to each output node.
+- **Dimensionality Reduction:** The process of reducing the number of random variables under consideration, via obtaining a set of principal variables.
+- **Dropout:** A regularization technique for reducing overfitting in neural networks by preventing complex co-adaptations on training data.
+- **Eigenvalue, Eigenvector:** In linear algebra, an eigenvalue and its corresponding eigenvector are a pair that together provide a simple scaling factor and directionality for linear transformations.
+- **Embedding Layer:** Used in neural networks to reduce the dimensionality of input data to improve the efficiency of the model.
+- **Ensemble Learning:** A technique that creates multiple models and then combines them to produce improved results.
+- **Evolutionary Algorithm:** A subset of evolutionary computation in artificial intelligence that uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination, and selection.
+- **Expert System:** A computer system that emulates the decision-making ability of a human expert.
+- **Feature Engineering:** The process of using domain knowledge to extract features from raw data via data mining techniques.
+- **Feature Extraction:** The process of defining a set of features, or aspects, of the data that are relevant to the problem being solved.
+- **Fuzzy Logic:** A form of many-valued logic which deals with reasoning that is approximate rather than fixed and exact.
+- **GAN (Generative Adversarial Network):** A class of ML systems where two neural networks contest with each other in a game.
+- **GPT (Generative Pretrained Transformer):** An advanced type of neural network architecture used for NLP tasks. It's trained to predict the next word in a sentence and can generate coherent and contextually relevant text based on a given prompt.
+- **Gradient Descent:** An optimization algorithm for finding the minimum of a function; in machine learning, it's used to update the parameters of a model.
+- **Grid Search:** A method to perform hyperparameter optimization to find the optimal values for a given model.
+- **Hadoop:** A framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+- **Hashing:** The transformation of a string of characters into a usually shorter fixed-length value or key that represents the original string.
+- **Heuristic:** A technique designed for solving a problem more quickly when classic methods are too slow, or for finding an approximate solution when classic methods fail to find any exact solution.
+- **Hyperparameter:** In ML, a parameter whose value is set before the learning process begins.
+- **Instance-based Learning:** A family of learning algorithms that, instead of performing explicit generalization, compares new problem instances with instances seen in training.
+- **Jupyter Notebook:** An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
+- **K-means Clustering:** A method of vector quantization, originally from signal processing, that aims to partition n observations into k clusters.
+- **Kernel:** In machine learning, a function used in support vector machines to enable them in processing linearly inseparable data.
+- **Knowledge Base:** A technology used to store complex structured and unstructured information used by a computer system.
+- **Latent Variable:** In statistics, a variable that is not directly observed but is inferred from other variables that are observed.
+- **Linear Regression:** A linear approach to modelling the relationship between a scalar response and one or more explanatory variables.
+- **Logistic Regression:** A statistical model that in its basic form uses a logistic function to model a binary dependent variable.
+- **Long Short-Term Memory (LSTM):** A type of RNN architecture used in deep learning because standard RNNs have difficulty remembering information for long periods.
+- **Markov Decision Process:** A mathematical process to model decision making in situations where outcomes are partly random and partly under the control of a decision maker.
+- **Monte Carlo Methods:** A broad class of computational algorithms that rely on repeated random sampling to obtain numerical results.
+- **Multi-Layer Perceptron (MLP):** A class of feedforward artificial neural network (ANN) which consists of at least three layers of nodes.
+- **Naive Bayes Classifier:** A family of simple probabilistic classifiers based on applying Bayes' theorem with strong (naive) independence assumptions between the features.
+- **Natural Language Generation (NLG):** The use of AI to generate natural language from a machine representation system such as a knowledge base or a logical form.
+- **Natural Language Processing (NLP):** A branch of AI that helps computers understand, interpret, and respond to human language in a valuable way.
+- **Neural Network:** A series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
+- **Outlier:** An observation point that is distant from other observations, potentially indicative of a measurement or input error, or a novel data point.
+- **Parameter Tuning:** The process of selecting the values for a model’s parameters that maximize the accuracy of the model.
+- **Perceptron:** A type of artificial neuron used in supervised learning to classify binary data.
+- **Precision and Recall:** In pattern recognition, information retrieval and classification, precision is the fraction of relevant instances among the retrieved instances, while recall is the fraction of relevant instances that were retrieved.
+- **Quantile:** A quantile is a fraction where certain values fall below that quantile.
+- **Random Forest:** An ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees.
+- **Random Variable:** A variable whose possible values are numerical outcomes of a random phenomenon.
+- **Recurrent Neural Network (RNN):** A class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence.
+- **Regularization:** Techniques used to reduce the error by fitting a function appropriately
+- **Reinforcement Learning:** An area of ML concerned with how software agents ought to take actions in an environment to maximize some notion of cumulative reward.
+- **Semantic Analysis:** The process of understanding the meaning and interpretation of words, sentences, and character of the texts.
+- **Supervised Learning:** A type of ML where the model is trained on labeled data, i.e., data paired with the correct answer.
+- **Support Vector Machine (SVM):** A supervised learning model with associated learning algorithms that analyze data used for classification and regression analysis.
+- **TensorFlow:** An open-source software library for high-performance numerical computation, particularly well suited for deep learning and ML applications.
+- **Transfer Learning:** A research problem in machine learning that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.
+- **Turing Test:** A test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
+- **Unstructured Data:** Information that either does not have a pre-defined data model or is
+- **Unsupervised Learning:** A type of ML that uses algorithms to analyze and cluster unlabeled datasets. 
