@@ -38,6 +38,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Vulnerable Single Sign-On (SSO)](https://github.com/dogangcr/vulnerable-sso)
 - [WebGoat](https://github.com/WebGoat/WebGoat)
 - [XXE Lab](https://github.com/jbarone/xxelab)
+- [Pentest-Ground](https://pentest-ground.com)
 
 ## WebSploit Labs
 - [WebSploit Labs (created and maintained by Omar Ωr Santos)](https://websploit.org)
