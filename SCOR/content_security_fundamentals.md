@@ -1,4 +1,4 @@
-# Cisco Content Security Fundamentals
+## Cisco Content Security Fundamentals
 
 ### 1. Email Security
 - **Spam Protection**: Filtering out unwanted and potentially harmful email messages.
