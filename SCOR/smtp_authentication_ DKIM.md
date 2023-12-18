@@ -1,5 +1,6 @@
 # SMTP Authentication, Encryption, and DKIM
-SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending emails across the Internet. It has mechanisms for both authentication and encryption to enhance security, and DKIM (DomainKeys Identified Mail) is an additional layer of email security. Let's break down each component:
+- SMTP (Simple Mail Transfer Protocol) is the standard protocol for sending emails across the Internet.
+- It has mechanisms for both authentication and encryption to enhance security, and DKIM (DomainKeys Identified Mail) is an additional layer of email security. 
 
 ### SMTP Authentication
 
