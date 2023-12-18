@@ -1,5 +1,4 @@
 # Cisco Content Security Fundamentals
-Cisco Content Security Fundamentals encompass a broad range of security measures designed to protect an organization's network infrastructure and data. This includes ensuring the security of email, web browsing, and the management of data within a network. Here’s a summarized overview of these fundamentals:
 
 ## 1. Email Security
 - **Spam Protection**: Filtering out unwanted and potentially harmful email messages.
