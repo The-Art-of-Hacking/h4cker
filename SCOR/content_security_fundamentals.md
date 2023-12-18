@@ -1,4 +1,7 @@
 ## Cisco Content Security Fundamentals
+- Email Security
+- Web Security
+
 
 ### 1. Email Security
 - **Spam Protection**: Filtering out unwanted and potentially harmful email messages.
@@ -14,4 +17,8 @@
 - **Application Visibility and Control**: Monitoring and controlling the use of web applications to prevent security breaches.
 - **HTTPS Inspection**: Decrypting and inspecting encrypted web traffic for threats.
 - **Data Security**: Protecting sensitive data accessed or transferred over the web.
+
+## Cisco Security Products
+
+https://www.cisco.com/site/us/en/products/security/all-products.html
 
