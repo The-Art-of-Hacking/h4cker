@@ -22,15 +22,15 @@ labels = list(risks.keys())
 # Create the plot
 plt.figure(figsize=(8, 6))
 plt.scatter(x, y, color='blue')
-plt.title('AI System Risk Matrix')
-plt.xlabel('Likelihood')
-plt.ylabel('Impact')
-plt.xticks([1, 2, 3, 4], ['Low', 'Medium', 'High', 'Very High'])
-plt.yticks([1, 2, 3, 4], ['Low', 'Medium', 'High', 'Very High'])
+plt.title('AI System Risk Matrix', fontsize=18) 
+plt.xlabel('Likelihood', fontsize=14)
+plt.ylabel('Impact', fontsize=14)
+plt.xticks([1, 2, 3, 4], ['Low', 'Medium', 'High', 'Very High'], fontsize=14)
+plt.yticks([1, 2, 3, 4], ['Low', 'Medium', 'High', 'Very High'], fontsize=14)
 plt.grid(True)
 
-# Annotate the points
+# Annotate the points with larger font
 for i, label in enumerate(labels):
-    plt.annotate(label, (x[i], y[i]))
+    plt.annotate(label, (x[i], y[i]), fontsize=14)
 
 plt.show()
