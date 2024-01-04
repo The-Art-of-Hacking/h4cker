@@ -11,3 +11,4 @@ The following are different platforms (hubs) for AI model exchange along with th
 | ONNX Model Zoo          | [onnx/models](https://github.com/onnx/models)     |
 | MLflow Model Registry   | [mlflow.org](https://mlflow.org/)                 |
 
+These are platforms where you can explore a wide range of AI models suitable for many different tasks and applications in machine learning and AI research.
