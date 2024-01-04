@@ -1,3 +1,8 @@
+# Public Datasets
+
+.. |OK_ICON| image:: https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png
+
+
 Agriculture
 -----------
         
