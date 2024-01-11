@@ -43,6 +43,7 @@
 #### Azure Specific Enumeration
 - [BlobHunter](https://github.com/cyberark/blobhunter) - Scanning Azure blob storage accounts
 - [Grayhat Warfare](https://buckets.grayhatwarfare.com/) - Open Azure blobs search
+- [OpenBuckets](https://openbuckets.io/) Find misconfigured cloud storage buckets across every cloud provider. Updates almost daily.
 - [Azure-AccessPermissions](https://github.com/csandker/Azure-AccessPermissions) - Enumerate access permissions in Azure AD
 
 ### Information Gathering Tools
