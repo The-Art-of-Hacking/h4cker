@@ -1,6 +1,23 @@
 # Open-source Intelligence (OSINT)
 
-Open-source intelligence (OSINT) is data collected from open source and publicly available sources. The following are a few OSINT resources and references:
+Open Source Intelligence (OSINT) from an ethical hacking perspective involves the collection and analysis of information that is publicly available to identify vulnerabilities, gather data about targets, or understand the security posture of an organization. This process is a key initial phase in ethical hacking, also known as penetration testing or security auditing, where the goal is to enhance the security of the system or network being tested.
+
+OSINT techniques are ethical and legal, involving the use of publicly accessible sources such as:
+
+- **Public websites and forums**: Information from company websites, forums, and bulletin boards can provide insights into the technologies used, internal structure, and potential security weaknesses.
+- **Social media platforms**: Public profiles and posts can reveal personal information about employees, organizational structure, and internal events that could be leveraged in social engineering attacks.
+- **Government and public records**: Databases and records available from government agencies can provide information on domain registrations, patents, and more that are useful for mapping out an organization's online presence.
+- **Search engines**: Advanced search engine techniques and dedicated tools can uncover hidden information and files related to a target that are available on the internet.
+- **Open databases**: Databases like Shodan and Censys allow researchers to search for internet-connected devices, including potentially vulnerable systems exposed online.
+
+The ethical use of OSINT means respecting privacy and legality, focusing on information that is publicly available without bypassing any access controls or engaging in activities that would be considered intrusive or illegal. Ethical hackers use OSINT to:
+
+1. **Pre-assessment**: To understand the target's environment and identify potential points of entry before performing any active scanning or testing.
+2. **Footprinting**: To gather as much information as possible about the target's digital and physical footprint.
+3. **Vulnerability identification**: To find possible vulnerabilities in publicly accessible systems or applications that could be exploited.
+4. **Social engineering preparation**: To collect data that could be used in crafting phishing campaigns or other social engineering tactics as part of a security assessment.
+
+Ethical hackers document their findings and provide insights to organizations on how to mitigate any discovered vulnerabilities or security gaps, enhancing the overall security posture of the organization.
 
 ## Passive Recon Tools:
 - [AMass](https://github.com/OWASP/Amass)
