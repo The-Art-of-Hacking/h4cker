@@ -20,7 +20,6 @@
 - [Cobalt](https://cobalt.io/)
 - [Coder Bounty](http://www.coderbounty.com/)
 - [Detectify](https://cs.detectify.com/)
-- [FOSS Factory](http://www.fossfactory.org/)
 - [FreedomSponsors](https://freedomsponsors.org/)
 - [HackenProof](https://hackenproof.com/)
 - [Hackerhive](https://hackerhive.io/)
