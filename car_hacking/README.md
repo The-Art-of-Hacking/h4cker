@@ -7,7 +7,7 @@ Cybersecurity in the automobile industry has become increasingly critical as veh
 
 2. **Telematics Systems**: Systems that transmit data like GPS location and vehicle diagnostics can be intercepted or tampered with. An attacker could potentially track a vehicle's movements or falsify diagnostic data.
 
-3. **Electronic Control Units (ECUs)**: Modern vehicles can contain 100 or more ECUs, which control everything from the engine and brakes to air conditioning. Compromising one ECU can potentially allow an attacker to manipulate critical vehicle functions.
+3. **Electronic Control Units (ECUs)**: Modern vehicles can contain dozens of ECUs, which control everything from the engine and brakes to air conditioning. Compromising one ECU can potentially allow an attacker to manipulate critical vehicle functions.
 
 4. **Software Updates**: Over-the-air software updates are convenient for applying the latest updates and patches to vehicles. However, if not properly authenticated, they can be a vector for installing malicious firmware.
 
