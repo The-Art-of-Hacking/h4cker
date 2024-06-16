@@ -3,9 +3,9 @@
 ## Hex Editors
 
 * [010 Editor](http://www.sweetscape.com/010editor/)
-* [Hex Workshop](http://www.hexworkshop.com/)
-* [HexFiend](http://ridiculousfish.com/hexfiend/)
-* [Hiew](http://www.hiew.ru/)
+* [HexWalk](https://github.com/gcarmix/HexWalk)
+* [ImHex](https://github.com/WerWolv/ImHex)
+* [Hexed.it](https://hexed.it/) - Great online Hexeditor
 * [HxD](https://mh-nexus.de/en/hxd/)
 
 ## Disassemblers
