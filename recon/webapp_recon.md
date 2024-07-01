@@ -1,49 +1,28 @@
 # Web Application Security Testing Methodology
 
-## 1. Mapping the Application
+### 1. Mapping the Application
+This step is about creating a comprehensive map of the entire application from a security standpoint. This involves several specific activities:
 
-Mapping the application is a critical initial phase in security testing. It involves understanding the visible and underlying structure of the application to effectively tailor the testing strategy.
+- **Explore Visible Content**: This involves manually reviewing the application and using automated tools to discover all the visible resources, such as public-facing URLs, documents, and media files. Tools like web crawlers are often used here to automate the discovery process.
 
-### Explore Visible Content
-- **Objective**: Identify all publicly accessible endpoints and files.
-- **Methods**: Use tools like web crawlers and directory brute forcing tools.
+- **Consult Public Resources**: Here, the tester looks at documentation, code repositories, forums, and other publicly available sources to gather additional information about the application's structure and potential vulnerabilities. This might include finding developer comments in public code repositories or configuration snippets in technical forums.
 
-### Consult Public Resources
-- **Objective**: Gather information from publicly available sources.
-- **Methods**: Check documentation, forums, and other related publications.
+- **Discover Hidden Content**: Tools and techniques are used to uncover hidden or unlinked sections of the application, such as admin interfaces or staging versions. This could involve using tools that perform forced browsing or directory brute-forcing.
 
-### Discover Hidden Content
-- **Objective**: Uncover potentially hidden or non-indexed directories and files.
-- **Methods**: Employ tools that perform forced browsing and directory listing.
+- **Discover Default Content**: Identifying default installations and configurations that are often overlooked and not removed by developers. For example, default admin panels or configuration files that come with software packages.
 
-### Discover Default Content
-- **Objective**: Identify common or default files and directories.
-- **Methods**: Use lists of known default installation paths and filenames.
+- **Enumerate Identifier-Specified Functions**: Analyzing how the application responds to various manipulations of URL parameters or path names, which might reveal additional functionality or hidden debugging parameters.
 
-### Enumerate Identifier-Specified Functions
-- **Objective**: Determine the functionality exposed through URL parameters or function-specific paths.
-- **Methods**: Analyze URL patterns and parameter names for hints of underlying functionality.
+- **Test for Debug Parameters**: Searching for parameters that developers might have left in the application which could expose sensitive information if triggered, such as `?debug=true`.
 
-### Test for Debug Parameters
-- **Objective**: Discover any leftover or undocumented debug parameters that could expose sensitive information.
-- **Methods**: Attempt common debug parameter names and observe responses for changes in behavior or information disclosure.
+### 2. Analyze the Application
+After mapping, the application undergoes a thorough analysis:
 
-## 2. Analyze the Application
+- **Identify Functionality**: Understanding exactly what the application does, its key features, and functionality. This includes cataloging all operations the application can perform, from user data processing to internal API communications.
 
-This step involves a deeper analysis of the application's build and behavior to identify potential security vulnerabilities.
+- **Identify Data Entry Points**: Recognizing all the points where the application receives input from the users, which could be through forms, API endpoints, or even through the URL. Each entry point represents a potential vector for attacks like SQL injection or cross-site scripting.
 
-### Identify Functionality
-- **Objective**: Catalog all functions the application performs.
-- **Methods**: Systematic usage and testing of all features.
+- **Identify the Technologies Used**: Determining the software stack upon which the application is built, including the web server, frameworks, libraries, and third-party plugins. This information is crucial as it allows testers to focus on known vulnerabilities specific to these technologies.
 
-### Identify Data Entry Points
-- **Objective**: List all points where user input is accepted.
-- **Methods**: Review forms, API endpoints, and any other interfaces.
+- **Map the Attack Surface**: Integrating all the gathered information to outline the complete attack surface of the application. This includes all possible points where an attacker could try to exploit vulnerabilities.
 
-### Identify the Technologies Used
-- **Objective**: Determine all underlying technologies (frameworks, libraries, servers).
-- **Methods**: HTTP headers, file extensions, and error messages can reveal software versions and types.
-
-### Map the Attack Surface
-- **Objective**: Understand all areas of the application that can potentially be attacked.
-- **Methods**: Combine the information from functionality, data entry points, and technology identification to visualize the complete attack surface.
