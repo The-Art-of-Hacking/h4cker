@@ -86,6 +86,7 @@ Ethical hackers document their findings and provide insights to organizations on
 - BaseQuery: https://github.com/g666gle/BaseQuery
 - Buster: https://github.com/sham00n/buster
 - h8mail: https://github.com/khast3x/h8mail
+- Hudson Rock: https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 - LeakLooker: https://github.com/woj-ciech/LeakLooker
 - PwnDB: https://github.com/davidtavarez/pwndb
 - Scavenger: https://github.com/rndinfosecguy/Scavenger
