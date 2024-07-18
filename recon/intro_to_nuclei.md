@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Nuclei is an open-source, fast, and customizable vulnerability scanner developed by ProjectDiscovery. It is designed to send requests across targets based on predefined templates, enabling efficient and accurate vulnerability detection with minimal false positives. Nuclei supports scanning for various protocols, including TCP, DNS, HTTP, SSL, File, Whois, and Websocket[2].
+[Nuclei](https://github.com/projectdiscovery/nuclei) is an open-source, fast, and customizable vulnerability scanner developed by [ProjectDiscovery](https://github.com/projectdiscovery/). It is designed to send requests across targets based on predefined templates, enabling efficient and accurate vulnerability detection with minimal false positives. [Nuclei](https://github.com/projectdiscovery/nuclei) supports scanning for various protocols, including TCP, DNS, HTTP, SSL, File, Whois, and Websocket.
 
-## Key Features
+## Some of the Key Features
 
 1. Template-based scanning: Nuclei uses YAML-based templates to define scanning logic, making it highly extensible and customizable.
 
@@ -25,7 +25,7 @@ Nuclei is an open-source, fast, and customizable vulnerability scanner developed
 To scan a single target using Nuclei:
 
 ```bash
-nuclei -u https://example.com
+nuclei -u http://10.6.6.23
 ```
 
 To scan multiple targets from a file:
@@ -147,22 +147,5 @@ This template sends requests with JNDI lookup strings in various HTTP headers an
 3. Utilize dynamic variables like `{{BaseURL}}` for flexibility
 4. Implement precise matchers to reduce false positives
 5. Test templates thoroughly before submission
-6. Follow the community guidelines for template contributions
+6. Follow the [community template contributions](https://github.com/projectdiscovery/nuclei-templates/tree/main/dns)
 
-## Conclusion
-
-Nuclei's template-based approach offers a powerful and flexible way to conduct security scans. Its ease of use, extensibility, and community support make it a valuable tool for security professionals, bug bounty hunters, and developers alike. By understanding how to use Nuclei effectively and create custom templates, users can significantly enhance their vulnerability detection capabilities and contribute to the broader security community.
-
-Citations:
-[1] https://github.com/projectdiscovery/nuclei/milestone/43?closed=1
-[2] https://gist.github.com/E1A/6755b0e74a55cf9dcd8c133c5bf6e990
-[3] https://github.com/0xKayala/NucleiScanner
-[4] https://github.com/projectdiscovery/nuclei-templates/actions/workflows/template-sign.yml
-[5] https://github.com/projectdiscovery/nuclei/discussions/1998
-[6] https://github.com/projectdiscovery/nuclei/issues/1950
-[7] https://github.com/projectdiscovery/nuclei-templates/issues/8674
-[8] https://github.com/CyberLegionLtd/nuclei
-[9] https://github.com/projectdiscovery/nuclei/discussions/4987
-[10] https://github.com/projectdiscovery/nuclei-templates/blob/main/README.md
-[11] https://github.com/rootklt/nuclei-template-guide/blob/main/template-guide.md
-[12] https://github.com/projectdiscovery
