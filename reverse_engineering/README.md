@@ -19,6 +19,7 @@
 * [JEB](https://www.pnfsoftware.com/jeb2/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [Radare](http://www.radare.org/r/)
+* [Evan's Debbugger (edb)](https://github.com/eteran/edb-debugger)
 
 ## Dynamic Analysis
 
