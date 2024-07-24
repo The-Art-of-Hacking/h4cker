@@ -18,6 +18,10 @@ _Products that examine or test models for security issues of various kinds._
 * [Mindgard AI](https://mindgard.ai) - Identifies and remediates risks across AI models, GenAI, LLMs along with AI-powered apps and chatbots.
 * [Protect AI ModelScan](https://protectai.com/modelscan) - Scan models for serialization attacks. [code](https://github.com/protectai/modelscan)
 * [Protect AI Guardian](https://protectai.com/guardian) - Scan models for security issues or policy violations with auditing and reporting.
+* [TextFooler](https://github.com/jind11/TextFooler) - A model for natural language attacks on text classification and inference.
+* [LLMFuzzer](https://github.com/mnns/LLMFuzzer) - Fuzzing framework for LLMs.
+* [Prompt Security Fuzzer](https://www.prompt.security/fuzzer) - a fuzzer to find prompt injection vulnerabilities.
+* [OpenAttack](https://github.com/thunlp/OpenAttack) - a Python-based textual adversarial attack toolkit.
 
 ## Prompt Firewall and Redaction
 
