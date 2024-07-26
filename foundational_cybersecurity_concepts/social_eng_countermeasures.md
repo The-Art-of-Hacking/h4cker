@@ -1,4 +1,4 @@
-#Social Engineering Countermeasures
+# Social Engineering Countermeasures
 
 Social engineering countermeasures are strategies and practices designed to protect against manipulation and deception techniques used by attackers to exploit human behavior and gain unauthorized access to information or systems. 
 
