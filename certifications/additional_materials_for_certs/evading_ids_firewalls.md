@@ -1,4 +1,4 @@
-$ Techniques for Evading IDS
+# Techniques for Evading IDS
 
 1. **Traffic Obfuscation**:
    - **Encryption**: Encrypting traffic can prevent IDS from inspecting the payload. For example, using tools like **Stunnel** or **OpenVPN** to encrypt data streams.
