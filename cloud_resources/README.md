@@ -6,6 +6,7 @@
 * [Penetration Testing in Google Cloud Platform and Cloud Security FAQ](https://support.google.com/cloud/answer/6262505)
 * [Google Cloud Security Center](https://cloud.google.com/security)
 * [High-level Best Practices when Performing Pen Testing in Cloud Environments](high_level_best_practices_pen_testing.md)
+* [High-level Cloud Security Threats by CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/cloud-security/cloud-security-risks-threats-challenges/)
 
 ## Vulnerables
 - [CloudGoat](https://github.com/RhinoSecurityLabs/cloudgoat)
