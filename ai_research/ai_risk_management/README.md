@@ -17,3 +17,6 @@
 - [ISO/IEC 42001:2023 Artificial intelligence Management system](https://www.iso.org/standard/81230.html)
 - [ISO/IEC 23894:2023 Artificial intelligence Guidance on risk management](https://www.iso.org/standard/77304.html)
 - [ISO/IEC 23053:2022 Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)](https://www.iso.org/standard/74438.html)
+
+## Cloud Security Alliance
+- [CSA's Securing LLM Backed Systems: Essential Authorization Practices](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai_research/ai_risk_management/Securing%20LLM%20Backed%20Systems%20-%20Essential%20Authorization%20Practices%2020240806.pdf)
