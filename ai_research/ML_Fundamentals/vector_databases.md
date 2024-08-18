@@ -1,6 +1,6 @@
 # Introduction to Vector Databases
 
-Vector databases are specialized systems designed to store, retrieve, and search high-dimensional vector embeddings efficiently. These databases are crucial for applications that require similarity searches, such as recommendation engines, image recognition, and natural language processing. Unlike traditional databases, vector databases handle complex relationships within data by focusing on vector proximity or similarity rather than exact matches[1][5].
+Vector databases are specialized systems designed to store, retrieve, and search high-dimensional vector embeddings efficiently. These databases are great for applications that require similarity searches, such as recommendation engines, image recognition, and natural language processing. Unlike traditional databases, vector databases handle complex relationships within data by focusing on vector proximity or similarity rather than exact matches.
 
 ### Examples of Vector Databases
 
