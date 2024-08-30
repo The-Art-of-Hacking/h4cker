@@ -12,6 +12,11 @@
 - [AI Strategy in Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
 - [European Commission Artificial Intelligence – Questions and Answers](https://ec.europa.eu/commission/presscorner/detail/en/QANDA_21_1683)
 
+## Canada
+- [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
+- [Canadian Guardrails for Generative AI – Code of Practice
+](https://ised-isde.canada.ca/site/ised/en/consultation-development-canadian-code-practice-generative-artificial-intelligence-systems/canadian-guardrails-generative-ai-code-practice)
+
 ## ISO
 - [ISO AI Website](https://www.iso.org/sectors/it-technologies/ai)
 - [ISO/IEC 42001:2023 Artificial intelligence Management system](https://www.iso.org/standard/81230.html)
