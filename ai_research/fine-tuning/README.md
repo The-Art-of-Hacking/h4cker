@@ -21,4 +21,7 @@ This is a living document. These are all the resource links extracted from Akram
 17. [Colab Notebook for Fine-Tuning](https://colab.research.google.com/drive/1EDZxsDVfgml4DlFdGCysAedXZmyBqBoE?usp=sharing)
 18. [Unleashing the Power of Unsloth and QLora Blog](https://huggingface.co/blog/Andyrasika/finetune-unsloth-qlora)
 19. [Becoming a Hacker (Article)](https://becomingahacker.org/1f332cf37e96)
+20. https://github.com/tien02/llm-math
+21. https://www.youtube.com/watch?v=wjZofJX0v4M
+22. https://www.youtube.com/watch?v=eMlx5fFNoYc
 
