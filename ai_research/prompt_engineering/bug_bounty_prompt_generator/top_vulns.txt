@@ -1,0 +1,11 @@
+Improper access control
+Information disclosure
+Cross-site scripting (XSS) - Reflected, Stored, and DOM
+Insecure direct object reference (IDOR)
+Privilege escalation
+Misconfiguration
+Improper authentication
+Business logic errors
+Server-side Request Forgery (SSRF)
+SQL Injection
+XML External Entities
