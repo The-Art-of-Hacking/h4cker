@@ -42,3 +42,6 @@ _Products that intercept prompts and responses and apply security or privacy rul
 
 ## AI Red Teaming Datasets
 - [AttaQ Dataset](https://huggingface.co/datasets/ibm/AttaQ) - a red teaming dataset consisting of 1402 carefully crafted adversarial questions
+
+## AI Red Teaming Guidance
+- [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
