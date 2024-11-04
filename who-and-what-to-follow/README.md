@@ -88,6 +88,7 @@
 - [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
 - [The Art of Hacking](https://www.youtube.com/theartofhacking)
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
+- [David Bombal}(https://www.youtube.com/@davidbombal)
 
 ## Twitch
 - [Red Team Village](https://twitch.tv/redteamvillage)
