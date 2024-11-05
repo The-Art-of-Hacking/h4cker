@@ -2,6 +2,9 @@
 
 This section provides a curated list of resources that delve into foundational cybersecurity concepts, frequently explored in my O'Reilly training sessions and other educational offerings.
 
+## Live Training
+**Upcoming Live Cybersecurity and AI Training in O'Reilly:** [Register before it is too late](https://learning.oreilly.com/search/?q=omar%20santos&type=live-course&rows=100&language_with_transcripts=en) (free with O'Reilly Subscription)
+
 ## Reading List
 
 Despite the rapidly evolving landscape of AI and technology, these books offer a comprehensive roadmap for understanding the intersection of these technologies with cybersecurity:
