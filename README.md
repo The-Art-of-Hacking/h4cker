@@ -24,7 +24,7 @@ You can clone this repository or download specific resources to deepen your unde
 If you wish to contribute, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any inquiries or feedback, please feel free to contact [Omar Santos](https://www.linkedin.com/in/santosomar/).
