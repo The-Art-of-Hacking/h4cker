@@ -25,30 +25,75 @@ Despite the rapidly evolving landscape of AI and technology, these books offer a
 
 Enhance your practical skills with these video courses designed to deepen your understanding of cybersecurity:
 
+---
+
 - **Building the Ultimate Cybersecurity Lab and Cyber Range (video)**
   - [Available on O'Reilly](https://learning.oreilly.com/course/building-the-ultimate/9780138319090/)
+
+---
+
+- **AI-Enabled Programming, Networking, and Cybersecurity**
+  - Learn to use AI for cybersecurity, networking, and programming tasks.
+  - Use examples of practical, hands-on activities and demos that emphasize real-world tasks.
+  - Implement AI tools as a programmer, developer, networking, or security professional.
+  - [Available on O'Reilly](https://learning.oreilly.com/course/ai-enabled-programming-networking/9780135402696/)
+ 
+---
+
+- **Securing Generative AI**
+  - Explore security for deploying and developing AI applications, RAG, agents, and other AI implementations
+  - Learn hands-on with practical skills of real-life AI and machine learning cases
+  - Incorporate security at every stage of AI development, deployment, and operation
+  - [Available on O'Reilly](https://learning.oreilly.com/course/securing-generative-ai/9780135401804/)
+
+---
+
 
 - **Practical Cybersecurity Fundamentals**  
   A comprehensive video course covering essential cybersecurity principles.  
   - [Available on O'Reilly](https://learning.oreilly.com/course/practical-cybersecurity-fundamentals/9780138037550/)
+ 
+---
 
 - **The Art of Hacking**  
   A series of video courses offering over 26 hours of training in ethical hacking and penetration testing techniques. Ideal for those preparing for certifications like OSCP or CEH.  
   - [Visit The Art of Hacking](https://theartofhacking.org)
 
+---
+
 
 ## **Certification Related**
+
+
+- **Certified Ethical Hacker (CEH), Latest Edition**
+  -  Very comprehensive! Over 19 hours! [Available on O'Reilly](https://learning.oreilly.com/course/certified-ethical-hacker/9780135395646/)
+
+---
+
+
 - **CompTIA PenTest+ PT0-002 Cert Guide, 2nd Edition**
   - [Available on O'Reilly](https://learning.oreilly.com/library/view/comptia-pentest-pt0-002/9780137566204/)
+
+---
+
 
 - **Certified in Cybersecurity - CC (ISC)²**
   - [Available on O'Reilly](https://learning.oreilly.com/course/certified-in-cybersecurity/9780138230364/)
 
+---
+
+
 - **CCNP and CCIE Security Core SCOR 350-701 Official Cert Guide, 2nd Edition**
   - [Available on O'Reilly](https://learning.oreilly.com/library/view/ccnp-and-ccie/9780138221287/)
 
+---
+
+
 - **CEH Certified Ethical Hacker Cert Guide**
   - [Available on O'Reilly](https://learning.oreilly.com/library/view/ceh-certified-ethical/9780137489930/)
+
+---
+
 
 
 ## Additional Resources
