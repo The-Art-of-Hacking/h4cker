@@ -40,6 +40,11 @@ There are several intentionally vulnerable applications and virtual machines tha
 Go to the [Vulnerable Servers Section](https://github.com/The-Art-of-Hacking/art-of-hacking/tree/master/vulnerable_servers) of this GitHub repository to obtain a list of dozens of vulnerable applications and VMs that can be used to practice your skills.
 
 
+# Ludus Environment in Proxmox
+
+[Ludus](https://docs.ludus.cloud/) is built on Proxmox. It enables advanced automation while still allowing easy manual modifications or setup of virtual machines and networks.
+Ludus is implemented as a server that runs Packer and Ansible to create templates and deploy complex cyber environments from a single configuration file. Ludus is accessed via the Ludus CLI (client) or the Proxmox web interface. Normal users should not need to access Ludus via SSH.
+
 ## Cloud-Based Cyber Ranges
 - [Awesome Cloud Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs): A list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
 - [PurpleCloud](https://github.com/iknowjason/PurpleCloud):  Cyber Range environment created by [Jason Ostrom](https://twitter.com/securitypuck) using Active Directory and automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud!
