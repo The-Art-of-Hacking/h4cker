@@ -48,8 +48,13 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 
 ## Learning Platforms and VMs
 - [VulnHub](https://www.vulnhub.com)
+
+### Commercial (with free tiers)
 - [Hack the Box](https://www.hackthebox.eu/)
 - [TryHackMe](https://tryhackme.com/)
-- [eLearn Security](https://www.elearnsecurity.com/)
 - [PentesterLab](https://pentesterlab.com/)
+
+## Commercial Learning Providers (require registration)
+- [O'Reilly](https://www.oreilly.com/) - access to thousands of books, learning paths, video courses, labs, and live training.
 - [CyberPython](https://pythoncyber.go.ro/)
+- [eLearn Security](https://www.elearnsecurity.com/)
