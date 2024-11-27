@@ -19,5 +19,5 @@ jobs:
     - name: Assign pull request
       uses: actions-ecosystem/action-add-assignees@v1
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         assignees: 'santosomar'
