@@ -1,0 +1,23 @@
+# This workflow automatically assigns all new pull requests to the user "santosomar".
+#
+# To modify the assignee, update the `assignees` parameter below.
+
+name: Auto-assign pull requests
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  auto-assign:
+    runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests: write
+
+    steps:
+    - name: Assign pull request
+      uses: actions-ecosystem/action-add-assignees@v1
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        assignees: 'santosomar'
