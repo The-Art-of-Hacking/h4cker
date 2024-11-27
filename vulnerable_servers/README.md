@@ -52,3 +52,4 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [TryHackMe](https://tryhackme.com/)
 - [eLearn Security](https://www.elearnsecurity.com/)
 - [PentesterLab](https://pentesterlab.com/)
+- [CyberPython](https://pythoncyber.go.ro/)
