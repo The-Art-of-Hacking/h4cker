@@ -1,0 +1,51 @@
+# This workflow automatically marks issues and pull requests as stale after a period of inactivity
+# and eventually closes them if no further activity occurs.
+#
+# You can adjust the behavior by modifying this file, such as changing the schedule,
+# messages, and labels used.
+#
+# For more information, visit:
+# https://github.com/actions/stale
+
+name: Auto-mark and close stale issues and pull requests
+
+on:
+  schedule:
+    # Run daily at 5:17 AM UTC
+    - cron: '17 5 * * *'
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+
+    steps:
+    - name: Run stale action
+      uses: actions/stale@v5
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        
+        # Customizable stale behavior
+        days-before-stale: 30          # Mark issues/PRs as stale after 30 days of inactivity
+        days-before-close: 7           # Close stale issues/PRs 7 days after being marked stale
+        stale-issue-message: >
+          This issue has been automatically marked as stale due to inactivity for 30 days. 
+          If you believe this issue is still relevant, please comment to remove the stale label. 
+          Otherwise, it will be closed in 7 days. Thank you for your contributions!
+        stale-pr-message: >
+          This pull request has been automatically marked as stale due to inactivity for 30 days. 
+          If you still plan to work on this, please comment or push new changes to prevent it from being closed. 
+          Otherwise, it will be closed in 7 days. Thank you for your contributions!
+        
+        # Labels for tracking stale issues/PRs
+        stale-issue-label: 'stale-issue'
+        stale-pr-label: 'stale-pr'
+        
+        # Optional exclusions
+        exempt-issue-labels: 'pinned,important'  # Exclude issues with these labels from being marked stale
+        exempt-pr-labels: 'work-in-progress'     # Exclude PRs with these labels from being marked stale
+
+        # Enable debugging for more visibility
+        debug-only: false
