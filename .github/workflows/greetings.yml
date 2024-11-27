@@ -1,0 +1,28 @@
+name: Greetings
+
+on: [pull_request_target, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: >
+          Thank you for opening your first issue in this repository! 🚀  
+          We value your contribution and will review your input as soon as possible.  
+          If you’re new here, please check out our contribution guidelines and code of conduct to get started:
+          [Contribution Guidelines](CONTRIBUTING.md)
+          Happy hacking! 💻 |
+          Omar Santos @santosomar
+        pr-message: >
+          Thank you for submitting your first pull request! 🎉  
+          Your effort and contribution are greatly appreciated.  
+          Our maintainers will review your changes soon. In the meantime, please ensure your submission aligns with our 
+          [Contribution Guidelines](CONTRIBUTING.md)  
+          Let me know if you have any questions. Welcome aboard! 🙌 |
+          Omar Santos @santosomar
