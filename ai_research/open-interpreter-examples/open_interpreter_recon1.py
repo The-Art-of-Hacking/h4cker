@@ -10,10 +10,10 @@ from interpreter import interpreter
 interpreter.llm.model = "gpt-4o-mini"
 
 # Set the system message
-interpreter.system_message += """
-Run shell commands with -y so the user doesn't have to confirm them.
-"""
-print(interpreter.system_message)
+# interpreter.system_message += """
+# Run shell commands with -y so the user doesn't have to confirm them.
+# """
+# print(interpreter.system_message)
 
 # Perform passive reconnaissance on the target domain
 interpreter.chat("Use Amass to perform passive reconnaissance on secretcorp.org. Analyze the output. Save the output and analysis to a file called secretcorp.md.")
