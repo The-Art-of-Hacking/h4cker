@@ -1,7 +1,7 @@
 # Fuzzing Resources
 
 ## Commercial Fuzzers
-- [Synopsis Defensics](https://www.synopsys.com/software-integrity/security-testing/fuzz-testing.html)
+- [BlackDuck Defensics](https://www.blackduck.com/fuzz-testing.html)
 - [Code Intelligence](https://www.code-intelligence.com/)
 - [Mayhem for Code](https://forallsecure.com/mayhem-for-code)
 - [BeyondSecurity Fuzzer](https://www.beyondsecurity.com/solutions/bestorm-dynamic-application-security-testing)
