@@ -1,5 +1,6 @@
 # Recommended Follow Up O'Reilly Resources for Cybersecurity and AI
-First, checkout the [Foundational Cybersecurity Resources](https://github.com/The-Art-of-Hacking/h4cker/tree/master/foundational_cybersecurity_concepts), if you haven't already done so. The following are some additional resources available on O'Reilly that cover various aspects of ethical hacking, cybersecurity, AI, and their intersection:
+
+✨✨**First**, checkout the [Foundational Cybersecurity Resources](https://github.com/The-Art-of-Hacking/h4cker/tree/master/foundational_cybersecurity_concepts), if you haven't already done so. The following are some additional resources available on O'Reilly that cover various aspects of ethical hacking, cybersecurity, AI, and their intersection:
 
 ## 1. [Red Team and Bug Bounty Conference](https://learning.oreilly.com/videos/red-team-and/9780138324353)
 This conference provides in-depth insights into Red Teaming and Bug Bounty practices. Experts share real-world experiences, techniques, and strategies for identifying and exploiting vulnerabilities, making it an essential resource for ethical hackers and security professionals.
