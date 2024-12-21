@@ -34,6 +34,9 @@ There are many different techniques for prompt injection. The table below lists 
 
 These examples illustrate different methods to bypass prompt restrictions by altering the input in creative ways, such as using different formats, languages, or emotional appeals, to manipulate the AI's response.
 
+### BoN Jailbreaking Technique from Anthropic
+Anthropic published research on a new jailbreaking technique called [“Best-of-N (BoN) Jailbreaking”](https://becomingahacker.org/bon-jailbreaking-technique-from-anthropic-595ef0e43f35) that can bypass safety and security guardrails in large language models (LLMs). A straightforward black-box algorithm designed to bypass safety measures in advanced AI systems across various modalities, including text, vision, and audio. I wrote an article about this technique [here](https://becomingahacker.org/bon-jailbreaking-technique-from-anthropic-595ef0e43f35).
+
 ### Additional References:
 - https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/prompt_injection
 - https://github.com/TakSec/Prompt-Injection-Everywhere
