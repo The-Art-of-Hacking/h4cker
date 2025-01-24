@@ -1,7 +1,7 @@
 # AI Security Research Resources
 
 ## Langchain Resources
-- [Tools, Learning, Notebooks, Bots, Agent examples, etc.](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai_research/LangChain/README.md)
+- [Tools, Learning, Notebooks, Bots, Agent examples, etc.](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/LangChain/README.md)
 
 ## LLM Frameworks
 - [Popular LLM Frameworks](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/LLM-frameworks)
@@ -10,12 +10,12 @@
 This is (by far) the best collection of colab notebooks I have found. A bit overwhelming and I wish I had time to go through most of them… Tons of links to papers, videos, etc.: https://github.com/amrzv/awesome-colab-notebooks
   
 ## AI Security Best Practices and Tools
-- [High-Level AI Security Best Practices](<AI Security Best Practices/AI-security-tools-and-frameworks.md>)
-- [Homomorphic-Encryption](<AI Security Best Practices/homomorphic-encryption.md>)
-- [AI Security Tools and Frameworks](<AI Security Best Practices/AI-security-tools-and-frameworks.md>)
-- [AI Secure Deployment Tips](<AI Security Best Practices/secure-deployment.md>)
-- [AI Secure Design Tips](<AI Security Best Practices/secure-design.md>)
-- [Threat Modeling](<AI Security Best Practices/threat-modeling.md>)
+- [High-Level AI Security Best Practices](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/AI%20Security%20Best%20Practices/AI-security-tools-and-frameworks.md)
+- [Homomorphic-Encryption](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/AI%20Security%20Best%20Practices/homomorphic-encryption.md)
+- [AI Security Tools and Frameworks](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/AI%20Security%20Best%20Practices/AI-security-tools-and-frameworks.md)
+- [AI Secure Deployment Tips](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/AI%20Security%20Best%20Practices/secure-deployment.md)
+- [AI Secure Design Tips](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/AI%20Security%20Best%20Practices/secure-design.md)
+- [Threat Modeling](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/AI%20Security%20Best%20Practices/threat-modeling.md)
 
 ## AI Security Resources from Omar's Training Sessions
 - [Cybersecurity Learning Prompts](https://github.com/santosomar/chatgpt-cybersecurity-prompts)
