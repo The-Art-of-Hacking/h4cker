@@ -40,8 +40,12 @@ _Products that intercept prompts and responses and apply security or privacy rul
 - [Skyflow LLM Privacy Vault](https://www.skyflow.com/product/llm-privacy-vault) - Redacts PII from prompts flowing to LLMs.
 - [Guardrails AI](https://www.guardrailsai.com) - Guardrails runs Input/Output Guards in your application that detect, quantify and mitigate the presence of specific types of risks. [![code](https://img.shields.io/github/license/guardrails-ai/guardrails)](https://github.com/guardrails-ai/guardrails/)
 
+## OWASP Security Resources
+- [OWASP's List of AI Security Tools](https://owaspai.org/docs/5_testing/#open-source-tools-for-predictive-ai-red-teaming)
+
 ## AI Red Teaming Datasets
 - [AttaQ Dataset](https://huggingface.co/datasets/ibm/AttaQ) - a red teaming dataset consisting of 1402 carefully crafted adversarial questions
 
 ## AI Red Teaming Guidance
+- [OWASP AI Testing Guidance](https://owaspai.org/docs/5_testing/)
 - [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
