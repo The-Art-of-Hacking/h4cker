@@ -7,19 +7,19 @@ Adversary emulation is a cybersecurity practice where security professionals rep
 Several tools are available for adversary emulation, each offering unique features and capabilities:
 
 ### **Open-Source Tools**
-1. **[MITRE Caldera](https://github.com/mitre/caldera)**:
+- **[MITRE Caldera](https://github.com/mitre/caldera)**:
    - Automated adversary emulation framework based on the MITRE ATT&CK framework.
    - Features include autonomous red-team engagements, customizable plugins, and support for post-exploitation/post-compromise techniques.
-2. **[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)**:
+- **[Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)**:
    - A library of scripts for simulating adversary behaviors.
    - Focuses on validating detection capabilities but lacks automation by default.
-3. **[Infection Monkey](https://www.akamai.com/infectionmonkey)**:
+- **[Infection Monkey](https://www.akamai.com/infectionmonkey)**:
    - Breach and attack simulation tool with lateral movement and ransomware assessment capabilities.
    - Prioritizes breaching and network-wide infection but generates significant noise.
-4. **[Stratus Red Team](https://stratus-red-team.cloud/)**:
+- **[Stratus Red Team](https://stratus-red-team.cloud/)**:
    - Designed for cloud environments (e.g., AWS, Azure, GCP).
    - Covers tactics like initial access, privilege escalation, and exfiltration but has limited scope.
-5. **[Security Datasets](https://github.com/OTRF/Security-Datasets)**:
+- **[Security Datasets](https://github.com/OTRF/Security-Datasets)**:
    - An open-source initiatve that contributes malicious and benign datasets, from different platforms, to the infosec community to expedite data analysis and threat hunting.
 
 ### **Other Tools**
