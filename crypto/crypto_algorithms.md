@@ -46,3 +46,4 @@ The transition to post-quantum cryptography represents a major shift in cryptogr
 Again, I must emphasize that the field of post-quantum cryptography is evolving, and it is recommended to stay updated with the latest research and guidelines from NIST.
 - NIST Post-Quantum Cryptography Project: https://csrc.nist.gov/projects/post-quantum-cryptography
 - Post Quantum Cryptography (Wikipedia): https://en.wikipedia.org/wiki/Post-quantum_cryptography
+- Information Week Podcast: https://www.youtube.com/watch?v=GvkCrSqSn5g
