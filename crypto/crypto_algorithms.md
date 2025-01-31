@@ -4,13 +4,13 @@ Let's go over the most common encryption and hashing algorithms, and compare the
 ## Hashing Algorithms
 The folloing table that compares some of the most well-known hashing algorithms, along with an indication of whether they are considered to be post-quantum resistant.
 
-| Algorithm Name | Output Size (bits) | Cryptographic | Post-Quantum Ready |
+| Algorithm Name | Output Size (bits) | Post-Quantum Ready |
 |----------------|--------------------|---------------|-------------------|
-| MD5            | 128                | Yes           | No                |
-| SHA-1          | 160                | Yes           | No                |
-| SHA-256        | 256                | Yes           | No                |
-| SHA-3          | 224, 256, 384, 512 | Yes           | Yes (believed to) |
-| BLAKE2         | 256, 512           | Yes           | Yes (believed to) |
+| MD5            | 128                | No                |
+| SHA-1          | 160                |  No                |
+| SHA-256        | 256                |  No                |
+| SHA-3          | 224, 256, 384, 512 |  Yes (believed to) |
+| BLAKE2         | 256, 512           | Yes (believed to) |
 
 
 
