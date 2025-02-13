@@ -35,9 +35,9 @@ for line in lines:
     # Generate the AI response using the GPT-3.5 model (16k)
     # https://beta.openai.com/docs/api-reference/create-completion
     response = openai.ChatCompletion.create(
-      model="gpt-3.5-turbo-16k",
+      model="gpt-4o-mini",
       messages=prompt,
-      max_tokens=15000
+      max_tokens=16000
     )
 
     # print the AI response
