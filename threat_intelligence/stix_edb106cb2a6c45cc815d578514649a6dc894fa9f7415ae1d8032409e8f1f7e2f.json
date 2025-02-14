@@ -1,0 +1,105 @@
+{
+  "type": "bundle",
+  "id": "bundle--b2f9c1f3-5c8e-4c1b-8c5b-1c8f9c1f3e8d",
+  "objects": [
+    {
+      "type": "malware",
+      "id": "malware--edb106cb2a6c45cc815d578514649a6dc894fa9f7415ae1d8032409e8f1f7e2f",
+      "created": "2025-02-14T20:34:32Z",
+      "modified": "2025-02-14T20:34:32Z",
+      "name": "SecuriteInfo.com.Adware.Downware.11276.19796.4860",
+      "is_family": false,
+      "malware_types": ["adware"],
+      "first_seen": "2025-02-14T20:34:32Z",
+      "last_seen": null,
+      "file_size": 17688224,
+      "file_type": "exe",
+      "file_mime_type": "application/x-dosexec",
+      "tags": ["Adware.Generic", "exe", "signed"],
+      "code_signature": [
+        {
+          "subject_cn": "Guang Dong Ji Tong Zhi Neng Ke Ji You Xian Gong Si",
+          "issuer_cn": "GlobalSign GCC R45 CodeSigning CA 2020",
+          "algorithm": "sha256WithRSAEncryption",
+          "valid_from": "2023-07-28T04:23:19Z",
+          "valid_to": "2024-09-19T07:30:08Z",
+          "serial_number": "6641c5ea254c0f89d3bb3353",
+          "thumbprint_algorithm": "SHA256",
+          "thumbprint": "123759a472fcbbd3eaca3ef3a1ebc5c2b1a3d9ef056dfa3ce4ec1f76a1548571"
+        }
+      ],
+      "x_malware_hashes": {
+        "sha256": "edb106cb2a6c45cc815d578514649a6dc894fa9f7415ae1d8032409e8f1f7e2f",
+        "sha3_384": "b00c4926b95c6c1e85cb3c1c652fb1bdca227d31154841ddac4c0f37b79280d3eda322dc90ee0e5686d0caa43c259082",
+        "sha1": "438014d7f256a7ea00d75acc132d2b0ca2bbd3c0",
+        "md5": "903797b2de44370daf15dc1e76dcd74c",
+        "imphash": "48aa5c8931746a9655524f67b25a47ef",
+        "tlsh": "T16B0733413B8304BBF40188398E91B6946E6C75F861F3B4250EB4F66EBB7609B7D307A5",
+        "ssdeep": "393216:4VujzXz9LQvzpDIvvdKuOYrRiy+0qweMUb190wHBUbE/jTYu:YunZeDGvd1rQvbHl/Yu"
+      },
+      "x_malware_trid": [
+        {
+          "type": "trid",
+          "name": ".EXE Inno Setup installer",
+          "confidence": 82.2
+        },
+        {
+          "type": "trid",
+          "name": ".EXE Win64 Executable (generic)",
+          "confidence": 8.0
+        },
+        {
+          "type": "trid",
+          "name": ".EXE Win32 Executable (generic)",
+          "confidence": 3.4
+        },
+        {
+          "type": "trid",
+          "name": ".EXE Win16/32 Executable Delphi generic",
+          "confidence": 1.5
+        },
+        {
+          "type": "trid",
+          "name": ".EXE OS/2 Executable (generic)",
+          "confidence": 1.5
+        }
+      ],
+      "x_malware_intelligence": {
+        "downloads": 578,
+        "uploads": 1
+      }
+    },
+    {
+      "type": "indicator",
+      "id": "indicator--edb106cb-2a6c-45cc-815d-578514649a6d",
+      "created": "2025-02-14T20:34:32Z",
+      "modified": "2025-02-14T20:34:32Z",
+      "name": "Malware SHA256 Hash",
+      "pattern": "[file:hashes.'SHA-256' = 'edb106cb2a6c45cc815d578514649a6dc894fa9f7415ae1d8032409e8f1f7e2f']",
+      "pattern_type": "stix",
+      "valid_from": "2025-02-14T20:34:32Z",
+      "labels": ["malicious-activity"],
+      "created_by_ref": "identity--1f2c3d4e-5e6f-7g8h-9i0j-1k2l3m4n5o6p"
+    },
+    {
+      "type": "observed-data",
+      "id": "observed-data--edb106cb-2a6c-45cc-815d-578514649a6d",
+      "created": "2025-02-14T20:34:32Z",
+      "modified": "2025-02-14T20:34:32Z",
+      "first_observed": "2025-02-14T20:34:32Z",
+      "last_observed": "2025-02-14T20:34:32Z",
+      "number_observed": 1,
+      "objects": {
+        "0": {
+          "type": "file",
+          "hashes": {
+            "SHA-256": "edb106cb2a6c45cc815d578514649a6dc894fa9f7415ae1d8032409e8f1f7e2f"
+          },
+          "name": "SecuriteInfo.com.Adware.Downware.11276.19796.4860",
+          "size": 17688224,
+          "mime_type": "application/x-dosexec"
+        }
+      }
+    }
+  ]
+}
