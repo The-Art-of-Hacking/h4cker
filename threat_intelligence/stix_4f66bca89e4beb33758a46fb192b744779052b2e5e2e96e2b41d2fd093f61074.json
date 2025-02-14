@@ -1,0 +1,88 @@
+{
+  "type": "bundle",
+  "id": "bundle--b4c5e4b3-4c1e-4c9f-8f5e-1f3c8e4c1e4d",
+  "objects": [
+    {
+      "type": "malware",
+      "id": "malware--4f66bca8-9e4b-4beb-3375-8a46fb192b7",
+      "created": "2025-02-14T20:05:11Z",
+      "modified": "2025-02-14T20:34:28Z",
+      "name": "DanaBot",
+      "is_family": false,
+      "malware_types": ["trojan"],
+      "first_seen": "2025-02-14T20:05:11Z",
+      "last_seen": "2025-02-14T20:34:28Z",
+      "labels": ["DanaBot", "exe"],
+      "file_extension": "exe",
+      "architecture": ["x86", "x64"],
+      "sample": {
+        "type": "file",
+        "name": "5db4153d9523b8773529bd898a6deac0.exe",
+        "size": 12546070,
+        "mime_type": "application/x-dosexec",
+        "hashes": {
+          "SHA-256": "4f66bca89e4beb33758a46fb192b744779052b2e5e2e96e2b41d2fd093f61074",
+          "SHA-1": "60572c719979b06664ae2feb8595db2d7a6f18ed",
+          "MD5": "5db4153d9523b8773529bd898a6deac0",
+          "SHA3-384": "e9daf8fc71220290e5c8375e8ce4be73706c9df35349b7a971e584a3f818b630b6114d8185f64bc8bf683c24a3f598dc"
+        },
+        "imphash": "657e40fb09b2c5e277b865a7cf2b8089",
+        "tlsh": "T18BC633326152303BE6F516F3F94092303D7DA2182B589ABAC6C0DC1D3DA8AD26DF7756",
+        "ssdeep": "196608:vlacAz2ASgg6ra9/fXbCiWIOy/CsDv/EfMZeAXfgbkAZocZdlSwhoxT1C1:daNNS76raXDWIHCsDv0yL8LocvlSx1C1",
+        "trid": [
+          {
+            "type": "file_type",
+            "name": "Windows Control Panel Item",
+            "percentage": 68.8
+          },
+          {
+            "type": "file_type",
+            "name": "Win64 Executable",
+            "percentage": 12.5
+          },
+          {
+            "type": "file_type",
+            "name": "Win16 NE executable",
+            "percentage": 6.0
+          },
+          {
+            "type": "file_type",
+            "name": "Win32 Executable",
+            "percentage": 5.3
+          },
+          {
+            "type": "file_type",
+            "name": "OS/2 Executable",
+            "percentage": 2.4
+          }
+        ]
+      }
+    },
+    {
+      "type": "indicator",
+      "id": "indicator--4f66bca8-9e4b-4beb-3375-8a46fb192b8",
+      "created": "2025-02-14T20:05:11Z",
+      "modified": "2025-02-14T20:34:28Z",
+      "pattern": "[file:hashes.'SHA-256' = '4f66bca89e4beb33758a46fb192b744779052b2e5e2e96e2b41d2fd093f61074']",
+      "pattern_type": "stix",
+      "valid_from": "2025-02-14T20:05:11Z",
+      "labels": ["malicious-activity"],
+      "description": "Indicator for DanaBot malware based on SHA-256 hash."
+    },
+    {
+      "type": "observed-data",
+      "id": "observed-data--4f66bca8-9e4b-4beb-3375-8a46fb192b9",
+      "created": "2025-02-14T20:05:11Z",
+      "modified": "2025-02-14T20:34:28Z",
+      "first_observed": "2025-02-14T20:05:11Z",
+      "last_observed": "2025-02-14T20:34:28Z",
+      "number_observed": 1,
+      "objects": {
+        "0": {
+          "type": "malware",
+          "id": "malware--4f66bca8-9e4b-4beb-3375-8a46fb192b7"
+        }
+      }
+    }
+  ]
+}
