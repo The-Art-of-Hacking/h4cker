@@ -79,8 +79,15 @@ deactivate
 apt update -y
 
 #--------------------------------------------------
-# 5) Pull down a sample docker-compose.yml
+# 5) Installing docker and pulling the docker-compose.yml
 #--------------------------------------------------
+
+echo "[+] Installing Docker and Docker Compose..."
+sudo apt install -y docker.io docker-compose
+sudo systemctl enable docker --now
+
+
+
 echo "[+] Fetching docker-compose.yml from WebSploit.org..."
 wget -O /root/docker-compose.yml https://websploit.org/docker-compose.yml
 
