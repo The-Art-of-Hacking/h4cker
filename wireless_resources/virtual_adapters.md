@@ -20,7 +20,7 @@ eth0             UP             172.16.217.170/24 fe80::20c:29ff:fe3c:82b0/64
 I am starting the simulator kernel module with the `modprobe mac80211_hwsim` command:
 
 ```
-root@kali:~# modprobe mac80211_hwsim
+root@kali:~# modprobe mac80211_hwsim radios 8
 ```
 
 After starting the module, the wireless interfaces are shown:
