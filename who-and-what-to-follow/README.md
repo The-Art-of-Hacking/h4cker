@@ -1,7 +1,7 @@
 # Blogs, YouTube Channels, Twitch Streamers, and Podcasts
 
 ## AI Agent
-I created an AI Agent that fetches news from many of these sources and then summarizes them and publish them in a [Webex Room/Space](https://eurl.io/#H13Nz7uJ-).
+I created an AI Agent that fetches news from many of these sources and then summarizes them and publishes them in a [Webex Room/Space](https://eurl.io/#H13Nz7uJ-).
 
 ### Webex Room / Space
 To **Subscribe** to the Webex Room/Space go to: [https://eurl.io/#H13Nz7uJ-](https://eurl.io/#H13Nz7uJ-)
