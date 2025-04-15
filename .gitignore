@@ -1,3 +1,34 @@
+# ignores your personal VS Code workspace settings
 .vscode
+
+# Mac-specific junk file (safe to ignore)
 .DS_Store
+
+# ignores the .env file for that specific subfolder
 ai_security/AI for Incident Response/.env
+
+# 🔧 VS Code settings (personal workspace configs)
+.vscode/
+
+# 🍏 macOS system files
+.DS_Store
+
+# 🪟 Windows system files
+Thumbs.db
+
+# 🔐 Environment variables (for any folder)
+.env              # main .env file
+.env.*            # any variant like .env.local, .env.dev, etc.
+
+# 🐍 Python cache and compiled files
+__pycache__/      # Python bytecode cache folder
+*.py[cod]         # .pyc, .pyo, etc.
+
+# 📦 Node.js dependencies (if using Node/JavaScript)
+node_modules/     # installed packages folder
+
+# 🪵 Log files
+*.log             # any file ending with .log
+
+# 💼 Project-specific secret config (already included in yours)
+ai_security/AI for Incident Response/.env  # specific env file for a subfolder
