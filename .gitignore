@@ -1,7 +1,7 @@
 # ignores your personal VS Code workspace settings
 .vscode
 
-# Mac-specific junk file (safe to ignore)
+# Mac-specific junk file (safe to ignore / not applicable to windows)
 .DS_Store
 
 # ignores the .env file for that specific subfolder
