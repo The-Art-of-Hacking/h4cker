@@ -1,32 +1,34 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
+# Vagrant configuration file for setting up a Kali Linux VM with WebSploit Labs installed
 Vagrant.configure("2") do |config|
 
-#Box settings
+  # Box Settings
+  # Use the official Kali Linux rolling release Vagrant box
   config.vm.box = "kalilinux/rolling"
-  
-# Example for VirtualBox:
-#
+
+  # Provider Settings (VirtualBox)
   config.vm.provider "virtualbox" do |vb|
-    # Display the VirtualBox GUI when booting the machine
+    # Enable the VirtualBox GUI during boot (set to 'false' for headless mode)
     vb.gui = true
 
-    # Customize the amount of memory on the VM:
+    # Allocate memory (RAM) for the VM (in MB)
     vb.memory = "4096"
-    vb.cpus = "4"
 
-  # config.vm.network "private_network", ip: "10.1.1.1"
-    
+    # Allocate number of CPU cores for the VM
+    vb.cpus = 4
+
+    # Optional: Manually assign a private network IP if needed
+    # Uncomment the following line if you want to use a static IP address
+    # config.vm.network "private_network", ip: "10.1.1.1"
   end
 
-
-
-  # Enable provisioning with a shell script. Additional provisioners such as
-  # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
-  # documentation for more information about their specific syntax and use.
+  # Provisioning
+  # Automatically run a shell script after the VM is up to install WebSploit Labs
   config.vm.provision "shell", inline: <<-SHELL
-  curl -sSL https://websploit.org/install.sh | sudo bash 
-
+    curl -sSL https://websploit.org/install.sh | sudo bash
   SHELL
+
 end
+
