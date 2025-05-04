@@ -2,7 +2,7 @@
 The following are the cracked passwords of the exercise "Cracking Passwords with John the Ripper" of the O'Reilly Live Training: Ethical Hacking Bootcamp by Omar Santos
 
 ```
-root@kali:~# john hashes
+~$ john hashes
 Warning: detected hash type "sha512crypt", but the string is also recognized as "crypt"
 Use the "--format=crypt" option to force loading these as that type instead
 Using default input encoding: UTF-8
