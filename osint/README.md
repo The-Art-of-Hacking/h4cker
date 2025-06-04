@@ -32,6 +32,7 @@ Ethical hackers document their findings and provide insights to organizations on
 - [Scrapy](https://scrapy.org)
 - [Screaming Frog](https://www.screamingfrog.co.uk)
 - [Shodan](https://shodan.io)
+- [SubdomainRadar](https://subdomainradar.io)
 - [SpiderFoot](http://spiderfoot.net)
 - [theHarvester](https://github.com/laramies/theHarvester)
 - [Visual SEO Studio](https://visual-seo.com/)
@@ -88,6 +89,7 @@ Ethical hackers document their findings and provide insights to organizations on
 - h8mail: https://github.com/khast3x/h8mail
 - Hudson Rock: https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 - LeakLooker: https://github.com/woj-ciech/LeakLooker
+- LeakRadar: https://leakradar.io
 - PwnDB: https://github.com/davidtavarez/pwndb
 - Scavenger: https://github.com/rndinfosecguy/Scavenger
 - WhatBreach: https://github.com/Ekultek/WhatBreach
