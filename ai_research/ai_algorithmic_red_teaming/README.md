@@ -17,6 +17,11 @@ AI Algorithmic Red Teaming is a structured, adversarial testing process that sim
 - **Contribute to AI safety and governance** efforts by documenting and mitigating critical risks
 
 ---
+## OWASP and Cloud Security Alliance (CSA) Guidance
+- [Guidance from the OWASP Generative AI Security Project](https://genai.owasp.org/initiatives/#ai-redteaming)
+- [Guidance from CSA](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
+
+---
 
 ## 🧩 Key Components
 
