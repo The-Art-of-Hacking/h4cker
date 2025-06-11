@@ -22,6 +22,7 @@ Ethical hackers document their findings and provide insights to organizations on
 ## Passive Recon Tools:
 - [AMass](https://github.com/OWASP/Amass)
 - [Deepinfo (commercial tool)](https://deepinfo.com)
+- [EXIF Editor](https://exifeditor.io)
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [ExtractMetadata](http://www.extractmetadata.com)
 - [Findsubdomains](https://findsubdomains.com/)
