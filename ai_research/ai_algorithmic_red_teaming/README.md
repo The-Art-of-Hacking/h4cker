@@ -59,7 +59,7 @@ AI Algorithmic Red Teaming is a structured, adversarial testing process that sim
 - Embedding models and vector databases
 - Retrieval-Augmented Generation (RAG) systems
 - Plugin-based LLM architectures
-- Agentic AI frameworks (e.g., CrewAI, AutoGen, LangGraph, etc.)
+- Agentic AI frameworks (e.g., CrewAI, AutoGen, LangGraph, and others)
 - Proprietary models in deployment environments
 
 ---
