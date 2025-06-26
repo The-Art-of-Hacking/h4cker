@@ -1,0 +1,14 @@
+name: Link Check
+
+on:
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lycheeverse/lychee-action@v1
+        with:
+          args: --config lychee.toml --no-progress --verbose './**/*.md'
