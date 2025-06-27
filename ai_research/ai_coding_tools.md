@@ -2,31 +2,24 @@
 
 The following is a non-exhaustive list of the AI tools that can help with coding:
 
-- **[AIXcoder](https://www.aixcoder.com/)** - An AI-powered code completion tool.
-- **[AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)** - A coding AI from DeepMind.
-- **[AskCodi](https://askcodi.com/)** - An AI assistant for developers.
-- **[Augment Code](https://www.augmentcode.com/)** - An AI powered IDE. Autonomous software agents,
-in your IDE and the cloud.
-- **[ChatGPT](https://www.openai.com/chatgpt)** - Of course ChatGPT, Claude, and many open source models can generate code.
-- **[Code Llama (Meta)](https://meta.com/)** - Meta's AI tool for coding.
-- **[CodeT5](https://huggingface.co/models)** - A pre-trained model for code understanding and generation.
-- **[CodeWhisperer (Amazon)](https://aws.amazon.com/codewhisperer/)** - An AI coding companion by Amazon.
-- **[Codiga](https://codiga.io/)** - An AI tool for code analysis.
-- **[Cody (Sourcegraph)](https://sourcegraph.com/cody)** - An AI coding assistant by Sourcegraph.
-- **[Cursor](https://www.cursor.com/)** - AI coding assistant.
-- **[Deepcode](https://www.deepcode.ai/)** - An AI-powered code review tool.
-- **[GitHub Copilot](https://copilot.github.com/)** - An AI pair programmer powered by OpenAI Codex.
-- **[Jedi](https://jedi.readthedocs.io/en/latest/)** - An autocompletion tool for Python.
-- **[OpenAI Codex](https://www.openai.com/codex)** - Codex takes on many tasks in parallel, like writing features, answering codebase questions, running tests, and proposing PRs for review.
-- **[Polycoder](https://polycoder.github.io/)** - An open-source AI coding tool.
-- **[Ponicode](https://ponicode.com/)** - AI-assisted code quality and unit test generation.
-- **[PyCharm](https://www.jetbrains.com/pycharm/)** - An IDE with AI capabilities for Python.
-- **[Smol Developer](https://smoldev.app/)** - An AI tool for small coding tasks.
-- **[SourceGraph](https://sourcegraph.com/)** - Great at indexing multiple code repos and include advanced agent capabilities.
-- **[Stable Code 3B](https://stability.ai/)** - An AI code generation model by Stability AI.
-- **[Tabnine](https://www.tabnine.com/)** - An AI code completion tool.
-- **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)** - AI-assisted code suggestions.
-- **[Wing Python IDE Pro](https://wingware.com/)** - A Python IDE with smart editing features.
-- **[Windsurf](https://windsurf.com/)** - a great IDE and agent (Cascade) with advanced AI coding tools.
-- **[WPCode](https://wpcode.com/)** - AI coding assistant for WordPress.
+| Tool            | Core Features                                                                                  | AI Models Supported                        | IDE/Platform                | Collaboration    | Pricing (as of 2025)                | Notable Strengths                                            |
+|-----------------|-----------------------------------------------------------------------------------------------|--------------------------------------------|-----------------------------|------------------|--------------------------------------|--------------------------------------------------------------|
+| Cursor          | AI code completion, chat, codebase context, test/doc generation, `.cursorrules`                | GPT-4, Claude 3.5 Sonnet                   | VS Code-based               | No               | Free, $20/mo Pro                     | Deep context, multi-model, rules system                      |
+| Windsurf        | Agentic AI, autonomous task execution, multiplayer, multi-language                             | Claude 3.5, GPT-4o, others                 | Custom editor               | Yes              | Free tier, Pro plan                  | Autonomous agents, real-time collab                          |
+| Zed             | Fast Rust-based editor, AI code, multiplayer, GPU accel, local models via Ollama               | Claude 3.5 Sonnet, local LLMs              | Custom (Rust)               | Yes              | Free, hosted options                 | Speed, open source, local AI support                         |
+| GitHub Copilot  | Code completion, PR summaries, chat, multi-language, IDE integration                           | GPT-4o, OpenAI models                      | VS Code, JetBrains, etc     | No               | Free tier, $10/mo Pro, $19 Biz        | GitHub native, PR tools, broad support                       |
+| OpenAI Codex    | Cloud-based agent, GitHub repo ops, autonomous tasks, logging, parallel tasks                  | codex-1 (OpenAI o3)                        | Cloud/Browser               | No               | ChatGPT Pro/Team/Enterprise           | Autonomous, cloud execution, PR mgmt                         |
+| Augment Code    | Deep codebase context, memories, 200K context, tool integrations, multi-modal input            | Claude 3.5, GPT-4o, others                 | Web/Cloud                   | Yes              | Enterprise/team pricing               | Deep context, tool integrations                              |
+| Sourcegraph Cody| Code search, context filters, multi-model, enterprise, prompts                                 | Claude 3.5, GPT-4o, others                 | VS Code, JetBrains          | Yes              | Free, Pro, Enterprise                 | Code search, large org focus                                 |
+| Tabnine         | Code completion, privacy, multi-IDE, private models                                            | Proprietary, OpenAI, others                | VS Code, JetBrains, etc     | No               | $9/mo Pro, $39/mo Enterprise          | Privacy, local models, multi-IDE                             |
+| Aider           | Terminal AI, Git integration, multi-file, voice, code mapping                                  | Claude, GPT-4o, DeepSeek, local            | Terminal                    | No               | Pay-per-use API                       | Terminal/CLI, git ops, voice                                 |
+| Continue.dev    | Open-source, multi-model, context mgmt, IDE integration, privacy                               | Any LLM (local/cloud)                      | VS Code, JetBrains          | No               | Free (API/model costs only)            | Open source, privacy, extensibility                          |
+| Replit AI Agent | Full-stack app gen, browser-based, chat, deployment                                            | GPT-4o, Claude 3.5, others                 | Browser                     | Yes              | Usage-based, free basic                | Full-stack, browser, deployment                              |
+| Bolt.new        | Full-stack, browser, live preview, WebContainer, deployment                                    | GPT-4o, Claude 3.5, others                 | Browser                     | Yes              | Usage-based (StackBlitz)               | No setup, browser, live testing                              |
+| PearAI          | VS Code-based, privacy, self-host, built-in Aider/Perplexity                                   | Claude, GPT-4o, others                     | VS Code                     | Yes              | Open-source, self-host                 | Privacy, open source, integrations                           |
+| CodeGPT         | Custom AI agents, marketplace, privacy, screenshot input                                       | GPT-4o, Claude, others                     | Web/Cloud                   | Yes              | Tiered, self-host options              | Custom agents, privacy, marketplace                          |
+| **Cline**       | Plan/Act modes, code/terminal ops, MCP tool integration, browser automation, rollback/checkpoints | Claude 3.5/3.7 Sonnet, GPT-4, Gemini, local, OpenRouter | VS Code, Terminal           | No               | Free, pay-as-you-go model API usage    | Deep system integration, model flexibility, MCP ecosystem    |
+| **Claude Code** | Terminal-native agent, deep codebase awareness, multi-file ops, git/PR, reasoning transparency | Claude Opus 4, Sonnet 4, via API/Vertex AI | Terminal, VS Code, JetBrains| No               | Opus: $15/$75/M tokens; Sonnet: $3/$15/M tokens | Deep reasoning, agentic ops, privacy-first, instant search   |
+| **Warp**        | AI terminal, command/ops suggestions, agent mode, debugging, block UX, pair programming        | Claude 3.7 Sonnet, o3, others (configurable)| Terminal (macOS, Win, Linux)| Yes (block sharing) | Freemium                                 | AI/agentic terminal, error fixing, DevOps, privacy/local AI  |
+
 
