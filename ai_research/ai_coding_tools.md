@@ -5,6 +5,8 @@ The following is a non-exhaustive list of the AI tools that can help with coding
 - **[AIXcoder](https://www.aixcoder.com/)** - An AI-powered code completion tool.
 - **[AlphaCode](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)** - A coding AI from DeepMind.
 - **[AskCodi](https://askcodi.com/)** - An AI assistant for developers.
+- **[Augment Code](https://www.augmentcode.com/)** - An AI powered IDE. Autonomous software agents,
+in your IDE and the cloud.
 - **[ChatGPT](https://www.openai.com/chatgpt)** - Of course ChatGPT, Claude, and many open source models can generate code.
 - **[Code Llama (Meta)](https://meta.com/)** - Meta's AI tool for coding.
 - **[CodeT5](https://huggingface.co/models)** - A pre-trained model for code understanding and generation.
@@ -15,14 +17,16 @@ The following is a non-exhaustive list of the AI tools that can help with coding
 - **[Deepcode](https://www.deepcode.ai/)** - An AI-powered code review tool.
 - **[GitHub Copilot](https://copilot.github.com/)** - An AI pair programmer powered by OpenAI Codex.
 - **[Jedi](https://jedi.readthedocs.io/en/latest/)** - An autocompletion tool for Python.
-- **[OpenAI Codex](https://www.openai.com/research/codex)** - Converts natural language to code.
+- **[OpenAI Codex](https://www.openai.com/codex)** - Codex takes on many tasks in parallel, like writing features, answering codebase questions, running tests, and proposing PRs for review.
 - **[Polycoder](https://polycoder.github.io/)** - An open-source AI coding tool.
 - **[Ponicode](https://ponicode.com/)** - AI-assisted code quality and unit test generation.
 - **[PyCharm](https://www.jetbrains.com/pycharm/)** - An IDE with AI capabilities for Python.
 - **[Smol Developer](https://smoldev.app/)** - An AI tool for small coding tasks.
+- **[SourceGraph](https://sourcegraph.com/)** - Great at indexing multiple code repos and include advanced agent capabilities.
 - **[Stable Code 3B](https://stability.ai/)** - An AI code generation model by Stability AI.
 - **[Tabnine](https://www.tabnine.com/)** - An AI code completion tool.
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)** - AI-assisted code suggestions.
 - **[Wing Python IDE Pro](https://wingware.com/)** - A Python IDE with smart editing features.
+- **[Windsurf](https://windsurf.com/)** - a great IDE and agent (Cascade) with advanced AI coding tools.
 - **[WPCode](https://wpcode.com/)** - AI coding assistant for WordPress.
 
