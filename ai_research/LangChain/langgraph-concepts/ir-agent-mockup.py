@@ -319,16 +319,16 @@ def action_execution_node(state: IncidentState) -> IncidentState:
     print("\n--- Node: Action Execution ---")
     executed_results = []
     for action in state["human_approved_actions"]:
-        if "Block IP" in action:
-            ip = action.split(" ")[2]
+        if action["type"] == "block_ip":
+            ip = action["parameters"]["ip_address"]
             result = firewall_block_ip.invoke({"ip_address": ip})
             executed_results.append(result)
-        elif "Isolate host" in action:
-            hostname = action.split(" ")[2].replace(".", "") # Remove dot for mock tool
+        elif action["type"] == "isolate_host":
+            hostname = action["parameters"]["hostname"].replace(".", "") # Remove dot for mock tool
             result = isolate_host.invoke({"hostname": hostname})
             executed_results.append(result)
-        elif "Revoke credentials" in action:
-            user_id = action.split(" ")[3].replace(".", "") # Remove dot for mock tool
+        elif action["type"] == "revoke_credentials":
+            user_id = action["parameters"]["user_id"].replace(".", "") # Remove dot for mock tool
             result = iam_revoke_credentials.invoke({"user_id": user_id})
             executed_results.append(result)
         # Add more action types as needed
