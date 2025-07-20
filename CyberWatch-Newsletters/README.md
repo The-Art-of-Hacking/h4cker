@@ -5,7 +5,7 @@
 The AI agent automatically creates comprehensive [daily newsletters](https://github.com/santosomar/cyberwatch-daily-newsletters) by analyzing multiple feeds from leading and trusted cybersecurity sources. This AI agent transforms raw news articles into structured, professional [newsletters](https://github.com/santosomar/cyberwatch-daily-newsletters) with detailed threat intelligence analysis.
 
 
-## 🧠 AI Processing 
+## 🧠 AI Processing
 
 ### **Newsletter Generation**
 - **Analysis Depth**: Groups articles by security domain (vulnerabilities, AI security, enterprise, etc.)
