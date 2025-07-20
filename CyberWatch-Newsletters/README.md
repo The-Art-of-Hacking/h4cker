@@ -9,6 +9,10 @@ The AI agent automatically creates comprehensive [daily newsletters](https://git
 
 ### **Newsletter Generation**
 - **Analysis Depth**: Groups articles by security domain (vulnerabilities, AI security, enterprise, etc.)
+- **Data Collection**: Aggregates news articles from multiple trusted cybersecurity sources.
+- **Content Structuring**: Organizes information into a professional newsletter format with clear sections.
+- **Formatting**: Ensures readability and consistency with a polished layout.
+- **Automation**: Leverages AI to streamline the entire process, reducing manual effort.
 
 #### **Threat Intelligence Analysis**  
 - **System Prompt**: Technical instructions for security analyst audience
