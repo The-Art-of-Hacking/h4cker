@@ -63,6 +63,12 @@ If no port range is specified, Nmap scans the 1,000 most popular ports.
 - `--min-rate <number>`: Send packets no slower than `<number>` per second
 - `--max-rate <number>`: Send packets no faster than `<number>` per second
 
+## Decoy IP Addresses
+The command `nmap -D RND:10,target_ip` uses Nmap's **decoy scanning** feature, with `-D` specifying decoys.  `RND:10` instructs Nmap to generate 10 random decoy IP addresses in addition to your real IP. This technique is specifically used for **"IDS/IPS evasion"**.
+
+When you use this command, Nmap sends probes to the target from both your real IP and the set of decoy IPs. To the target’s IDS, it appears as if multiple different hosts (yourself and the decoys) are simultaneously scanning it, making it difficult to determine which IP is the actual source of the scan.
+Modern IDS solutions may flag all the scanning IPs, or SYN-flood protections might trigger if the number of decoys is high. Additionally, the success of this technique can depend on the IDS/IPS/security tool configuration and whether spoofed packets can traverse the network to the target.
+
 ## Nmap Scripting Engine
 
 The full list of Nmap Scripting Engine scripts: http://nmap.org/nsedoc/
