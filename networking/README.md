@@ -81,7 +81,7 @@ by James Forshaw.
 ### Remote access and sharing tools
 
 * [Remmina](https://remmina.org/) - An open source remote access tool. It supports RDP, SSH, VNC, and other protocols for remote access.
-* [PuTTY](https://www.putty.org/) - One of the most popular SSH and Telnet clients for Windows.
+* [PuTTY](https://putty.software/) - One of the most popular SSH and Telnet clients for Windows.
 * [FileZilla](https://filezilla-project.org/) - An open source tool for file transfer. Support FTP, FTPS and SFTP protocols.
 * [WinSCP](https://winscp.net/eng/index.php) - A popular SFTP client and FTP client for Windows.
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - A commercial SSH and Telnet client and terminal emulator by VanDyke Software.
