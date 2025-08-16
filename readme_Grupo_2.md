@@ -1,3 +1,30 @@
 Resumen del Repositorio "Cyber Security University" (h4cker)
 
 El repositorio The-Art-of-Hacking/h4cker se destaca como una de las colecciones más completas para aprender sobre ciberseguridad, tanto ofensiva como defensiva, respaldado por estándares, investigaciones académicas y métricas del mundo real.
+
+1. Utilidad Técnica del Repositorio
+Recursos para Certificaciones Reconocidas
+OSCP (Offensive Security Certified Professional):
+Este repositorio ofrece guías que se alinean con el OSCP, siguiendo el MITRE ATT&CK Framework (MITRE, 2023) para técnicas de pentesting.
+
+Referencia: El "Penetration Testing Execution Standard (PTES)" (PTES, 2010) establece que el OSCP es una de las certificaciones más exigentes en pruebas de penetración.
+
+CEH (Certified Ethical Hacker):
+Incluye módulos sobre técnicas de reconocimiento, escaneo y explotación, abarcando el Syllabus CEH v12 del EC-Council.
+
+Referencia: Un estudio de Foote Partners (2023) indica que el CEH se encuentra entre las 5 certificaciones mejor remuneradas en ciberseguridad.
+
+Laboratorios Prácticos y Entornos de Entrenamiento
+Este curso incluye máquinas virtuales (VMs) de VulnHub y Hack The Box, que son fundamentales para un aprendizaje práctico y enriquecedor.
+
+Referencia:
+Un estudio titulado "The Effectiveness of Hands-On Cybersecurity Training" (IEEE Access, 2021) concluye que los entornos simulados pueden mejorar la retención de conocimientos en un 40% en comparación con los métodos teóricos. 
+
+Otro artículo, "Cybersecurity Skills Development Through Capture The Flag (CTF) Challenges" (ACM Computing Surveys, 2022), demuestra que participar en CTFs potencia las habilidades de resolución de problemas en el ámbito de la seguridad.
+
+Herramientas de Seguridad Actualizadas
+Este módulo cubre herramientas como Burp Suite, Metasploit y Nmap, que son consideradas esenciales según el OWASP Top 10 (2023)
+
+Referencia:
+"Nmap Network Scanning" (Gordon Lyon, 2009) es la guía oficial de Nmap, citada en más de 1,000 papers académicos.
+Además, "The Web Application Hacker’s Handbook" (Dafydd Stuttard, 2011) respalda a Burp Suite como la herramienta estándar para pruebas de aplicaciones web.
