@@ -45,6 +45,7 @@ Referencia:
 "Crowdsourced Knowledge in Cybersecurity Education" (Usenix Security, 2022) examina cómo los repositorios de GitHub son valorados por expertos en foros técnicos.
 
 3. Conclusión con Base Técnica y Académica
+
 Se eligió el repositorio de H4Cker porque: 
 Cumple con todos los estándares más relevantes como NIST, MITRE ATT&CK y OWASP. 
 Presenta estadísticas sólidas en GitHub, con mucha actividad y mantenimiento. 
