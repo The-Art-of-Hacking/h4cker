@@ -47,21 +47,33 @@ Referencia:
 3. Conclusión con Base Técnica y Académica
 
 Se eligió el repositorio de H4Cker porque: 
+
 Cumple con todos los estándares más relevantes como NIST, MITRE ATT&CK y OWASP. 
 Presenta estadísticas sólidas en GitHub, con mucha actividad y mantenimiento. 
 Cuenta con validación empírica (estudios de IEEE, ACM, SANS). 
 Es mencionado en círculos tecnológicos, como en Reddit y Hacker News.
 
+
 Fuentes Citadas
+
 MITRE. (2023). MITRE ATT&CK Framework. https://attack.mitre.org/
+
 PTES. (2010). Penetration Testing Execution Standard. http://www.pentest-standard.org/
+
 Foote Partners. (2023). IT Skills and Certifications Pay Index.
+
 IEEE Access. (2021). "The Effectiveness of Hands-On Cybersecurity Training". DOI: 10.1109/ACCESS.2021.XXXXXX
+
 ACM Computing Surveys. (2022). "Cybersecurity Skills Development Through CTFs".
+
 Lyon, G. (2009). Nmap Network Scanning. No Starch Press.
+
 Stuttard, D. (2011). The Web Application Hacker’s Handbook. Wiley.
+
 IEEE Software. (2023). "Open Source Security Tools: Adoption Trends".
+
 Usenix Security. (2022). "Crowdsourced Knowledge in Cybersecurity"s.
+
 SANS Institute. (2023). "Cybersecurity Training Preferences Survey".
 
 
