@@ -60,5 +60,9 @@ ACM Computing Surveys. (2022). "Cybersecurity Skills Development Through CTFs".
 Lyon, G. (2009). Nmap Network Scanning. No Starch Press.
 Stuttard, D. (2011). The Web Application Hacker’s Handbook. Wiley.
 IEEE Software. (2023). "Open Source Security Tools: Adoption Trends".
-Usenix Security. (2022). "Crowdsourced Knowledge in Cybersecurity".
+Usenix Security. (2022). "Crowdsourced Knowledge in Cybersecurity"s.
 SANS Institute. (2023). "Cybersecurity Training Preferences Survey".
+
+
+
+
