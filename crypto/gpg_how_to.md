@@ -60,7 +60,7 @@ Subkey-Length: 4096
 Name-Real: Your Full Name
 Name-Email: your.email@example.com
 Expire-Date: 2y
-Passphrase: your_secure_passphrase
+Passphrase: PASSPHRASE_FROM_SECURE_SOURCE
 %commit
 EOF
 ```
