@@ -112,8 +112,8 @@ openssl x509 -in certificate.crt -text -noout
 openssl x509 -in certificate.crt -noout -dates
 
 # Verify certificate against private key
-openssl x509 -noout -modulus -in certificate.crt | openssl md5
-openssl rsa -noout -modulus -in private.key | openssl md5
+openssl x509 -noout -modulus -in certificate.crt | openssl sha256
+openssl rsa -noout -modulus -in private.key | openssl sha256
 ```
 
 ### Certificate Chain Validation
