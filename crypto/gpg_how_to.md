@@ -290,6 +290,14 @@ gpg --check-trustdb
 
 ## Backup and Recovery Procedures
 
+⚠️ **CRITICAL SECURITY NOTICE**: Private key backups are extremely sensitive. Any compromise of a backup exposes your entire cryptographic identity. Always follow these principles:
+
+- **Never digitally photograph or scan private keys**
+- **Avoid QR codes for private key storage** (easily captured by cameras)
+- **Use secure, offline storage methods only**
+- **Test recovery procedures regularly**
+- **Consider the physical security of backup locations**
+
 ### Backing Up Keys
 
 ```bash
@@ -319,15 +327,28 @@ tar czf - ~/.gnupg | gpg --symmetric --cipher-algo AES256 > gnupg_backup.tar.gz.
 gpg --decrypt gnupg_backup.tar.gz.gpg | tar xzf - -C ~/
 ```
 
-#### Method 2: Paper Backup
+#### Method 2: Paper Backup (Recommended for Offline Storage)
+
+⚠️ **SECURITY WARNING**: Never create QR codes of private keys! QR codes can be easily photographed or scanned by unauthorized parties, potentially exposing your private key.
 
 ```bash
-# Generate paper backup with QR codes
-gpg --export-secret-keys --armor KEY_ID | qrencode -o key_backup.png
-
-# Or use paperkey for compact paper backup
+# RECOMMENDED: Use paperkey for secure, human-readable paper backup
 gpg --export-secret-keys KEY_ID | paperkey --output-type raw > key_backup.txt
+
+# Alternative: Export in ASCII armor format for manual transcription
+gpg --export-secret-keys --armor KEY_ID > key_backup.asc
+
+# Print the text file and store in a secure, offline location
+# Consider splitting the backup across multiple secure locations
 ```
+
+**Paper Backup Best Practices:**
+- Use paperkey for compact, human-readable format
+- Print on acid-free paper for longevity
+- Store in multiple secure, geographically distributed locations
+- Consider lamination or other physical protection
+- Never photograph or scan the backup
+- Test recovery process periodically
 
 #### Method 3: Hardware Security Module (HSM)
 
