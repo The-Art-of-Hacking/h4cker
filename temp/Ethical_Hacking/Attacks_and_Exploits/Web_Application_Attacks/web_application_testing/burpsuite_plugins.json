@@ -1,0 +1,1067 @@
+[
+  {
+    "name": "Active Scan++",
+    "url": "https://github.com/albinowax/ActiveScanPlusPlus",
+    "description": "ActiveScan++ extends Burp Suite's active and passive scanning capabilities."
+  },
+  {
+    "name": "Burp Vulners Scanner",
+    "url": "https://github.com/vulnersCom/burp-vulners-scanner",
+    "description": "Vulnerability scanner based on vulners.com search API."
+  },
+  {
+    "name": "Additional Scanner checks",
+    "url": "https://github.com/portswigger/additional-scanner-checks",
+    "description": "Collection of scanner checks missing in Burp."
+  },
+  {
+    "name": "CSRF Scanner",
+    "url": "https://github.com/ah8r/csrf",
+    "description": "CSRF Scanner Extension for Burp Suite Pro."
+  },
+  {
+    "name": "HTML5 Auditor",
+    "url": "https://github.com/PortSwigger/html5-auditor",
+    "description": "This extension checks for usage of HTML5 features that have potential security risks."
+  },
+  {
+    "name": "Software Version Reporter",
+    "url": "https://github.com/augustd/burp-suite-software-version-checks",
+    "description": "Burp extension to passively scan for applications revealing software version numbers."
+  },
+  {
+    "name": "J2EEScan",
+    "url": "https://github.com/ilmila/J2EEScan",
+    "description": "J2EEScan is a plugin for Burp Suite Proxy. The goal of this plugin is to improve the test coverage during web application penetration tests on J2EE applications."
+  },
+  {
+    "name": "Java Deserialization Scanner",
+    "url": "https://github.com/federicodotta/Java-Deserialization-Scanner",
+    "description": "All-in-one plugin for Burp Suite for the detection and the exploitation of Java deserialization vulnerabilities."
+  },
+  {
+    "name": "CSP Bypass",
+    "url": "https://github.com/moloch--/CSP-Bypass",
+    "description": "A Burp Plugin for Detecting Weaknesses in Content Security Policies."
+  },
+  {
+    "name": "Burp Sentinel",
+    "url": "https://github.com/dobin/BurpSentinel",
+    "description": "GUI Burp Plugin to ease discovering of security holes in web applications."
+  },
+  {
+    "name": "Backslash Powered Scanner",
+    "url": "https://github.com/PortSwigger/backslash-powered-scanner",
+    "description": "Finds unknown classes of injection vulnerabilities."
+  },
+  {
+    "name": "Collaborator Everywhere",
+    "url": "https://github.com/PortSwigger/collaborator-everywhere",
+    "description": "A Burp Suite Pro extension which augments your proxy traffic by injecting non-invasive headers designed to reveal backend systems by causing pingbacks to Burp Collaborator."
+  },
+  {
+    "name": "Burp Molly Pack",
+    "url": "https://github.com/yandex/burp-molly-pack",
+    "description": "Security checks pack for Burp Suite."
+  },
+  {
+    "name": "Noopener Burp Extension",
+    "url": "https://github.com/snoopysecurity/Noopener-Burp-Extension",
+    "description": "Find Target=_blank values within web pages that are set without noopener and noreferrer attributes."
+  },
+  {
+    "name": "ActiveScan3Plus",
+    "url": "https://github.com/silentsignal/ActiveScan3Plus",
+    "description": "Modified version of ActiveScan++ Burp Suite extension."
+  },
+  {
+    "name": "Burp Image Size",
+    "url": "https://github.com/silentsignal/burp-image-size",
+    "description": "Image size issues plugin for Burp Suite."
+  },
+  {
+    "name": "UUID issues for Burp Suite",
+    "url": "https://github.com/silentsignal/burp-uuid",
+    "description": "UUID issues for Burp Suite."
+  },
+  {
+    "name": "JSON array issues for Burp Suite",
+    "url": "https://github.com/silentsignal/burp-json-array",
+    "description": "JSON Array issues plugin for Burp Suite."
+  },
+  {
+    "name": "Burp Retire JS",
+    "url": "https://github.com/h3xstream/burp-retire-js",
+    "description": "Burp/ZAP/Maven extension that integrate Retire.js repository to find vulnerable Javascript libraries."
+  },
+  {
+    "name": "SOMEtime",
+    "url": "https://github.com/linkedin/sometime",
+    "description": "A BurpSuite plugin to detect Same Origin Method Execution vulnerabilities."
+  },
+  {
+    "name": "HTTPoxy Scanner",
+    "url": "https://github.com/PortSwigger/httpoxy-scanner",
+    "description": "A Burp Suite extension that checks for the HTTPoxy vulnerability."
+  },
+  {
+    "name": "ParrotNG",
+    "url": "https://github.com/ikkisoft/ParrotNG",
+    "description": "ParrotNG is a tool capable of identifying Adobe Flex applications (SWF) vulnerable to CVE-2011-2461."
+  },
+  {
+    "name": "Error Message Checks",
+    "url": "https://github.com/augustd/burp-suite-error-message-checks",
+    "description": "Burp Suite extension to passively scan for applications revealing server error messages."
+  },
+  {
+    "name": "Identity Crisis",
+    "url": "https://github.com/EnableSecurity/Identity-Crisis",
+    "description": "A Burp Suite extension that checks if a particular URL responds differently to various User-Agent headers."
+  },
+  {
+    "name": "CSP Auditor",
+    "url": "https://github.com/GoSecure/csp-auditor",
+    "description": "Burp and ZAP plugin to analyse Content-Security-Policy headers or generate template CSP configuration from crawling a Website."
+  },
+  {
+    "name": "Burp Suite GWT Scan",
+    "url": "https://github.com/augustd/burp-suite-gwt-scan",
+    "description": "Burp Suite plugin identifies insertion points for GWT (Google Web Toolkit) requests."
+  },
+  {
+    "name": "Minesweeper",
+    "url": "https://github.com/codingo/Minesweeper",
+    "description": "A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 14000+ malicious cryptocurrency mining domains (cryptojacking)."
+  },
+  {
+    "name": "Yara",
+    "url": "https://portswigger.net/bappstore/11e2ec6923f2497db9c18ec92492c63a",
+    "description": "This extension allows you to perform on-demand Yara scans of websites within the Burp interface based on custom Yara rules that you write or obtain."
+  },
+  {
+    "name": "WordPress Scanner",
+    "url": "https://portswigger.net/bappstore/77a12b2966844f04bba032de5744cd35",
+    "description": "Find known vulnerabilities in WordPress plugins and themes using WPScan database."
+  },
+  {
+    "name": "Web Cache Deception Burp Extension",
+    "url": "https://portswigger.net/bappstore/7c1ca94a61474d9e897d307c858d52f0",
+    "description": "This extension tests applications for the Web Cache Deception vulnerability."
+  },
+  {
+    "name": "UUID Detector",
+    "url": "https://portswigger.net/bappstore/65f32f209a72480ea5f1a0dac4f38248",
+    "description": "This extension passively reports UUID/GUIDs observed within HTTP requests."
+  },
+  {
+    "name": "Software Vulnerability Scanner",
+    "url": "https://portswigger.net/bappstore/c9fb79369b56407792a7104e3c4352fb",
+    "description": "This extension scans for vulnerabilities in detected software versions using the Vulners.com API."
+  },
+  {
+    "name": "Reverse Proxy Detector",
+    "url": "https://portswigger.net/bappstore/a112997070354d249b64b4cf68eabc04",
+    "description": "This extension detects reverse proxy servers."
+  },
+  {
+    "name": "SRI Check",
+    "url": "https://github.com/SolomonSklash/sri-check",
+    "description": "A Burp Suite extension for identifying missing Subresource Integrity attributes."
+  },
+  {
+    "name": "Reflected File Download Checker",
+    "url": "https://portswigger.net/bappstore/34cd4392e7e04999b9ca0cc91f58886c",
+    "description": "This extension checks for reflected file downloads."
+  },
+  {
+    "name": "Length Extension Attacks",
+    "url": "https://portswigger.net/bappstore/f156669cae8d4c10a3cd9d0b5270bcf6",
+    "description": "This extension lets you perform hash length extension attacks on weak signature mechanisms."
+  },
+  {
+    "name": "Headers Analyzer",
+    "url": "https://portswigger.net/bappstore/8b4fe2571ec54983b6d6c21fbfe17cb2",
+    "description": "This extension adds a passive scan check to report security issues in HTTP headers."
+  },
+  {
+    "name": "HeartBleed",
+    "url": "https://portswigger.net/bappstore/d405150b57e54887b1dcfa563b7c0b6f",
+    "description": "This extension adds a new tab to Burp's Suite main UI allowing a server to be tested for the Heartbleed bug. If the server is vulnerable, data retrieved from the server's memory will be dumped and viewed."
+  },
+  {
+    "name": "Image Size Issues",
+    "url": "https://portswigger.net/bappstore/1b602a9ae78a4ba4bc9f7b2c405a2b4e",
+    "description": "This extension passively detects potential denial of service attacks due to the size of an image being specified in request parameters."
+  },
+  {
+    "name": "CMS Scanner",
+    "url": "https://portswigger.net/bappstore/1bf95d0be40c447b94981f5696b1a18e",
+    "description": "An active scan extension for Burp that provides supplemental coverage when testing popular content management systems."
+  },
+  {
+    "name": "Detect Dynamic JS",
+    "url": "https://portswigger.net/bappstore/4a657674ebe3410b92280613aa512304",
+    "description": "This extension compares JavaScript files with each other to detect dynamically generated content and content that is only accessible when the user is authenticated."
+  },
+  {
+    "name": "CTFHelper",
+    "url": "https://github.com/unamer/CTFHelper",
+    "description": "This extension will scan some sensitive files (backup files likes .index.php.swp or .git directory) in web server that makes solving CTF challenge faster."
+  },
+  {
+    "name": "Broken Link Hijacking",
+    "url": "https://github.com/arbazkiraak/BurpBLH",
+    "description": "This extension discovers the broken links passively could be handy in second order takeovers."
+  },
+  {
+    "name": "Discover Reverse Tabnabbing",
+    "url": "https://github.com/GabsJahBless/discovering-reversetabnabbing",
+    "description": "Identify areas in your application that are vulnerable to Reverse Tabnabbing."
+  },
+  {
+    "name": "Scan manual insertion point",
+    "url": "https://github.com/cnotin/burp-scan-manual-insertion-point",
+    "description": "This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection."
+  },
+  {
+    "name": "AdminPanelFinder",
+    "url": "https://github.com/moeinfatehi/Admin-Panel_Finder",
+    "description": "A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005)."
+  },
+  {
+    "name": "HTTP Request Smuggler",
+    "url": "https://github.com/portswigger/http-request-smuggler",
+    "description": "This is an extension for Burp Suite designed to help you launch HTTP Request Smuggling attacks, originally created during HTTP Desync Attacks research. It supports scanning for Request Smuggling vulnerabilities, and also aids exploitation by handling cumbersome offset-tweaking for you."
+  },
+  {
+    "name": "iRule Detector",
+    "url": "https://github.com/kugg/irule-detector",
+    "description": "Detect a Remote Code or Command Execution (RCE) vulnerability in some implementations of F5 Networks' popular BigIP load balancer."
+  },
+  {
+    "name": "Burp AEM Security Scanner Extension",
+    "url": "https://github.com/thomashartm/burp-aem-scanner",
+    "description": "Burp AEM Security Scanner is an AEM focussed plugin which supports the evaluation of well known misconfigurations of AEM installations."
+  },
+  {
+    "name": "FlareQuench",
+    "url": "https://github.com/aress31/flarequench",
+    "description": "Burp Suite plugin that adds additional checks to the passive scanner to reveal the origin IP(s) of Cloudflare-protected web applications."
+  },
+  {
+    "name": "Cypher Injection Scanner",
+    "url": "https://github.com/morkin1792/cypher-injection-scanner",
+    "description": "A Burp Suite Extension that detects Cypher code injection."
+  },
+  {
+    "name": "InQL Scanner",
+    "url": "https://github.com/doyensec/inql",
+    "description": "A Comprehensive Burp Extension for GraphQL Security Testing."
+  },
+  {
+    "name": "Attack Surface Detector",
+    "url": "https://github.com/secdec/attack-surface-detector-burp",
+    "description": "The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters."
+  },
+  {
+    "name": "Endpoint Finder",
+    "url": "https://github.com/ettic-team/EndpointFinder",
+    "description": "A tool to extract endpoint used by a JavaScript file through static code analysis. This is intended to help people that do blackbox review of web application to more easily identify all the endpoint available."
+  },
+  {
+    "name": "ESLinter",
+    "url": "https://github.com/parsiya/eslinter",
+    "description": "ESLinter is a Burp extension that extracts JavaScript from responses and lints them with ESLint while you do your manual testing."
+  },
+  {
+    "name": "403Bypasser",
+    "url": "https://github.com/sting8k/BurpSuite_403Bypasser",
+    "description": "An burpsuite extension to bypass 403 restricted directory."
+  },
+  {
+    "name": "BurpShiroPassiveScan",
+    "url": "https://github.com/pmiaowu/BurpShiroPassiveScan",
+    "description": "A passive shiro detection plug-in based on BurpSuite."
+  },
+  {
+    "name": "Log4j2Scan",
+    "url": "https://github.com/whwlsfb/Log4j2Scan",
+    "description": "Log4j2 Remote Code Execution Vulnerability, Passive Scan Plugin for BurpSuite."
+  },
+  {
+    "name": "Log4J Scanner",
+    "url": "https://github.com/0xDexter0us/Log4J-Scanner/",
+    "description": "Burp extension to scan Log4Shell (CVE-2021-44228) vulnerability pre and post auth."
+  },
+  {
+    "name": "Log4Shell scanner for Burp Suite",
+    "url": "https://github.com/silentsignal/burp-log4shell",
+    "description": "If you'd like to scan only for Log4j (and not other things such as XSS or SQLi), this plugin makes it possible."
+  },
+  {
+    "name": "Burp JS Miner",
+    "url": "https://github.com/minamo7sen/burp-JS-Miner",
+    "description": "This tool tries to find interesting stuff inside static files; mainly JavaScript and JSON files."
+  },
+  {
+    "name": "Trishul",
+    "url": "https://github.com/gauravnarwani97/Trishul",
+    "description": "Burp Extension written in Jython to hunt for common vulnerabilities found in websites."
+  },
+  {
+    "name": "RouteVulScan",
+    "url": "https://github.com/F6JO/RouteVulScan",
+    "description": "Route Vulnerable scanning."
+  },
+  {
+    "name": "Agartha",
+    "url": "https://github.com/volkandindar/agartha",
+    "description": "Agartha is a penetration testing tool which creates dynamic payload lists and user access matrix to reveal injection flaws and authentication/authorization issues."
+  },
+  {
+    "name": "Burp DOM Scanner",
+    "url": "https://github.com/fcavallarin/burp-dom-scanner",
+    "description": "It's a Burp Suite's extension to allow for recursive crawling and scanning of Single Page Applications."
+  },
+  {
+    "name": "JSpector",
+    "url": "https://github.com/hisxo/JSpector",
+    "description": "JSpector is a Burp Suite extension that passively crawls JavaScript files and automatically creates issues with URLs, endpoints and dangerous methods found on the JS files."
+  },
+  {
+    "name": "Server-Side Prototype Pollution Scanner",
+    "url": "https://github.com/hackvertor/server-side-prototype-pollution",
+    "description": "This extension identifies server side prototype pollution vulnerabilities, and requires Burp Suite v2021.9 or later."
+  },
+  {
+    "name": "Host Header Inchecktion",
+    "url": "https://github.com/fabianbinna/host_header_inchecktion",
+    "description": "This burp extension helps to find host header injection vulnerabilities by actively testing a set of injection types. A scan issue is created if an injection was successful."
+  },
+  {
+    "name": "DNS Analyzer",
+    "url": "https://github.com/The-Login/DNS-Analyzer",
+    "description": "A Burp Suite extension for discovering DNS vulnerabilities in web applications!"
+  },
+  {
+    "name": "PasskeyScanner",
+    "url": "https://github.com/alexcowperthwaite/PasskeyScanner",
+    "description": "This is a BurpSuite plugin that recognizes and scans Passkey (webauthn) protocols and detects security issues."
+  },
+  {
+    "name": "Burp Bounty - Scan Check Builder",
+    "url": "https://github.com/wagiro/BurpBounty",
+    "description": "This BurpSuite extension allows you, in a quick and simple way, to improve the active and passive burpsuite scanner by means of personalized rules through a very intuitive graphical interface."
+  },
+  {
+    "name": "Scan Manual Insertion Point",
+    "url": "https://portswigger.net/bappstore/ca7ee4e746b54514a0ca5059329e926f",
+    "description": "This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection."
+  },
+  {
+    "name": "Distribute Damage",
+    "url": "https://portswigger.net/bappstore/543ab7a08d954390bd1a5f4253d3763b",
+    "description": "Designed to make Burp evenly distribute load across multiple scanner targets, this extension introduces a per-host throttle and a context menu to trigger scans from."
+  },
+  {
+    "name": "Add & Track Custom Issues",
+    "url": "https://github.com/JAMESM0RR1S/Add-And-Track-Custom-Issues",
+    "description": "This extension allows custom scan issues to be added and tracked within Burp."
+  },
+  {
+    "name": "Decoder Pro",
+    "url": "https://github.com/Matanatr96/DecoderProBurpSuite",
+    "description": "Burp Suite Plugin to decode and clean up garbage response text."
+  },
+  {
+    "name": "Decoder Improved",
+    "url": "https://portswigger.net/bappstore/0a05afd37da44adca514acef1cdde3b9",
+    "description": "Decoder Improved is a data transformation plugin for Burp Suite that better serves the varying and expanding needs of information security professionals."
+  },
+  {
+    "name": "Request Highlighter",
+    "url": "https://github.com/BeDefended/RequestHighlighter",
+    "description": "Request Highlighter is a simple extension for Burp Suite tool (for both community and professional editions) that provides an automatic way to highlight HTTP requests based on headers content (eg. Host, User-Agent, Cookies, Auth token, custom headers etc.)."
+  },
+  {
+    "name": "Request Minimizer",
+    "url": "https://portswigger.net/bappstore/cc16f37549ff416b990d4312490f5fd1",
+    "description": "This extension performs HTTP request minimization. It deletes parameters that are not relevant such as: random ad cookies, cachebusting nonces, etc."
+  },
+  {
+    "name": "Wildcard",
+    "url": "https://github.com/hvqzao/burp-wildcard",
+    "description": "There is number of great Burp extension out there. Most of them create their own tabs."
+  },
+  {
+    "name": "Hackvertor",
+    "url": "https://github.com/hackvertor/hackvertor",
+    "description": "Hackvertor is a tag-based conversion tool that supports various escapes and encodings including HTML5 entities, hex, octal, unicode, url encoding etc."
+  },
+  {
+    "name": "Multi-Browser Highlighting",
+    "url": "https://portswigger.net/bappstore/29fb77b2611d4c27a9a0b8bc504d8ca2",
+    "description": "This extension highlights the Proxy history to differentiate requests made by different browsers. The way this works is that each browser would be assigned one color and the highlights happen automatically."
+  },
+  {
+    "name": "Manual Scan Issues",
+    "url": "https://portswigger.net/bappstore/3ebca77f69434faea1e3e97e0269fe17",
+    "description": "This extension allows users to manually create custom issues within the Burp Scanner results."
+  },
+  {
+    "name": "Handy Collaborator",
+    "url": "https://portswigger.net/bappstore/dcf7c44cdc7b4698bba86d94c692fb7f",
+    "description": "Handy Collaborator is a Burp Suite Extension that lets you use the Collaborator tool during manual testing in a comfortable way."
+  },
+  {
+    "name": "BadIntent",
+    "url": "https://github.com/mateuszk87/BadIntent",
+    "description": "Intercept, modify, repeat and attack Android's Binder transactions using Burp Suite."
+  },
+  {
+    "name": "Custom Send To",
+    "url": "https://github.com/PortSwigger/custom-send-to",
+    "description": "Adds a customizable \"Send to...\" context menu to your BurpSuite."
+  },
+  {
+    "name": "IP Rotate",
+    "url": "https://github.com/RhinoSecurityLabs/IPRotate_Burp_Extension",
+    "description": "Extension for Burp Suite which uses AWS API Gateway to rotate your IP on every request."
+  },
+  {
+    "name": "Timeinator",
+    "url": "https://github.com/mwrlabs/timeinator",
+    "description": "Timeinator is an extension for Burp Suite that can be used to perform timing attacks over an unreliable network such as the internet."
+  },
+  {
+    "name": "Auto-Drop Requests",
+    "url": "https://github.com/sunny0day/burp-auto-drop",
+    "description": "Burp extension to automatically drop requests that match a certain regex."
+  },
+  {
+    "name": "Scope Monitor",
+    "url": "https://github.com/Regala/burp-scope-monitor",
+    "description": "A Burp Suite Extension to monitor and keep track of tested endpoints."
+  },
+  {
+    "name": "Taborator",
+    "url": "https://github.com/hackvertor/taborator",
+    "description": "Improved Collaborator client in its own tab."
+  },
+  {
+    "name": "pip3line",
+    "url": "https://github.com/portswigger/pip3line",
+    "description": "Raw bytes manipulation utility, able to apply well known and less well known transformations."
+  },
+  {
+    "name": "Auto Drop",
+    "url": "https://github.com/sunny0day/burp-auto-drop",
+    "description": "This extension allows you to automatically Drop requests that match a certain regex. Helpful in case the target has logging or tracking services enabled."
+  },
+  {
+    "name": "Bookmarks",
+    "url": "https://github.com/TypeError/Bookmarks",
+    "description": "A Burp Suite extension to bookmark requests for later, instead of those 100 unnamed repeater tabs you've got open."
+  },
+  {
+    "name": "Stepper",
+    "url": "https://github.com/CoreyD97/Stepper",
+    "description": "A Multi-Stage Repeater Replacement For Burp Suite."
+  },
+  {
+    "name": "Response Pattern Matcher",
+    "url": "https://github.com/JackJ07/Response-Pattern-Matcher",
+    "description": "Adds extensibility to Burp by using a list of payloads to pattern match on HTTP responses highlighting interesting and potentially vulnerable areas."
+  },
+  {
+    "name": "Add & Track Custom Issues",
+    "url": "https://github.com/jamesm0rr1s/BurpSuite-Add-and-Track-Custom-Issues",
+    "description": "This extension allows custom scan issues to be added and tracked within Burp."
+  },
+  {
+    "name": "cstc",
+    "url": "https://github.com/usdAG/cstc",
+    "description": "CSTC is a Burp Suite extension that allows request/response modification using a GUI analogous to CyberChef."
+  },
+  {
+    "name": "Piper for Burp Suite",
+    "url": "https://github.com/silentsignal/burp-piper",
+    "description": "Piper Burp Suite Extender plugin."
+  },
+  {
+    "name": "Response Grepper",
+    "url": "https://github.com/b4dpxl/Burp-ResponseGrepper",
+    "description": "This Burp extension will auto-extract and display values from HTTP Response bodies based on a Regular Expression."
+  },
+  {
+    "name": "Attack Surface Detector",
+    "url": "https://github.com/secdec/attack-surface-detector-burp",
+    "description": "The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters."
+  },
+  {
+    "name": "Timeinator",
+    "url": "https://github.com/FSecureLABS/timeinator",
+    "description": "Timeinator is an extension for Burp Suite that can be used to perform timing attacks over an unreliable network such as the internet."
+  },
+  {
+    "name": "Copy Request & Response",
+    "url": "https://github.com/CompassSecurity/burp-copy-request-response",
+    "description": "The Copy Request & Response Burp Suite extension adds new context menu entries that can be used to simply copy the request and response from the selected message to the clipboard."
+  },
+  {
+    "name": "HaE - Highlighter and Extractor",
+    "url": "https://github.com/gh0stkey/HaE",
+    "description": "HaE is used to highlight HTTP requests and extract information from HTTP response messages."
+  },
+  {
+    "name": "Burp-IndicatorsOfVulnerability",
+    "url": "https://github.com/codewatchorg/Burp-IndicatorsOfVulnerability",
+    "description": "Burp extension that checks application requests and responses for indicators of vulnerability or targets for attack."
+  },
+  {
+    "name": "BurpSuiteSharpener",
+    "url": "https://github.com/mdsecresearch/BurpSuiteSharpener",
+    "description": "This extension should add a number of UI and functional features to Burp Suite to make working with it easier."
+  },
+  {
+    "name": "Burp-Send-To-Extension",
+    "url": "https://github.com/bytebutcher/burp-send-to",
+    "description": "Adds a customizable \"Send to...\" context menu to your BurpSuite."
+  },
+  {
+    "name": "PwnFox",
+    "url": "https://github.com/B-i-t-K/PwnFox",
+    "description": "PwnFox is a Firefox/Burp extension that provide useful tools for your security audit."
+  },
+  {
+    "name": "Reshaper for Burp",
+    "url": "https://github.com/synfron/ReshaperForBurp",
+    "description": "Extension for Burp Suite to trigger actions and reshape HTTP request and response traffic using configurable rules."
+  },
+  {
+    "name": "RepeaterClips",
+    "url": "https://github.com/0xd0ug/burpExtensions-clipboardRepeater",
+    "description": "The RepeaterClips extension lets you share requests with just two clicks and a paste."
+  },
+  {
+    "name": "Burp Customizer",
+    "url": "https://github.com/CoreyD97/BurpCustomizer",
+    "description": "Because just a dark theme wasn't enough."
+  },
+  {
+    "name": "Copy Regex Matches",
+    "url": "https://github.com/honoki/burp-copy-regex-matches",
+    "description": "Copy Regex Matches is a Burp Suite plugin to copy regex matches from selected requests and/or responses to the clipboard."
+  },
+  {
+    "name": "match-replace-burp",
+    "url": "https://github.com/daffainfo/match-replace-burp",
+    "description": "Useful Match and Replace BurpSuite Rules."
+  },
+  {
+    "name": "Backup Finder",
+    "url": "https://github.com/moeinfatehi/Backup-Finder",
+    "description": "A burp suite extension that reviews backup, old, temporary, and unreferenced files on the webserver for sensitive information."
+  },
+  {
+    "name": "Diff Last Response",
+    "url": "https://github.com/hackvertor/diffy",
+    "description": "Diff last response will show the difference between the previous and current response."
+  },
+  {
+    "name": "WebAuthn CBOR Decoder",
+    "url": "https://github.com/srikanthramu/webauthn-cbor-burp",
+    "description": "WebAuthn CBOR is a Burp Extension to decode WebAuthn CBOR format. WebAuthn is a W3C Standard to support strong authentication of users."
+  },
+  {
+    "name": "GAP-Burp-Extension",
+    "url": "https://github.com/xnl-h4ck3r/GAP-Burp-Extension",
+    "description": "This is an evolution of the original getAllParams extension for Burp. Not only does it find more potential parameters for you to investigate, but it also finds potential links to try these parameters on, and produces a target specific wordlist to use for fuzzing."
+  },
+  {
+    "name": "SocketSleuth",
+    "url": "https://github.com/snyk/socketsleuth",
+    "description": "SocketSleuth aims to enhance Burp Suite's websocket testing capabilities and make testing websocket based applications easier."
+  },
+  {
+    "name": "WebSocket Turbo Intruder",
+    "url": "https://github.com/Hannah-PortSwigger/WebSocketTurboIntruder",
+    "description": "Extension to fuzz WebSocket messages using custom code."
+  },
+  {
+    "name": "HAR Importer",
+    "url": "https://github.com/fortalice/HARImporter",
+    "description": "A HAR importer."
+  },
+  {
+    "name": "Conditional Match and Replace (CMAR)",
+    "url": "https://github.com/CyberCX-STA/cmar",
+    "description": "An extension allowing you to create match and replace operations that execute only when a condition is matched (or not matched). The condition can be matched against the request Header/Body/All, or the response Header/Body/All. If the condition is matched, you can apply a match and replace rule against the specified area."
+  },
+  {
+    "name": "BlazorTrafficProcessor (BTP)",
+    "url": "https://github.com/AonCyberLabs/BlazorTrafficProcessor",
+    "description": "A BurpSuite extension to aid pentesting web applications that use Blazor Server/BlazorPack. Primary functionality includes converting BlazorPack messages to JSON and vice versa, introduces tamperability for BlazorPack serialized messages."
+  },
+  {
+    "name": "MagicByteSelector",
+    "url": "https://github.com/websecnl/MagicByteSelector",
+    "description": "Burp Suite Extension for inserting a magic byte into responder's request."
+  },
+  {
+    "name": "CookieMonster",
+    "url": "https://github.com/baegmon/CookieMonster",
+    "description": "A Burp Suite plugin to easily manage cookies."
+  },
+  {
+    "name": "SocketSleuth",
+    "url": "https://github.com/snyk/socketsleuth",
+    "description": "Burp Extension to add additional functionality for pentesting websocket based applications."
+  },
+  {
+    "name": "DNS-Exfilnspector",
+    "url": "https://github.com/LazyTitan33/DNS-Exfilnspector",
+    "description": "Automagically decode DNS Exfiltration queries to convert Blind RCE into proper RCE via Burp Collaborator."
+  },
+  {
+    "name": ".NET Beautifier",
+    "url": "https://github.com/allfro/dotNetBeautifier",
+    "description": "A BurpSuite extension for beautifying .NET message parameters and hiding some of the extra clutter that comes with .NET web apps (i.e. __VIEWSTATE)."
+  },
+  {
+    "name": "JS Beautifier",
+    "url": "https://github.com/irsdl/BurpSuiteJSBeautifier",
+    "description": "Burp Suite JS Beautifier."
+  },
+  {
+    "name": "Burp ASN1 Toolbox",
+    "url": "https://github.com/silentsignal/burp-asn1",
+    "description": "ASN.1 toolbox for Burp Suite."
+  },
+  {
+    "name": "JSON JTree viewer for Burp Suite",
+    "url": "https://github.com/silentsignal/burp-json-jtree",
+    "description": "JSON JTree viewer for Burp Suite."
+  },
+  {
+    "name": "JSON Beautifier",
+    "url": "https://github.com/NetSPI/JSONBeautifier",
+    "description": "JSON Beautifier for Burp written in Java."
+  },
+  {
+    "name": "Browser Repeater",
+    "url": "https://github.com/allfro/browserRepeater",
+    "description": "BurpSuite extension for Repeater tool that renders responses in a real browser."
+  },
+  {
+    "name": "GQL Parser",
+    "url": "https://github.com/br3akp0int/GQLParser",
+    "description": "A repository for GraphQL Extension for Burp Suite."
+  },
+  {
+    "name": "XChromeLogger Decoder",
+    "url": "https://portswigger.net/bappstore/a68f0a880362410baaf884ddb383fe4c",
+    "description": "This extension adds a new tab in the HTTP message editor to display X-ChromeLogger-Data in decoded form."
+  },
+  {
+    "name": "WebSphere Portlet State Decoder",
+    "url": "https://portswigger.net/bappstore/49e9917c721e4abfa4c2540b07f35eb7",
+    "description": "This extension displays the decoded XML state of a WebSphere Portlet in a new tab when the request is viewed."
+  },
+  {
+    "name": "PDF Viewer",
+    "url": "https://portswigger.net/bappstore/4b0cbd1e44da4212881cc1480ba1bc68",
+    "description": "This extension adds a tab to the HTTP message viewer to render PDF files in responses."
+  },
+  {
+    "name": "NTLM Challenge Decoder",
+    "url": "https://portswigger.net/bappstore/30d095e075e64a109b8d12fc8281b5e3",
+    "description": "This extension decodes NTLM SSP headers."
+  },
+  {
+    "name": "JCryption Handler",
+    "url": "https://portswigger.net/bappstore/fe2a5a42985b4ac8b1801a09b670758f",
+    "description": "This extension provides a way to perform manual and/or automatic Security Assessment for Web Applications that using JCryption JavaScript library to encrypt data sent through HTTP methods (GET and POST)."
+  },
+  {
+    "name": "JSWS Parser",
+    "url": "https://portswigger.net/bappstore/1d1b8fd9be354c64a5887f25fc271e56",
+    "description": "This extension can be used to parse a response containing a JavaScript Web Service Proxy (JSWS) and generate JSON requests for all supported methods."
+  },
+  {
+    "name": "JSON Decoder",
+    "url": "https://portswigger.net/bappstore/ceed5b1568ba4b92abecce0dff1e1f2c",
+    "description": "This extension adds a new tab to Burp's HTTP message editor, and displays JSON messages in decoded form."
+  },
+  {
+    "name": "MessagePack",
+    "url": "https://portswigger.net/bappstore/c199ec3330864d548ff7d6bf761960ba",
+    "description": "This extension supports: decoding MessagePack requests and responses to JSON format, converting requests from JSON format to MessagePack."
+  },
+  {
+    "name": "Fast Infoset Tester",
+    "url": "https://portswigger.net/bappstore/2f640c88e0394bb09e788378f1bcc80f",
+    "description": "This extension converts incoming Fast Infoset requests and responses to XML, and converts outgoing messages back to Fast Infoset."
+  },
+  {
+    "name": "burp-protobuf-decoder",
+    "url": "https://github.com/mwielgoszewski/burp-protobuf-decoder",
+    "description": "A simple Google Protobuf Decoder for Burp."
+  },
+  {
+    "name": "BurpAMFDSer",
+    "url": "https://github.com/NetSPI/Burp-Extensions/tree/master/BurpAMFDSer",
+    "description": "BurpAMFDSer is a Burp plugin that will deserialze/serialize AMF request and response to and from XML with the use of Xtream library."
+  },
+  {
+    "name": "Deflate Burp Plugin",
+    "url": "https://github.com/GDSSecurity/Deflate-Burp-Plugin",
+    "description": "The Deflate Burp Plugin is a plug-in for Burp Proxy (it implements the IBurpExtender interface) that decompresses HTTP response content in the ZLIB (RFC1950) and DEFLATE (RFC1951) compression formats."
+  },
+  {
+    "name": "Burp Suite GWT wrapper",
+    "url": "https://github.com/dnet/burp-gwt-wrapper",
+    "description": "Burp Suite GWT wrapper."
+  },
+  {
+    "name": "GraphQL Beautifier",
+    "url": "https://github.com/zidekmat/graphql_beautifier",
+    "description": "Burp Suite extension to help make Graphql request more readable."
+  },
+  {
+    "name": "Decoder Improved",
+    "url": "https://github.com/nccgroup/Decoder-Improved",
+    "description": "Improved decoder for Burp Suite."
+  },
+  {
+    "name": "Cyber Security Transformation Chef",
+    "url": "https://github.com/usdAG/cstc",
+    "description": "The Cyber Security Transformation Chef (CSTC) is a Burp Suite extension. It is built for security experts to extend Burp Suite for chaining simple operations for each incoming or outgoing message."
+  },
+  {
+    "name": "GraphQL Raider",
+    "url": "https://github.com/denniskniep/GQLRaider",
+    "description": "GraphQL Raider is a Burp Suite Extension for testing endpoints implementing GraphQL."
+  },
+  {
+    "name": "JSONPath",
+    "url": "https://github.com/augustd/burp-suite-jsonpath",
+    "description": "Burp Suite extension to view and extract data from JSON responses."
+  },
+  {
+    "name": "Burp Beautifier",
+    "url": "https://github.com/Ovi3/BurpBeautifier",
+    "description": "BurpBeautifier is a Burpsuite extension for beautifying request/response body, supporting JS, JSON, HTML, XML format, writing in Jython 2.7."
+  },
+  {
+    "name": "JSON/JS Beautifier",
+    "url": "https://github.com/Manjesh24/JSON-JS-Beautifier",
+    "description": "This is a Burp Extension for beautifying JSON and JavaScript output to make the body parameters more human readable."
+  },
+  {
+    "name": "burp-suite-jsonpath",
+    "url": "https://github.com/augustd/burp-suite-jsonpath",
+    "description": "Burp Suite extension to view and extract data from JSON responses."
+  },
+  {
+    "name": "Burp-Timestamp-Editor",
+    "url": "https://github.com/b4dpxl/Burp-Timestamp-Editor",
+    "description": "Provides a GUI to view and edit Unix timestamps in Burp message editors."
+  },
+  {
+    "name": "ViewState Editor",
+    "url": "https://github.com/portswigger/viewstate-editor",
+    "description": "This extension allows Burp users to view & edit the contents of ViewState."
+  },
+  {
+    "name": "AWS Security Checks",
+    "url": "https://github.com/PortSwigger/aws-security-checks",
+    "description": "This extensions provides additional Scanner checks for AWS security issues."
+  },
+  {
+    "name": "AWS Extender",
+    "url": "https://github.com/VirtueSecurity/aws-extender",
+    "description": "AWS Extender (Cloud Storage Tester) is a Burp plugin to assess permissions of cloud storage containers on AWS, Google Cloud and Azure."
+  },
+  {
+    "name": "AWS Signer",
+    "url": "https://github.com/NetSPI/AWSSigner",
+    "description": "Burp Extension for AWS Signing."
+  },
+  {
+    "name": "cloud_enum",
+    "url": "https://github.com/initstring/cloud_enum",
+    "description": "Multi-cloud OSINT tool. Enumerate public resources in AWS, Azure, and Google Cloud. Must be run from a *nix environment."
+  },
+  {
+    "name": "AWS SigV4",
+    "url": "https://github.com/anvilventures/aws-sigv4",
+    "description": "This is a Burp extension for signing AWS requests with SigV4."
+  },
+  {
+    "name": "Burp-AnonymousCloud",
+    "url": "https://github.com/codewatchorg/Burp-AnonymousCloud",
+    "description": "Burp Extension to perform a passive scan to identify cloud buckets and then test them for publicly accessible vulnerabilities."
+  },
+  {
+    "name": "AWS Cognito",
+    "url": "https://github.com/ncoblentz/BurpMontoyaCognito",
+    "description": "This extension helps identify key information from requests to AWS Cognito, provides several passive scan checks, and suggests HTTP request templates for exploiting several known vulnerabilities."
+  },
+  {
+    "name": "Python Scripter",
+    "url": "https://github.com/portswigger/python-scripter",
+    "description": "This extension allows execution of a custom Python script on each HTTP request and response processed by Burp."
+  },
+  {
+    "name": "Burpkit",
+    "url": "https://github.com/allfro/BurpKit",
+    "description": "BurpKit is a BurpSuite plugin which helps in assessing complex web apps that render the contents of their pages dynamically."
+  },
+  {
+    "name": "Burp Requests",
+    "url": "https://github.com/silentsignal/burp-requests",
+    "description": "Copy as requests plugin for Burp Suite."
+  },
+  {
+    "name": "Burpy",
+    "url": "https://github.com/debasishm89/burpy",
+    "description": "Portable and flexible web application security assessment tool. It parses Burp Suite log and performs various tests depending on the module provided and finally generate a HTML report."
+  },
+  {
+    "name": "Buby",
+    "url": "https://github.com/tduehr/buby",
+    "description": "A JRuby implementation of the BurpExtender interface for PortSwigger Burp Suite."
+  },
+  {
+    "name": "Burpee",
+    "url": "https://github.com/GDSSecurity/burpee",
+    "description": "Python object interface to requests/responses recorded by Burp Suite."
+  },
+  {
+    "name": "Burp Jython Tab",
+    "url": "https://github.com/mwielgoszewski/burp-jython-tab",
+    "description": "A Jython scripting tab for Burp Suite."
+  },
+  {
+    "name": "Reissue Request Scripter",
+    "url": "https://portswigger.net/bappstore/6e0b53d8c801471c9dc614a016d8a20d",
+    "description": "This extension generates scripts to reissue a selected request."
+  },
+  {
+    "name": "Burp Buddy",
+    "url": "https://github.com/tomsteele/burpbuddy",
+    "description": "burpbuddy exposes Burp Suites's extender API over the network through various mediums, with the goal of enabling development in any language without the restrictions of the JVM."
+  },
+  {
+    "name": "Copy As Python-Requests",
+    "url": "https://github.com/portswigger/copy-as-python-requests",
+    "description": "This extension copies selected request(s) as Python-Requests invocations."
+  },
+  {
+    "name": "Copy as PowerShell Requests",
+    "url": "https://portswigger.net/bappstore/4da25d602db04f5ca7c4b668e4611cfe",
+    "description": "This extension copies the selected request(s) as PowerShell invocation(s)."
+  },
+  {
+    "name": "Copy as Node Request",
+    "url": "https://portswigger.net/bappstore/e170472f83ef4da1bca5897203b6b33d",
+    "description": "This extension copies the selected request(s) as Node.JS Request invocations."
+  },
+  {
+    "name": "Copy as JavaScript Request",
+    "url": "https://github.com/celsogbezerra/Copy-as-JavaScript-Request",
+    "description": "This Burp Extension copies the selected request to the clipboard as JavaScript Fetch API."
+  },
+  {
+    "name": "BReWSki",
+    "url": "https://github.com/Burp-BReWSki/BReWSki",
+    "description": "BReWSki (Burp Rhino Web Scanner) is a Java extension for Burp Suite that allows user to write custom scanner checks in JavaScript."
+  },
+  {
+    "name": "JScriptor",
+    "url": "https://github.com/ngduyquockhanh/JScriptor",
+    "description": "Pre-Script and Post-Script like Postman extension for Burpsuite."
+  },
+  {
+    "name": "BcryptMontoya",
+    "url": "https://github.com/cyal1/BcryptMontoya",
+    "description": "BcryptMontoya is a powerful plugin for Burp Suite that allows you to effortlessly modify HTTP requests and responses passing through the Burp Suite proxy using Jython code or gRPC, especially when dealing with encrypted requests."
+  },
+  {
+    "name": "Kollaborator Module Builder",
+    "url": "https://github.com/mbkunal/KollaboratorModuleBuilder",
+    "description": "Burp suite extension to build and handle collaborator interaction."
+  },
+  {
+    "name": "SAML Raider",
+    "url": "https://github.com/SAMLRaider/SAMLRaider",
+    "description": "SAML Raider is a Burp Suite extension for testing SAML infrastructures. It contains two core functionalities: Manipulating SAML Messages and manage X.509 certificates."
+  },
+  {
+    "name": "Burp OAuth",
+    "url": "https://github.com/dnet/burp-oauth",
+    "description": "OAuth plugin for Burp Suite Extender."
+  },
+  {
+    "name": "EsPReSSO",
+    "url": "https://github.com/RUB-NDS/BurpSSOExtension",
+    "description": "An extension for BurpSuite that highlights SSO messages in Burp's proxy window."
+  },
+  {
+    "name": "SAML Encoder/Decoder",
+    "url": "https://portswigger.net/bappstore/9ff11c976383491b976389ce23091ee3",
+    "description": "This extension adds a new tab to Burp's main UI, allowing encoding and decoding of SAML (Security Assertion Markup Language) formatted messages."
+  },
+  {
+    "name": "SAML Editor",
+    "url": "https://portswigger.net/bappstore/32c38cd10ef44c1cbca9d54483f78e88",
+    "description": "This extension adds a new tab to Burp's HTTP message editor, allowing encoding and decoding of SAML (Security Assertion Markup Language) formatted messages."
+  },
+  {
+    "name": "PeopleSoft Token Extractor",
+    "url": "https://portswigger.net/bappstore/df04d7d1af004ed6b50c555c4920232d",
+    "description": "This extension help test PeopleSoft SSO tokens."
+  },
+  {
+    "name": "JSON Web Token Attacker",
+    "url": "https://portswigger.net/bappstore/82d6c60490b540369d6d5d01822bdf61",
+    "description": "This extension helps to test applications that use JavaScript Object Signing and Encryption, including JSON Web Tokens."
+  },
+  {
+    "name": "JSON Web Tokens",
+    "url": "https://portswigger.net/bappstore/f923cbf91698420890354c1d8958fee6",
+    "description": "This extension lets you decode and manipulate JSON web tokens on the fly, check their validity and automate common attacks against them."
+  },
+  {
+    "name": "AuthHeader Updater",
+    "url": "https://github.com/sampsonc/AuthHeaderUpdater",
+    "description": "Burp extension to specify the token value for the Authenication header while scanning."
+  },
+  {
+    "name": "Dupe Key Injector",
+    "url": "https://github.com/pwntester/DupeKeyInjector",
+    "description": "Dupe Key Injetctor is a Burp Suite extension implementing Dupe Key Confusion, a new XML signature bypass technique presented at BSides/BlackHat/DEFCON 2019 \"SSO Wars: The Token Menace\" presentation."
+  },
+  {
+    "name": "SAMLReQuest",
+    "url": "https://github.com/ernw/burpsuite-extensions/tree/master/SAMLReQuest",
+    "description": "Enables you to view, decode, and modify SAML requests and responses."
+  },
+  {
+    "name": "OAUTHScan",
+    "url": "https://github.com/akabe1/OAUTHScan",
+    "description": "OAUTHScan is a Burp Suite Extension written in Java with the aim to provide some automatic security checks, which could be useful during penetration testing on applications implementing OAUTHv2 and OpenID standards."
+  },
+  {
+    "name": "JWT Re-auth",
+    "url": "https://github.com/nccgroup/jwt-reauth",
+    "description": "Burp plugin to cache authentication tokens from an \"auth\" URL, and then add them as headers on all requests going to a certain scope."
+  },
+  {
+    "name": "OAuthv1 - Signing",
+    "url": "https://github.com/L1GH7/OAuthv1---Signing-Burp-Extension-",
+    "description": "The purpose of this extension is to provide an additional authentication method that is not natively supported by Burp Suite. Currently, this tool only supports OAuth v1."
+  },
+  {
+    "name": "JWT Editor",
+    "url": "https://github.com/DolphFlynn/jwt-editor",
+    "description": "A Burp Suite extension for creating and editing JSON Web Tokens."
+  },
+  {
+    "name": "SignSaboteur",
+    "url": "https://github.com/d0ge/sign-saboteur",
+    "description": "SignSaboteur is a Burp Suite extension for editing, signing, verifying various signed web tokens."
+  },
+  {
+    "name": "Google Hack",
+    "url": "https://portswigger.net/bappstore/a00a906943de49159092e329cc4f95f4",
+    "description": "This extension provides a GUI interface for setting up and running Google Hacking queries, and lets you add results directly to Burp's site map."
+  },
+  {
+    "name": "PwnBack/Wayback Machine",
+    "url": "https://github.com/P3GLEG/PwnBack",
+    "description": "Burp Extender plugin that generates a sitemap of a website using Wayback Machine."
+  },
+  {
+    "name": "Directory File Listing Parser Importer",
+    "url": "https://github.com/SmeegeSec/Directory_File_Listing_Parser_Importer",
+    "description": "This is a Burp Suite extension in Python to parse a directory and file listing text file of a web application."
+  },
+  {
+    "name": "Site Map Extractor",
+    "url": "https://portswigger.net/bappstore/f991b67d4ef94f3c8692c3edca06583e",
+    "description": "This extension extracts information from the Site Map. You can use the full site map or just in-scope items."
+  },
+  {
+    "name": "Site Map Fetcher",
+    "url": "https://portswigger.net/bappstore/93bbecc3da434ef7ba5a5b2b98265169",
+    "description": "This extension fetches the responses of unrequested items in the site map."
+  },
+  {
+    "name": "Burp CSJ",
+    "url": "https://github.com/malerisch/burp-csj",
+    "description": "This extension integrates Crawljax, Selenium and JUnit together. The intent of this extension is to aid web application security testing, increase web application crawling capability and speed-up complex test-cases execution."
+  },
+  {
+    "name": "Attack Surface Detector",
+    "url": "https://portswigger.net/bappstore/47027b96525d4353aea5844781894fb1",
+    "description": "The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters."
+  },
+  {
+    "name": "domain_hunter",
+    "url": "https://github.com/bit4woo/domain_hunter",
+    "description": "A Burp Suite extender that try to find sub-domains, similar domains and related domains of an organization, not only domain."
+  },
+  {
+    "name": "BigIP Discover",
+    "url": "https://github.com/raise-isayan/BigIPDiscover",
+    "description": "A extension of Burp suite. The cookie set by the BipIP server may include a private IP, which is an extension to detect that IP."
+  },
+  {
+    "name": "AdminPanelFinder",
+    "url": "https://github.com/moeinfatehi/Admin-Panel_Finder",
+    "description": "A burp suite extension that enumerates infrastructure and application Admin Interfaces (OWASP OTG-CONFIG-005)."
+  },
+  {
+    "name": "Asset Discover",
+    "url": "https://github.com/redhuntlabs/BurpSuite-Asset_Discover",
+    "description": "Burp Suite extension to discover assets from HTTP response using passive scanning."
+  },
+  {
+    "name": "DirectoryImporter",
+    "url": "https://github.com/Static-Flow/DirectoryImporter",
+    "description": "This is a Burpsuite plugin built to enable you to import your directory bruteforcing results into burp for easy viewing later."
+  },
+  {
+    "name": "Dr. Watson",
+    "url": "https://github.com/prodigysml/Dr.-Watson",
+    "description": "Dr. Watson is a simple Burp Suite extension that helps find assets, keys, subdomains, IP addresses, and other useful information."
+  },
+  {
+    "name": "Filter OPTIONS Method",
+    "url": "https://github.com/capt-meelo/filter-options-method",
+    "description": "A Burp extension that filters out OPTIONS requests from populating Burp's Proxy history."
+  },
+  {
+    "name": "Subdomain Extractor",
+    "url": "https://github.com/Regala/burp-subdomains",
+    "description": "A very simple, straightforward extension to export sub domains from Burp using a context menu option."
+  },
+  {
+    "name": "SAN Scanner",
+    "url": "https://github.com/seisvelas/SAN-Scanner",
+    "description": "SAN Scanner is a Burp Suite extension for enumerating associated domains & services via the Subject Alt Names section of SSL certificates."
+  },
+  {
+    "name": "Add to sitemap++",
+    "url": "https://github.com/quahac/burp-add-to-sitemap-plusplus",
+    "description": "Add to sitemap++ is a BURP extension that can read URLs from files or clipboard and add the discovered information on the site map of the selected host(s)."
+  },
+  {
+    "name": "Look Over There",
+    "url": "https://github.com/yg-ht/Burp-LookOverThere",
+    "description": "This is a Burp Suite extension to help Burp know where to look during scanning."
+  }
+]
