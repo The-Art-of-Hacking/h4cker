@@ -1,0 +1,8 @@
+requests
+google
+termcolor
+txtorcon
+colorama
+bs4
+StringGenerator
+pysocks
