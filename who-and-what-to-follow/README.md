@@ -89,7 +89,7 @@ The news archives are published [here](https://github.com/santosomar/cyber-news-
 - [BlackHills InfoSec](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
 - [DEF CON](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
-- [Jason Haddix](https://www.twitch.tv/nahamsec)
+- [Jason Haddix](https://www.youtube.com/c/jhaddix)
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 - [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
