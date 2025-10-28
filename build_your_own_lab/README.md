@@ -17,10 +17,7 @@ Note: The folks at Offensive Security have created a free training and book that
 
 - [Pentoo Linux](https://www.pentoo.ch/):Pentoo is a Live CD and Live USB designed for penetration testing and security assessment. Pentoo Linux is a distribution that is designed to be free of the systemd init system. Pentoo is based on Gentoo Linux and is specifically tailored for penetration testing and security auditing. It focuses on providing a lightweight and flexible environment for security professionals and enthusiasts. One of the defining characteristics of Pentoo Linux is its avoidance of systemd as the init system. Instead, Pentoo uses the OpenRC (Open Runlevel Configuration) init system, which is known for its simplicity and ease of customization. OpenRC is an alternative init system that provides similar functionality to systemd but with a different approach. By using OpenRC, Pentoo Linux aims to offer a systemd-free environment while maintaining its focus on security testing and auditing tools. 
 
-## Kali MCP Server
-[Kali MCP Server](https://github.com/Wh0am123/MCP-Kali-Server) is a lightweight API bridge that connects MCP Clients (e.g: Claude Desktop, 5ire) to the API server which allows excuting commands on a Linux terminal.
-
-This allows the MCP to run terminal commands like nmap, nxc or any other tool, interact with web applications using tools like curl, wget, gobuster. And perform AI-assisted penetration testing, solving CTF web challenge in real time, helping in solving machines from HTB or THM.
+- [Kali MCP Server](https://github.com/Wh0am123/MCP-Kali-Server): a lightweight API bridge that connects MCP Clients (e.g., Claude Desktop, 5ire) to the API server, allowing execution of Linux terminal commands. It enables running tools like nmap, nxc, curl, wget, gobuster, and supports AI-assisted penetration testing, solving CTF web challenges in real time, and helping with HTB or THM machines.
 
 
 ## Privacy Oriented Distributions
