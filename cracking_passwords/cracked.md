@@ -15,4 +15,4 @@ password         (spiderman)
 Use the "--show" option to display all of the cracked passwords reliably
 Session completed
 root@kali:~#
-```
+rootspynger:~[#380](https://github.com/The-Art-of-Hacking/h4cker/issues/380)

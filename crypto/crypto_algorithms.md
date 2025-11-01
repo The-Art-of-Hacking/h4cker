@@ -71,3 +71,4 @@ These are **deprecated** due to quantum vulnerability. Do not deploy or rely on 
 - [Cisco Blog about PQC](https://blogs.cisco.com/developer/how-post-quantum-cryptography-affects-security-and-encryption-algorithms)
 - [Post Quantum Cryptography](https://en.wikipedia.org/wiki/Post-quantum_cryptography) (Wikipedia)
 - [Information Week Podcast](https://www.youtube.com/watch?v=GvkCrSqSn5g)
+***sha_2*** quantum encryption'

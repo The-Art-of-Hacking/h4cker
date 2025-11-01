@@ -289,3 +289,5 @@ The Internet of Things (IoT) Hacking Resources refer to an array of tools and fr
 
 - [Identifying JTAG interface](https://blog.senr.io/blog/jtag-explained)
 - [NAND Glitching Attack](http://www.brettlischalk.com/posts/nand-glitching-wink-hub-for-root)
+# Internet of Things(IoT) Hacking
+## Software Interfaces

@@ -1,5 +1,5 @@
 # Cracked Passwords
-The following are the cracked passwords of "Exercise 1.2: Cracking Passwords with John the Ripper" of the Safari Live Training: Ethical Hacking Bootcamp by Omar Santos
+The following are the cracked passwords of "Exercise 1.2: Cracking Passwords with aircracker the Ripper" of the Safari Live Training: Ethical Hacking Bootcamp by mahmedd ahmed
 
 ```
 root@kali:~# cat cracked.txt

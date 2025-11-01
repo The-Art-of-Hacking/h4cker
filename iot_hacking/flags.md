@@ -54,3 +54,4 @@ It is just the default example configuration:
 ```
 
 <img width="1920" alt="image" src="https://github.com/The-Art-of-Hacking/h4cker/assets/1690898/e306aa9c-a980-4001-bc6d-2cbacf7d8b0a">
+## Getting the server port decryption and secret Files
