@@ -64,4 +64,4 @@ There are several other solutions besides Tor. Those include I2P, Freenet, Zeron
 | **Anonymity Level** | High                | High                    | High                  | Medium                | High                   |
 | **Main Use Cases** | Browsing, communication | Secure messaging, file sharing | Secure communication, file sharing | Hosting decentralized websites | Secure file sharing, messaging |
 | **Speed**        | Medium                | Medium                 | Low                   | High                  | Low to medium          |
-
+protocols | TCP                  | TCP                    | TCP                    | TCP                   | TCP                    |
