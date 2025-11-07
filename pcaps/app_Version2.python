@@ -1,0 +1,17 @@
+import os
+from flask import Flask
+from dotenv import load_dotenv
+
+load_dotenv()  # Loads environment variables from .env
+
+app = Flask(__name__)
+app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
+DB_USER = os.getenv('DB_USER')
+DB_PASSWORD = os.getenv('DB_PASSWORD')
+
+@app.route('/')
+def index():
+    return f"Database user: {DB_USER}"
+
+if __name__ == '__main__':
+    app.run()
