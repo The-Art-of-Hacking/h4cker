@@ -3,6 +3,11 @@
 ## Objective
 In this lab, you will learn how to install Ollama, download your first model, and interact with it using the command-line interface. By the end of this lab, you'll understand the basics of running and chatting with local large language models.
 
+## Important Links
+- [Ollama website](https://ollama.com/)
+- [Ollama documentation](https://ollama.com/docs)
+- [Ollama GitHub repository](https://github.com/ollama/ollama)
+
 ## Prerequisites
 - A computer running macOS, Windows, or Linux
 - At least 8GB of RAM (16GB recommended)
