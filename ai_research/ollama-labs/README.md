@@ -55,7 +55,7 @@ Learn to integrate Ollama into applications using HTTP requests:
 - Building scripts with curl and API calls
 
 **Prerequisites:** 
-- Completed [Labs 1-2](lab-01-installation-and-basics.md) and [Lab 2](lab-02-cli-advanced.md)
+- Completed [Lab 1](lab-01-installation-and-basics.md) and [Lab 2](lab-02-cli-advanced.md)
 - Basic understanding of HTTP and REST APIs
 - Familiarity with [JSON](https://www.json.org/json-en.html)
 
