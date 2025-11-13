@@ -1,6 +1,10 @@
-# Building Your Own Cybersecurity Lab and Cyber Range
+# Building Your Own Cybersecurity and AI Lab
 
-The following are some tips and instructions on how you can build your own lab for penetration testing and to practice different defensive techniques helpful for incident response and digital forensics.
+The following are some tips and instructions on how you can build your own lab for cybersecurity (offensive and defensive techniques), as well as to learn and experiment with AI.
+
+## Building Your Own AI Lab
+
+✨ You can access numerous resources and instructions on how to build your own AI lab at home and in the cloud in [this GitHub repository](https://github.com/santosomar/build-your-ai-lab).
 
 ## Pen Testing Linux Distributions
 
