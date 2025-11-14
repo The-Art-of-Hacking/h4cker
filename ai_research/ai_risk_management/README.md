@@ -41,12 +41,28 @@
 ## Additional Securing AI Resources
 
 - [MITRE ATLAS](https://atlas.mitre.org/): Adversarial Threat Landscape for Artificial-Intelligence Systems
-- [OWASP Top 10 for LLM Applications](https://genai.owasp.org/): Updated 2024 version with latest LLM vulnerabilities
+- [OWASP Top 10 for LLM Applications](https://genai.owasp.org/): Updated LLM Top 10 for 2023/24 and 2025, plus broader GenAI initiatives
 - [OWASP AI Security and Privacy Guide](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 - [OWASP Machine Learning Security Top 10](https://mltop10.info/): Comprehensive ML security risks framework
 - [Securing Your AI: A Step-by-Step Guide for CISOs](https://hiddenlayer.com/research/how-well-do-you-know-your-ai-environment/)
 - [Securing Your AI: A Step-by-Step Guide for CISOs PT 2](https://hiddenlayer.com/research/securing-your-ai-a-step-by-step-guide-for-cisos-pt2/)
 - [CSA Securing LLM Backed Systems](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai_research/ai_risk_management/Securing%20LLM%20Backed%20Systems%20-%20Essential%20Authorization%20Practices%2020240806.pdf)
+
+### OWASP GenAI Security Project
+
+- [OWASP GenAI Security Project](https://genai.owasp.org/) – global community project providing:
+  - **LLM Top 10** for 2025
+  - **AI Security Landscape** and **Solutions Reference Guide (Q2–Q3 2025)**
+  - **Threat Defense COMPASS 1.0** – cross-mapping of threats, vulnerabilities, and mitigations
+  - Initiatives for **agentic app security**, **AI threat intelligence**, **secure AI adoption**, and **data security**
+
+### Coalition for Secure AI (CoSAI)
+
+- [Coalition for Secure AI (CoSAI)](https://github.com/cosai-oasis) – open project defining cross‑industry guidance for secure AI.
+- [CoSAI Risk Map / Secure AI Tooling](https://github.com/cosai-oasis/secure-ai-tooling) – AI-specific risk map and control framework across the AI lifecycle.
+- [CoSAI Workstream 3 – AI Risk Governance](https://github.com/cosai-oasis/ws3-ai-risk-governance) – governance patterns and requirements that pair well with NIST AI RMF and the EU AI Act.
+- [CoSAI Workstream 4 – Secure Design Patterns for Agentic Systems](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems) – secure design patterns for autonomous/agentic GenAI systems.
+
 ## Industry-Specific Resources
 - [Financial Services AI Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/SR2404.htm): Federal Reserve guidance on AI/ML risk management for banks
 - [Healthcare AI Security Framework](https://www.hhs.gov/about/news/2024/01/09/hhs-announces-new-artificial-intelligence-strategy.html): HHS AI strategy including cybersecurity requirements

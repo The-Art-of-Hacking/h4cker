@@ -49,3 +49,19 @@ _Products that intercept prompts and responses and apply security or privacy rul
 ## AI Red Teaming Datasets
 - [AttaQ Dataset](https://huggingface.co/datasets/ibm/AttaQ) - a red teaming dataset consisting of 1402 carefully crafted adversarial questions
 - [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
+
+## GenAI Security Standards and Solution Landscapes
+
+- [OWASP GenAI Security Project](https://genai.owasp.org/) - umbrella project for **LLM Top 10**, AI security landscape, governance checklist, threat intelligence, agentic app security, secure AI adoption, data security, and AI red teaming initiatives.
+  - **LLM Top 10 (2025)** – updated top risks for LLM/GenAI applications.
+  - **AI Security Solution Landscape** – vendor-agnostic overview of tools mapped to key GenAI risks.
+  - **Threat Defense COMPASS 1.0** – consolidated view of threats, vulnerabilities, defenses, and mitigations for GenAI systems.
+  - **Solutions Reference Guide (Q2–Q3 2025)** – catalog of commercial and open source controls aligned to OWASP GenAI projects.
+
+## AI Risk Maps and Secure Design Patterns
+
+- [Coalition for Secure AI (CoSAI)](https://github.com/cosai-oasis) – community defining standards, patterns, and tools for secure AI.
+- [CoSAI Risk Map / Secure AI Tooling](https://github.com/cosai-oasis/secure-ai-tooling) – framework for mapping AI-specific security risks across the AI development lifecycle and identifying appropriate mitigations.
+- [CoSAI Workstream 4 – Secure Design Patterns for Agentic Systems](https://github.com/cosai-oasis/ws4-secure-design-agentic-systems) – reusable design patterns for secure agentic and tool-using systems.
+- [CoSAI Workstream 1 – Software Supply Chain Security for AI Systems](https://github.com/cosai-oasis/ws1-supply-chain) – guidance and patterns for securing AI supply chains (models, datasets, components).
+- [CoSAI Workstream 3 – AI Risk Governance](https://github.com/cosai-oasis/ws3-ai-risk-governance) – governance patterns and controls that complement the technical tools listed above.

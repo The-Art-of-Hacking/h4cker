@@ -164,9 +164,7 @@ Use these to stay current with the broader AI/LLM research ecosystem:
 - [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) – reasoning‑focused LLM research.
 - [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) – chain‑of‑thought benchmarking and evaluation.
 - [Awesome GPT](https://github.com/formulahendry/awesome-gpt) – GPT/ChatGPT/LLM tools and projects.
-- [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) – GPT‑3 demos and articles.
 - [Awesome LLM Human Preference Datasets](https://github.com/PolisAI/awesome-llm-human-preference-datasets) – datasets for RLHF and preference learning.
-- [RWKV-howto](https://github.com/Hannibal046/RWKV-howto) – RWKV learning resources.
 - [ModelEditingPapers](https://github.com/zjunlp/ModelEditingPapers) – model editing resources.
 - [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) – tools, docs, and projects focused on LLM security.
 - [Awesome-Align-LLM-Human](https://github.com/GaryYufei/AlignLLMHumanSurvey) – alignment with human preferences.
