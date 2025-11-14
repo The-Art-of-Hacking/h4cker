@@ -1,97 +1,178 @@
-# AI Security Research Resources
+# AI Research for Cybersecurity
 
-## Langchain Resources
-- [Tools, Learning, Notebooks, Bots, Agent examples, etc.](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/LangChain/README.md)
+This directory brings together **AI, LLMs, and cybersecurity** resources, with a focus on:
 
-## LLM Frameworks
-- [Popular LLM Frameworks](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/LLM-frameworks)
+- **Using AI for security** (incident response, log analysis, RAG for cyber, open‑interpreter, labs)
+- **Securing AI systems** (AI risk management, red teaming, prompt injection, training environment security)
+- **Foundations and frameworks** (ML fundamentals, LangChain, RAG, LLM frameworks, vector databases)
 
-## Collection of Jupyter Notebooks
-This is (by far) the best collection of colab notebooks I have found. A bit overwhelming and I wish I had time to go through most of them… Tons of links to papers, videos, etc.: https://github.com/amrzv/awesome-colab-notebooks
-  
-## AI Security Best Practices and Tools
-- [AI Security Tools](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai_research/ai_security_tools.md)
-- [OWASP AI Security Testing Guidance](https://owaspai.org/docs/5_testing/)
-- [AI Security Tools and Frameworks](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai_research/ai_security_tools.md)
-- [Cisco AI Security Website](https://aisecurity.cisco.com/)
-- [Securing AI Training and Fine-Tuning Environments](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/training_environment_security)
-- [Prompt Injection](https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai_research/prompt_injection)
+Use this file as the **navigation hub** for everything under `ai_research`.
+
+---
+
+## How this directory is organized
+
+- **Foundations & ML fundamentals**
+  - `ML_Fundamentals/` – core ML/AI concepts, terminology, datasets, and evaluation.
+  - `datasets.rst` – large curated list of public datasets for AI/ML work.
+
+- **Frameworks, tooling & labs**
+  - `LangChain/` – tools, learning resources, RAG examples, and agent patterns. See `LangChain/README.md`.
+  - `LLM-frameworks/` – overview of popular LLM and agent frameworks (Autogen, Haystack, Semantic Kernel, etc.).
+  - `ollama-labs/` – complete hands-on lab path for running and building with local models via Ollama.
+  - `labs/` – additional ML/LLM labs (OpenAI API basics, Gorilla, scikit-learn, TensorFlow/Keras, NLTK).
+  - `open-interpreter-examples/` – examples of AI-assisted recon and automation using Open Interpreter.
+  - `ai_coding_tools.md` – comparison table of modern AI coding assistants and agentic IDEs.
+
+- **Securing AI systems (AI security, red teaming & risk management)**
+  - `ai_security_tools.md` – curated list of AI security tools (red teaming, firewalls, guardrails, datasets).
+  - `ai_algorithmic_red_teaming/` – methodology and visuals for AI red teaming and systemic risk testing.
+  - `ai_risk_management/` – NIST AI RMF, EU AI Act, ISO 42001/23894, CSA guidance, and sector-specific risk resources.
+  - `training_environment_security/` – securing AI/ML training and fine-tuning environments.
+  - `prompt_injection/` – overview of prompt injection classes, techniques, and references to attack resources.
+  - `model_security_testing.md` – short entry point to model/application security testing topics.
+  - `monitoring.md` – monitoring, observability, and detection tools for AI systems.
+  - `AI for Incident Response/` – GPT‑4o-based log analysis tool and lab for incident response.
+
+- **Prompt engineering, RAG, GPTs & vector databases**
+  - `prompt_engineering.md` – long-form guide to prompt engineering patterns, tools, and learning resources.
+  - `prompt_engineering/` – practical prompt assets, including the bug bounty prompt generator.
+  - `RAG/` – RAG architecture patterns, pitfalls, evaluation, and security aspects; tied to the RAG for Cybersecurity course.
+  - `vector_databases/` – overview of vector DBs and security hardening references.
+  - `GPTs/` – curated list of cybersecurity GPT agents and Colab notebooks.
+
+- **Ethics, privacy, and governance**
+  - `ethics_privacy/` – AI ethics, privacy, and dataset considerations (including human activity datasets).
+
+- **Presentations and supporting material**
+  - `presos/` – slide decks and PDFs used in trainings and conference talks.
+
+---
+
+## Quick start: recommended paths
+
+- **If you are new to AI security**
+  - Start with `ai_risk_management/README.md` for global frameworks (NIST AI RMF, EU AI Act, ISO 42001).
+  - Then read `ai_security_tools.md` for hands-on tools and references.
+  - Finish with `prompt_injection/README.md` and `training_environment_security/README.md` for concrete attack and defense techniques.
+
+- **If you want to build secure AI/RAG apps**
+  - Work through `LangChain/README.md`, `RAG/README.md`, and `vector_databases/README.md`.
+  - Use the labs in `labs/` and `ollama-labs/` to get practical skills with APIs, local models, tool-calling, and vision.
+
+- **If you want AI-assisted security operations**
+  - See `AI for Incident Response/README.md` for log analysis with GPT‑4o.
+  - Explore `open-interpreter-examples/` and `GPTs/README.md` for AI agents that support recon and security workflows.
+
+---
+
+## Key topical resource hubs
+
+### LangChain, RAG, and vector databases
+
+- `LangChain/README.md` – curated links to LangChain, LangGraph, evaluation tools, and production patterns.
+- `RAG/README.md` – deep dive into RAG disadvantages, retrieval strategies, guardrails, and evaluation.
+- `vector_databases/README.md` – overview of MongoDB Atlas Vector Search, Faiss, Milvus, Weaviate, Chroma, and security hardening:
+  - Cisco whitepaper on securing vector databases
+  - Milvus and MongoDB security references
+
+You can also use the external **RAG for Cybersecurity** repository:
+
+- [RAG for Cybersecurity course repository](https://github.com/santosomar/RAG-for-cybersecurity)
+
+### AI security, risk management, and red teaming
+
+- `ai_security_tools.md` – open source red teaming tools (e.g., ART, Armory, Foolbox, TextAttack, PyRIT, Garak, Promptfoo, Guardrails, PurpleLlama, jailbreak-evaluation) and commercial prompt firewalls/guards.
+- `ai_algorithmic_red_teaming/README.md` – attack categories, evaluation metrics, and test surfaces, plus:
+  - [OWASP Generative AI Security Project red teaming guidance](https://genai.owasp.org/initiatives/#ai-redteaming)
+  - [Cloud Security Alliance Agentic AI Red Teaming Guide](https://cloudsecurityalliance.org/artifacts/agentic-ai-red-teaming-guide)
+- `ai_risk_management/README.md` – AI risk frameworks and governance:
+  - NIST AI RMF and US AI Safety Institute
+  - EU AI Act and global governance frameworks
+  - CSA, MITRE ATLAS, OWASP ML/LLM security lists
+  - Sector-specific guidance (financial services, healthcare, automotive)
+- `training_environment_security/README.md` – threats and mitigations for data poisoning, supply chain, model theft, IP protection, and infrastructure security.
+- `prompt_injection/README.md` – taxonomy of prompt injection techniques, OWASP LLM Top 10 mappings, and links to prompt injection tools/lists.
+- `model_security_testing.md` – entry point reference to broader model testing content in this repo.
+
+---
 
 ## AI Security Resources from Omar's Training Sessions
-This section provides a curated list of resources that delve into foundational cybersecurity concepts, frequently explored in my O'Reilly training sessions and other educational offerings.
 
-###  Live Training
-**Upcoming Live Cybersecurity and AI Training in O'Reilly:** [Register before it is too late](https://learning.oreilly.com/search/?q=omar%20santos&type=live-course&rows=100&language_with_transcripts=en) (free with O'Reilly Subscription)
+This section provides a curated list of resources frequently referenced in O'Reilly live courses and workshops.
 
-### Reading List
+### Live training
 
-Despite the rapidly evolving landscape of AI and technology, these books offer a comprehensive roadmap for understanding the intersection of these technologies with cybersecurity:
+- **Upcoming Live Cybersecurity and AI Training on O'Reilly**  
+  [Browse and register](https://learning.oreilly.com/search/?q=omar%20santos&type=live-course&rows=100&language_with_transcripts=en) (free with an O'Reilly subscription).
+
+### Reading list
+
+These books provide a roadmap for understanding how AI, cybersecurity, privacy, and governance intersect:
 
 - **Redefining Hacking**
-A Comprehensive Guide to Red Teaming and Bug Bounty Hunting in an AI-driven World [Available on O'Reilly](https://learning.oreilly.com/library/view/redefining-hacking-a/9780138363635/)
+  A comprehensive guide to red teaming and bug bounty in an AI‑driven world.  
+  [Available on O'Reilly](https://learning.oreilly.com/library/view/redefining-hacking-a/9780138363635/)
 
-- **Developing Cybersecurity Programs and Policies in an AI-Driven World**  
-  Explore strategies for creating robust cybersecurity frameworks in an AI-centric environment. [Available on O'Reilly](https://learning.oreilly.com/library/view/developing-cybersecurity-programs/9780138073992)
+- **Developing Cybersecurity Programs and Policies in an AI‑Driven World**  
+  Strategies for building robust cybersecurity programs that account for AI risk.  
+  [Available on O'Reilly](https://learning.oreilly.com/library/view/developing-cybersecurity-programs/9780138073992)
 
 - **Beyond the Algorithm: AI, Security, Privacy, and Ethics**  
-  Gain insights into the ethical and security challenges posed by AI technologies. [Available on O'Reilly](https://learning.oreilly.com/library/view/beyond-the-algorithm/9780138268442)
+  Explores ethical, privacy, and security challenges in AI systems.  
+  [Available on O'Reilly](https://learning.oreilly.com/library/view/beyond-the-algorithm/9780138268442)
 
-- **The AI Revolution in Networking, Cybersecurity, and Emerging Technologies** Understand how AI is transforming networking and cybersecurity landscapes.  
+- **The AI Revolution in Networking, Cybersecurity, and Emerging Technologies**  
+  How AI is transforming networking, security operations, and adjacent emerging tech.  
 [Available on O'Reilly](https://learning.oreilly.com/library/view/the-ai-revolution/9780138293703)
 
-### Video Courses
+### Video courses
 
-Enhance your practical skills with these video courses designed to deepen your understanding of cybersecurity:
+Hands-on courses to deepen practical cybersecurity and AI skills:
 
-- **Building the Ultimate Cybersecurity Lab and Cyber Range (video)** [Available on O'Reilly](https://learning.oreilly.com/course/building-the-ultimate/9780138319090/)
+- **Building the Ultimate Cybersecurity Lab and Cyber Range (video)**  
+  [Available on O'Reilly](https://learning.oreilly.com/course/building-the-ultimate/9780138319090/)
 
----
-
-- **AI-Enabled Programming, Networking, and Cybersecurity**
-Learn to use AI for cybersecurity, networking, and programming tasks.
-Use examples of practical, hands-on activities and demos that emphasize real-world tasks.
-Implement AI tools as a programmer, developer, networking, or security professional.
+- **AI‑Enabled Programming, Networking, and Cybersecurity**  
+  Learn to use AI for cybersecurity, networking, and programming tasks with practical demos.  
 [Available on O'Reilly](https://learning.oreilly.com/course/ai-enabled-programming-networking/9780135402696/)
- 
----
 
 - **Securing Generative AI**
-Explore security for deploying and developing AI applications, RAG, agents, and other AI implementations
-Learn hands-on with practical skills of real-life AI and machine learning cases
-Incorporate security at every stage of AI development, deployment, and operation
+  Security for deploying and developing AI applications, RAG, agents, and ML systems end‑to‑end.  
 [Available on O'Reilly](https://learning.oreilly.com/course/securing-generative-ai/9780135401804/)
 
----
-
-
 - **Practical Cybersecurity Fundamentals**  
-  A comprehensive video course covering essential cybersecurity principles.  [Available on O'Reilly](https://learning.oreilly.com/course/practical-cybersecurity-fundamentals/9780138037550/)
- 
----
+  Comprehensive coverage of foundational cybersecurity concepts.  
+  [Available on O'Reilly](https://learning.oreilly.com/course/practical-cybersecurity-fundamentals/9780138037550/)
 
 - **The Art of Hacking**  
-  A series of video courses offering over 26 hours of training in ethical hacking and penetration testing techniques. Ideal for those preparing for certifications like OSCP or CEH.  
+  A series of video courses with 26+ hours of ethical hacking and penetration testing content, useful context for AI‑augmented offensive and defensive operations.  
   [Visit The Art of Hacking](https://theartofhacking.org)
 
 ---
 
-## AWESOME Lists
-- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - a huge collection of resources related to Gen AI and LLMs
-- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) - A collection of prompt examples to be used with the ChatGPT model.
-- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - A Chinese collection of prompt examples to be used with the ChatGPT model.
-- [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) - Curated list of resources for ChatGPT and GPT-3 from OpenAI.
-- [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) -  A trend starts from "Chain of Thought Prompting Elicits Reasoning in Large Language Models.
-- [LLM Reading List](https://github.com/crazyofapple/Reading_groups/) - A paper & resource list of large language models.
-- [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) - Collection of papers and resources on Reasoning using Language Models.
-- [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) - Measuring LLMs' Reasoning Performance
-- [Awesome GPT](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
-- [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) - a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
-- [Awesome LLM Human Preference Datasets](https://github.com/PolisAI/awesome-llm-human-preference-datasets) - a collection of human preference datasets for LLM instruction tuning, RLHF and evaluation.
-- [RWKV-howto](https://github.com/Hannibal046/RWKV-howto) - possibly useful materials and tutorial for learning RWKV.
-- [ModelEditingPapers](https://github.com/zjunlp/ModelEditingPapers) - A paper & resource list on model editing for large language models.
-- [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) - A curation of awesome tools, documents and projects about LLM Security.
-- [Awesome-Align-LLM-Human](https://github.com/GaryYufei/AlignLLMHumanSurvey) - A collection of papers and resources about aligning large language models (LLMs) with human.
-- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) - An awesome and curated list of best code-LLM for research.
-- [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) - Awesome LLM compression research papers and tools.
-- [Awesome-LLM-Systems](https://github.com/AmberLJC/LLMSys-PaperList) - Awesome LLM systems research papers.
-- [awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) - A collection of open source, actively maintained web apps for LLM applications.
+## Awesome lists and external research
+
+Use these to stay current with the broader AI/LLM research ecosystem:
+
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) – large collection of GenAI and LLM resources.
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) – prompt examples for ChatGPT‑style models.
+- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) – Chinese prompt collection.
+- [Awesome ChatGPT](https://github.com/humanloop/awesome-chatgpt) – curated resources for ChatGPT and GPT‑3/4.
+- [Chain-of-Thoughts Papers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers) – chain‑of‑thought prompting research.
+- [LLM Reading List](https://github.com/crazyofapple/Reading_groups/) – broader LLM paper list.
+- [Reasoning using Language Models](https://github.com/atfortes/LM-Reasoning-Papers) – reasoning‑focused LLM research.
+- [Chain-of-Thought Hub](https://github.com/FranxYao/chain-of-thought-hub) – chain‑of‑thought benchmarking and evaluation.
+- [Awesome GPT](https://github.com/formulahendry/awesome-gpt) – GPT/ChatGPT/LLM tools and projects.
+- [Awesome GPT-3](https://github.com/elyase/awesome-gpt3) – GPT‑3 demos and articles.
+- [Awesome LLM Human Preference Datasets](https://github.com/PolisAI/awesome-llm-human-preference-datasets) – datasets for RLHF and preference learning.
+- [RWKV-howto](https://github.com/Hannibal046/RWKV-howto) – RWKV learning resources.
+- [ModelEditingPapers](https://github.com/zjunlp/ModelEditingPapers) – model editing resources.
+- [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security) – tools, docs, and projects focused on LLM security.
+- [Awesome-Align-LLM-Human](https://github.com/GaryYufei/AlignLLMHumanSurvey) – alignment with human preferences.
+- [Awesome-Code-LLM](https://github.com/huybery/Awesome-Code-LLM) – code‑focused LLMs.
+- [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) – LLM compression research and tools.
+- [Awesome-LLM-Systems](https://github.com/AmberLJC/LLMSys-PaperList) – LLM systems research papers.
+- [awesome-llm-webapps](https://github.com/snowfort-ai/awesome-llm-webapps) – open‑source LLM web applications.
+- [Stanford AI Index Report 2025](https://hai.stanford.edu/assets/files/hai_ai-index-report-2025_chapter1_final.pdf) – data‑driven overview of global AI trends, including safety and governance.
+
