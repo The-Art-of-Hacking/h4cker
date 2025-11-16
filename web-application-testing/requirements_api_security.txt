@@ -1,0 +1,15 @@
+# API Security Assessment Tool Requirements
+# Install with: pip install -r requirements_api_security.txt
+
+# Core dependencies
+requests>=2.28.0
+PyJWT>=2.6.0
+
+# Optional dependencies for enhanced functionality
+urllib3>=1.26.0
+certifi>=2022.12.7
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=5.0.0

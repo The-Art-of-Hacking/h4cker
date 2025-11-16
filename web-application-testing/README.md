@@ -3,6 +3,38 @@
 ## Vulnerable Servers
 There are a series of vulnerable web applications that you can use to practice your skills in a safe environment. You can get more information about them in the [vulnerable-servers directory in this repository](https://github.com/The-Art-of-Hacking/art-of-hacking/tree/master/vulnerable-servers).
 
+## API Security Assessment Tool
+
+This repository includes a comprehensive **API Security Assessment Tool** that covers 9 critical security domains:
+
+* **[api_security_assessment.py](api_security_assessment.py)** - Main assessment tool
+* **[api_security_assessment_README.md](api_security_assessment_README.md)** - Detailed documentation
+* **[api_security_example.py](api_security_example.py)** - Usage examples
+* **[requirements_api_security.txt](requirements_api_security.txt)** - Dependencies
+
+### Quick Start
+```bash
+# Install dependencies
+pip install -r requirements_api_security.txt
+
+# Basic assessment
+python api_security_assessment.py --url https://api.example.com
+
+# With authentication
+python api_security_assessment.py --url https://api.example.com --token "Bearer your-token"
+```
+
+### Security Domains Tested
+✅ Transport & TLS Security  
+✅ Authentication Testing  
+✅ Authorization Testing  
+✅ Input Validation  
+✅ SSRF Protection  
+✅ Rate Limiting  
+✅ Information Disclosure  
+✅ Management Endpoints  
+✅ CORS Configuration  
+
 ## A Few Popular Tools
 The following are a few popular tools that you learned in the video courses part of these series:
 * [Burp Suite](https://portswigger.net/burp)
