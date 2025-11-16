@@ -5,17 +5,14 @@ This repository is a comprehensive collection of cybersecurity-related reference
 ## Overview
 The repository serves as a supplemental material provider to several books, video courses, and live training created by Omar Santos. It encompasses over 10,000 references that are instrumental for both offensive and defensive security professionals in honing their skills.
 
-## Key Areas of Focus
+## Directory Overview
+Below is a quick reference to major sections in this repository. Each folder contains documentation or tools related to the topic indicated by its name.
 
-- **Ethical Hacking Techniques**: Guidance on building your hacking environment, learning offensive security techniques, bug bounties, vulnerability research, and exploit development.
-
-- **Reverse Engineering & Malware Analysis**: In-depth insights into reverse engineering and analyzing malicious software.
-
-- **Threat Intelligence & Threat Hunting**: Resources for understanding, tracking, and proactively searching for potential threats.
-
-- **Digital Forensics & Incident Response (DFIR)**: Real-life penetration testing reports, techniques, and tools related to digital forensics and incident response.
-
-- **AI Security Research**: Exploration of artificial intelligence and machine learning in the context of cybersecurity. This includes researching potential security vulnerabilities in AI algorithms, developing robust AI models resistant to adversarial attacks, understanding AI-driven threat detection, and creating tools that leverage AI to enhance security measures, and more.
+- **Offensive Security**: [exploit-development](exploit-development/), [post-exploitation](post-exploitation/), [metasploit-resources](metasploit-resources/), [more-payloads](more-payloads/)
+- **Defensive Security**: [threat-hunting](threat-hunting/), [threat-intelligence](threat-intelligence/), [dfir](dfir/), [sbom](sbom/)
+- **Cloud Security**: [docker-and-k8s-security](docker-and-k8s-security/), [cloud-resources](cloud-resources/)
+- **Hardware & IoT**: [iot-hacking](iot-hacking/), [car-hacking](car-hacking/), [game-hacking](game-hacking/)
+- **Training Materials**: [certifications](certifications/), [cheat-sheets](cheat-sheets/), [who-and-what-to-follow](who-and-what-to-follow/)
 
 ## How to Use
 You can clone this repository or download specific resources to deepen your understanding in the aforementioned areas. For detailed explanations and practical applications, refer to the books, video courses, and training by Omar Santos.
@@ -28,14 +25,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries or feedback, please feel free to contact [Omar Santos](https://www.linkedin.com/in/santosomar/).
-
-
-## Directory Overview
-Below is a quick reference to major sections in this repository. Each folder contains documentation or tools related to the topic indicated by its name.
-
-- **Offensive Security**: [exploit-development](exploit-development/), [post-exploitation](post-exploitation/), [metasploit-resources](metasploit-resources/), [more-payloads](more-payloads/)
-- **Defensive Security**: [threat-hunting](threat-hunting/), [threat-intelligence](threat-intelligence/), [dfir](dfir/), [sbom](sbom/)
-- **Cloud Security**: [docker-and-k8s-security](docker-and-k8s-security/), [cloud-resources](cloud-resources/)
-- **Hardware & IoT**: [iot-hacking](iot-hacking/), [car-hacking](car-hacking/), [game-hacking](game-hacking/)
-- **Training Materials**: [certifications](certifications/), [cheat-sheets](cheat-sheets/), [who-and-what-to-follow](who-and-what-to-follow/)
 
