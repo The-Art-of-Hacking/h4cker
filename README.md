@@ -33,9 +33,9 @@ For any inquiries or feedback, please feel free to contact [Omar Santos](https:/
 ## Directory Overview
 Below is a quick reference to major sections in this repository. Each folder contains documentation or tools related to the topic indicated by its name.
 
-- **Offensive Security**: [exploit_development](exploit_development/), [post_exploitation](post_exploitation/), [metasploit_resources](metasploit_resources/), [more_payloads](more_payloads/)
-- **Defensive Security**: [threat_hunting](threat_hunting/), [threat_intelligence](threat_intelligence/), [dfir](dfir/), [sbom](sbom/)
-- **Cloud Security**: [docker-and-k8s-security](docker-and-k8s-security/), [cloud_resources](cloud_resources/)
-- **Hardware & IoT**: [iot_hacking](iot_hacking/), [car_hacking](car_hacking/), [game_hacking](game_hacking/)
-- **Training Materials**: [certifications](certifications/), [cheat_sheets](cheat_sheets/), [who-and-what-to-follow](who-and-what-to-follow/)
+- **Offensive Security**: [exploit-development](exploit-development/), [post-exploitation](post-exploitation/), [metasploit-resources](metasploit-resources/), [more-payloads](more-payloads/)
+- **Defensive Security**: [threat-hunting](threat-hunting/), [threat-intelligence](threat-intelligence/), [dfir](dfir/), [sbom](sbom/)
+- **Cloud Security**: [docker-and-k8s-security](docker-and-k8s-security/), [cloud-resources](cloud-resources/)
+- **Hardware & IoT**: [iot-hacking](iot-hacking/), [car-hacking](car-hacking/), [game-hacking](game-hacking/)
+- **Training Materials**: [certifications](certifications/), [cheat-sheets](cheat-sheets/), [who-and-what-to-follow](who-and-what-to-follow/)
 

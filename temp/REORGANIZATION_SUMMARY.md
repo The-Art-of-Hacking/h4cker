@@ -1,7 +1,7 @@
 # Ethical Hacking Repository Reorganization Summary
 
 ## Overview
-This document summarizes the reorganization of cybersecurity content from the main h4cker repository into a structured Ethical Hacking framework located in `temp/Ethical_Hacking/`.
+This document summarizes the reorganization of cybersecurity content from the main h4cker repository into a structured Ethical Hacking framework located in `temp/Ethical-Hacking/`.
 
 ## Phase 1: Structure Creation ✅
 Created comprehensive directory structure with 5 main categories:
@@ -16,62 +16,62 @@ Each category includes detailed README files with frameworks, methodologies, and
 ## Phase 2: Content Migration ✅
 
 ### 🎯 Reconnaissance and Enumeration
-**Copied to: `Ethical_Hacking/Reconnaissance_and_Enumeration/`**
+**Copied to: `Ethical-Hacking/Reconnaissance_and_Enumeration/`**
 - `recon/` → `Information_Gathering/recon/`
 - `osint/` → `Information_Gathering/osint/`
-- `programming_and_scripting_for_cybersecurity/` → `Scripting_for_Recon_and_Enumeration/`
+- `programming-and-scripting-for-cybersecurity/` → `Scripting_for_Recon_and_Enumeration/`
 
 ### 🔍 Vulnerability Discovery and Analysis  
-**Copied to: `Ethical_Hacking/Vulnerability_Discovery_and_Analysis/`**
-- `vulnerability_scanners/` → `Vulnerability_Discovery/vulnerability_scanners/`
-- `fuzzing_resources/` → `Vulnerability_Discovery/fuzzing_resources/`
-- `buffer_overflow_example/` → `Analyzing_Results/buffer_overflow_example/`
+**Copied to: `Ethical-Hacking/Vulnerability_Discovery_and_Analysis/`**
+- `vulnerability-scanners/` → `Vulnerability_Discovery/vulnerability-scanners/`
+- `fuzzing-resources/` → `Vulnerability_Discovery/fuzzing-resources/`
+- `buffer-overflow-example/` → `Analyzing_Results/buffer-overflow-example/`
 - `pcaps/` → `Analyzing_Results/pcaps/`
 
 ### ⚔️ Attacks and Exploits
-**Copied to: `Ethical_Hacking/Attacks_and_Exploits/`**
+**Copied to: `Ethical-Hacking/Attacks_and_Exploits/`**
 
 #### Attack Preparation
-- `exploit_development/` → `Attack_Preparation/exploit_development/`
-- `more_payloads/` → `Attack_Preparation/more_payloads/`
+- `exploit-development/` → `Attack_Preparation/exploit-development/`
+- `more-payloads/` → `Attack_Preparation/more-payloads/`
 
 #### Authentication Attacks
-- `cracking_passwords/` → `Authentication_Attacks/cracking_passwords/`
+- `cracking-passwords/` → `Authentication_Attacks/cracking-passwords/`
 
 #### Web Application Attacks
-- `web_application_testing/` → `Web_Application_Attacks/web_application_testing/`
+- `web-application-testing/` → `Web_Application_Attacks/web-application-testing/`
 
 #### Cloud Attacks
-- `cloud_resources/` → `Cloud_Attacks/cloud_resources/`
+- `cloud-resources/` → `Cloud_Attacks/cloud-resources/`
 - `docker-and-k8s-security/` → `Cloud_Attacks/docker-and-k8s-security/`
 
 #### Network Attacks
-- `honeypots_honeynets/` → `Network_Attacks/honeypots_honeynets/`
+- `honeypots-honeynets/` → `Network_Attacks/honeypots-honeynets/`
 
 #### Wireless Attacks
-- `wireless_resources/` → `Wireless_Attacks/wireless_resources/`
+- `wireless-resources/` → `Wireless_Attacks/wireless-resources/`
 
 #### Social Engineering Attacks
-- `social_engineering/` → `Social_Engineering_Attacks/social_engineering/`
+- `social-engineering/` → `Social_Engineering_Attacks/social-engineering/`
 
 #### Specialized System Attacks
-- `mobile_security/` → `Specialized_System_Attacks/mobile_security/`
-- `iot_hacking/` → `Specialized_System_Attacks/iot_hacking/`
-- `car_hacking/` → `Specialized_System_Attacks/car_hacking/`
-- `game_hacking/` → `Specialized_System_Attacks/game_hacking/`
+- `mobile-security/` → `Specialized_System_Attacks/mobile-security/`
+- `iot-hacking/` → `Specialized_System_Attacks/iot-hacking/`
+- `car-hacking/` → `Specialized_System_Attacks/car-hacking/`
+- `game-hacking/` → `Specialized_System_Attacks/game-hacking/`
 
 #### Scripting to Automate Attacks
-- `metasploit_resources/` → `Scripting_to_Automate_Attacks/metasploit_resources/`
+- `metasploit-resources/` → `Scripting_to_Automate_Attacks/metasploit-resources/`
 
 ### 🔄 Post-Exploitation and Lateral Movement
-**Copied to: `Ethical_Hacking/Post_Exploitation_and_Lateral_Movement/`**
-- `post_exploitation/` → `Persistence/post_exploitation/`
-- `reverse_engineering/` → `Staging_and_Exfiltration/reverse_engineering/`
+**Copied to: `Ethical-Hacking/Post_Exploitation_and_Lateral_Movement/`**
+- `post-exploitation/` → `Persistence/post-exploitation/`
+- `reverse-engineering/` → `Staging_and_Exfiltration/reverse-engineering/`
 
 ### 📋 Engagement Management
-**Copied to: `Ethical_Hacking/Engagement_Management/`**
+**Copied to: `Ethical-Hacking/Engagement_Management/`**
 - `methodology/` → `Frameworks_and_Methodologies/methodology/`
-- `pen_testing_reports/` → `Penetration_Test_Reporting/pen_testing_reports/`
+- `pen-testing-reports/` → `Penetration_Test_Reporting/pen-testing-reports/`
 - `bug-bounties/` → `Pre_Engagement_Activities/bug-bounties/`
 
 ## Content Statistics
@@ -85,31 +85,31 @@ These remain in their original locations as they serve different purposes:
 
 ### 🛡️ Defensive Security (Separate Domain)
 - `dfir/` - Digital Forensics & Incident Response
-- `threat_hunting/` - Defensive hunting activities
-- `threat_intelligence/` - Intelligence for defense
+- `threat-hunting/` - Defensive hunting activities
+- `threat-intelligence/` - Intelligence for defense
 - `linux-hardening/` - System hardening
 - `devsecops/` - Secure development
 - `sbom/` - Software Bill of Materials
 
 ### 🏗️ Infrastructure & Lab Setup
-- `build_your_own_lab/` - Lab infrastructure setup
-- `vulnerable_servers/` - Practice targets
-- `capture_the_flag/` - CTF challenges
+- `build-your-own-lab/` - Lab infrastructure setup
+- `vulnerable-servers/` - Practice targets
+- `capture-the-flag/` - CTF challenges
 
 ### 📚 Educational & Reference
-- `foundational_cybersecurity_concepts/` - Basic concepts
+- `foundational-cybersecurity-concepts/` - Basic concepts
 - `certifications/` - Certification materials
-- `cheat_sheets/` - Quick reference materials
+- `cheat-sheets/` - Quick reference materials
 - `who-and-what-to-follow/` - Community resources
 
 ### 🤖 Research & Specialized
-- `ai_research/` - AI security research
+- `ai-research/` - AI security research
 - `crypto/` - Cryptography (broader scope)
 - `regulations/` - Compliance frameworks
 - `SCOR/` - Cisco certification materials
 
 ## Next Steps for Full Implementation
-1. **Review Structure**: Examine the reorganized content in `temp/Ethical_Hacking/`
+1. **Review Structure**: Examine the reorganized content in `temp/Ethical-Hacking/`
 2. **Validate Content**: Ensure all copied content is relevant and properly placed
 3. **Update Documentation**: Modify README files to reflect new structure
 4. **Create Cross-References**: Link related content across categories
@@ -123,7 +123,7 @@ These remain in their original locations as they serve different purposes:
 - **Scalable Framework**: Easy to add new content in appropriate categories
 
 ## File Locations
-- **Main Structure**: `/temp/Ethical_Hacking/`
+- **Main Structure**: `/temp/Ethical-Hacking/`
 - **Original Content**: Remains in original locations (unchanged)
 - **Documentation**: README files in each major category
 - **This Summary**: `/temp/REORGANIZATION_SUMMARY.md`

@@ -147,7 +147,7 @@
 
 ### Debugging and Reverse Engineering
 
-* See: https://github.com/The-Art-of-Hacking/art-of-hacking/tree/master/reverse_engineering
+* See: https://github.com/The-Art-of-Hacking/art-of-hacking/tree/master/reverse-engineering
 
 ### All in one Tools
 

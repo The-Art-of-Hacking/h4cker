@@ -38,7 +38,7 @@ Always run these commands to validate repository state:
 - Test Python scripts individually as most require specific network access or targets
 - Many scripts are designed for penetration testing environments and may not run fully in restricted environments
 - Focus on syntax validation and dependency checking rather than full execution
-- Example: `python3 -m py_compile programming_and_scripting_for_cybersecurity/recon_scripts/scanning/basic_ping_sweep.py`
+- Example: `python3 -m py_compile programming-and-scripting-for-cybersecurity/recon_scripts/scanning/basic_ping_sweep.py`
 
 ### Documentation Updates
 - Always run link checking after modifying markdown files: `lychee --config lychee.toml --no-progress --verbose './**/*.md'`
@@ -48,14 +48,14 @@ Always run these commands to validate repository state:
 ## Repository Structure Overview
 
 ### Key Directories
-- `programming_and_scripting_for_cybersecurity/` - Educational scripts in Python, Bash, etc.
+- `programming-and-scripting-for-cybersecurity/` - Educational scripts in Python, Bash, etc.
 - `osint/` - Open Source Intelligence tools and resources
 - `docker-and-k8s-security/` - Container security examples and tools
-- `threat_hunting/` - Threat hunting resources and techniques
-- `exploit_development/` - Exploit development resources
-- `web_application_testing/` - Web security testing resources
+- `threat-hunting/` - Threat hunting resources and techniques
+- `exploit-development/` - Exploit development resources
+- `web-application-testing/` - Web security testing resources
 - `dfir/` - Digital Forensics and Incident Response materials
-- `cheat_sheets/` - Quick reference guides
+- `cheat-sheets/` - Quick reference guides
 
 ### Working with Individual Tools
 - Each directory contains specialized tools for different cybersecurity domains
@@ -79,7 +79,7 @@ cd /home/runner/work/h4cker/h4cker/docker-and-k8s-security/docker && make build-
 Expected results: Links mostly pass (external sites may fail), Python deps install successfully, Docker builds complete.
 
 ### Adding New Resources
-- Place new scripts in appropriate domain directories (`programming_and_scripting_for_cybersecurity/`, `osint/`, etc.)
+- Place new scripts in appropriate domain directories (`programming-and-scripting-for-cybersecurity/`, `osint/`, etc.)
 - Update documentation to reference new resources
 - Run link checking to validate any new markdown content: `lychee --config lychee.toml --no-progress --verbose './**/*.md'`
 - Test script syntax: `python3 -m py_compile path/to/script.py`
