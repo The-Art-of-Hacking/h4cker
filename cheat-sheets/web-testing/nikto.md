@@ -2,6 +2,8 @@
 
 Nikto is an open-source web server vulnerability scanner used to identify potential security issues in web applications and servers. Below is a cheat sheet highlighting its key features and commands.
 
+NOTE: Check out the [Nikto lab](https://learning.oreilly.com/scenarios/ethical-hacking-scenarios/9780137673469X003) in O'Reilly. It is listed at: https://hackingscenarios.com
+
 ### 1. **Basic Nikto Commands**
 
 - **Scan a Host**: `nikto -h `  
