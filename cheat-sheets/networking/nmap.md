@@ -513,3 +513,6 @@ nmap -p1433,3306,5432 --script "*-info" 192.168.1.0/24
 - [NSE Script Documentation](https://nmap.org/nsedoc/)
 - [Nmap Network Scanning Book](https://nmap.org/book/)
 
+## Legal Notice
+
+⚠️ **WARNING**: Only scan networks and systems you own or have explicit permission to test. Unauthorized scanning is illegal and unethical.
