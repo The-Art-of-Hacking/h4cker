@@ -1,6 +1,6 @@
 # Buffer Overflow Examples and Learning Guide
 
-A comprehensive collection of buffer overflow examples, exploitation techniques, and defensive mechanisms. This repository is part of [The Art of Hacking Series](https://www.safaribooksonline.com/search/?query=Omar%20Santos%20hacking&extended_publisher_data=true&highlight=true&is_academic_institution_account=false&source=user&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&sort=relevance).
+A comprehensive collection of buffer overflow examples, exploitation techniques, and defensive mechanisms. This repository is part of Omar's Ethical Hacking training videos and books.
 
 ## 🎯 Learning Objectives
 
