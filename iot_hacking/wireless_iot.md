@@ -26,4 +26,4 @@
   - **TLS/SSL**: Protocols for securing data communications over networks.
   - **DTLS**: Datagram Transport Layer Security, a derivative of TLS designed for datagram protocols.
   - **ACLs**: Access Control Lists, which specify which users or system processes are granted access to objects.
-
+** Processor**: Quantum decryption,where primary and secondary access memories are processed.

@@ -21,3 +21,4 @@ log_file_path = 'path/to/your/logfile.log'
 
 # Start the search
 search_log(log_file_path)
+# start scanning and detecting malicious IP addresses in log files 

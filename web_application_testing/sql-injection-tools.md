@@ -6,4 +6,4 @@
 - [DSSS](https://github.com/stamparm/DSSS)
 - [explo](https://github.com/telekom-security/explo)
 - [Blind SQL Injection via Bitshifting](https://github.com/awnumar/blind-sql-bitshifting)
-- [Blisqy](https://github.com/JohnTroony/Blisqy)
+- [Blisqy](https://github.com/JohnTroony//Blisqy)

