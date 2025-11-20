@@ -1,4 +1,4 @@
-# This workflow automatically assigns all new pull requests to the user "santosomar".
+# This workflow automatically assigns all new pull requests to the user "modyverbose1".
 #update
 # To modify the assignee, update the `assignees` parameter below.
 
@@ -20,4 +20,4 @@ jobs:
       uses: actions-ecosystem/action-add-assignees@v1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        assignees: 'modyverbose1
+                    
