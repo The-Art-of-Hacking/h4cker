@@ -1,25 +1,25 @@
 # AI Coding Tools
 
-The following is a non-exhaustive list of the AI tools that can help with coding:
+The following is a non-exhaustive list of the AI tools that can help with coding. The table is sorted alphabetically .
 
-| Tool            | Core Features                                                                                  | AI Models Supported                        | IDE/Platform                | Collaboration    | Pricing (as of 2025)                | Notable Strengths                                            |
-|-----------------|-----------------------------------------------------------------------------------------------|--------------------------------------------|-----------------------------|------------------|--------------------------------------|--------------------------------------------------------------|
-| Cursor          | AI code completion, chat, codebase context, test/doc generation, `.cursorrules`                | GPT-4, Claude 3.5 Sonnet                   | VS Code-based               | No               | Free, $20/mo Pro                     | Deep context, multi-model, rules system                      |
-| Windsurf        | Agentic AI, autonomous task execution, multiplayer, multi-language                             | Claude 3.5, GPT-4o, others                 | Custom editor               | Yes              | Free tier, Pro plan                  | Autonomous agents, real-time collab                          |
-| Zed             | Fast Rust-based editor, AI code, multiplayer, GPU accel, local models via Ollama               | Claude 3.5 Sonnet, local LLMs              | Custom (Rust)               | Yes              | Free, hosted options                 | Speed, open source, local AI support                         |
-| GitHub Copilot  | Code completion, PR summaries, chat, multi-language, IDE integration                           | GPT-4o, OpenAI models                      | VS Code, JetBrains, etc     | No               | Free tier, $10/mo Pro, $19 Biz        | GitHub native, PR tools, broad support                       |
-| OpenAI Codex    | Cloud-based agent, GitHub repo ops, autonomous tasks, logging, parallel tasks                  | codex-1 (OpenAI o3)                        | Cloud/Browser               | No               | ChatGPT Pro/Team/Enterprise           | Autonomous, cloud execution, PR mgmt                         |
-| Augment Code    | Deep codebase context, memories, 200K context, tool integrations, multi-modal input            | Claude 3.5, GPT-4o, others                 | Web/Cloud                   | Yes              | Enterprise/team pricing               | Deep context, tool integrations                              |
-| Sourcegraph Cody| Code search, context filters, multi-model, enterprise, prompts                                 | Claude 3.5, GPT-4o, others                 | VS Code, JetBrains          | Yes              | Free, Pro, Enterprise                 | Code search, large org focus                                 |
-| Tabnine         | Code completion, privacy, multi-IDE, private models                                            | Proprietary, OpenAI, others                | VS Code, JetBrains, etc     | No               | $9/mo Pro, $39/mo Enterprise          | Privacy, local models, multi-IDE                             |
-| Aider           | Terminal AI, Git integration, multi-file, voice, code mapping                                  | Claude, GPT-4o, DeepSeek, local            | Terminal                    | No               | Pay-per-use API                       | Terminal/CLI, git ops, voice                                 |
-| Continue.dev    | Open-source, multi-model, context mgmt, IDE integration, privacy                               | Any LLM (local/cloud)                      | VS Code, JetBrains          | No               | Free (API/model costs only)            | Open source, privacy, extensibility                          |
-| Replit AI Agent | Full-stack app gen, browser-based, chat, deployment                                            | GPT-4o, Claude 3.5, others                 | Browser                     | Yes              | Usage-based, free basic                | Full-stack, browser, deployment                              |
-| Bolt.new        | Full-stack, browser, live preview, WebContainer, deployment                                    | GPT-4o, Claude 3.5, others                 | Browser                     | Yes              | Usage-based (StackBlitz)               | No setup, browser, live testing                              |
-| PearAI          | VS Code-based, privacy, self-host, built-in Aider/Perplexity                                   | Claude, GPT-4o, others                     | VS Code                     | Yes              | Open-source, self-host                 | Privacy, open source, integrations                           |
-| CodeGPT         | Custom AI agents, marketplace, privacy, screenshot input                                       | GPT-4o, Claude, others                     | Web/Cloud                   | Yes              | Tiered, self-host options              | Custom agents, privacy, marketplace                          |
-| **Cline**       | Plan/Act modes, code/terminal ops, MCP tool integration, browser automation, rollback/checkpoints | Claude 3.5/3.7 Sonnet, GPT-4, Gemini, local, OpenRouter | VS Code, Terminal           | No               | Free, pay-as-you-go model API usage    | Deep system integration, model flexibility, MCP ecosystem    |
-| **Claude Code** | Terminal-native agent, deep codebase awareness, multi-file ops, git/PR, reasoning transparency | Claude Opus 4, Sonnet 4, via API/Vertex AI | Terminal, VS Code, JetBrains| No               | Opus: $15/$75/M tokens; Sonnet: $3/$15/M tokens | Deep reasoning, agentic ops, privacy-first, instant search   |
-| **Warp**        | AI terminal, command/ops suggestions, agent mode, debugging, block UX, pair programming        | Claude 3.7 Sonnet, o3, others (configurable)| Terminal (macOS, Win, Linux)| Yes (block sharing) | Freemium                                 | AI/agentic terminal, error fixing, DevOps, privacy/local AI  |
-
+| Tool | IDE / Platform | Model & Licensing |
+| :--- | :--- | :--- |
+| **[Aider](https://aider.chat/)** | Terminal | Pay-per-use API |
+| **[Augment Code](https://www.augmentcode.com)** | Cloud, CLI, IDE | Commercial |
+| **[Claude Code](https://www.claude.com/product/claude-code)** | Terminal, VS Code, JetBrains | Commercial |
+| **[Cline](https://cline.bot/)** | VS Code, Terminal | Free + Commercial |
+| **[CodeGPT](https://www.codegpt.co/)** | IDE + Cloud | Tiered, self-host options |
+| **[Continue.dev](https://www.continue.dev/)** | VS Code, JetBrains | Free + Commercial |
+| **[Cursor](https://cursor.com/)** | VS Code-based, Background Agents (Cloud), CLI | Commercial |
+| **[GitHub Copilot](https://github.com/features/copilot)** | VS Code, JetBrains, etc. | Commercial |
+| **[OpenAI Codex](https://chatgpt.com/features/codex)** | Cloud, CLI, IDE | Commercial |
+| **[OpenCode](https://opencode.ai/)** | Terminal native | Free |
+| **[PearAI](https://www.trypear.ai/)** | VS Code | Open-source, self-host |
+| **[Replit AI Agent](https://replit.com/ai)** | Browser | Usage-based, free basic |
+| **[Sourcegraph AMP](https://sourcegraph.com/amp)** | Background agent | Commercial |
+| **[Sourcegraph Cody](https://sourcegraph.com/docs/cody)** | VS Code, JetBrains | Commercial |
+| **[Tabnine](https://www.tabnine.com/)** | VS Code, JetBrains, etc. | Commercial |
+| **[Warp](https://www.warp.dev/)** | Terminal (macOS, Win, Linux) | Free + Commercial Offer |
+| **[Windsurf](https://windsurf.com/)** | Custom editor | Commercial |
+| **[Zed](https://zed.dev/)** | Custom (Rust) | Free Hosted Option |
 
