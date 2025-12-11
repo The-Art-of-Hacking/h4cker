@@ -1,6 +1,6 @@
 ##  Shodan Exploration Lab: "The Search Engine for Hackers"
 
-### 🧭 **Lab Objective**
+### **Lab Objective**
 Learn how to use [Shodan.io](https://shodan.io/) for discovering exposed devices, services, vulnerabilities, and misconfigurations across the internet.
 
 ---
