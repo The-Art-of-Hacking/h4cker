@@ -1,18 +1,18 @@
-## 🧪 Shodan Exploration Lab: "The Search Engine for Hackers"
+##  Shodan Exploration Lab: "The Search Engine for Hackers"
 
 ### 🧭 **Lab Objective**
 Learn how to use [Shodan.io](https://shodan.io/) for discovering exposed devices, services, vulnerabilities, and misconfigurations across the internet.
 
 ---
 
-## 🧰 **Pre-requisites**
+## **Pre-requisites**
 - A Shodan account (free or student-licensed)
 - Browser access to [https://shodan.io](https://shodan.io)
 - Optional: Shodan CLI (`pip install shodan`) + API Key
 
 ---
 
-## 🧠 Learning Outcomes
+## Learning Outcomes
 By the end of this lab, students will be able to:
 1. Perform basic and advanced Shodan searches
 2. Identify open ports and services
@@ -24,7 +24,7 @@ By the end of this lab, students will be able to:
 
 ## 🔬 Lab Sections
 
-### ✅ Part 1: Shodan Basics – "First Contact"
+### Part 1: Shodan Basics – "First Contact"
 1. Go to [https://shodan.io](https://shodan.io) and create/login to your account.
 2. Search for the following:
    - `apache`
@@ -39,7 +39,7 @@ By the end of this lab, students will be able to:
 
 ---
 
-### ✅ Part 2: Discovering Devices – "What's Exposed?"
+### Part 2: Discovering Devices – "What's Exposed?"
 Try the following queries:
 - `port:22 country:"US"`
 - `default password`
@@ -51,7 +51,7 @@ Try the following queries:
 
 ---
 
-### ✅ Part 3: Filter Power – "Precision Hacking (Legally)"
+### Part 3: Filter Power – "Precision Hacking (Legally)"
 Use filters like:
 - `org:` – filter by company/ISP
 - `os:` – filter by OS
@@ -66,7 +66,7 @@ Try:
 
 ---
 
-### ✅ Part 4: CVEs & Vulnerability Search – "Exposure Analytics"
+### Part 4: CVEs & Vulnerability Search – "Exposure Analytics"
 Search for:
 - `vuln:CVE-2021-44228` (Log4Shell)
 - `vuln:CVE-2017-5638` (Apache Struts)
@@ -75,7 +75,7 @@ Search for:
 
 ---
 
-### ✅ Part 5: Shodan Maps and Reports (Optional)
+### Part 5: Shodan Maps and Reports (Optional)
 - Explore [https://exploits.shodan.io](https://exploits.shodan.io) and [https://maps.shodan.io](https://maps.shodan.io)
 - See real-time exposed devices
 - Create a saved search and export a report
@@ -84,17 +84,17 @@ Search for:
 
 ---
 
-## 🚨 Ethics and Guidelines
+## Ethics and Guidelines
 - **DO NOT** attempt to connect, log in, or exploit discovered systems.
 - Shodan is a reconnaissance tool; accessing systems without permission is **illegal and unethical**.
 - This lab is for **educational** and **defensive** awareness only.
 
 ---
 
-## 🎯 Final Challenge
+## Final Challenge
 Your company asks you to investigate if their infrastructure is exposed. Choose a public organization (e.g., university, ISP, small business) and simulate what a red teamer might find using Shodan queries—**without interacting with any systems**.
 
-📝 **Deliverable:** A 1-page report summarizing:
+**Deliverable:** A 1-page report summarizing:
 - Tools used
 - Query examples
 - Findings (IP ranges, services, ports, exposure)
@@ -102,7 +102,7 @@ Your company asks you to investigate if their infrastructure is exposed. Choose 
 
 ---
 
-## 📦 Bonus: Shodan CLI Mini Exercise (Optional)
+## Bonus: Shodan CLI Mini Exercise (Optional)
 Install CLI:
 ```bash
 pip install shodan
