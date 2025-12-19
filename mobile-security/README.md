@@ -1,6 +1,4 @@
-# Mobile Device Security
-
-## OWASP Resources
+# OWASP Mobile Device Security Resources  
 
 - [OWASP Mobile Security Project](https://mas.owasp.org/)
 - [OWASP Mobile Application Security Testing Guide (MASTG)](https://github.com/OWASP/mastg)
