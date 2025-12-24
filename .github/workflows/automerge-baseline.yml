@@ -10,10 +10,11 @@ permissions:
   contents: write
   pull-requests: write
   checks: read
+  issues: write
 
 jobs:
   auto-merge:
-    if: github.event.pull_request != null || github.event.pull_request != ''
+    if: ${{ github.event.pull_request != null || github.event.pull_request != "" }}
     runs-on: ubuntu-latest
     steps:
       - name: Check event and PR
@@ -35,8 +36,13 @@ jobs:
         id: eval
         uses: actions/github-script@v6
         with:
+          pr_number: '${{ steps.pr.outputs.pr_number }}'
           script: |
-            const prNumber = parseInt(core.getInput('pr_number') || outputs.pr_number);
+            const prNumber = parseInt(core.getInput('pr_number'));
+            if (!prNumber) {
+              core.setFailed('No PR number available in inputs');
+              return;
+            }
             const eventName = context.eventName;
             // For pull_request_review events, the reviewer is in context.payload.review.user
             let reviewer = null;
@@ -79,8 +85,13 @@ jobs:
         id: status
         uses: actions/github-script@v6
         with:
+          pr_number: '${{ steps.pr.outputs.pr_number }}'
           script: |
-            const prNumber = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: core.getInput('pr_number')||'0'})).data.number;
+            const prNumber = parseInt(core.getInput('pr_number'));
+            if (!prNumber) {
+              core.setFailed('No PR number available for status check');
+              return;
+            }
             const pr = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber})).data;
             const headSha = pr.head.sha;
             const status = await github.rest.repos.getCombinedStatusForRef({owner: context.repo.owner, repo: context.repo.repo, ref: headSha});
@@ -92,11 +103,16 @@ jobs:
             }
 
       - name: Auto-merge if approved and checks OK
-        if: steps.eval.outputs.approved == 'true' && steps.status.outputs.checks_ok == 'true'
+        if: ${{ steps.eval.outputs.approved == 'true' && steps.status.outputs.checks_ok == 'true' }}
         uses: actions/github-script@v6
         with:
+          pr_number: '${{ steps.pr.outputs.pr_number }}' 
           script: |
-            const prNumber = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: core.getInput('pr_number')||0})).data.number;
+            const prNumber = parseInt(core.getInput('pr_number'));
+            if (!prNumber) {
+              core.setFailed('No PR number available at merge time');
+              return;
+            }
             const pr = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber})).data;
 
             // Only operate on branches created by our baseline action
@@ -111,12 +127,51 @@ jobs:
               await github.rest.pulls.update({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber, draft: false});
             }
 
-            core.info('Merging PR');
-            await github.rest.pulls.merge({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber, merge_method: 'squash', commit_title: 'chore: update detect-secrets baseline'});
-            await github.rest.issues.createComment({owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body: 'Automerged baseline update after approval and successful CI checks.'});
+            // Re-check for a recent approved review and approver permission
+            const reviews = (await github.rest.pulls.listReviews({ owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber })).data;
+            let approver = null;
+            for (let i = reviews.length - 1; i >= 0; i--) {
+              if (reviews[i].state === 'APPROVED') {
+                approver = reviews[i].user.login;
+                break;
+              }
+            }
+
+            if (!approver) {
+              core.setFailed('No approved review found at merge time.');
+              return;
+            }
+
+            const perm = (await github.rest.repos.getCollaboratorPermissionLevel({ owner: context.repo.owner, repo: context.repo.repo, username: approver })).data.permission;
+            if (!['admin', 'write', 'maintain'].includes(perm)) {
+              core.setFailed(`Approver ${approver} does not have sufficient permission (${perm}).`);
+              return;
+            }
+
+            // Add an audit label to the PR (attempting to create it if missing, then add)
+            const auditLabel = 'automerge-baseline';
+            try {
+              await github.rest.issues.addLabels({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, labels: [auditLabel] });
+            } catch (err) {
+              core.info(`Adding label failed (will try to create it): ${err.message}`);
+              try {
+                await github.rest.issues.createLabel({ owner: context.repo.owner, repo: context.repo.repo, name: auditLabel, color: '0e8a16', description: 'Automerged baseline PRs' });
+                await github.rest.issues.addLabels({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, labels: [auditLabel] });
+              } catch (err2) {
+                core.info(`Failed to create/add label; continuing without label: ${err2.message}`);
+              }
+            }
+
+            // Merge the PR (squash)
+            const mergeResult = await github.rest.pulls.merge({ owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber, merge_method: 'squash', commit_title: 'chore: update detect-secrets baseline' });
+            const mergedSha = mergeResult.data && mergeResult.data.sha ? mergeResult.data.sha : pr.head.sha;
+
+            // Post a detailed audit comment for traceability (approver + merged SHA)
+            const commentBody = `Automerged baseline update after approval by @${approver}.\n\nMerged commit SHA: ${mergedSha}`;
+            await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body: commentBody });
 
       - name: Notify when blocked (missing approval or failing checks)
-        if: steps.eval.outputs.approved != 'true' || steps.status.outputs.checks_ok != 'true'
+        if: ${{ steps.eval.outputs.approved != 'true' || steps.status.outputs.checks_ok != 'true' }}
         uses: actions/github-script@v6
         with:
           script: |
