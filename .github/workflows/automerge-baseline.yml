@@ -36,9 +36,10 @@ jobs:
         id: eval
         uses: actions/github-script@v6
         with:
-          pr_number: '${{ steps.pr.outputs.pr_number }}'
+          env:
+            PR_NUMBER: '${{ steps.pr.outputs.pr_number }}'
           script: |
-            const prNumber = parseInt(core.getInput('pr_number'));
+            const prNumber = parseInt(process.env.PR_NUMBER);
             if (!prNumber) {
               core.setFailed('No PR number available in inputs');
               return;
@@ -85,9 +86,10 @@ jobs:
         id: status
         uses: actions/github-script@v6
         with:
-          pr_number: '${{ steps.pr.outputs.pr_number }}'
+          env:
+            PR_NUMBER: '${{ steps.pr.outputs.pr_number }}'
           script: |
-            const prNumber = parseInt(core.getInput('pr_number'));
+            const prNumber = parseInt(process.env.PR_NUMBER);
             if (!prNumber) {
               core.setFailed('No PR number available for status check');
               return;
@@ -106,9 +108,10 @@ jobs:
         if: ${{ steps.eval.outputs.approved == 'true' && steps.status.outputs.checks_ok == 'true' }}
         uses: actions/github-script@v6
         with:
-          pr_number: '${{ steps.pr.outputs.pr_number }}' 
+          env:
+            PR_NUMBER: '${{ steps.pr.outputs.pr_number }}'
           script: |
-            const prNumber = parseInt(core.getInput('pr_number'));
+            const prNumber = parseInt(process.env.PR_NUMBER);
             if (!prNumber) {
               core.setFailed('No PR number available at merge time');
               return;
