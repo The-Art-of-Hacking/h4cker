@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   auto-merge:
-    if: ${{ github.event.pull_request != null || github.event.pull_request != "" }}
+    if: ${{ github.event_name == 'pull_request' || github.event_name == 'pull_request_review' }}
     runs-on: ubuntu-latest
     steps:
       - name: Check event and PR
