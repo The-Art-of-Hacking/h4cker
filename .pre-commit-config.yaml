@@ -1,0 +1,12 @@
+repos:
+  - repo: https://github.com/Yelp/detect-secrets
+    rev: v1.4.0
+    hooks:
+      - id: detect-secrets-hook
+        name: detect-secrets
+        args: ["--baseline", ".secrets.baseline"]
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.3.0
+    hooks:
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
