@@ -1,0 +1,131 @@
+name: Auto-merge baseline PRs on approval
+
+on:
+  pull_request_review:
+    types: [submitted]
+  pull_request:
+    types: [ready_for_review]
+
+permissions:
+  contents: write
+  pull-requests: write
+  checks: read
+
+jobs:
+  auto-merge:
+    if: github.event.pull_request != null || github.event.pull_request != ''
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check event and PR
+        id: pr
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const pr = context.payload.pull_request || context.payload.pull_request;
+            if (!pr) {
+              core.setFailed('No pull request in event payload.');
+              return;
+            }
+            core.setOutput('pr_number', pr.number);
+            core.setOutput('pr_head_sha', pr.head.sha);
+            core.setOutput('pr_head_ref', pr.head.ref);
+            core.setOutput('pr_draft', pr.draft ? 'true' : 'false');
+      
+      - name: Evaluate approval and permissions
+        id: eval
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = parseInt(core.getInput('pr_number') || outputs.pr_number);
+            const eventName = context.eventName;
+            // For pull_request_review events, the reviewer is in context.payload.review.user
+            let reviewer = null;
+            if (context.payload.review && context.payload.review.user) {
+              reviewer = context.payload.review.user.login;
+              const state = context.payload.review.state;
+              if (state !== 'approved') {
+                core.info(`Review state is ${state}; not approved.`);
+                core.setOutput('approved', 'false');
+                return;
+              }
+            } else if (eventName === 'pull_request' && context.payload.action === 'ready_for_review') {
+              // No immediate reviewer; wait for review event
+              core.info('PR marked ready for review; waiting for approvals.');
+              core.setOutput('approved', 'false');
+              return;
+            } else {
+              core.setOutput('approved', 'false');
+              return;
+            }
+
+            // Check reviewer permission level
+            const username = reviewer;
+            const perm = await github.rest.repos.getCollaboratorPermissionLevel({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              username: username
+            });
+            const level = perm.data.permission;
+            core.info(`Reviewer ${username} has permission: ${level}`);
+            if (level === 'admin' || level === 'write' || level === 'maintain') {
+              core.setOutput('approved', 'true');
+              core.setOutput('approver', username);
+            } else {
+              core.info('Approver does not have sufficient permission; ignoring.');
+              core.setOutput('approved', 'false');
+            }
+
+      - name: Check commit status (CI checks)
+        id: status
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: core.getInput('pr_number')||'0'})).data.number;
+            const pr = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber})).data;
+            const headSha = pr.head.sha;
+            const status = await github.rest.repos.getCombinedStatusForRef({owner: context.repo.owner, repo: context.repo.repo, ref: headSha});
+            core.info(`Combined status state: ${status.data.state}`);
+            if (status.data.state !== 'success') {
+              core.setOutput('checks_ok', 'false');
+            } else {
+              core.setOutput('checks_ok', 'true');
+            }
+
+      - name: Auto-merge if approved and checks OK
+        if: steps.eval.outputs.approved == 'true' && steps.status.outputs.checks_ok == 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: core.getInput('pr_number')||0})).data.number;
+            const pr = (await github.rest.pulls.get({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber})).data;
+
+            // Only operate on branches created by our baseline action
+            if (!pr.head.ref.startsWith('auto/update-secrets-baseline-')) {
+              core.info('PR branch does not match auto baseline pattern; skipping.');
+              return;
+            }
+
+            // If PR is draft, convert to ready for review first
+            if (pr.draft) {
+              core.info('Converting draft PR to ready for review');
+              await github.rest.pulls.update({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber, draft: false});
+            }
+
+            core.info('Merging PR');
+            await github.rest.pulls.merge({owner: context.repo.owner, repo: context.repo.repo, pull_number: prNumber, merge_method: 'squash', commit_title: 'chore: update detect-secrets baseline'});
+            await github.rest.issues.createComment({owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body: 'Automerged baseline update after approval and successful CI checks.'});
+
+      - name: Notify when blocked (missing approval or failing checks)
+        if: steps.eval.outputs.approved != 'true' || steps.status.outputs.checks_ok != 'true'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const prNumber = (context.payload.pull_request || context.payload.pull_request).number;
+            let body = 'Auto-merge: conditions not met.' + '\n';
+            if (steps.eval && steps.eval.outputs && steps.eval.outputs.approved !== 'true') {
+              body += '- Waiting for approval from a collaborator with write/admin permission.\n';
+            }
+            if (steps.status && steps.status.outputs && steps.status.outputs.checks_ok !== 'true') {
+              body += '- CI checks not all successful yet.\n';
+            }
+            await github.rest.issues.createComment({owner: context.repo.owner, repo: context.repo.repo, issue_number: prNumber, body: body});
