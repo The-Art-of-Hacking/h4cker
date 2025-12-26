@@ -1,0 +1,21 @@
+{
+  "annotations": {"list": []},
+  "editable": true,
+  "panels": [
+    {
+      "type": "graph",
+      "title": "Blackbox Probe Success",
+      "gridPos": {"h": 8, "w": 12, "x": 0, "y": 0},
+      "targets": [{"expr": "probe_success{job=\"blackbox\"}", "legendFormat": "{{instance}}"}]
+    },
+    {
+      "type": "graph",
+      "title": "Probe Duration (s)",
+      "gridPos": {"h": 8, "w": 12, "x": 12, "y": 0},
+      "targets": [{"expr": "probe_duration_seconds{job=\"blackbox\"}", "legendFormat": "{{instance}}"}]
+    }
+  ],
+  "schemaVersion": 16,
+  "title": "Blackbox Overview",
+  "version": 1
+}

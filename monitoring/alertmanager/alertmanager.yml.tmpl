@@ -1,0 +1,60 @@
+global:
+  resolve_timeout: 5m
+  # SMTP (email) values are populated from Docker secrets (or fallbacks)
+  smtp_smarthost: "${SMTP_SMARTHOST}"
+  smtp_from: "${SMTP_FROM}"
+  smtp_auth_username: "${SMTP_AUTH_USERNAME}"
+  smtp_auth_password: "${SMTP_AUTH_PASSWORD}"
+  smtp_require_tls: true
+  smtp_tls_config:
+    insecure_skip_verify: false
+
+route:
+  receiver: 'team-email'
+  group_wait: 30s
+  group_interval: 5m
+  repeat_interval: 3h
+  routes:
+    - match:
+        test: "true"
+      receiver: 'webhook-test'
+    - match:
+        severity: critical
+      receiver: 'slack-critical'
+      continue: true
+    - match:
+        severity: warning
+      receiver: 'slack-warning'
+
+receivers:
+  - name: 'team-email'
+    email_configs:
+      - to: 'oncall@example.com'
+        send_resolved: true
+
+  - name: 'slack-critical'
+    slack_configs:
+      - api_url: "${SLACK_WEBHOOK_CRITICAL}"
+        channel: '#alerts'
+        title: '{{ template "slack.title" . }}'
+        text: '{{ template "slack.text" . }}'
+
+  - name: 'slack-warning'
+    slack_configs:
+      - api_url: "${SLACK_WEBHOOK_WARNING}"
+        channel: '#alerts'
+        title: '{{ template "slack.title" . }}'
+        text: '{{ template "slack.text" . }}'
+
+  - name: 'webhook-test'
+    webhook_configs:
+      - url: 'http://test-receiver:5000/'  # local test receiver service
+        send_resolved: true
+
+templates:
+  - '/etc/alertmanager/templates/*.tmpl'
+
+# Notes:
+# - Replace SMTP/Slack placeholders by populating secrets (see monitoring/alertmanager/secrets/README.md).
+# - Use `curl -X POST http://localhost:9093/-/reload` to reload Alertmanager config after edits.
+# - The 'webhook-test' receiver points to a test service included here for local validation.

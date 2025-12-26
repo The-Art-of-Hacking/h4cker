@@ -1,0 +1,9 @@
+apiVersion: 1
+providers:
+  - name: 'blackbox-dashboards'
+    orgId: 1
+    folder: ''
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards
+    updateIntervalSeconds: 10

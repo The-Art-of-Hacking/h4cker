@@ -1,0 +1,29 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+rule_files:
+  - /etc/prometheus/alerting.rules.yml
+
+scrape_configs:
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  - job_name: 'blackbox'
+    metrics_path: /probe
+    params:
+      module: [icmp]
+    static_configs:
+      - targets: ['192.168.18.1']  # target(s) to monitor
+    relabel_configs:
+      - source_labels: [__address__]
+        target_label: __param_target
+      - target_label: __address__
+        replacement: 'blackbox-exporter:9115'
+    scrape_interval: 15s
+    scheme: http
+    honor_labels: true
+
+# Note: the above blackbox scrape is configured to call the exporter on localhost:9115
+# and probe the target(s) configured above. Modify targets or modules as needed.

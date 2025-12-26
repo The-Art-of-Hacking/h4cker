@@ -1,0 +1,106 @@
+services:
+  prometheus:
+    container_name: prometheus
+    image: prom/prometheus:latest
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./prometheus/alerting.rules.yml:/etc/prometheus/alerting.rules.yml:ro
+    depends_on:
+      - "blackbox-exporter"
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:9090/-/ready || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--web.enable-lifecycle'
+    ports:
+      - 9090:9090
+    restart: unless-stopped
+
+  blackbox-exporter:
+    container_name: blackbox-exporter
+    image: prom/blackbox-exporter:latest
+    volumes:
+      - ./blackbox/config.yml:/etc/blackbox_exporter/config.yml:ro
+    command:
+      - '--config.file=/etc/blackbox_exporter/config.yml'
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:9115/metrics || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    ports:
+      - 9115:9115
+    restart: unless-stopped
+
+  grafana:
+    container_name: grafana
+    image: grafana/grafana:latest
+    depends_on:
+      - prometheus
+    volumes:
+      - ./grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./grafana/dashboards:/var/lib/grafana/dashboards:ro
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:3000/api/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    ports:
+      - 3000:3000
+    restart: unless-stopped
+
+  alertmanager:
+    container_name: alertmanager
+    build:
+      context: ./alertmanager
+    volumes:
+      - ./alertmanager/templates:/etc/alertmanager/templates:ro
+    secrets:
+      - smtp_smarthost
+      - smtp_from
+      - smtp_auth_username
+      - smtp_auth_password
+      - slack_webhook_critical
+      - slack_webhook_warning
+    command:
+      - '--config.file=/etc/alertmanager/alertmanager.yml'
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:9093/-/ready || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    ports:
+      - 9093:9093
+    restart: unless-stopped
+
+  test-receiver:
+    container_name: test-receiver
+    build:
+      context: ./alertmanager/test-receiver
+    ports:
+      - 5000:5000
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:5000/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped
+
+secrets:
+  smtp_smarthost:
+    file: ./alertmanager/secrets/smtp_smarthost
+  smtp_from:
+    file: ./alertmanager/secrets/smtp_from
+  smtp_auth_username:
+    file: ./alertmanager/secrets/smtp_auth_username
+  smtp_auth_password:
+    file: ./alertmanager/secrets/smtp_auth_password
+  slack_webhook_critical:
+    file: ./alertmanager/secrets/slack_webhook_critical
+  slack_webhook_warning:
+    file: ./alertmanager/secrets/slack_webhook_warning

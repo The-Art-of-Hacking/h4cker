@@ -1,0 +1,11 @@
+[Unit]
+Description=Ping monitor for 192.168.18.1
+After=network.target
+
+[Service]
+User=root
+ExecStart=/usr/local/bin/ping_monitor.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

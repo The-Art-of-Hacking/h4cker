@@ -1,0 +1,11 @@
+[Unit]
+Description=TCP probe monitor for 192.168.18.1:22
+After=network.target
+
+[Service]
+User=root
+ExecStart=/usr/local/bin/tcp_probe.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
