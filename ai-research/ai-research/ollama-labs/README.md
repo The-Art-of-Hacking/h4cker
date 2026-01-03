@@ -32,7 +32,7 @@ Start your journey by installing [Ollama](https://ollama.com/) and running your 
 **Difficulty:** Beginner to Intermediate
 
 Master the command-line interface with advanced features:
-- Exploring different [model variants and tags](https://ollama.com/docs/tags)
+- Exploring different [model variants and tags](https://ollama.com/search)
 - Working with [embeddings](https://docs.ollama.com/capabilities/embeddings) for semantic similarity
 - Using [vision models](https://docs.ollama.com/capabilities/vision) to analyze images
 - Batch processing and automation
