@@ -33,8 +33,8 @@ Start your journey by installing [Ollama](https://ollama.com/) and running your 
 
 Master the command-line interface with advanced features:
 - Exploring different [model variants and tags](https://ollama.com/docs/tags)
-- Working with [embeddings](https://ollama.com/docs/embeddings) for semantic similarity
-- Using [vision models](https://ollama.com/docs/vision) to analyze images
+- Working with [embeddings](https://docs.ollama.com/capabilities/embeddings) for semantic similarity
+- Using [vision models](https://docs.ollama.com/capabilities/vision) to analyze images
 - Batch processing and automation
 - Configuring model parameters (temperature, context window)
 
