@@ -452,7 +452,7 @@ sudo aide --config=/etc/aide/aide.conf.d/aide.conf -C >> /var/log/security_check
 
 ***
 
-## Key Insights for Your Advanced Use
+## Advanced Detection Insights
 
 1. **Kernel-level rootkits are the hardest to detect** – they control what the OS reports. Compare tools (`ps` vs `/proc`, `lsof` vs `netstat`) for discrepancies[source:19].
 
