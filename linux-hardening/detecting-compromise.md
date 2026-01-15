@@ -464,4 +464,4 @@ sudo aide --config=/etc/aide/aide.conf.d/aide.conf -C >> /var/log/security_check
 
 5. **Full rebuild is the only guarantee** – if kernel-level compromise is confirmed, treat as a full system loss and reinstall from official media.
 
-Given your background with AI security and threat modeling, you may also want to look at **eBPF-based detection tools** like **Tetragon** (Cilium's threat detection) and **Osquery** for continuous monitoring at scale[source:23].
+Consider using **eBPF-based detection tools** such as **Tetragon** (Cilium's threat detection) and **Osquery** for continuous monitoring at scale.
