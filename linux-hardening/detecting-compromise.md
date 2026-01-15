@@ -1,6 +1,6 @@
 # Linux commands and detection techniques for identifying rootkits and system compromise
 
-The following is a comprehensive set of Linux commands and detection strategies for identifying rootkits and system compromise. I've organized this from quick triage to deep forensic analysis. [kali](https://www.kali.org/tools/chkrootkit/)
+The following is a comprehensive set of Linux commands and detection strategies for identifying rootkits and system compromise. This guide is organized from quick triage to deep forensic analysis. [kali](https://www.kali.org/tools/chkrootkit/)
 
 ***
 
