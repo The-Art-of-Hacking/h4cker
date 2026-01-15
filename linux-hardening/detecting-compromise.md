@@ -454,9 +454,9 @@ sudo aide --config=/etc/aide/aide.conf.d/aide.conf -C >> /var/log/security_check
 
 ## Advanced Detection Insights
 
-1. **Kernel-level rootkits are the hardest to detect** – they control what the OS reports. Compare tools (`ps` vs `/proc`, `lsof` vs `netstat`) for discrepancies[source:19].
+1. **Kernel-level rootkits are the hardest to detect** – they control what the OS reports. Compare tools (`ps` vs `/proc`, `lsof` vs `netstat`) for discrepancies.
 
-2. **Byte-count mismatches reveal hidden files** – if `ls` shows 283 bytes but `wc` shows more, the rootkit is hiding content. Use `grep "."` or `dd` to bypass filtering[source:19].
+2. **Byte-count mismatches reveal hidden files** – if `ls` shows 283 bytes but `wc` shows more, the rootkit is hiding content. Use `grep "."` or `dd` to bypass filtering.
 
 3. **eBPF rootkits are the newest threat** – check `bpftool prog list` and `dmesg | grep bpf` for modern hook mechanisms.
 
