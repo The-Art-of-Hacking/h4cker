@@ -428,7 +428,7 @@ sudo aide --config=/etc/aide/aide.conf.d/aide.conf -C >> /var/log/security_check
 
 ***
 
-## Quick Decision Tree for Your Situation
+## Quick Triage Decision Tree
 
 ```
 1. Run: cat /proc/sys/kernel/tainted
