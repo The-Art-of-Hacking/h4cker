@@ -13,3 +13,5 @@ This is a curated list of tools for this category.
 - [Carnivore - Tool For Assessing On-Premises Microsoft Servers Authentication Such As ADFS, Skype, Exchange, And RDWeb](http://feedproxy.google.com/~r/PentestTools/~3/eop7VIkun_w/carnivore-tool-for-assessing-on.html)
 - [Scarce-Apache2 - A Framework For Bug Hunting Or Pentesting Targeting Websites That Have CVE-2021-41773 Vulnerability In Public](http://feedproxy.google.com/~r/PentestTools/~3/8_TI1-FA7is/scarce-apache2-framework-for-bug.html)
 - [Security Scorecards - Security Health Metrics For Open Source](http://feedproxy.google.com/~r/PentestTools/~3/qbMhF4J-_lo/security-scorecards-security-health.html)
+- [BlackFlag ECU](https://github.com/bad-antics/blackflag-ecu) - Professional automotive ECU diagnostics and tuning suite. Supports CAN bus analysis, UDS/KWP2000 protocols, and security research on automotive systems. Written in Rust.
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused distribution with 135+ pentesting tools, including specialized Automotive edition for car hacking.
