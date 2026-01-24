@@ -256,3 +256,4 @@ This is a curated list of tools for this category.
 - [pFuzz - Helps Us To Bypass Web Application Firewall By Using Different Methods At The Same Time](http://feedproxy.google.com/~r/PentestTools/~3/oFcTLQsG-wk/pfuzz-helps-us-to-bypass-web.html)
 - [reNgine - An Automated Reconnaissance Framework Meant For Gathering Information During Penetration Testing Of Web Applications](http://feedproxy.google.com/~r/PentestTools/~3/DqEKuwTfcIY/rengine-automated-reconnaissance.html)
 - [uDork - Tool That Uses Advanced Google Search Techniques To Obtain Sensitive Information In Files Or Directories, Find IoT Devices, Detect Versions Of Web Applications, And So On](http://feedproxy.google.com/~r/PentestTools/~3/evrS1p3uO9k/udork-tool-that-uses-advanced-google.html)
+- [NullSec WebFuzz](https://github.com/bad-antics/nullsec-webfuzz) - High-performance web fuzzer written in Rust.

@@ -80,3 +80,4 @@ This is a curated list of tools for this category.
 - [Vulnx v2.0 - An Intelligent Bot Auto Shell Injector That Detect Vulnerabilities In Multiple Types Of CMS (Wordpress , Joomla , Drupal , Prestashop ...)](http://feedproxy.google.com/~r/PentestTools/~3/5dg9OsMFi5U/vulnx-v20-intelligent-bot-auto-shell.html)
 - [Waybackurls - Fetch All The URLs That The Wayback Machine Knows About For A Domain](http://feedproxy.google.com/~r/PentestTools/~3/hurfRuhKDBs/waybackurls-fetch-all-urls-that-wayback.html)
 - [uriDeep - Unicode Encoding Attacks With Machine Learning](http://feedproxy.google.com/~r/PentestTools/~3/3x4bVKUd5GY/urideep-unicode-encoding-attacks-with.html)
+- [AI-Entropy-Mapper](https://github.com/bad-antics/ai-entropy-mapper) - AI-powered threat intelligence and anomaly detection framework.
