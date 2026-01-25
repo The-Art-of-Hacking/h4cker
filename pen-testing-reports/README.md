@@ -1,17 +1,12 @@
 # Public Pen Testing Reports
 The following are several resources that are useful when writing penetration testing reports, including many different examples:
 
-| Resource      | URL           
-| ------------- |-------------|
-|Curated List of penetration testing reports    |  https://github.com/juliocesarfort/public-pentesting-reports) |
-| Offensive Security example |https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf |
-| PCI Security report guidance | https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf |
-
+- [Curated List of penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports)
+- [Offensive Security example](https://www.offensive-security.com/reports/sample-penetration-testing-report.pdf)
 
 ## Tools
 - [Dradis Framework](https://dradisframework.com/ce/)
 - [pwndoc](https://github.com/pwndoc/pwndoc)
-- [Kvasir](https://github.com/KvasirSecurity/Kvasir) <-- a bit old
 - [Ghostwriter](https://github.com/GhostManager/Ghostwriter)
 - [PlexTrac](https://plextrac.com/)
 
@@ -80,13 +75,9 @@ Creating comprehensive and effective reports is a crucial part of both penetrati
 ### General Best Practices
 
 - **Clarity**: Use clear and concise language; avoid jargon unless it's industry-standard and you're sure the reader will understand.
-  
 - **Audience Awareness**: Know your audience and tailor the content accordingly. Technical staff will need different information compared to executive leadership.
-
 - **Confidentiality**: Ensure that sensitive information is adequately protected, especially if the report will be shared or stored electronically.
-
 - **Validation**: Before finalizing the report, validate your findings to ensure they are accurate and reproducible.
-
 - **Professionalism**: Maintain a professional tone and presentation. Your report is a reflection of your expertise.
 
 By adhering to these best practices, you'll ensure that your penetration testing or bug bounty report is not only thorough but also actionable, enabling the organization to improve its security posture effectively.
