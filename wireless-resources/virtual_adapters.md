@@ -51,7 +51,7 @@ hwsim0           DOWN
 
 ### Practical effect
 
-After running `sudo modprobe mac80211_hwsim radios=8`:
+After running `modprobe mac80211_hwsim radios=8`:
 
 - You get 8 virtual Wi‑Fi radios you can see with `iw dev` or `iw phy`.
 - Each can be configured independently (AP, STA, monitor, different channels, etc.), allowing you to build multi‑AP / multi‑STA test topologies entirely in software on a single host.
