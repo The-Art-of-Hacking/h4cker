@@ -191,6 +191,9 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 - [ECU Reflashing Detector Demo](https://www.youtube.com/watch?v=HPpGzwWQY5Y)
 
 # Projects
+- [NullKia](https://github.com/bad-antics/nullkia) - Open-source Kia/Hyundai infotainment replacement using Raspberry Pi with OBD-II integration, CAN bus monitoring, and Android Auto/CarPlay support for automotive security testing.
+
+- [BlackFlag ECU](https://github.com/bad-antics/blackflag-ecu) - Professional automotive ECU diagnostics and tuning suite with ECU unlock capabilities, live data streaming, DTC management, and J2534 passthrough support for automotive security research.
 
 - [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
 - [Open Source Car Control Project](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
