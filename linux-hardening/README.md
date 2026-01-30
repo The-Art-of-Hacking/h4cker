@@ -24,6 +24,7 @@ The following are a few resources related to hardening Linux implementations.
 - [Tomoyo Linux](https://en.wikipedia.org/wiki/Tomoyo_Linux)
 
 ## Additional Resources
+- [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused Debian-based distribution with hardened kernel, pre-installed security tools, anti-forensics capabilities, and privacy-first defaults.
 - [Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation)
 - [The Linux Auditing Framework](https://github.com/linux-audit/audit-userspace)
 - [DevSec Linux Baseline](https://github.com/dev-sec/linux-baseline)
