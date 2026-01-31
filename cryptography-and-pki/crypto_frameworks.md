@@ -236,3 +236,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
 - [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
 - [SwiftThemis](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+
+### Julia Zero-Knowledge Frameworks
+
+- **[Phantom](https://github.com/bad-antics/phantom)** - Zero-knowledge proof framework for anonymous vulnerability disclosure in Julia. Implements zk-SNARKs for privacy-preserving security reporting without revealing researcher identity. 6,302 lines of Julia code.
