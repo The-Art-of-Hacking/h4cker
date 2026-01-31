@@ -53,3 +53,7 @@ _Products that intercept prompts and responses and apply security or privacy rul
 ### Julia AI Security Tools
 
 - **[Oracle](https://github.com/bad-antics/oracle)** - AI-powered vulnerability prediction framework in Julia with 87% accuracy. Uses GNN-based pattern recognition, CVE trend analysis, and CVSS scoring. Integrates NVD, MITRE ATT&CK, and EPSS data for comprehensive threat intelligence. 11,389 lines of Julia code.
+
+### Julia AI Security Tools
+
+- **[Oracle](https://github.com/bad-antics/oracle)** - AI-powered vulnerability prediction framework in Julia with 87% accuracy. Uses GNN-based pattern recognition, CVE trend analysis, and CVSS scoring. Integrates NVD, MITRE ATT&CK, and EPSS data. 11,389 lines of Julia code.
