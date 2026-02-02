@@ -1,0 +1,429 @@
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.TH lychee 1 %cs "lychee 0.22.0" 
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH NAME
+lychee \- A fast, async link checker
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH SYNOPSIS
+\fBlychee\fR [\fB\-a\fR|\fB\-\-accept\fR] [\fB\-\-archive\fR] [\fB\-b\fR|\fB\-\-base\-url\fR] [\fB\-\-base\fR] [\fB\-\-basic\-auth\fR] [\fB\-c\fR|\fB\-\-config\fR] [\fB\-\-cache\fR] [\fB\-\-cache\-exclude\-status\fR] [\fB\-\-cookie\-jar\fR] [\fB\-\-default\-extension\fR] [\fB\-\-dump\fR] [\fB\-\-dump\-inputs\fR] [\fB\-E\fR|\fB\-\-exclude\-all\-private\fR] [\fB\-\-exclude\fR] [\fB\-\-exclude\-file\fR] [\fB\-\-exclude\-link\-local\fR] [\fB\-\-exclude\-loopback\fR] [\fB\-\-exclude\-path\fR] [\fB\-\-exclude\-private\fR] [\fB\-\-extensions\fR] [\fB\-f\fR|\fB\-\-format\fR] [\fB\-\-fallback\-extensions\fR] [\fB\-\-files\-from\fR] [\fB\-\-generate\fR] [\fB\-\-github\-token\fR] [\fB\-\-glob\-ignore\-case\fR] [\fB\-h\fR|\fB\-\-help\fR] [\fB\-H\fR|\fB\-\-header\fR] [\fB\-\-hidden\fR] [\fB\-i\fR|\fB\-\-insecure\fR] [\fB\-\-include\fR] [\fB\-\-include\-fragments\fR] [\fB\-\-include\-mail\fR] [\fB\-\-include\-verbatim\fR] [\fB\-\-include\-wikilinks\fR] [\fB\-\-index\-files\fR] [\fB\-m\fR|\fB\-\-max\-redirects\fR] [\fB\-\-max\-cache\-age\fR] [\fB\-\-max\-concurrency\fR] [\fB\-\-max\-retries\fR] [\fB\-\-min\-tls\fR] [\fB\-\-mode\fR] [\fB\-n\fR|\fB\-\-no\-progress\fR] [\fB\-\-no\-ignore\fR] [\fB\-o\fR|\fB\-\-output\fR] [\fB\-\-offline\fR] [\fB\-p\fR|\fB\-\-preprocess\fR] [\fB\-q\fR|\fB\-\-quiet\fR]... [\fB\-r\fR|\fB\-\-retry\-wait\-time\fR] [\fB\-\-remap\fR] [\fB\-\-require\-https\fR] [\fB\-\-root\-dir\fR] [\fB\-s\fR|\fB\-\-scheme\fR] [\fB\-\-skip\-missing\fR] [\fB\-\-suggest\fR] [\fB\-t\fR|\fB\-\-timeout\fR] [\fB\-T\fR|\fB\-\-threads\fR] [\fB\-u\fR|\fB\-\-user\-agent\fR] [\fB\-v\fR|\fB\-\-verbose\fR]... [\fB\-V\fR|\fB\-\-version\fR] [\fB\-X\fR|\fB\-\-method\fR] [\fIinputs\fR] 
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH DESCRIPTION
+lychee is a fast, asynchronous link checker which detects broken URLs and mail addresses in local files and websites. It supports Markdown and HTML and works well with many plain text file formats.
+.PP
+lychee is powered by lychee\-lib, the Rust library for link checking.
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH OPTIONS
+.TP
+\fB\-a\fR, \fB\-\-accept\fR \fI<ACCEPT>\fR [default: 100..=103,200..=299]
+A List of accepted status codes for valid links
+
+The following accept range syntax is supported: [start]..[[=]end]|code. Some valid
+examples are:
+
+\- 200 (accepts the 200 status code only)
+\- ..204 (accepts any status code < 204)
+\- ..=204 (accepts any status code <= 204)
+\- 200..=204 (accepts any status code from 200 to 204 inclusive)
+\- 200..205 (accepts any status code from 200 to 205 excluding 205, same as 200..=204)
+
+Use "lychee \-\-accept \*(Aq200..=204, 429, 500\*(Aq <inputs>..." to provide a comma\-
+separated list of accepted status codes. This example will accept 200, 201,
+202, 203, 204, 429, and 500 as valid status codes.
+.TP
+\fB\-\-archive\fR \fI<ARCHIVE>\fR
+Specify the use of a specific web archive. Can be used in combination with `\-\-suggest`
+.br
+
+.br
+[\fIpossible values: \fRwayback]
+.TP
+\fB\-b\fR, \fB\-\-base\-url\fR \fI<BASE_URL>\fR
+Base URL to use when resolving relative URLs in local files. If specified,
+relative links in local files are interpreted as being relative to the given
+base URL.
+
+For example, given a base URL of `https://example.com/dir/page`, the link `a`
+would resolve to `https://example.com/dir/a` and the link `/b` would resolve
+to `https://example.com/b`. This behavior is not affected by the filesystem
+path of the file containing these links.
+
+Note that relative URLs without a leading slash become siblings of the base
+URL. If, instead, the base URL ended in a slash, the link would become a child
+of the base URL. For example, a base URL of `https://example.com/dir/page/` and
+a link of `a` would resolve to `https://example.com/dir/page/a`.
+
+Basically, the base URL option resolves links as if the local files were hosted
+at the given base URL address.
+
+The provided base URL value must either be a URL (with scheme) or an absolute path.
+Note that certain URL schemes cannot be used as a base, e.g., `data` and `mailto`.
+.TP
+\fB\-\-base\fR \fI<BASE>\fR
+Deprecated; use `\-\-base\-url` instead
+.TP
+\fB\-\-basic\-auth\fR \fI<BASIC_AUTH>\fR
+Basic authentication support. E.g. `http://example.com username:password`
+.TP
+\fB\-c\fR, \fB\-\-config\fR \fI<CONFIG_FILE>\fR
+Configuration file to use
+
+[default: lychee.toml]
+.TP
+\fB\-\-cache\fR
+Use request cache stored on disk at `.lycheecache`
+.TP
+\fB\-\-cache\-exclude\-status\fR \fI<CACHE_EXCLUDE_STATUS>\fR
+A list of status codes that will be ignored from the cache
+
+The following exclude range syntax is supported: [start]..[[=]end]|code. Some valid
+examples are:
+
+\- 429 (excludes the 429 status code only)
+\- 500.. (excludes any status code >= 500)
+\- ..100 (excludes any status code < 100)
+\- 500..=599 (excludes any status code from 500 to 599 inclusive)
+\- 500..600 (excludes any status code from 500 to 600 excluding 600, same as 500..=599)
+
+Use "lychee \-\-cache\-exclude\-status \*(Aq429, 500..502\*(Aq <inputs>..." to provide a
+comma\-separated list of excluded status codes. This example will not cache results
+with a status code of 429, 500 and 501.
+.TP
+\fB\-\-cookie\-jar\fR \fI<COOKIE_JAR>\fR
+Tell lychee to read cookies from the given file. Cookies will be stored in the
+cookie jar and sent with requests. New cookies will be stored in the cookie jar
+and existing cookies will be updated.
+.TP
+\fB\-\-default\-extension\fR \fI<EXTENSION>\fR
+This is the default file extension that is applied to files without an extension.
+
+This is useful for files without extensions or with unknown extensions. The extension will be used to determine the file type for processing. Examples: \-\-default\-extension md, \-\-default\-extension html
+.TP
+\fB\-\-dump\fR
+Don\*(Aqt perform any link checking. Instead, dump all the links extracted from inputs that would be checked
+.TP
+\fB\-\-dump\-inputs\fR
+Don\*(Aqt perform any link extraction and checking. Instead, dump all input sources from which links would be collected
+.TP
+\fB\-E\fR, \fB\-\-exclude\-all\-private\fR
+Exclude all private IPs from checking.
+Equivalent to `\-\-exclude\-private \-\-exclude\-link\-local \-\-exclude\-loopback`
+.TP
+\fB\-\-exclude\fR \fI<EXCLUDE>\fR
+Exclude URLs and mail addresses from checking. The values are treated as regular expressions
+.TP
+\fB\-\-exclude\-file\fR \fI<EXCLUDE_FILE>\fR
+Deprecated; use `\-\-exclude\-path` instead
+.TP
+\fB\-\-exclude\-link\-local\fR
+Exclude link\-local IP address range from checking
+.TP
+\fB\-\-exclude\-loopback\fR
+Exclude loopback IP address range and localhost from checking
+.TP
+\fB\-\-exclude\-path\fR \fI<EXCLUDE_PATH>\fR
+Exclude paths from getting checked. The values are treated as regular expressions
+.TP
+\fB\-\-exclude\-private\fR
+Exclude private IP address ranges from checking
+.TP
+\fB\-\-extensions\fR \fI<EXTENSIONS>\fR [default: md,mkd,mdx,mdown,mdwn,mkdn,mkdown,markdown,html,htm,txt]
+Test the specified file extensions for URIs when checking files locally.
+
+Multiple extensions can be separated by commas. Note that if you want to check filetypes,
+which have multiple extensions, e.g. HTML files with both .html and .htm extensions, you need to
+specify both extensions explicitly.
+.TP
+\fB\-f\fR, \fB\-\-format\fR \fI<FORMAT>\fR [default: compact]
+Output format of final status report
+.br
+
+.br
+[\fIpossible values: \fRcompact, detailed, json, markdown, raw]
+.TP
+\fB\-\-fallback\-extensions\fR \fI<FALLBACK_EXTENSIONS>\fR
+When checking locally, attempts to locate missing files by trying the given
+fallback extensions. Multiple extensions can be separated by commas. Extensions
+will be checked in order of appearance.
+
+Example: \-\-fallback\-extensions html,htm,php,asp,aspx,jsp,cgi
+
+Note: This option takes effect on `file://` URIs which do not exist and on
+      `file://` URIs pointing to directories which resolve to themself (by the
+      \-\-index\-files logic).
+.TP
+\fB\-\-files\-from\fR \fI<PATH>\fR
+Read input filenames from the given file or stdin (if path is \*(Aq\-\*(Aq).
+
+This is useful when you have a large number of inputs that would be
+cumbersome to specify on the command line directly.
+
+Examples:
+
+    lychee \-\-files\-from list.txt
+    find . \-name \*(Aq*.md\*(Aq | lychee \-\-files\-from \-
+    echo \*(AqREADME.md\*(Aq | lychee \-\-files\-from \-
+
+File Format:
+\- Each line should contain one input (file path, URL, or glob pattern).
+\- Lines starting with \*(Aq#\*(Aq are treated as comments and ignored.
+\- Empty lines are also ignored.
+.TP
+\fB\-\-generate\fR \fI<GENERATE>\fR
+Generate special output (e.g. the man page) instead of performing link checking
+.br
+
+.br
+[\fIpossible values: \fRman]
+.TP
+\fB\-\-github\-token\fR \fI<GITHUB_TOKEN>\fR
+GitHub API token to use when checking github.com links, to avoid rate limiting
+.RS
+May also be specified with the \fBGITHUB_TOKEN\fR environment variable. 
+.RE
+.TP
+\fB\-\-glob\-ignore\-case\fR
+Ignore case when expanding filesystem path glob inputs
+.TP
+\fB\-h\fR, \fB\-\-help\fR
+Print help (see a summary with \*(Aq\-h\*(Aq)
+.TP
+\fB\-H\fR, \fB\-\-header\fR \fI<HEADER:VALUE>\fR
+Set custom header for requests
+
+Some websites require custom headers to be passed in order to return valid responses.
+You can specify custom headers in the format \*(AqName: Value\*(Aq. For example, \*(AqAccept: text/html\*(Aq.
+This is the same format that other tools like curl or wget use.
+Multiple headers can be specified by using the flag multiple times.
+.TP
+\fB\-\-hidden\fR
+Do not skip hidden directories and files
+.TP
+\fB\-i\fR, \fB\-\-insecure\fR
+Proceed for server connections considered insecure (invalid TLS)
+.TP
+\fB\-\-include\fR \fI<INCLUDE>\fR
+URLs to check (supports regex). Has preference over all excludes
+.TP
+\fB\-\-include\-fragments\fR
+Enable the checking of fragments in links
+.TP
+\fB\-\-include\-mail\fR
+Also check email addresses
+.TP
+\fB\-\-include\-verbatim\fR
+Find links in verbatim sections like `pre`\- and `code` blocks
+.TP
+\fB\-\-include\-wikilinks\fR
+Check WikiLinks in Markdown files
+.TP
+\fB\-\-index\-files\fR \fI<INDEX_FILES>\fR
+When checking locally, resolves directory links to a separate index file.
+The argument is a comma\-separated list of index file names to search for. Index
+names are relative to the link\*(Aqs directory and attempted in the order given.
+
+If `\-\-index\-files` is specified, then at least one index file must exist in
+order for a directory link to be considered valid. Additionally, the special
+name `.` can be used in the list to refer to the directory itself.
+
+If unspecified (the default behavior), index files are disabled and directory
+links are considered valid as long as the directory exists on disk.
+
+Example 1: `\-\-index\-files index.html,readme.md` looks for index.html or readme.md
+           and requires that at least one exists.
+
+Example 2: `\-\-index\-files index.html,.` will use index.html if it exists, but
+           still accept the directory link regardless.
+
+Example 3: `\-\-index\-files \*(Aq\*(Aq` will reject all directory links because there are
+           no valid index files. This will require every link to explicitly name
+           a file.
+
+Note: This option only takes effect on `file://` URIs which exist and point to a directory.
+.TP
+\fB\-m\fR, \fB\-\-max\-redirects\fR \fI<MAX_REDIRECTS>\fR [default: 5]
+Maximum number of allowed redirects
+.TP
+\fB\-\-max\-cache\-age\fR \fI<MAX_CACHE_AGE>\fR [default: 1d]
+Discard all cached requests older than this duration
+.TP
+\fB\-\-max\-concurrency\fR \fI<MAX_CONCURRENCY>\fR [default: 128]
+Maximum number of concurrent network requests
+.TP
+\fB\-\-max\-retries\fR \fI<MAX_RETRIES>\fR [default: 3]
+Maximum number of retries per request
+.TP
+\fB\-\-min\-tls\fR \fI<MIN_TLS>\fR
+Minimum accepted TLS Version
+.br
+
+.br
+[\fIpossible values: \fRTLSv1_0, TLSv1_1, TLSv1_2, TLSv1_3]
+.TP
+\fB\-\-mode\fR \fI<MODE>\fR [default: color]
+Set the output display mode. Determines how results are presented in the terminal
+.br
+
+.br
+[\fIpossible values: \fRplain, color, emoji, task]
+.TP
+\fB\-n\fR, \fB\-\-no\-progress\fR
+Do not show progress bar.
+This is recommended for non\-interactive shells (e.g. for continuous integration)
+.TP
+\fB\-\-no\-ignore\fR
+Do not skip files that would otherwise be ignored by \*(Aq.gitignore\*(Aq, \*(Aq.ignore\*(Aq, or the global ignore file
+.TP
+\fB\-o\fR, \fB\-\-output\fR \fI<OUTPUT>\fR
+Output file of status report
+.TP
+\fB\-\-offline\fR
+Only check local files and block network requests
+.TP
+\fB\-p\fR, \fB\-\-preprocess\fR \fI<COMMAND>\fR
+Preprocess input files.
+For each file input, this flag causes lychee to execute `COMMAND PATH` and process
+its standard output instead of the original contents of PATH. This allows you to
+convert files that would otherwise not be understood by lychee. The preprocessor
+COMMAND is only run on input files, not on standard input or URLs.
+
+To invoke programs with custom arguments or to use multiple preprocessors, use a
+wrapper program such as a shell script. An example script looks like this:
+
+#!/usr/bin/env bash
+case "$1" in
+*.pdf)
+    exec pdftohtml \-i \-s \-stdout "$1"
+    ;;
+*.odt|*.docx|*.epub|*.ipynb)
+    exec pandoc "$1" \-\-to=html \-\-wrap=none
+    ;;
+*)
+    # identity function, output input without changes
+    exec cat
+    ;;
+esac
+.TP
+\fB\-q\fR, \fB\-\-quiet\fR
+Less output per occurrence (e.g. `\-q` or `\-qq`)
+.TP
+\fB\-r\fR, \fB\-\-retry\-wait\-time\fR \fI<RETRY_WAIT_TIME>\fR [default: 1]
+Minimum wait time in seconds between retries of failed requests
+.TP
+\fB\-\-remap\fR \fI<REMAP>\fR
+Remap URI matching pattern to different URI
+.TP
+\fB\-\-require\-https\fR
+When HTTPS is available, treat HTTP links as errors
+.TP
+\fB\-\-root\-dir\fR \fI<ROOT_DIR>\fR
+Root directory to use when checking absolute links in local files. This option is
+required if absolute links appear in local files, otherwise those links will be
+flagged as errors. This must be an absolute path (i.e., one beginning with `/`).
+
+If specified, absolute links in local files are resolved by prefixing the given
+root directory to the requested absolute link. For example, with a root\-dir of
+`/root/dir`, a link to `/page.html` would be resolved to `/root/dir/page.html`.
+
+This option can be specified alongside `\-\-base\-url`. If both are given, an
+absolute link is resolved by constructing a URL from three parts: the domain
+name specified in `\-\-base\-url`, followed by the `\-\-root\-dir` directory path,
+followed by the absolute link\*(Aqs own path.
+.TP
+\fB\-s\fR, \fB\-\-scheme\fR \fI<SCHEME>\fR
+Only test links with the given schemes (e.g. https). Omit to check links with
+any other scheme. At the moment, we support http, https, file, and mailto.
+.TP
+\fB\-\-skip\-missing\fR
+Skip missing input files (default is to error if they don\*(Aqt exist)
+.TP
+\fB\-\-suggest\fR
+Suggest link replacements for broken links, using a web archive. The web archive can be specified with `\-\-archive`
+.TP
+\fB\-t\fR, \fB\-\-timeout\fR \fI<TIMEOUT>\fR [default: 20]
+Website timeout in seconds from connect to response finished
+.TP
+\fB\-T\fR, \fB\-\-threads\fR \fI<THREADS>\fR
+Number of threads to utilize. Defaults to number of cores available to the system
+.TP
+\fB\-u\fR, \fB\-\-user\-agent\fR \fI<USER_AGENT>\fR [default: lychee/0.22.0]
+User agent
+.TP
+\fB\-v\fR, \fB\-\-verbose\fR
+Set verbosity level; more output per occurrence (e.g. `\-v` or `\-vv`)
+.TP
+\fB\-V\fR, \fB\-\-version\fR
+Print version
+.TP
+\fB\-X\fR, \fB\-\-method\fR \fI<METHOD>\fR [default: get]
+Request method
+.TP
+[\fIinputs\fR]
+Inputs for link checking (where to get links to check from). These can be:
+files (e.g. `README.md`), file globs (e.g. `\*(Aq~/git/*/README.md\*(Aq`), remote URLs
+(e.g. `https://example.com/README.md`), or standard input (`\-`). Alternatively,
+use `\-\-files\-from` to read inputs from a file.
+
+NOTE: Use `\-\-` to separate inputs from options that allow multiple arguments.
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH EXAMPLES
+Check all links in supported files by specifying a directory
+
+    $ lychee .
+
+Specify files explicitly or use glob patterns
+
+    $ lychee README.md test.html info.txt
+    $ lychee \*(Aqpublic/**/*.html\*(Aq \*(Aq*.md\*(Aq
+
+Check all links on a website
+
+    $ lychee https://example.com
+
+Check links from stdin
+
+    $ cat test.md | lychee \-
+    $ echo \*(Aqhttps://example.com\*(Aq | lychee \-
+
+Links can be excluded and included with regular expressions
+
+    $ lychee \-\-exclude \*(Aq^https?://blog\\.example\\.com\*(Aq \-\-exclude \*(Aq\\.(pdf|zip|png|jpg)$\*(Aq .
+
+Further examples can be found in the online documentation at <https://lychee.cli.rs>
+
+
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH "EXIT CODES"
+
+0   Success. The operation was completed successfully as instructed.
+
+1   Missing inputs or any unexpected runtime failures or configuration errors
+
+2   Link check failures. At least one non\-excluded link failed the check.
+
+3   Encountered errors in the config file.
+
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH "REPORTING BUGS"
+Report any bugs or questions to <https://github.com/lycheeverse/lychee/issues/>
+
+Questions can also be asked on <https://github.com/lycheeverse/lychee/discussions>
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH VERSION
+v0.22.0
+.ie \n(.g .ds Aq \(aq
+.el .ds Aq '
+.SH AUTHORS
+Matthias Endler <matthias@endler.dev>
+
+Thomas Zahner <thomas.zahner@protonmail.ch>
+
+A huge thank you to all the wonderful contributors who helped make this project a success.
