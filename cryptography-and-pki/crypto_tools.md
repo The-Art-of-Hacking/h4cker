@@ -444,7 +444,3 @@ The following list includes some of the most popular tools to test crypto implem
 </tr>
 </tbody>
 </table>
-
-### Julia Security Frameworks
-
-- **[Spectra](https://github.com/bad-antics/spectra)** - High-performance security toolkit in Julia featuring cryptographic analysis, network forensics, and threat detection. Includes SHA3-256, ChaCha20-Poly1305, and advanced entropy analysis. 8,000+ lines of idiomatic Julia code.
