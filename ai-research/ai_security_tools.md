@@ -50,10 +50,6 @@ _Products that intercept prompts and responses and apply security or privacy rul
 - [AttaQ Dataset](https://huggingface.co/datasets/ibm/AttaQ) - a red teaming dataset consisting of 1402 carefully crafted adversarial questions
 - [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
 
-### Julia AI Security Tools
+## Julia AI Security Tools
 
-- **[Oracle](https://github.com/bad-antics/oracle)** - AI-powered vulnerability prediction framework in Julia with 87% accuracy. Uses GNN-based pattern recognition, CVE trend analysis, and CVSS scoring. Integrates NVD, MITRE ATT&CK, and EPSS data for comprehensive threat intelligence. 11,389 lines of Julia code.
-
-### Julia AI Security Tools
-
-- **[Oracle](https://github.com/bad-antics/oracle)** - AI-powered vulnerability prediction framework in Julia with 87% accuracy. Uses GNN-based pattern recognition, CVE trend analysis, and CVSS scoring. Integrates NVD, MITRE ATT&CK, and EPSS data. 11,389 lines of Julia code.
+- [Oracle](https://github.com/bad-antics/oracle) - AI-powered vulnerability prediction framework using GNN-based pattern recognition, CVE trend analysis, and CVSS scoring. Integrates NVD, MITRE ATT&CK, and EPSS data.
