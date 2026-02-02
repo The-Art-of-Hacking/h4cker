@@ -240,7 +240,3 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Julia Zero-Knowledge Frameworks
 
 - **[Phantom](https://github.com/bad-antics/phantom)** - Zero-knowledge proof framework for anonymous vulnerability disclosure in Julia. Implements zk-SNARKs for privacy-preserving security reporting without revealing researcher identity. 6,302 lines of Julia code.
-
-### Julia Zero-Knowledge Frameworks
-
-- **[Phantom](https://github.com/bad-antics/phantom)** - Zero-knowledge proof framework for anonymous vulnerability disclosure in Julia. Implements zk-SNARKs for privacy-preserving security reporting. 6,302 lines of Julia code.
