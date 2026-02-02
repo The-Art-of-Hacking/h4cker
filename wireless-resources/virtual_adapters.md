@@ -20,7 +20,7 @@ eth0             UP             172.16.217.170/24 fe80::20c:29ff:fe3c:82b0/64
 I am starting the simulator kernel module with the `modprobe mac80211_hwsim` command:
 
 ```
-root@kali:~# modprobe mac80211_hwsim radios 8
+root@kali:~# modprobe mac80211_hwsim radios=8
 ```
 
 After starting the module, the wireless interfaces are shown:
@@ -34,7 +34,33 @@ wlan1            DOWN
 hwsim0           DOWN
 ```
 
-You can then install `hostapd` to create a wireless access point and then use aircrack-ng to perform wireless assessments.
+`modprobe mac80211_hwsim radios=8` loads the Linux [mac80211_hwsim kernel module](https://wireless.docs.kernel.org/en/latest/en/users/drivers/mac80211_hwsim.html) and tells it to create 8 simulated Wi‑Fi radios.
+
+### Breaking it down
+
+- `modprobe`  
+  Loads a kernel module (and any dependencies) into the running kernel, using options you pass on the command line.
+
+- `mac80211_hwsim`  
+  This is a special testing/simulation driver that emulates IEEE 802.11 hardware for the mac80211 stack, so user‑space tools like `hostapd`, `wpa_supplicant`, `iw`, etc., see them as real Wi‑Fi devices. 
+
+- `radios=8` (module parameter)  
+  The module has a parameter called `radios` that specifies how many virtual radios to create when the module is inserted. 
+  - Default is 2 if you omit it. 
+  - With `radios=8`, the kernel will register 8 independent simulated PHYs, typically exposing interfaces like `wlan0` … `wlan7` (plus a global `hwsim0` monitor device). 
+
+### Practical effect
+
+After running `modprobe mac80211_hwsim radios=8`:
+
+- You get 8 virtual Wi‑Fi radios you can see with `iw dev` or `iw phy`.
+- Each can be configured independently (AP, STA, monitor, different channels, etc.), allowing you to build multi‑AP / multi‑STA test topologies entirely in software on a single host.
+
+
+## Installing `hostapd`
+
+You can then install `hostapd` to create a wireless access point and then use aircrack-ng to perform wireless assessments. `hostapd` is a user‑space daemon that turns a wireless interface into a Wi‑Fi access point and handles client authentication.
+
 
 
 ## Install and Configure hostapd
