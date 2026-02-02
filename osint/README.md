@@ -40,6 +40,7 @@ Ethical hackers document their findings and provide insights to organizations on
 - [Web Data Extractor](http://www.webextractor.com)
 - [Xenu](http://home.snafu.de)
 - [ParamSpider](https://github.com/devanshbatham/ParamSpider)
+- [NullSec Tools](https://github.com/bad-antics/nullsec-tools) - Comprehensive security toolkit with OSINT modules for subdomain enumeration, email harvesting, social media reconnaissance, and metadata extraction.
 
 
 ## Open Source Threat Intelligence
