@@ -6,4 +6,5 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-CLAUDE.mddocs/
+CLAUDE.md
+docs/
