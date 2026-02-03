@@ -158,6 +158,7 @@ algorithm.
 - [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
 encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
+- [Phantom](https://github.com/bad-antics/phantom) - Zero-knowledge proof framework for anonymous vulnerability disclosure implementing zk-SNARKs for privacy-preserving security reporting.
 
 ### Lua
 
