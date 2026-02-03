@@ -139,3 +139,4 @@ This is a curated list of tools for this category.
 - [laravelN00b - Automated Scan .env Files And Checking Debug Mode In Victim Host](http://feedproxy.google.com/~r/PentestTools/~3/2gcvf8zseEA/laraveln00b-automated-scan-env-files.html)
 - [magicRecon - A Powerful Shell Script To Maximize The Recon And Data Collection Process Of An Objective And Finding Common Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/s2l55YNQMYA/magicrecon-powerful-shell-script-to.html)
 - [modDetective - Tool That Chronologizes Files Based On Modification Time In Order To Investigate Recent System Activity](http://www.kitploit.com/2022/07/moddetective-tool-that-chronologizes.html)
+- [Vortex](https://github.com/bad-antics/vortex) - Threat intelligence fusion platform aggregating 50+ feeds with ML-powered correlation, predictive scoring, IOC extraction, and MITRE ATT&CK/STIX/TAXII integration. Written in Julia.
