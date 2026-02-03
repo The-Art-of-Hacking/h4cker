@@ -28,7 +28,7 @@ jobs:
         fi
     
     - name: Assign pull request
-      if: steps.check-fork.outputs.is_fork == 'false'
+      if: steps.check-fork.outputs.is_fork != 'true'
       uses: actions-ecosystem/action-add-assignees@v1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
