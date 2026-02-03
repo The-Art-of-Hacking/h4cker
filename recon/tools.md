@@ -213,3 +213,4 @@ This is a curated list of tools for this category.
 - [pwnedOrNot v1.1.7 - OSINT Tool To Find Passwords For Compromised Email Addresses](http://feedproxy.google.com/~r/PentestTools/~3/zMsIKFBaGtY/pwnedornot-v117-osint-tool-to-find.html)
 - [pwnedOrNot v1.2.6 - OSINT Tool to Find Passwords for Compromised Email Addresses](http://feedproxy.google.com/~r/PentestTools/~3/SxvMbSv8GrY/pwnedornot-v126-osint-tool-to-find.html)
 - [shuffleDNS -  Wrapper Around Massdns Written In Go That Allows You To Enumerate Valid Subdomains](http://feedproxy.google.com/~r/PentestTools/~3/rrx6tcXT4Vg/shuffledns-wrapper-around-massdns.html)
+- [NullSec Tools - Security Toolkit With Python, Go, Rust, And C Tools For OSINT And Reconnaissance](https://github.com/bad-antics/nullsec-tools)
