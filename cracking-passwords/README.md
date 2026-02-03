@@ -15,5 +15,6 @@ Password cracking involves attempting to discover or guess a user’s password b
 5. **Password Cracking Tools**: Several tools are available to assist in password cracking. 
    - **John the Ripper**: A popular tool that supports various encryption algorithms and hash types. It’s effective for both brute force and dictionary attacks.
    - **Hashcat**: Known for its speed and support for a wide range of hash algorithms. It can use GPU acceleration to significantly speed up cracking attempts.
+   - **NullSec Tools**: Includes hash cracking utilities written in Rust for high-performance password analysis and dictionary management.
 
 In this directory/folder I also included several examples of password cracking using these tools.
