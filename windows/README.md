@@ -1,5 +1,8 @@
 # Resources for Windows-based Assessments
 
+## Guides and Documentation
+- [Windows Rootkit Detection and System Compromise Guide](rootkit-detection-guide.md) - Comprehensive commands, techniques, and strategies for identifying rootkits and system compromise on Windows systems
+
 ## Tools used for Windows-based Assessments
 - [PowerShell Empire](http://www.powershellempire.com/)
 - [CimSweep](https://github.com/PowerShellMafia/CimSweep)

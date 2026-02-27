@@ -1,6 +1,10 @@
 # Internet of Things (IoT) Hacking Resources
 The Internet of Things (IoT) Hacking Resources refer to an array of tools and frameworks used to ensure the security of IoT devices and networks.
 
+## IoT Security Projects
+
+- [GlowBarn](https://github.com/bad-antics/glowbarn-os) - Open-source Raspberry Pi-based smart agriculture IoT system with integrated security monitoring, sensor data collection, and anomaly detection for farm environments.
+
 ## Analysis Frameworks
 
 - [EXPLIoT](https://gitlab.com/expliot_framework/expliot): This is a penetrating testing framework that is akin to Metasploit, but it specifically caters to Internet of Things (IoT) applications. 

@@ -8,15 +8,27 @@ on:
   pull_request:
     types: [opened]
 
+permissions:
+  pull-requests: write
+  issues: write
+
 jobs:
   auto-assign:
     runs-on: ubuntu-latest
 
-    permissions:
-      pull-requests: write
-
     steps:
+    - name: Check if PR is from a fork
+      id: check-fork
+      run: |
+        if [ "${{ github.event.pull_request.head.repo.full_name }}" != "${{ github.repository }}" ]; then
+          echo "is_fork=true" >> $GITHUB_OUTPUT
+          echo "This PR is from a forked repository. Assignment may be limited due to security restrictions."
+        else
+          echo "is_fork=false" >> $GITHUB_OUTPUT
+        fi
+    
     - name: Assign pull request
+      if: steps.check-fork.outputs.is_fork != 'true'
       uses: actions-ecosystem/action-add-assignees@v1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
