@@ -9,9 +9,9 @@
 * [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) by [Meteorhacks](https://twitter.com/meteorhacks)
 * [Kubernetes by Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) by [Gaston Pantana](https://twitter.com/GastonPantana)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) by [Arun Gupta](https://twitter.com/arungupta)
-* [Application Containers: Kubernetes and Docker from Scratch](http://keithtenzer.com/2015/06/01/application-containers-kubernetes-and-docker-from-scratch/) by [Keith Tenzer](https://twitter.com/keithtenzer)
-* [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/) by [Omer Dawelbeit](https://twitter.com/omerio)
-* [Top Reasons Businesses Should Move to Kubernetes Now](http://supergiant.io/blog/top-reasons-businesses-should-move-to-kubernetes-now) by [Mike Johnston](https://github.com/gopherstein)
+* [Application Containers: Kubernetes and Docker from Scratch](https://kubernetes.io/docs/tutorials/kubernetes-basics/) by [Keith Tenzer](https://twitter.com/keithtenzer)
+* [Learn the Kubernetes Key Concepts in 10 Minutes](https://kubernetes.io/docs/concepts/overview/components/) by [Omer Dawelbeit](https://twitter.com/omerio)
+* [Why Kubernetes?](https://kubernetes.io/docs/concepts/overview/) by [Kubernetes Project](https://github.com/kubernetes)
 * [The Children's Illustrated Guide to Kubernetes](https://kubernetes.io/blog/2016/06/illustrated-childrens-guide-to-kubernetes/) by [Deis](https://github.com/deis)
 * [The ‘kubectl run’ command](http://medium.com/@mhausenblas/the-kubectl-run-command-27c68de5cb76#.mlwi5an7o) by [Michael Hausenblas](https://twitter.com/mhausenblas)
 * [Docker Kubernetes Lab Handbook](https://github.com/xiaopeng163/docker-k8s-lab) by [Peng Xiao](https://twitter.com/xiaopeng163)
@@ -25,8 +25,8 @@
 * [Cloud Native Landscape](https://landscape.cncf.io/)
 
 ## Interactive Kubernetes Examples in Katacoda
-* [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
-* [Extending Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/extending-kubernetes)
+* [Learn Kubernetes using Interactive Browser-Based Scenarios](https://kubernetes.io/docs/tutorials/)
+* [Extending Kubernetes using Interactive Browser-Based Scenarios](https://kubernetes.io/docs/concepts/extend-kubernetes/)
 
 ## Installers
 
@@ -45,7 +45,7 @@
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostic - Cloud Agnostic
 * [Kube-aws](https://github.com/coreos/kube-aws) - CoreOS - AWS
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
-* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - OS Agnostic - Cloud Agnostic
+* [Kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/) - OS Agnostic - Cloud Agnostic
 * [KubeNow](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostic
 * [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemd` OS - Cloud Agnostic
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - OS Agnostic - Cloud Agnostic
@@ -53,13 +53,12 @@
 * [Kublr](https://docs.kublr.com/quickstart/) - OS Agnostic - On-Prem - Cloud Agnostic
 * [Linode](https://developers.linode.com/kubernetes/) - CoreOS - Linode
 * [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
-* [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostic - [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
+* [MetalK8s](https://github.com/scality/metalk8s) - CentOS - On-Prem - Cloud Agnostic - [Apache-2.0](https://github.com/scality/metalk8s)
 * [MicroK8s](https://github.com/ubuntu/microk8s) - A single package of k8s that installs on 42 flavours of Linux
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * [RKE](https://github.com/rancher/rke) - OS Agnostic - Cloud Agnostic
 * [sealos](https://github.com/fanux/sealos) - Simple kubernetes HA installer
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostic
-* [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostic
 * [Terraform](https://github.com/kz8s/tack) - CoreOS - AWS
 * [Typhoon](https://typhoon.psdn.io/) - Container Linux - Cloud Agnostic
 * [aks-engine](https://github.com/Azure/aks-engine) - AKS Engine is the easiest way to provision a self-managed Kubernetes cluster on Azure.
