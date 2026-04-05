@@ -1,1 +1,0 @@
-create table myfile (input TEXT); load data infile '<filepath>' into table myfile; select * from myfile;
