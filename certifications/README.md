@@ -1,31 +1,14 @@
-# Cybersecurity Certifications Roadmap
+# Cybersecurity Certifications
 
-🔥 Check out the Cybersecurity Certifications Roadmap at: https://certs.hacker26.com 
+This section centralizes certification roadmaps, exam-specific resources, and supplemental certification topics.
 
-The source code can be found [here](https://github.com/santosomar/certs).
+- [Roadmaps](roadmaps/) - broad certification roadmaps and external certification matrices.
+- [Cisco](cisco/) - Cisco certification resources, including [SCOR 350-701](cisco/scor-350-701/).
+- [CompTIA](comptia/) - CompTIA-oriented references such as Security+, CySA+, CASP+, and PenTest+ links.
+- [ISC2](isc2/) - ISC2 certification references such as CISSP, CC, and CCSP.
+- [Offensive Security](offensive-security/) - offensive certification references such as OSCP, CEH, and reporting templates.
+- [Cloud](cloud/) - AWS, Azure, Google Cloud, Oracle, CCSP, CCSK, and CCAK certification links.
+- [Kubernetes and CNCF](kubernetes-cncf/) - CKAD, CKA, CKS, and Kubernetes security certification resources.
+- [Supplemental Topics](supplemental-topics/) - IDS/IPS, firewalls, honeypots, sandbox detection, and evasion topics useful across multiple exams.
 
----
-
-## How to Use
-1. **View the Roadmap**: Open `index.html` in your web browser.
-2. **Explore Data**:
-   - Use the search bar or dropdown menus to filter certifications.
-   - Click "View Statistics" to see the dashboard.
-   - Click "Sunburst Chart" to see the hierarchical view.
-   - Click "Cost vs Level" to explore the scatter plot.
-   - Click "Pathway Builder" to create your custom certification journey.
-   - Explore the "Sankey Flow" and "Network Graph" for deeper insights.
-
----
-
-## Features
-- **Interactive Search**: Quickly find certifications by name or abbreviation.
-- **Filtering**: Filter certifications by domain/category (e.g., Network Security, Red Team) and skill level.
-- **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Analytics Dashboard**: View statistics on certification costs, distribution by domain, and skill levels via `visualization_stats.html`.
-- **Sunburst Visualization**: Explore the hierarchy of certifications in an interactive sunburst chart via `visualization_sunburst.html`.
-- **Cost vs. Level Scatter Plot**: Visualize the relationship between certification cost and skill level via `visualization_scatter.html`.
-- **Pathway Builder**: Interactive swimlane view to select and build your own certification path (`visualization_pathways.html`).
-- **Sankey Diagram**: Visualize the flow and distribution of certifications from Categories to Skill Levels (`visualization_sankey.html`).
-- **Network Graph**: Explore the relationships and clusters of certifications by domain (`visualization_network.html`).
-- **Data-Driven**: Certifications are loaded from `data.js`, making updates easier.
+The interactive certification roadmap is available at <https://certs.hacker26.com>. The source code for that roadmap is at <https://github.com/santosomar/certs>.
