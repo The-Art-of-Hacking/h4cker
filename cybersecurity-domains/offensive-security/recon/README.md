@@ -41,7 +41,7 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 
 ## Dark Web Research
 * [Search Engines for Academic Research](https://www.itseducation.asia/deep-web.htm)
-* See additional information under the [OSINT Dark Web OSINT Tools section](https://github.com/The-Art-of-Hacking/h4cker/tree/master/osint#dark-web-osint-tools)
+* See additional information under the [OSINT Dark Web OSINT Tools section](https://github.com/The-Art-of-Hacking/h4cker/tree/master/cybersecurity-domains/offensive-security/osint#dark-web-osint-tools)
  
 
 
@@ -50,7 +50,7 @@ WHOIS information is based upon a tree hierarchy. ICANN (IANA) is the authoritat
 
 ## Active Recon
 * [Tons of references to scanners and vulnerability management software for active reconnaissance](http://www.pentest-standard.org/index.php/PTES_Technical_Guidelines#Vulnerability_Analysis)
-* [nmap cheat sheet](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cheat-sheets/NMAP_cheat_sheet.md)
+* [nmap cheat sheet](https://github.com/The-Art-of-Hacking/h4cker/blob/master/training-reference/cheat-sheets/NMAP_cheat_sheet.md)
 * [nikto](https://learning.oreilly.com/interactive-lab/ethical-hacking-web/9780137673469X003/)
-* [nuclei](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cheat-sheets/NMAP_cheat_sheet.md)
+* [nuclei](https://github.com/The-Art-of-Hacking/h4cker/blob/master/training-reference/cheat-sheets/NMAP_cheat_sheet.md)
 * [OWASP ZAP](https://www.zaproxy.org)

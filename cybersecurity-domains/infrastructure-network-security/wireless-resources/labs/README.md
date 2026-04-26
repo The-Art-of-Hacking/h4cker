@@ -22,7 +22,7 @@ By the end of this lab, you will:
   - Recommended: Alfa AWUS036ACH or TP-Link TL-WN722N v1
 - (Optional but useful) A second Wi-Fi device (laptop or phone) to act as a victim/client.
 
-HOWEVER!!!: You can also use the `mac80211_hwsim` kernel module. The `mac80211_hwsim` is a software simulator of 802.11 radio(s). You can learn more about how to set this up [here](https://github.com/The-Art-of-Hacking/h4cker/blob/master/wireless-resources/virtual_adapters.md).
+HOWEVER!!!: You can also use the `mac80211_hwsim` kernel module. The `mac80211_hwsim` is a software simulator of 802.11 radio(s). You can learn more about how to set this up [here](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/infrastructure-network-security/wireless-resources/virtual_adapters.md).
 
 
 ### Software

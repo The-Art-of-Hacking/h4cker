@@ -1,5 +1,5 @@
 # SSRF Test Script
-[This script](https://github.com/The-Art-of-Hacking/h4cker/blob/master/web-application-testing/ssrf_ywing.py) is a utility to test for potential Server Side Request Forgery (SSRF) vulnerabilities in a Grafana instance through Prometheus.
+[This script](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/application-security/web-application-testing/ssrf_ywing.py) is a utility to test for potential Server Side Request Forgery (SSRF) vulnerabilities in a Grafana instance through Prometheus.
 
 ## Author
 This script was originally authored by @RandomRobbieBF; then slightly modified by Omar Santos to add additional documentation and instructions.
