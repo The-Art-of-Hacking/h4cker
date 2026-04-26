@@ -12,7 +12,7 @@ In advanced attacks, the LLM could be manipulated to mimic a harmful persona or 
 
 There are many different techniques for prompt injection. The table below lists some of the most popular. There is also a framework that is called [promptInject](https://github.com/agencyenterprise/promptinject) which explains and has several of these techniques.
 
-**Note**: Refer to the [AI Security Tools Section](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai-research/ai_security_tools.md) of this GitHub repository for examples of tools that can be used for prompt injection and more adversarial attacks.
+**Note**: Refer to the [AI Security Tools Section](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai/ai_security_tools.md) of this GitHub repository for examples of tools that can be used for prompt injection and more adversarial attacks.
 
 | **Technique**                  | **Example**                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ These examples illustrate different methods to bypass prompt restrictions by alt
 Anthropic published research on a new jailbreaking technique called [“Best-of-N (BoN) Jailbreaking”](https://becomingahacker.org/bon-jailbreaking-technique-from-anthropic-595ef0e43f35) that can bypass safety and security guardrails in large language models (LLMs). A straightforward black-box algorithm designed to bypass safety measures in advanced AI systems across various modalities, including text, vision, and audio. I wrote an article about this technique [here](https://becomingahacker.org/bon-jailbreaking-technique-from-anthropic-595ef0e43f35).
 
 ### Additional References:
-- https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai-research/prompt_injection
+- https://github.com/The-Art-of-Hacking/h4cker/tree/master/ai/prompt_injection
 - https://github.com/TakSec/Prompt-Injection-Everywhere
 - https://www.mathaware.org/use-different-prompt-injection-techniques-on-our-ai-assistant-learn-how-to-use-promptmap-tool/
 - https://github.com/FonduAI/awesome-prompt-injection

@@ -60,7 +60,7 @@
 ### Step 5: Building a Simple Application
 
 11. **Develop a Simple Application**:
-    - Create a more complex script that could function as a Q&A system or a content generation tool. You can use [the "Article Generator" example](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai-research/ML_Fundamentals/ai_generated/article_generator.py) we discussed during class for reference. 
+    - Create a more complex script that could function as a Q&A system or a content generation tool. You can use [the "Article Generator" example](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai/ML_Fundamentals/ai_generated/article_generator.py) we discussed during class for reference. 
     
 12. **Testing Your Application**:
     - Run various tests to ensure the functionality and robustness of your application.

@@ -66,7 +66,7 @@ AI Algorithmic Red Teaming is a structured, adversarial testing process that sim
 
 ## 🛠️ Tools & Frameworks
 
-Look under the [AI Security Tools section](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai-research/ai_security_tools.md).
+Look under the [AI Security Tools section](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai/ai_security_tools.md).
 
 ![image](https://github.com/user-attachments/assets/32e0f9bd-d754-4c24-8daa-89b82f56b033)
 

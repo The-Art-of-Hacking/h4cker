@@ -30,7 +30,7 @@
 - [ISO/IEC 23053:2022 Framework for Artificial Intelligence (AI) Systems Using Machine Learning (ML)](https://www.iso.org/standard/74438.html)
 
 ## Cloud Security Alliance
-- [CSA's Securing LLM Backed Systems: Essential Authorization Practices](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai-research/ai_risk_management/Securing%20LLM%20Backed%20Systems%20-%20Essential%20Authorization%20Practices%2020240806.pdf)
+- [CSA's Securing LLM Backed Systems: Essential Authorization Practices](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai/ai_risk_management/Securing%20LLM%20Backed%20Systems%20-%20Essential%20Authorization%20Practices%2020240806.pdf)
 
 ## US Government Resources
 
@@ -46,7 +46,7 @@
 - [OWASP Machine Learning Security Top 10](https://mltop10.info/): Comprehensive ML security risks framework
 - [Securing Your AI: A Step-by-Step Guide for CISOs](https://hiddenlayer.com/research/how-well-do-you-know-your-ai-environment/)
 - [Securing Your AI: A Step-by-Step Guide for CISOs PT 2](https://hiddenlayer.com/research/securing-your-ai-a-step-by-step-guide-for-cisos-pt2/)
-- [CSA Securing LLM Backed Systems](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai-research/ai_risk_management/Securing%20LLM%20Backed%20Systems%20-%20Essential%20Authorization%20Practices%2020240806.pdf)
+- [CSA Securing LLM Backed Systems](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai/ai_risk_management/Securing%20LLM%20Backed%20Systems%20-%20Essential%20Authorization%20Practices%2020240806.pdf)
 
 ### OWASP GenAI Security Project
 
