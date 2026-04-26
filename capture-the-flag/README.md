@@ -5,6 +5,7 @@ Capture the flag (CTF) is a computer security competition that is designed for e
 * https://github.com/apsdehal/awesome-ctf
 
 ## Some others:
+* https://github.com/momenbasel/htb-writeups - Comprehensive Hack The Box writeup collection covering 500+ machines, 400+ challenges, ProLabs, Sherlocks, CTF events, and certification prep
 * https://trailofbits.github.io/ctf/
 * https://ctftime.org
 * https://ctf365.com

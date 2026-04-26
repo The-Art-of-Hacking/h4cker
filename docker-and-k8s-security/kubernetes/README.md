@@ -141,6 +141,7 @@
 - [Open Policy Agent](https://www.openpolicyagent.org)
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 - [Kyverno](https://kyverno.io)
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with compliance dashboards for Falco, OPA/Gatekeeper, and Kyverno. CNCF Sandbox project.
 
 ## Papers
 - [Kubernetes Security Assessment - Final Report - May 2019](https://github.com/kubernetes/community/blob/master/sig-security/security-audit-2019/findings/Kubernetes%20Final%20Report.pdf)
