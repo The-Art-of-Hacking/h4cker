@@ -132,7 +132,7 @@ options:
 root@kali:~#
 ```
 
-**Note:** You can obtain the example of my `hostapd.conf` file [here](https://github.com/The-Art-of-Hacking/h4cker/blob/master/wireless-resources/hostapd.conf).
+**Note:** You can obtain the example of my `hostapd.conf` file [here](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/infrastructure-network-security/wireless-resources/hostapd.conf).
 
 In my case, I ran into the following problem:
 

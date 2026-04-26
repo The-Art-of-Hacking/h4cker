@@ -2,7 +2,7 @@
 
 SELinux, or Security-Enhanced Linux, is an advanced access control mechanism integrated into the Linux kernel. Initially developed by the National Security Agency (NSA), it provides Mandatory Access Control (MAC) unlike traditional Unix/Linux access control which provides Discretionary Access Control (DAC). In this article, we will explore the basics of SELinux and how to use it effectively.
 
-**NOTE:** Check the out the two labs I have here: [CENTOS LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/linux-hardening/selinux_CENTOS_lab.md) and [UBUNTU SELINUX LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/linux-hardening/selinux_UBUNTU_lab.md).
+**NOTE:** Check the out the two labs I have here: [CENTOS LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/defensive-security/linux-hardening/selinux_CENTOS_lab.md) and [UBUNTU SELINUX LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/defensive-security/linux-hardening/selinux_UBUNTU_lab.md).
 
 ## Introduction to SELinux
 
@@ -69,4 +69,4 @@ audit2why -al
 
 If a particular denial isn't in line with your system needs, you can create a custom SELinux policy module to allow the previously denied action using the `audit2allow` utility.
 
-Again, check the out the two labs I have here: [CENTOS LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/linux-hardening/selinux_CENTOS_lab.md) and [UBUNTU SELINUX LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/linux-hardening/selinux_UBUNTU_lab.md).
+Again, check the out the two labs I have here: [CENTOS LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/defensive-security/linux-hardening/selinux_CENTOS_lab.md) and [UBUNTU SELINUX LAB](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/defensive-security/linux-hardening/selinux_UBUNTU_lab.md).
