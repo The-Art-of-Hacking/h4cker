@@ -18,7 +18,7 @@ By the end of this sublesson you should be able to:
 
 ## Key concepts
 
-### 1. The model landscape in 2025–2026
+### 1. The model landscape
 
 ```mermaid
 flowchart TD
