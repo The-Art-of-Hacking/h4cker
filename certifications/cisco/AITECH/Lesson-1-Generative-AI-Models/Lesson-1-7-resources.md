@@ -89,7 +89,7 @@ Agentic RAG is how teams handle harder questions that require planning, not just
 4. When should you deliberately choose non-agentic RAG instead?
 
 ## References and further reading
-
+- [Amazing resources related to AI and Cybersecurity](https://hackertraining.org/)
 - [LlamaIndex: Agentic RAG With LlamaIndex](https://www.llamaindex.ai/blog/agentic-rag-with-llamaindex-2721b8a49ff6)
 - [LlamaIndex: Agentic Retrieval Guide](https://www.llamaindex.ai/blog/rag-is-dead-long-live-agentic-retrieval)
 - [Agentic Retrieval-Augmented Generation: Survey (arXiv)](https://arxiv.org/abs/2501.09136)

@@ -86,7 +86,7 @@ RAG is the bridge between static model knowledge and dynamic business knowledge.
 4. When would hybrid search (keyword + vector) outperform vector-only search?
 
 ## References and further reading
-
+- [Amazing resources related to AI and Cybersecurity](https://hackertraining.org/)
 - [OpenAI Embeddings Guide](https://developers.openai.com/api/docs/guides/embeddings)
 - [OpenAI Retrieval Guide](https://developers.openai.com/api/docs/guides/retrieval)
 - [Microsoft Learn: Generate Embeddings for RAG](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings)
