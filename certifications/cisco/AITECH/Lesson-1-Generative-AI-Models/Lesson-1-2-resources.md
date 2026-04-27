@@ -4,7 +4,7 @@
 
 ## Overview
 
-Once you have decided what kind of generative model you need, the next architectural decision is **where it actually runs**. This sublesson compares the two main hosting approaches — **cloud-hosted APIs** (OpenAI, Anthropic, Google, AWS Bedrock, Azure AI Foundry, Vertex AI) and **local / self-hosted inference** (open-weight models served with tools like Ollama, vLLM, or LM Studio) — and introduces the **hybrid pattern** that has become the dominant production architecture in 2025–2026. The right choice depends on cost, latency, privacy and compliance requirements, and how steady or bursty your workload is.
+Once you have decided what kind of generative model you need, the next architectural decision is **where it actually runs**. This sublesson compares the two main hosting approaches — **cloud-hosted APIs** (OpenAI, Anthropic, Google, AWS Bedrock, Azure AI Foundry, Vertex AI) and **local / self-hosted inference** (open-weight models served with tools like Ollama, vLLM, or LM Studio) — and introduces the **hybrid pattern** that has become the dominant production architecture. The right choice depends on cost, latency, privacy and compliance requirements, and how steady or bursty your workload is.
 
 ## Learning objectives
 
@@ -33,7 +33,7 @@ Managed catalogs such as **AWS Bedrock**, **Azure AI Foundry**, and **Google Ver
 Local hosting means you run the model on hardware you control — your own GPUs in a data center, a Kubernetes cluster, an on-prem workstation, or even a developer laptop.
 
 - **Models:** Open-weight families such as **Meta Llama**, **Mistral**, **Qwen**, **DeepSeek**, **Phi (SLMs)**, and many fine-tuned variants on Hugging Face.
-- **Serving stacks (2025–2026):**
+- **Serving stacks:**
 
 | Tool | Best for | Notable characteristics |
 | --- | --- | --- |
@@ -59,7 +59,7 @@ Local hosting means you run the model on hardware you control — your own GPUs 
 | Scaling | Elastic, on-demand | Bound by your provisioned hardware |
 | Best for | Variable demand, prototyping, frontier capability | Steady high volume, regulated data, strict latency |
 
-A common rule of thumb in 2025–2026: cloud APIs are usually the right call up to a few hundred thousand tokens per day or while you are still searching for product-market fit. Self-hosting starts to win on cost once you have **sustained, high-volume workloads** (often cited break-even ranges run from a few million tokens per day for consumer-grade GPUs up to hundreds of millions of tokens per day for enterprise H100 clusters), or whenever **compliance** makes cloud impossible.
+A common rule of thumb: cloud APIs are usually the right call up to a few hundred thousand tokens per day or while you are still searching for product-market fit. Self-hosting starts to win on cost once you have **sustained, high-volume workloads** (often cited break-even ranges run from a few million tokens per day for consumer-grade GPUs up to hundreds of millions of tokens per day for enterprise H100 clusters), or whenever **compliance** makes cloud impossible.
 
 ### 4. The hybrid pattern
 
@@ -135,8 +135,5 @@ The next sublesson, **Lesson 1-4: Context Windows and Token Management**, looks 
 - [Ollama](https://docs.ollama.com/)
 - [LM Studio](https://lmstudio.ai/)
 - [Hugging Face TGI](https://huggingface.co/docs/text-generation-inference/index)
-- [SitePoint: Local LLMs vs Cloud API Cost Analysis (2026)](https://www.sitepoint.com/local-llms-vs-cloud-api-cost-analysis-2026/)
-- [SitePoint: Hybrid Cloud-Local LLM: The Complete Architecture Guide (2026)](https://www.sitepoint.com/hybrid-cloudlocal-llm-the-complete-architecture-guide-2026/)
-- [Prem AI: Self-Hosted LLM Guide: Setup, Tools & Cost Comparison (2026)](https://blog.premai.io/self-hosted-llm-guide-setup-tools-cost-comparison-2026/)
 - [Requesty: LLM Gateway 101: Everything You Need to Know (2025)](https://www.requesty.ai/blog/llm-gateway-101-everything-you-need-to-know-in-2025-1751649864)  
 
