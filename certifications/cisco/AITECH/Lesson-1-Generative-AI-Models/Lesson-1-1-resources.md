@@ -58,7 +58,7 @@ flowchart TD
 - **Generation style:** **Autoregressive** — the model predicts the next **token** (a word, sub-word, or character) given all previous tokens, then feeds that prediction back in to predict the next token, one step at a time.
 - **Inputs/outputs:** Originally text-in, text-out. Modern flagship LLMs are now **multimodal**: they can accept and/or produce images, audio, and video as well.
 - **Flagship families (early 2026):** OpenAI **GPT-5.x**, Anthropic **Claude 4.x**, Google **Gemini 3.x**, Meta **Llama 4**, **DeepSeek-V3.x**, xAI **Grok 4**, Mistral, Microsoft **Phi** (small language models).
-- **2026 trends to know:**
+- **Trends to know:**
   - **Inference-time reasoning** ("thinking" / chain-of-thought / "Deep Think") instead of relying purely on bigger training runs.
   - **Mixture-of-Experts (MoE)** architectures for efficiency at very large scale.
   - **Small Language Models (SLMs)** for on-device, private, low-latency use cases.
@@ -70,7 +70,7 @@ flowchart TD
 - **Conditioning:** Text prompts steer generation through techniques like **classifier-free guidance**, usually with a text encoder (often a CLIP-style or transformer encoder) feeding the U-Net.
 - **Strengths:** State-of-the-art **image and video generation** quality; high controllability via prompts, image references, and adapters (LoRA, ControlNet, DreamBooth).
 - **Examples:** **Stable Diffusion** (open-source, runs locally), **DALL·E** (OpenAI, integrated in ChatGPT), **Midjourney** (proprietary, known for an artistic look), **Sora** (OpenAI, video).
-- **2025 research direction — diffusion language models:** A growing line of work explores using diffusion to generate **text in parallel** rather than one token at a time, with the goal of faster inference than autoregressive LLMs. This is still emerging but worth tracking.
+- **Research direction — diffusion language models:** A growing line of work explores using diffusion to generate **text in parallel** rather than one token at a time, with the goal of faster inference than autoregressive LLMs. This is still emerging but worth tracking.
 
 ### 3. Why this matters for an AI practitioner
 
