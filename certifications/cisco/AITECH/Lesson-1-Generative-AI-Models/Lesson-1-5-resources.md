@@ -81,7 +81,7 @@ Open-weight literacy gives you leverage: better portability, lower lock-in, and 
 4. Why can a smaller quantized model be better than a larger model for some workloads?
 
 ## References and further reading
-
+- [Amazing resources related to AI and Cybersecurity](https://hackertraining.org/)
 - [Hugging Face Hub Documentation](https://huggingface.co/docs/hub/index)
 - [Hugging Face Model Hub](https://huggingface.co/docs/hub/models-the-hub)
 - [Hugging Face Model Cards](https://huggingface.co/docs/hub/model-cards)

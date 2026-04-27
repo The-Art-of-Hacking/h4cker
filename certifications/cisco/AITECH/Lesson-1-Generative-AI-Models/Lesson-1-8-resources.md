@@ -85,7 +85,7 @@ Even the best LLM cannot answer correctly if retrieval surfaces weak context. Ch
 4. Why should benchmark winners still be tested on your own corpus before adoption?
 
 ## References and further reading
-
+- [Amazing resources related to AI and Cybersecurity](https://hackertraining.org/)
 - [MTEB Benchmark Repository](https://github.com/embeddings-benchmark/mteb)
 - [MTEB Leaderboard (Hugging Face)](https://huggingface.co/spaces/mteb/leaderboard)
 - [OpenAI Embeddings Guide](https://developers.openai.com/api/docs/guides/embeddings)
