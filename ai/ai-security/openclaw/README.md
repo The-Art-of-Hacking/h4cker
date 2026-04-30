@@ -1,6 +1,6 @@
 # Agentic AI Security Resources: OpenClaw, DefenseClaw, and MAESTRO
 
-This document summarizes three useful resources for an AI security curriculum: OpenClaw as an example of an agent framework with serious security concerns, DefenseClaw as a governance layer for agentic AI, and MAESTRO as a threat modeling framework designed for agentic systems. 
+This document summarizes three useful resources for an AI security curriculum: OpenClaw as an example of an agent framework with serious security concerns, DefenseClaw as a governance layer for agentic AI, and MAESTRO as a threat modeling framework designed for agentic systems.
 
 ## Overview
 
