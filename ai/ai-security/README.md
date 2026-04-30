@@ -11,6 +11,7 @@ Resources in this track:
 - [Coalition-for-Secure-AI-CoSAI-Risk-Map.md](Coalition-for-Secure-AI-CoSAI-Risk-Map.md)
 - [MCP-Security](MCP-Security/)
 - [model_and_genai_application_security_testing.md](model_and_genai_application_security_testing.md)
+- [openclaw](openclaw/)
 - [model_security_testing.md](model_security_testing.md)
 - [prompt-injection](prompt-injection/)
 - [tools.md](tools.md)
