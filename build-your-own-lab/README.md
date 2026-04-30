@@ -53,7 +53,7 @@ Ludus is implemented as a server that runs Packer and Ansible to create template
 ## Cloud-Based Cyber Ranges
 - [Awesome Cloud Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs): A list of free cloud native security learning labs. Includes CTF, self-hosted workshops, guided vulnerability labs, and research labs.
 - [PurpleCloud](https://github.com/iknowjason/PurpleCloud):  Cyber Range environment created by [Jason Ostrom](https://twitter.com/securitypuck) using Active Directory and automated templates for building your own Pentest/Red Team/Cyber Range in the Azure cloud!
-- [CyberRange by SECDEVOPS@CUSE](https://github.com/secdevops-cuse/CyberRange): AWS-based Cyber Range.
+- [OpenClaw 🦞 and DefenseClaw lab](https://developer.cisco.com/learning/labs/OpenClawSecurity/why-openclaw-%f0%9f%a6%9e-needs-defenseclaw/): OpenClaw is designed to run tools, touch files, and connect extra capabilities through skills, plugins, and MCP servers. In this lab you will use it the way a normal team would: install it, point it at the lab-provided model endpoint, and prove the agent is alive. Then you will watch how quickly the trust boundary changes when a believable helper turns malicious.
 - [Create A VPS On Google Cloud Platform Or Digital Ocean Easily With The Docker For Pentest](https://github.com/aaaguirrep/offensive-docker-vps)
 - [How to Build a Cloud Hacking Lab](https://www.youtube.com/watch?v=4s_3oNwqImo)
 - [Splunk Attack Range](https://github.com/splunk/attack_range)
