@@ -61,6 +61,85 @@ The **one-skill-per-technique granularity** maps cleanly to how analysts already
 
 **Scripts inside skills move deterministic work out of the LLM.** Rendering a brief, parsing STIX, computing coverage scores — none of that should be left to token generation. The `render_brief.py` pattern is the right instinct, and you can extend it: a skill could ship a script that queries your SIEM, runs a Sigma converter, or pulls fresh CTI before the LLM composes the final narrative.
 
+Got it — updating to reflect that.
+
+# Another Example: Project CodeGuard
+
+Another good example to look at is [Project CodeGuard](https://project-codeguard.org/) (`cosai-oasis/project-codeguard`). Full disclosure — I started CodeGuard at Cisco and I'm one of the core maintainers, so this is a project I know intimately. I think it's a useful counterpoint to my MITRE ATT&CK skill pack because it shows a **different shape of Agent Skill** solving a different problem, but built on the same underlying pattern.
+
+Where my MITRE repo is a **library of many narrow skills** (one per ATT&CK technique, retrieved on demand based on what the analyst is asking about), CodeGuard is **a single broad skill** (`software-security`) that's always in the activation pool whenever code is being written or reviewed. Both are valid Agent Skill designs, and looking at them side-by-side is a good way to understand the design space.
+
+## What it is
+
+We started CodeGuard inside Cisco's AI-enabled Security Engineering, Security & Trust team, and then contributed it as an open project under **CoSAI** (the Coalition for Secure AI, an OASIS Open Project) so the broader community could shape it. The goal is narrow and important: **stop AI coding agents from generating insecure code by default.** AI assistants will cheerfully produce code that hardcodes secrets, concatenates SQL, picks MD5 for hashing, skips input validation, or disables certificate checks — not because the model "wants" to, but because nothing in the prompt context tells it otherwise.
+
+We address that by shipping a corpus of **model-agnostic security rules** authored in unified Markdown, plus translators that convert them into the native rule/skill formats of every major AI coding tool — Claude Code, Cursor, Windsurf, GitHub Copilot, Google Antigravity, OpenAI Codex, OpenCode, and others. The same security knowledge, written once, ends up steering whichever agent the developer happens to be using. That portability was a deliberate design call — we didn't want to bet the project on one vendor's skill format, and a developer's choice of IDE shouldn't determine whether their AI assistant follows secure-by-default practices.
+
+## How it's packaged as an Agent Skill
+
+The Claude Code distribution of CodeGuard is packaged exactly as an Agent Skill, and we explicitly define the term in our docs: *"Agent Skills are model-invoked capabilities that Claude autonomously uses based on task context."* That's the same model I described in the MITRE example — the agent matches a request to a skill description, then loads the skill's instructions and supporting files only when relevant.
+
+The plugin layout looks like this:
+
+```
+project-codeguard/
+├── .claude-plugin/
+│   ├── plugin.json
+│   └── marketplace.json
+├── sources/                     # Authored inputs
+│   ├── rules/core/              # Core security rules (Markdown)
+│   ├── rules/owasp/             # OWASP supplementary rules
+│   └── skills/                  # Authored skill definitions
+├── skills/                      # Generated Claude Code skill
+│   └── software-security/
+│       ├── SKILL.md             # The skill entry point
+│       └── rules/               # 23 rule files Claude references
+└── src/
+    └── convert_to_ide_formats.py  # Translator to other agent formats
+```
+
+The `SKILL.md` for `software-security` does what every well-designed skill does: it tells Claude **when to activate** (any time code is being written, reviewed, or modified — especially when credentials, crypto, input handling, auth, APIs, cloud config, or sensitive data are involved) and **what workflow to follow** once it's active. We landed on a clean three-step pattern:
+
+1. **Initial security check** — figure out which rules apply (language, security domains involved, whether credentials are in scope).
+2. **Code generation** — apply the secure-by-default patterns from those rules and add comments explaining the security choices.
+3. **Security review** — run the implementation checklists from each rule, verify no hardcoded secrets, and surface to the developer which rules were applied.
+
+## How the rules are organized
+
+This is where some of the design choices we made get interesting. The 22 rules split into two tiers:
+
+**Always-apply rules (3)** — checked on *every* code operation, regardless of language or context:
+- `codeguard-1-hardcoded-credentials` — no secrets, API keys, or tokens in source
+- `codeguard-1-crypto-algorithms` — ban MD5/SHA-1/DES, require modern algorithms
+- `codeguard-1-digital-certificates` — validate expiration, key strength, signature algorithms
+
+**Context-specific rules (19)** — pulled in only when relevant: input validation and injection, authentication/MFA, authorization and access control, session management, API and web service security, client-side web security, data storage, privacy and data protection, logging, additional cryptography, file handling and uploads, XML and serialization, supply chain, DevOps/CI-CD/containers, cloud and Kubernetes, IaC, frameworks and languages, mobile apps, and safe C functions for memory safety.
+
+That two-tier split was a deliberate choice — and it took a couple of iterations to get right. In v1.0.0 we had four always-apply rules; in v1.0.1 we moved `safe-c-functions` to context-specific because it doesn't make sense to load C/C++ memory-safety guidance into context when someone is writing Python. That tuning matters: every rule that's "always-apply" costs context tokens and adds noise, so we reserve that tier for things that genuinely apply to *every* line of code an AI agent might write.
+
+## Why this is a different Agent Skill pattern than the MITRE pack
+
+Comparing the two designs is the most useful part of looking at them together:
+
+| Dimension | `mitre-attack-agent-skills` | `project-codeguard` |
+|---|---|---|
+| Granularity | One skill per technique (918 skills) | One skill, 22 rules inside it |
+| Activation | Triggered by specific ATT&CK-shaped query | Activates on any code work |
+| User | SOC analyst, detection engineer, IR | Developer using an AI coding agent |
+| Output shape | Hunt plans, detection briefs, IR notes | Secure code + security commentary |
+| Portability | Anthropic skill format only | Translated to ~8 agent formats |
+| Lifecycle stage | Detect / respond | Build / shift-left |
+
+Both are valid; they're optimized for different problems. When the user's query maps cleanly to a taxonomy with hundreds of nodes, fine-grained skills win because retrieval precision matters. When the skill needs to be *ambient* — running in the background of every code operation — a single broad skill with internal tiering wins because you can't realistically dispatch to one of 22 micro-skills on every keystroke.
+
+## Why this matters for AI security specifically
+
+CodeGuard sits in a part of the AI-security stack I think is underdeveloped: **shaping what AI coding agents produce**, rather than only scanning what they produce after the fact. SAST/DAST tools and AI code reviewers are necessary, but they catch problems *after* the agent has already written insecure code, after a human has potentially accepted it, and after it's potentially merged. A security skill that ships with the agent shifts that left to the moment of generation.
+
+It's also a pattern that scales: the same skill format can encode AI/ML-specific guidance (prompt-injection-resistant code, safe LLM-calling patterns, secure agent tool definitions, MCP server hardening). That's a direction we're actively pushing the project, and it's where I see Agent Skills becoming part of the standard secure-development toolkit rather than a niche capability.
+
+If anyone wants to contribute rules — particularly for AI/agent-specific threats — issues and discussions are open on the repo.
+
 **The defensive-only framing is intentional and load-bearing.** Skill descriptions don't just route requests — they shape what the agent will and won't help with. Putting the scope in the description means the agent self-selects out of misuse cases without the user even seeing a refusal.
 
 If you wanted to extend this idea, natural follow-ups would be a parallel skill pack for **D3FEND** countermeasures (so the agent can pair every ATT&CK technique with a mapped defense), a pack for **Atomic Red Team** tests (for purple-team validation), or a pack mapping **CWE/CVE** to detection guidance. The repo's structure — manifest files, validation summary, per-technique folders — is a reusable scaffold for all of those.
