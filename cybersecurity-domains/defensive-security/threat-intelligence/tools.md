@@ -18,6 +18,7 @@ This is a curated list of tools for this category.
 - [CTFTOOL - Interactive CTF Exploration Tool](http://feedproxy.google.com/~r/PentestTools/~3/SMda1qfS7rQ/ctftool-interactive-ctf-exploration-tool.html)
 - [Constellation - A Graph-Focused Data Visualisation And Interactive Analysis Application](http://feedproxy.google.com/~r/PentestTools/~3/Nzawsf4moWA/constellation-graph-focused-data.html)
 - [Cynet Free IR Tool Offering Empowers Responders to Know and Act Against Active Attacks](http://feedproxy.google.com/~r/PentestTools/~3/4Q01gW4bYSs/cynet-free-ir-tool-offering-empowers.html)
+- [CISA KEV Deadline Planner](https://kev-deadline-planner.vercel.app/) - Unofficial browser-only CISA Known Exploited Vulnerabilities planner for matching pasted CVEs, sorting BOD 22-01 due dates, and exporting Markdown, CSV, or ICS triage artifacts.
 - [DNS-Shell - An Interactive Shell Over DNS Channel](http://feedproxy.google.com/~r/PentestTools/~3/-RbwR0s6j4w/dns-shell-interactive-shell-over-dns.html)
 - [DNSMonster - Passive DNS Capture/Monitoring Framework](http://feedproxy.google.com/~r/PentestTools/~3/A7hAzJU8kWs/dnsmonster-passive-dns.html)
 - [DNSObserver - A Handy DNS Service Written In Go To Aid In The Detection Of Several Types Of Blind Vulnerabilities](http://feedproxy.google.com/~r/PentestTools/~3/-7Xzdq8mQaw/dnsobserver-handy-dns-service-written.html)
