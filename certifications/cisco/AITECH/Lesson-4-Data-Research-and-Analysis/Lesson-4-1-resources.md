@@ -105,7 +105,6 @@ If you only remember one thing from Lesson 4-1, remember that AI's value in anal
 - Domo — *Top AI Tools for Data Analysis in 2026.* https://www.domo.com/learn/article/ai-data-analysis-tools
 - Hex — *What is exploratory data analysis? A practical guide.* https://hex.tech/blog/exploratory-data-analysis/
 - Anomaly AI — *AI Data Analysis Trends 2026.* https://www.findanomaly.ai/ai-data-analysis-trends-2026
-- Data Foundation — *Data and AI: Key trends to watch for in 2026.* https://datafoundation.org/news/blogs/813/813-Data-and-AI-Key-trends-to-watch-for-in-
 - Databricks — *Databricks AI/BI Genie (conversational analytics).* https://www.databricks.com/product/ai-bi
 - Salesforce — *Agentforce for analytics.* https://www.salesforce.com/agentforce/
 - Tellius — *AI Analytics Platforms 2026: 12 Tools Compared.* https://www.tellius.com/resources/blog/best-ai-analytics-platforms-in-2026-12-tools-compared-by-capability-governance-and-depth-of-insight
