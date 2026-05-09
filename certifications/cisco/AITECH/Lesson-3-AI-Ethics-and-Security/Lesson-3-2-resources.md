@@ -151,19 +151,9 @@ Responsible-AI principles are the *vocabulary* you will use for the rest of Less
 
 ### Omar's resources and references (course-wide)
 
-#### Foundational cybersecurity resources in O'Reilly
+This course-wide reference list is shared across Lesson 3 sublessons. To avoid duplication and future drift, see the common references file:
 
-This section provides a curated list of resources that delve into foundational cybersecurity concepts, frequently explored in O'Reilly training sessions and other educational offerings.
-
-##### Live training
-
-- **Upcoming Live Cybersecurity and AI Training in O'Reilly:** [Register before it is too late](https://learning.oreilly.com/search/?q=omar%20santos&type=live-course&rows=100&language_with_transcripts=en) (free with O'Reilly Subscription)
-
-##### Reading list
-
-Despite the rapidly evolving landscape of AI and technology, these books offer a comprehensive roadmap for understanding the intersection of these technologies with cybersecurity:
-
-- **[NEW: Agentic AI for Cybersecurity: Building Autonomous Defenders and Adversaries](https://www.oreilly.com/library/view/agentic-ai-for/9780135589861/).** Unlock the power of next generation AI agents to transform cybersecurity, business operations, and productivity. [Available on O'Reilly](https://www.oreilly.com/library/view/agentic-ai-for/9780135589861/)
+- [Omar's Lesson 3 course-wide resources and references](./Lesson-3-shared-resources.md)
 
 - **[Redefining Hacking](https://learning.oreilly.com/library/view/redefining-hacking-a/9780138363635/)** — A Comprehensive Guide to Red Teaming and Bug Bounty Hunting in an AI-driven World. [Available on O'Reilly](https://learning.oreilly.com/library/view/redefining-hacking-a/9780138363635/)
 
