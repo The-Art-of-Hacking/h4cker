@@ -28,10 +28,10 @@ flowchart LR
     Sys["Hardened system prompt<br/>+ spotlighting / isolation"]
     Model["LLM"]
     OutChk["Output validation<br/>(policy, schema, PII)"]
-    HIL["Human-in-the-loop<br/>(high-stakes only)"]
+    HITL["Human-in-the-loop<br/>(high-stakes only)"]
     Action["Action / response"]
 
-    Inp --> V --> D --> Sys --> Model --> OutChk --> HIL --> Action
+    Inp --> V --> D --> Sys --> Model --> OutChk --> HITL --> Action
 ```
 
 No single layer is sufficient; the goal is to make injection unlikely *and* low-impact when it slips through. Microsoft, OWASP, and NIST all explicitly recommend this layered approach.
