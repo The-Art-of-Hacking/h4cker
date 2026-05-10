@@ -59,7 +59,7 @@ Beyond the loop, four building blocks recur in almost every agent design:
 | Memory | Keeps state across turns and steps | Conversation history, scratchpad, vector store, structured task list |
 | Guardrails | Constrain what the agent can and cannot do | Allowed tool list, iteration cap, approval gates, content filters |
 
-Lesson 6-4 covers a standard way to expose tools and data — the **Model Context Protocol (MCP)**. Lesson 6-5 covers approval gates and other **human-in-the-loop** guardrails. Lesson 6-6 covers how data flowing through tools is **mapped and transformed** to fit each side of the system.
+Lesson 6-4 covers a standard way to expose tools and data — the **Model Context Protocol (MCP)**. Lesson 6-5 introduces **WebMCP** — registering structured capabilities for agents **in the browser**, alongside backend MCP. Lesson 6-6 covers **human-in-the-loop** and **human-on-the-loop** guardrails. Lesson 6-7 covers how data flowing through tools is **mapped and transformed**. **Lesson 6-8** closes with **agent skills** and the **harness** around the model.
 
 ### 4. Where agents are showing up in 2025–2026
 
@@ -79,8 +79,10 @@ Agentic AI is the layer where generative models meet real systems. As a practiti
 - **Lesson 6-2** — Agentic AI vs. generative AI: when to reach for each.
 - **Lesson 6-3** — Agent design principles: ReAct, Reflexion, multi-agent, orchestration.
 - **Lesson 6-4** — Model Context Protocol (MCP): a standard for connecting agents to data and tools.
-- **Lesson 6-5** — Human-in-the-loop strategies: approval gates and oversight.
-- **Lesson 6-6** — Data transformation in agents: how data flows in and out.
+- **Lesson 6-5** — Introducing WebMCP: browser-registered tools and permissions.
+- **Lesson 6-6** — Human-in-the-loop (HITL) and human-on-the-loop (HOTL): approval, monitoring, accountability.
+- **Lesson 6-7** — Data transformation in agents: mapping, shaping, and integration.
+- **Lesson 6-8** — Agent skills and harnesses: repeatable expertise and engineered runtime.
 
 ## Glossary
 

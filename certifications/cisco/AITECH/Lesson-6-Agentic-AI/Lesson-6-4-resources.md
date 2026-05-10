@@ -93,7 +93,7 @@ In short, MCP is to agents what a stable API or driver model is to an operating 
 
 ## Why it matters / What's next
 
-If Lesson 6-3 was about how the agent thinks, MCP is about how it *reaches into the world*. With a clean, standard tool surface, you can focus on agent design rather than reinventing integrations. The next sublesson, **Lesson 6-5: Human-in-the-Loop Strategies**, shows how to put guardrails around those tool calls so that autonomous behavior stays safe and accountable.
+If Lesson 6-3 was about how the agent thinks, MCP is about how it *reaches into the world*. With a clean, standard tool surface, you can focus on agent design rather than reinventing integrations. The next sublesson, **Lesson 6-5: Introducing WebMCP**, shows how sites can expose structured capabilities to agents **in the browser**—complementary to MCP on servers and backends.
 
 ## Glossary
 

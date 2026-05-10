@@ -84,7 +84,7 @@ Modern guidance (Anthropic, NIST AI RMF, EU AI Act) emphasizes that agents shoul
 - Step-level traces of Thought, Action, Observation.
 - Iteration caps and budget limits to prevent runaway loops.
 - Sandboxed tool execution for risky actions (code, file writes).
-- Clear escalation paths to a human (covered in Lesson 6-5).
+- Clear escalation paths to a human (covered in Lesson 6-6).
 
 ## Why it matters / What's next
 
