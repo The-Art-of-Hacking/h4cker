@@ -1,166 +1,142 @@
-# Lesson 6-6: Data Transformation in AI Agents
+# Lesson 6-6: Human-in-the-Loop (HITL) and Human-on-the-Loop (HOTL) Strategies
 
 > Student follow-along resources, key concepts, and references for this sublesson.
 
 ## Overview
 
-Agents only work as well as the data they read and write. Real systems return JSON with messy field names, inconsistent types, nested structures, and noise the model does not need to see. This sublesson covers the disciplines that keep an agent grounded: **data mapping** (how fields in one system correspond to another), **data transformation** (formatting, filtering, aggregating, redacting), and **integration** (auth, retries, rate limits, errors). Together with MCP from Lesson 6-4, these are how data flows in and out of an agent without breaking it.
+Agentic systems can act on their own, but for many real use cases that's exactly the problem. Human-in-the-loop (HITL) and human-on-the-loop (HOTL) strategies place humans at specific points in the agent's workflow — to approve, guide, review, or monitor — so that automation gains do not come at the cost of safety, accuracy, or accountability. This sublesson covers the main HITL/HOTL patterns (approval workflows, tiered review, monitoring, feedback loops), how they map to frameworks like LangGraph, and how they tie into governance regimes like the EU AI Act and the NIST AI Risk Management Framework.
 
 ## Learning objectives
 
 By the end of this sublesson you should be able to:
 
-- Distinguish data mapping, data transformation, and integration in the context of AI agents.
-- Use structured outputs and JSON Schema (with libraries like Pydantic or Zod) to enforce reliable data shapes.
-- Apply common transformation steps — formatting, filtering, redacting, aggregating — between tools and the model.
-- Handle integration concerns for tool calls: authentication, retries, rate limits, pagination, and errors.
-- Design and document the data flow for an agent so that it is debuggable and maintainable.
+- Define human-in-the-loop and contrast it with human-on-the-loop and human-out-of-the-loop.
+- Identify when an agent action should pause for human approval and when it can proceed autonomously.
+- Design a tiered HITL policy that varies oversight by risk, reversibility, and confidence.
+- Apply approval, review, and feedback patterns in agent frameworks (e.g., LangGraph `interrupt()`).
+- Map HITL controls to governance frameworks (EU AI Act Article 14, NIST AI RMF).
 
 ## Key concepts
 
-### 1. Data mapping: matching fields across systems
-
-Mapping defines how a field in one system corresponds to a field in another. The simplest case is a rename — `customer_id` in the API maps to `userId` in your agent's internal model. Real cases are messier:
-
-- **Type changes.** A string `"42"` becomes an integer; an ISO 8601 string becomes a `datetime` object.
-- **Unit changes.** Cents to dollars, Celsius to Fahrenheit, milliseconds to seconds.
-- **Nested vs. flat.** `address.city` becomes a top-level `city` field, or vice versa.
-- **Many-to-one and one-to-many.** Multiple source fields combine into one target, or one source explodes into a list.
-- **Lookup / enrichment.** A foreign key resolves to a name (`region_id` → `region_name`) via a separate call.
-
-A clear, documented mapping is the difference between an agent that "mostly works" and one whose tool integrations break the next time an upstream API changes a field.
-
-### 2. Data transformation: shaping data for tools and the model
-
-Transformation converts data from one form to another. In an agent, transformations happen at three boundaries:
+### 1. Three levels of human involvement
 
 ```mermaid
-flowchart LR
-    Ext["External system<br/>(API, DB, file)"] --> Inb["Inbound transform<br/>parse, normalize,<br/>validate, redact"]
-    Inb --> Ctx["Agent context / state"]
-    Ctx --> Out["Outbound transform<br/>shape inputs<br/>for next tool"]
-    Out --> Tool["Next tool / API"]
-    Ctx --> Disp["Display transform<br/>summarize for user"]
-    Disp --> User["User"]
+flowchart TD
+    Goal["Agent receives goal"] --> Loop["Agent loop<br/>(plan, act, observe)"]
+    Loop --> Risk{"Action risk?"}
+    Risk -- "Low / reversible" --> Auto["Auto-execute<br/>(human-out-of-the-loop)"]
+    Risk -- "Medium" --> Monitor["Execute, log,<br/>human reviews after<br/>(human-on-the-loop)"]
+    Risk -- "High / irreversible" --> Approve["Pause for explicit<br/>human approval<br/>(human-in-the-loop)"]
+    Auto --> Done["Continue"]
+    Monitor --> Done
+    Approve --> Decision{"Approved?"}
+    Decision -- "yes" --> Done
+    Decision -- "no" --> Halt["Reject and stop /<br/>request alternative"]
 ```
 
-Common operations:
+- **Human-in-the-loop (HITL).** A human is *inside* the loop and must take an action (approve, reject, edit) before the agent proceeds.
+- **Human-on-the-loop.** A human *monitors* and can intervene, but the agent acts in real time without per-step approval.
+- **Human-out-of-the-loop.** Fully autonomous; humans only see aggregate metrics and audits.
 
-- **Formatting.** Dates, numbers, currencies, units, locale strings.
-- **Filtering.** Drop fields the model does not need (verbose metadata, internal IDs, hashes).
-- **Redaction.** Remove or mask PII, secrets, and other sensitive fields *before* they enter the prompt.
-- **Aggregation.** Reduce a list of records to a count, total, or summary.
-- **Truncation.** Keep payloads inside the model's context budget.
-- **Schema coercion.** Convert third-party JSON into the agent's own canonical shape.
+The right level depends on risk, reversibility, regulatory exposure, and the agent's demonstrated reliability.
 
-Why this matters: every token of raw payload competes with reasoning tokens. Clean, well-shaped inputs reduce hallucination, latency, and cost.
+### 2. Where HITL belongs: high-stakes domains
 
-### 3. Structured outputs: making the model itself produce clean data
+By 2025–2026, HITL is considered essential in domains where errors are costly or regulated:
 
-You also want the model to *emit* clean data. Modern LLM APIs support **structured outputs** that constrain generation to a JSON Schema:
+- **Healthcare** — diagnosis support, prior authorization, clinical documentation.
+- **Finance** — payments, lending decisions, fraud actions.
+- **Customer service** — refunds, account changes, deactivations.
+- **Content moderation and safety** — escalation of borderline content.
+- **Software engineering** — production deploys, schema changes, secret rotation.
+- **Legal and compliance** — contract drafting, regulatory filings.
 
-- **OpenAI** — `response_format: { type: "json_schema", schema: ... }` and `strict: true` on tool definitions.
-- **Anthropic** — `tool_use` with input schemas; structured outputs in the messages API.
-- **Google Gemini** — controlled generation with `responseSchema`.
-- **Amazon Bedrock** — strict mode for tool use and structured outputs.
+In each case, automation handles scale and consistency while humans provide context, judgment, and accountability.
 
-In code, you typically define the schema once and reuse it:
+### 3. Common HITL strategies
 
-- **Python** — Pydantic models, then `model.model_json_schema()` to feed the API; parse responses back into typed objects.
-- **TypeScript** — Zod (or Valibot) schemas with similar reuse patterns.
+| Strategy | What it does | When to use |
+| --- | --- | --- |
+| Approval workflow | Pause before a sensitive action; require explicit approve/reject | Sending email, payment, data deletion, production deploy |
+| Tiered review | Auto-approve low-risk; queue medium-risk; require approval for high-risk | Mixed workloads where most items are routine |
+| Confidence-based escalation | Escalate when the agent's confidence falls below a threshold | Classification, summarization, retrieval-grounded answers |
+| Draft-approve-execute | Agent drafts the action; human approves; system executes | Outbound communications, marketing copy, code changes |
+| Tiered feedback / RLHF-style | Humans rate or correct outputs; corrections retrain or refine prompts | Long-running agents that need to improve over time |
+| Escalation to specialist | Route to a domain expert when conditions match | Compliance edge cases, legal review, medical override |
 
-This eliminates a whole category of "the model returned almost-JSON" bugs and lets the agent treat tool outputs as typed values.
+A few engineering tips that consistently show up in production playbooks:
 
-### 4. Integration: making the connection reliable
+- Use **calibrated confidence**, not raw softmax probabilities, to drive escalation thresholds (e.g., temperature scaling, ensemble disagreement, or LLM-as-judge with calibration).
+- **Time-box** human decisions with SLAs so the queue doesn't become a bottleneck.
+- Use **structured approval briefings** ("here's what the agent wants to do, here's why, here are the risks") to combat automation bias — approvers should not just rubber-stamp.
+- Run **no-blame post-incident reviews** when escalations spike, and use the data to refine prompts, tools, and guardrails.
 
-Once the data shape is right, the *connection* itself has to be robust. Integration concerns that come up in every production agent:
+### 4. HITL in agent frameworks
 
-| Concern | What to design for |
-| --- | --- |
-| Authentication | OAuth 2.1 or API keys; never paste secrets into prompts; prefer scoped, short-lived tokens |
-| Authorization | Least privilege: the agent's tools should only see what they need |
-| Rate limits | Backoff, jitter, and queueing; surface limits to the agent so it can pace itself |
-| Retries | Idempotency keys for write operations; bounded retries with exponential backoff |
-| Pagination | Loop over pages until done, or summarize in chunks; do not stuff everything into one prompt |
-| Timeouts | Per-tool deadlines so a single slow API does not hang the whole agent |
-| Errors | Return structured error messages the agent can reason about, not raw stack traces |
-| Idempotency | Make sure retries do not double-charge, double-send, or double-create |
-| Observability | Log requests, responses (sanitized), latency, and outcomes for every tool call |
+Modern frameworks build HITL directly into the runtime:
 
-A common pattern is to put a **unified API layer** or **MCP server** in front of third-party services. That layer handles auth, pagination, retries, and normalization once, and exposes a clean, agent-friendly interface upstream.
+- **LangGraph** offers `interrupt()` to pause a graph at a node, return state to a human, and resume with a `Command` once the human responds. State is checkpointed, so long-running approvals (minutes to days) are supported.
+- **OpenAI Agents SDK** supports tool-call confirmation and tracing.
+- **AWS Bedrock Agents / AgentCore** include identity, gateway, and approval primitives at the platform layer.
+- **Microsoft Copilot Studio / Agent Framework** expose approval connectors and audit logs through the Microsoft 365 admin surface.
+- **HumanLayer, Orkes Conductor**, and similar tools provide cross-framework approval queues, often integrated with Slack, Microsoft Teams, or email.
 
-### 5. Putting it together: design the data flow explicitly
+The exact API differs, but the pattern is the same: the agent reaches a checkpoint, state is serialized, a human is notified, and the agent resumes when the human decides.
 
-When you design an agent, write down — for each tool — three things:
+### 5. Governance and accountability
 
-1. **Input schema.** Exactly what fields, with what types and constraints, the tool expects.
-2. **Output schema.** Exactly what the tool returns, with examples and error cases.
-3. **Transformations.** What you do to the input on the way in, and to the output on the way out (filter, redact, normalize).
+HITL is increasingly a **regulatory** requirement, not just a best practice:
 
-Keep these definitions next to the tool implementation, not buried in a prompt. That single habit makes agents far easier to debug, secure, and evolve.
+- **EU AI Act, Article 14** mandates that high-risk AI systems be designed for *effective* human oversight — meaning trained humans with the authority and information to actually intervene.
+- **NIST AI Risk Management Framework (AI RMF)** treats human oversight as a core control across its Govern, Map, Measure, and Manage functions.
+- **OECD AI Principles** call for human-centred values and accountability.
+
+Practical implications:
+
+- Tie agent actions to a specific **identity** (the agent's, the user's, or both) so audit trails are meaningful.
+- Log Thought, Action, Observation, and Approval decisions, and keep them queryable.
+- Define a **policy** for which actions require HITL, who is accountable, and how decisions are reviewed.
+- Train approvers; a checklist alone is not sufficient if reviewers do not understand what they are approving.
 
 ## Why it matters / What's next
 
-Data transformation is the unglamorous backbone of every agent that actually ships. Without it, even a sophisticated reasoning loop will be poisoned by malformed payloads, leak sensitive data into prompts, or break the moment an upstream API shifts.
-
-**Next:** [Lesson 6-7: Agent Skills and Harnesses](Lesson-6-7.md) — how portable **skills** package expertise for agents and how a **harness** (runtime, tools, verification) turns a model into a dependable system.
-
-Across the full course you connect:
-
-- **Lesson 1** — generative AI models, hosting, context, and RAG.
-- **Lesson 2** — prompt engineering.
-- **Lesson 3** — AI ethics and security.
-- **Lesson 4** — AI for data research and analysis.
-- **Lesson 5** — AI for code and workflow optimization.
-- **Lesson 6** — agentic AI, MCP, HITL, data transformation, skills, and harnesses.
-
-That sequence matches the Cisco AI Technical Practitioner picture: models, prompting, safety, data work, coding workflows, and agentic systems that act in the real world.
-
-### Industry perspective (2025–2026)
-
-- **Structured outputs in agent pipelines:** Platforms increasingly treat JSON Schema–constrained responses as first-class for batch extraction and multi-step workflows—not only for UI formatting—because validation and retries compose cleanly with orchestration (see vendor guidance from OpenAI, Anthropic, Google Gemini, and ecosystem frameworks such as Mastra and Microsoft Agent Framework).
-- **Structured outputs vs. tool calling:** A single constrained completion is ideal for “shape this blob of text into JSON”; tool calling is for when the model must choose actions over multiple steps. Many production agents use both at different layers (see practitioner discussions comparing the two patterns).
-- **Normalization before security analytics:** Enterprise security AI stacks emphasize consistent field names and types upstream so detection rules and agents do not drift when sources change—a parallel discipline to agent-side mapping and transformation.
+HITL is what turns an interesting agent demo into a system you can deploy in a regulated business. Designed well, it actually *increases* throughput, because routine work is automated and humans focus on the cases where their judgment matters. The next sublesson, **Lesson 6-7: Data Transformation in AI Agents**, looks at the other side of trustworthy agents — making sure the data flowing through them is clean, well-mapped, and integration-ready.
 
 ## Glossary
 
-- **Data mapping** — Defining how fields in one system correspond to fields in another.
-- **Data transformation** — Converting data from one form to another (format, filter, aggregate, redact).
-- **Structured outputs** — LLM responses constrained to a JSON Schema for reliable parsing.
-- **JSON Schema** — A standard for describing the shape, types, and constraints of JSON data.
-- **Pydantic / Zod** — Python and TypeScript libraries for declaring and validating data schemas.
-- **Redaction** — Removing or masking sensitive fields (PII, secrets) before they reach the model.
-- **Idempotency key** — A token that ensures repeated requests do not cause repeated effects.
-- **Backoff and jitter** — A retry strategy that waits longer (with randomness) between attempts.
-- **Rate limiting** — Caps on how often a client may call an API; agents must respect these.
-- **Pagination** — Returning results in pages; the agent or layer must iterate.
-- **Unified API layer** — A normalization layer that fronts many providers behind one consistent interface.
-- **Observability** — Visibility into tool calls, latencies, errors, and outcomes via logs and traces.
+- **Human-in-the-loop (HITL)** — A human must approve or edit before the agent proceeds.
+- **Human-on-the-loop** — A human monitors and can intervene; the agent acts in real time.
+- **Human-out-of-the-loop** — Fully autonomous operation; humans only review aggregate outcomes.
+- **Approval workflow** — Pause-and-approve gate before a sensitive action.
+- **Tiered review** — Risk-based routing of actions between auto, monitored, and approval lanes.
+- **Confidence-based escalation** — Trigger human review when agent confidence is below a threshold.
+- **Calibrated confidence** — A confidence score adjusted so values reflect true correctness rates.
+- **Automation bias** — Tendency of human reviewers to over-trust AI suggestions.
+- **EU AI Act, Article 14** — Provision requiring effective human oversight of high-risk AI systems.
+- **NIST AI RMF** — U.S. risk management framework for AI; emphasizes governance and oversight.
+- **Audit trail** — Persistent log of agent reasoning, actions, observations, and human decisions.
 
 ## Quick self-check
 
-1. In one sentence each, define data mapping, data transformation, and integration.
-2. Give two reasons to redact or filter tool outputs before they enter the model's context.
-3. How do structured outputs (e.g., JSON Schema with `strict: true`) reduce a class of agent bugs?
-4. Name three integration concerns you must handle for any tool that writes to an external system.
-5. For a tool you are designing, what three things should you write down before connecting it to the agent?
+1. Distinguish human-in-the-loop, human-on-the-loop, and human-out-of-the-loop in one sentence each.
+2. Give two factors you would use to decide which lane an action belongs in.
+3. What is automation bias, and name one design choice that mitigates it.
+4. How does LangGraph's `interrupt()` support long-running approvals?
+5. Which provision of the EU AI Act specifically requires human oversight, and what does "effective oversight" mean in practice?
 
 ## References and further reading
 
-- Mastra — *Structured output (agents).* https://mastra.ai/docs/agents/structured-output
-- Databricks — *Structured outputs for batch and agent workflows.* https://www.databricks.com/blog/introducing-structured-outputs-batch-and-agent-workflows
-- OpenAI — *Structured outputs guide.* https://platform.openai.com/docs/guides/structured-outputs
-- Anthropic — *Structured outputs (Claude API).* https://docs.anthropic.com/en/docs/build-with-claude/structured-outputs
-- Google AI — *Generate structured output (Gemini).* https://ai.google.dev/gemini-api/docs/structured-output
-- AWS — *Structured outputs on Amazon Bedrock.* https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/
-- Microsoft Learn — *Producing structured outputs with agents (Agent Framework).* https://learn.microsoft.com/en-us/agent-framework/agents/structured-outputs
-- Pydantic — *Pydantic documentation.* https://docs.pydantic.dev/
-- Zod — *Zod documentation.* https://zod.dev/
-- JSON Schema — *Specification and tooling.* https://json-schema.org/
-- Elastic — *Structured outputs: creating reliable agents in Elasticsearch.* https://www.elastic.co/search-labs/blog/structured-outputs-elasticsearch-guide
-- Truto — *Mapping AI agent patterns to integration platforms (2026).* https://truto.one/blog/mapping-ai-agent-patterns-to-integration-platforms-2026-tutorial/
-- Seemplicity — *Data normalization: the foundation for security AI.* https://seemplicity.io/blog/data-normalization-ai-security/
-- Model Context Protocol — *Tools, resources, and prompts.* https://modelcontextprotocol.io/docs/learn/server-concepts
+- IBM — *What is human-in-the-loop (HITL)?* https://www.ibm.com/think/topics/human-in-the-loop
+- LangChain — *Human-in-the-loop (LangGraph documentation).* https://langchain-ai.github.io/langgraph/concepts/human_in_the_loop/
+- Towards Data Science — *Building human-in-the-loop agentic workflows.* https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/
+- Galileo — *How to build human-in-the-loop oversight for AI agents.* https://galileo.ai/blog/human-in-the-loop-agent-oversight
+- Strata — *Human-in-the-loop: a 2026 guide to AI oversight.* https://www.strata.io/blog/agentic-identity/practicing-the-human-in-the-loop/
+- Agentic Patterns — *Human-in-the-loop approval framework.* https://agentic-patterns.com/patterns/human-in-loop-approval-framework/
+- Orkes — *Human-in-the-loop in agentic workflows.* https://orkes.io/blog/human-in-the-loop/
+- Elementum AI — *Human-in-the-loop agentic AI: when you need both.* https://www.elementum.ai/blog/human-in-the-loop-agentic-ai
+- European Commission — *EU AI Act, Article 14: Human oversight.* https://artificialintelligenceact.eu/article/14/
+- NIST — *AI Risk Management Framework (AI RMF 1.0).* https://www.nist.gov/itl/ai-risk-management-framework
+- OECD — *AI Principles.* https://oecd.ai/en/ai-principles
 
 ### Omar's resources and references (course-wide)
 

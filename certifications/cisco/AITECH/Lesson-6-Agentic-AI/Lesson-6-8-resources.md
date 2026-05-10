@@ -1,83 +1,109 @@
-# Lesson 6-5: Introducing WebMCP
+# Lesson 6-8: Agent Skills and Harnesses
 
 > Student follow-along resources, key concepts, and references for this sublesson.
 
 ## Overview
 
-**Lesson 6-4** introduced the **Model Context Protocol (MCP)** — how AI hosts attach to **servers** that expose tools, resources, and prompts (often on the backend or over the network). **WebMCP** is a separate but related idea: it targets the **browser** and **web pages**, letting sites **register structured tools** with the user agent so assistants can invoke **application-defined capabilities** instead of scraping the DOM or driving pixels.
-
-Work on WebMCP sits alongside standards communities (for example the **W3C Web Machine Learning Community Group**) and browser vendors exploring **preview implementations**. The story through 2025–2026 is **rapid evolution**: always verify current browser docs and proposal text before you ship.
-
-This sublesson frames **when WebMCP complements MCP**, how **permissions** and **user consent** fit in, and what to watch for in **security** and **fallback** design.
+Lesson 6 established how agents **reason**, **use tools** (including via MCP and optionally WebMCP in the browser), stay **human-governed** (HITL/HOTL), and **normalize data**. This closing sublesson connects that stack to how practitioners ship agents day to day: **Agent Skills** package reusable, portable expertise for assistants, and a **harness** is the engineered runtime around the model—policies, tools, verification, and project context—that turns raw LLM capability into something dependable in a codebase or workflow.
 
 ## Learning objectives
 
 By the end of this sublesson you should be able to:
 
-- Contrast **WebMCP** (browser / page surface) with **MCP** (host ↔ server integrations).
-- Explain why exposing **typed tools** from a site can be safer and more reliable than unstructured UI automation.
-- Identify **permission**, **least privilege**, and **human-in-the-loop** considerations when a page exposes capabilities to an assistant.
-- Find authoritative sources (proposal docs, browser guidance) and treat WebMCP as an **evolving** API with flag-gated availability.
+- Explain **Agent Skills** as an open, file-based standard and how `SKILL.md` fits into agent workflows.
+- Contrast **skills** with **rules**, **memories**, and ad-hoc prompts for when each belongs.
+- Describe an **agent harness** as model plus orchestration: tools, guardrails, verification loops, and repository context.
+- Identify practical patterns: progressive disclosure of skill content, scoped skills by path, explicit-only skills via flags, and harness artifacts such as agent instructions files.
+- Relate skills and harness design to Lesson 6 themes (MCP and WebMCP, HITL/HOTL, data contracts).
 
 ## Key concepts
 
-### 1. Two layers: backend MCP and browser WebMCP
+### 1. Agent Skills: portable expertise
 
-| Layer | Typical transport | What it connects |
+**Agent Skills** is an **open standard** for extending agents with domain-specific workflows and guidance. A skill is typically a **folder** containing a **`SKILL.md`** file with YAML frontmatter (`name`, `description`, optional `paths` scoping, optional `disable-model-invocation`, etc.) plus optional `scripts/`, `references/`, and `assets/`.
+
+Why it matters:
+
+- **Version control:** Skills live in the repo or install from remote sources—reviewable like code.
+- **Progressive loading:** Implementations can expose short descriptions first and load full instructions or reference files only when relevant—protecting the context window.
+- **Portability:** The same skill concept appears across multiple agent products that adopt the standard.
+
+Cursor documents discovery from `.cursor/skills/`, `.agents/skills/`, user-global directories, and compatibility paths for other assistants; the ecosystem hub for the standard is **agentskills.io**.
+
+### 2. Skills vs. rules vs. one-off prompts
+
+| Mechanism | Typical use | Invocation |
 | --- | --- | --- |
-| **MCP** | stdio, Streamable HTTP, enterprise gateways | Host app ↔ MCP servers (GitHub, DB, internal APIs) |
-| **WebMCP** | Browser APIs on the page | User session ↔ registered page capabilities |
+| **Rules** | Always-on or glob-scoped constraints; coding standards | Applied by policy when conditions match |
+| **Skills** | Multi-step or domain workflows; scripts and references | Agent decides relevance, or `/skill` explicit invoke |
+| **Ad-hoc prompt** | Single-turn clarification | User types each time |
 
-They stack: your **coding agent** might use **MCP** for repo and CI tools while the **user** works in a web app that exposes **WebMCP** actions for checkout, approvals, or tenant-specific workflows.
+Skills shine when the agent needs **repeatable procedure**—deploy checklist, incident triage, migration playbook—not when a single sentence of policy suffices.
 
-### 2. What WebMCP tries to fix
+### 3. Harness: model + runtime you engineer
 
-Without an explicit capability surface, assistants either **guess** from HTML or automate **UI controls** — brittle, slow, and easy to get wrong when layouts change. Registering tools gives:
+Informally, practitioners describe the **harness** as everything wrapped around the LLM that makes an agent **usable**: orchestration SDK, allowed tool surface, retry and timeout policies, structured outputs, logging, **AGENTS.md** / project instruction files, test hooks, and sometimes **subagents** or **handoffs** for specialization.
 
-- **Stable contracts** — names, parameters, and semantics owned by the application.
-- **Finer permission UX** — the browser can mediate access the way it already mediates camera or notifications.
-- **Less accidental data exposure** — fewer reasons to paste entire DOM trees into the model.
+Anthropic's engineering guidance distinguishes **workflows** (fixed code paths orchestrating LLM steps) from **agents** (the model dynamically directs tools); your harness chooses how much freedom exists and where deterministic rails replace model discretion—often mixing both in production.
 
-### 3. Security and governance habits
+A mature harness also encodes **verification**: linters, tests, diff review, human approvals (Lesson 6-6), and "stop conditions" so autonomy does not run unbounded.
 
-Treat registered capabilities like **new attack surface**:
+### 4. Putting skills inside the harness
 
-- **Scope** tools narrowly; validate arguments server-side even when the caller is “the assistant.”
-- Pair sensitive operations with **HITL** patterns from the next sublesson (**Lesson 6-6**): approvals, audit trails, and rollback where needed.
-- Provide **degraded modes** when WebMCP is unavailable so workflows still work for humans.
+```mermaid
+flowchart TB
+  subgraph harness [Harness]
+    P[Project context<br/>AGENTS.md / docs]
+    R[Rules and policies]
+    S[Skills library<br/>SKILL.md + scripts]
+    T[Tools MCP APIs code]
+    V[Verification HITL<br/>tests review gates]
+  end
+  M[LLM]
+  harness --> M
+  M --> T
+  T --> V
+```
 
-### 4. Practical stance for practitioners
+Skills sit in the **context supply chain**: they teach *how* to use tools and interpret results; MCP exposes *what* can be called; data transformation (Lesson 6-7) ensures arguments and observations stay shaped and safe.
 
-- Read **vendor proposal and blog posts** alongside the **MCP spec** — WebMCP is not “MCP over HTTP” as a drop-in; it is its own integration surface.
-- Prototype behind **preview flags**; avoid hard-coding assumptions about universal availability.
-- Document which capabilities are **page-level** vs already covered by your existing **MCP servers** so teams do not duplicate or contradict backends.
+### 5. Operational habits
 
-## Why it matters / What's next
+- Keep **`description`** in skill frontmatter precise—agents use it for relevance ranking.
+- Use **`paths`** (or nested `.cursor/skills/` per package) to avoid polluting unrelated tasks.
+- Prefer **`disable-model-invocation: true`** when a skill must never auto-fire (dangerous ops, compliance).
+- Store long references under `references/`; keep `SKILL.md` a concise entry point.
+- Periodically **migrate** brittle dynamic rules into skills where workflow reuse warrants it (many products ship migration helpers).
 
-WebMCP matters because much of users’ work still happens in **web apps**. Giving agents a **first-class, consent-aware** interface there reduces fragile automation and aligns with how MCP already standardized backend tools.
+## Why it matters / Course close
 
-The next sublesson, **Lesson 6-6: Human-in-the-Loop (HITL) and Human-on-the-Loop (HOTL) Strategies**, adds governance: when autonomous runs must pause or be monitored by people.
+Skills and harness thinking are how teams scale agent adoption: repeatability, reviewability, and bounded autonomy. Together with models, prompting, safety, data fluency, coding workflows, MCP, WebMCP, HITL/HOTL, and data transformation, you have the full practitioner arc for designing agentic systems responsibly.
 
 ## Glossary
 
-- **WebMCP** — Emerging browser-oriented pattern for pages to register structured tools for assistants (see current proposal and browser docs for exact API names).
-- **MCP (Model Context Protocol)** — Open protocol for connecting AI hosts to servers that expose tools and resources (Lesson 6-4).
-- **Typed tool / capability** — A named operation with a schema or contract, as opposed to ad-hoc HTML scraping.
-- **Least privilege** — Granting assistants only the capabilities needed for the task.
-- **Human-in-the-loop (HITL)** — Explicit human approval before a sensitive step (covered next).
+- **Agent Skills** — Open standard for packaged agent capabilities, usually centered on `SKILL.md`.
+- **SKILL.md** — Markdown skill definition with YAML frontmatter and procedural instructions.
+- **Progressive disclosure** — Loading skill metadata first and deeper files only when needed.
+- **Harness** — The engineered runtime around an LLM: tools, policies, verification, and context.
+- **Orchestration** — Coordinating prompts, tool calls, state, and handoffs across steps.
+- **Workflow vs. agent (architecture)** — Fixed orchestration code vs. model-directed tool use; often combined.
+- **Scoped skill** — Skill limited to certain paths or packages via `paths` or directory placement.
 
 ## Quick self-check
 
-1. In one sentence, how does WebMCP differ from hosting an MCP server?
-2. Name one reliability benefit of registered tools versus DOM-only automation.
-3. Why should sensitive WebMCP actions still be validated on the server?
-4. Where should you look for the latest availability and API details?
+1. What two frontmatter fields belong on every `SKILL.md`, and what is one optional field that limits where a skill appears?
+2. In one sentence, how does a skill differ from an always-on rule?
+3. Name three components of an agent harness beyond the raw model weights.
+4. Why might you attach `disable-model-invocation: true` to a skill?
+5. How do MCP (Lesson 6-4) and skills complement each other?
 
 ## References and further reading
 
-- Chrome for Developers — *When to use WebMCP and MCP.* https://developer.chrome.com/blog/webmcp-mcp-usage
-- W3C Web Machine Learning CG — *WebMCP API Proposal (editor draft).* https://webmachinelearning.github.io/webmcp/docs/proposal.html
-- Model Context Protocol — *Introduction (compare integration model).* https://modelcontextprotocol.io/
+- Agent Skills — *Overview (open standard).* https://agentskills.io/
+- Cursor — *Agent Skills (context/skills).* https://cursor.com/docs/context/skills
+- Anthropic — *Building effective agents.* https://www.anthropic.com/research/building-effective-agents
+- Model Context Protocol — *Introduction.* https://modelcontextprotocol.io/
+- GitHub — *agentskills/agentskills specification.* https://github.com/agentskills/agentskills
 
 ### Omar's resources and references (course-wide)
 
