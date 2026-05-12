@@ -882,3 +882,5 @@ The following are a collection of recently-released pen test tools. I update thi
 - [Recaf - A Modern Java Bytecode Editor](http://feedproxy.google.com/~r/PentestTools/~3/mAzq3GzpHIg/recaf-modern-java-bytecode-editor.html)
 - [dnSpy - .NET Debugger And Assembly Editor](http://feedproxy.google.com/~r/PentestTools/~3/JZaPW594CQE/dnspy-net-debugger-and-assembly-editor.html)
 - [DotDotPwn - The Directory Traversal Fuzzer](https://github.com/wireghoul/dotdotpwn)
+
+- [Pentest Mindmap](https://pentestmindmap.com) - Interactive mindmap with 11,600+ pentesting commands organized by category (web, AD, privesc, network, OSCP, forensics and more)
