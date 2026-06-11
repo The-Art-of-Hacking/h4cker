@@ -1,5 +1,5 @@
 # ARM Architecture Resources
-The following are a few good resources that can help you become familiar with the ARM architecure and exploitation of ARM-based vulnerabilities. 
+The following are a few good resources that can help you become familiar with the ARM architecture and exploitation of ARM-based vulnerabilities. 
 
 
 ## Tutorials and Articles

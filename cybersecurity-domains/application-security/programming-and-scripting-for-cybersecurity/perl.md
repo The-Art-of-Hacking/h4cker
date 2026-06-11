@@ -32,7 +32,7 @@ The following are a few resources for individuals trying to learn Perl.
 * [PagerDuty::Agent](https://metacpan.org/pod/PagerDuty::Agent) - A perl PagerDuty client
 * [WebService::Spotify](https://metacpan.org/pod/WebService::Spotify) - A simple interface to the Spotify Web API
 * [WebService::Xero](https://metacpan.org/pod/WebService::Xero) - Access Xero Accounting Package Public and Private Application API
-* [WWW::Shopify](https://metacpan.org/pod/WWW::Shopify) - object representing acess to a particular Shopify store
+* [WWW::Shopify](https://metacpan.org/pod/WWW::Shopify) - object representing access to a particular Shopify store
 * [WWW::Spotify](https://metacpan.org/pod/WWW::Spotify) - Spotify Web API Wrapper
 
 ## Container
@@ -96,7 +96,7 @@ The following are a few resources for individuals trying to learn Perl.
 * [Mango](https://metacpan.org/pod/Mango) - Pure-Perl non-blocking I/O MongoDB driver
 * [Redis](https://metacpan.org/pod/Redis)
 * [Redis::Fast](https://metacpan.org/pod/Redis::Fast) - Perl wrapper around hiredis driver
-* [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch) - Offical Elasticsearch client library
+* [Search::Elasticsearch](https://metacpan.org/pod/Search::Elasticsearch) - Official Elasticsearch client library
 * [UnQLite](https://metacpan.org/pod/UnQLite)
 
 ## Date & Time
@@ -112,7 +112,7 @@ The following are a few resources for individuals trying to learn Perl.
 *Libraries to talk to physical devices*
 
 * [Device::SerialPort](https://metacpan.org/pod/Device::SerialPort) - Generic Serial Port library for serial line communication
-* [Device::Modem](https://metacpan.org/pod/Device::Modem) - Talk to modem devices conneted via serial port
+* [Device::Modem](https://metacpan.org/pod/Device::Modem) - Talk to modem devices connected via serial port
 * [Device::Onkyo](https://metacpan.org/pod/Device::Onkyo) - Control Onkyo/Integra AV equipment via LAN or Serial
 * [Chipcard::PCSC::Card](https://metacpan.org/pod/distribution/pcsc-perl/Card/Card.pod) - Control Smart card using perl and PCSC
 * [Device::XBee::API](https://metacpan.org/pod/Device::XBee::API) - Control XBee Device using pure perl code
@@ -186,7 +186,7 @@ The following are a few resources for individuals trying to learn Perl.
 * [Image::Magick](https://metacpan.org/pod/Image::Magick) - An object-oriented interface to ImageMagick's image composing libraries.
 * [Imager](https://metacpan.org/pod/Imager)
 * [GD](https://metacpan.org/pod/GD) - Interface to Gd Graphics Library
-* [Image::Info](https://metacpan.org/pod/Image::Info) - Get image informations
+* [Image::Info](https://metacpan.org/pod/Image::Info) - Get image information
 * [Image::PNG::Libpng](https://metacpan.org/pod/release/BKB/Image-PNG-Libpng-0.52_03/lib/Image/PNG/Libpng.pm) - Perl interface for libpng
 * [Graphics::TIFF](https://metacpan.org/pod/Graphics::TIFF) - Perl wrapper for libtiff
 * [Image::BMP](https://metacpan.org/pod/Image::BMP) - Perl bitmap image parser and viewer
@@ -327,7 +327,7 @@ The following are a few resources for individuals trying to learn Perl.
 *Libraries and tools for templating*
 
 * [HTML::Template](https://metacpan.org/pod/HTML::Template) - Templates for web pages
-* [Template::Alloy](https://metacpan.org/pod/Template::Alloy) - TT2/3, HT, HTE, Tmpl, and Velocity Engine
+* [Template::Alloy](https://metacpan.org/pod/Template::Alloy) - TT2/3, HT, THE, Tmpl, and Velocity Engine
 * [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) - Very Popular Template Processing System
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - Fast, simple and safe template engine written in pure-Perl and core modules.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) - Extended Text::MicroTemplate.
@@ -379,9 +379,9 @@ The following are a few resources for individuals trying to learn Perl.
 * [Riji](https://metacpan.org/pod/Riji) - Static site generator using markdown and git mainly for blogging.
 * [Smart::Comments](https://metacpan.org/pod/Smart::Comments) - Comments that do more than just sit there.
 
-*Libraries for developping command line applications*
+*Libraries for developing command line applications*
 
-* [Toolbox::Simple](https://metacpan.org/pod/Toolbox::Simple) - Simplfy some common tasks in Perl.
+* [Toolbox::Simple](https://metacpan.org/pod/Toolbox::Simple) - Simplify some common tasks in Perl.
 * [Script::Toolbox](https://metacpan.org/pod/Script::Toolbox) - Framework for the daily business scripts.
 * [Devel::Kit](https://metacpan.org/pod/Devel::Kit)- Handy toolbox of things to ease development/debugging.
 
@@ -462,7 +462,7 @@ The following are a few resources for individuals trying to learn Perl.
 * [Net::Tshark](https://metacpan.org/pod/Net::Tshark) - Perl interface for Tshark network capture utility 
 * [Net::Sharktools](https://metacpan.org/pod/Net::Sharktools) - Wireshark's packet inspection capabilities in Perl
 * [File::PCAP](https://metacpan.org/pod/File::PCAP) - Read, Write and manipulate  PCAP file format through Perl
-* [Net::P0f](https://metacpan.org/pod/Net::P0f) - Perl interface to p0f utility, usefull for finger-printing os
+* [Net::P0f](https://metacpan.org/pod/Net::P0f) - Perl interface to p0f utility, useful for finger-printing os
 * [Net::Pcap::Reassemble](https://metacpan.org/pod/Net::Pcap::Reassemble) - Perl IP fragment reassembly for Net::Pcap
 * [Nagios::NRPE](https://metacpan.org/pod/Nagios::NRPE) - Pure perl Nagios NRPE implementation
 * [Monitoring::Plugin](https://metacpan.org/pod/Monitoring::Plugin) -  A family of perl modules to streamline writing Naemon, Nagios, Icinga or Shinken (and compatible) plugins
@@ -476,7 +476,7 @@ The following are a few resources for individuals trying to learn Perl.
 
 ## Metadata Forensics
 
-*General Metadata files parser, usefull during forensics investigations*
+*General Metadata files parser, useful during forensics investigations*
 
 * [Image::ExifTool](https://metacpan.org/pod/distribution/Image-ExifTool/exiftool) - General metadata parser and viewer framework
 

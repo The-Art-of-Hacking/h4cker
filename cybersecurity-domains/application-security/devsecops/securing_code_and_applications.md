@@ -42,6 +42,6 @@ Securing code and applications is an ongoing process that requires collaboration
 
 ## OWASP Resources
 One of the BEST resources for application security is [OWASP](https://owasp.org/). 
-Check out the [CheetSheet Series](https://cheatsheetseries.owasp.org/index.html), the [Web Application Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/stable/) and the [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/model/).
+Check out the [cheatsheet Series](https://cheatsheetseries.owasp.org/index.html), the [Web Application Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/stable/) and the [OWASP Software Assurance Maturity Model (SAMM)](https://owaspsamm.org/model/).
 
 Would you like more details on any specific area or another visual representation?

@@ -69,7 +69,7 @@ The push for adopting memory-safe languages is not limited to the U.S.; internat
 
 ---
 
-## Additional Refereces
+## Additional References
 
 - https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/article/3608324/us-and-international-partners-issue-recommendations-to-secure-software-products/
 - https://securityintelligence.com/news/memory-safe-programming-languages-security-bugs/

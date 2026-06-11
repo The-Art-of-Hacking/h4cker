@@ -2,7 +2,7 @@
 Large Language Models (LLMs) have become super hot in the rapidly evolving field of artificial intelligence. This section compares LLMs and 
 
 ## Intro to LLMs
-LLMs are a type of artificial intelligence (AI) model that uses deep learning techniques. The most prevelant examples are transformer architectures. They are trained to recognize patterns in language, allowing them to predict and generate text that is coherent and contextually relevant. This capability distinguishes them from traditional machine learning models, which typically handle structured data like numerical or tabular information.
+LLMs are a type of artificial intelligence (AI) model that uses deep learning techniques. The most prevalent examples are transformer architectures. They are trained to recognize patterns in language, allowing them to predict and generate text that is coherent and contextually relevant. This capability distinguishes them from traditional machine learning models, which typically handle structured data like numerical or tabular information.
 
 ### Applications and Impact
 - Conversational AI: LLMs are integral to developing conversational systems that interact with humans naturally. They enhance natural language understanding (NLU) and generation (NLG), enabling more intuitive and context-aware interactions.

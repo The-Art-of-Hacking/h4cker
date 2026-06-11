@@ -107,7 +107,7 @@ Token discipline is what turns AI features from "cool prototype" into "sustainab
 - **Tokenizer** — The component that splits raw text into tokens; tokenization differs by model family.
 - **Context window** — The maximum tokens (input + output) the model attends to in one call.
 - **`max_tokens` / `max_completion_tokens`** — Output cap controlled by the developer.
-- **Prompt caching** — Discounted re-use of a previously seen prompt prefix; large savings (50–90%) when used.
+- **Prompt caching** — Discounted reuse of a previously seen prompt prefix; large savings (50–90%) when used.
 - **Batch API** — Asynchronous LLM job mode with ~50% discounts on supported providers.
 - **Lost-in-the-middle** — The empirical finding that LLMs underweight information placed in the middle of long prompts.
 - **Context engineering** — Curating only the most relevant context to send to a model rather than maximizing length.

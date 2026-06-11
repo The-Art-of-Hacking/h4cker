@@ -101,7 +101,7 @@ The following tools are organized for this category:
 - [Red-Detector - Scan Your EC2 Instance To Find Its Vulnerabilities Using Vuls.io](http://feedproxy.google.com/~r/PentestTools/~3/fqSeNVBcVis/red-detector-scan-your-ec2-instance-to.html)
 - [Red-Kube - Red Team K8S Adversary Emulation Based On Kubectl](http://feedproxy.google.com/~r/PentestTools/~3/0gV1GcndTwo/red-kube-red-team-k8s-adversary.html)
 - [Red-Shadow - Lightspin AWS IAM Vulnerability Scanner](http://feedproxy.google.com/~r/PentestTools/~3/Qg8DAKSbwN0/red-shadow-lightspin-aws-iam.html)
-- [Redcloud - Automated Red Team Infrastructure Deployement Using Docker](http://feedproxy.google.com/~r/PentestTools/~3/wK-wRmRIW3s/redcloud-automated-red-team.html)
+- [Redcloud - Automated Red Team Infrastructure Deployment Using Docker](http://feedproxy.google.com/~r/PentestTools/~3/wK-wRmRIW3s/redcloud-automated-red-team.html)
 - [Redherd Framework -A Collaborative And Serverless Framework For Orchestrating A Geographically Distributed Group Of Assets](http://www.kitploit.com/2021/11/redherd-framework-collaborative-and.html)
 - [Reportly -  An AzureAD User Activity Report Tool](http://www.kitploit.com/2023/04/reportly-azuread-user-activity-report.html)
 - [Requests-Ip-Rotator - A Python Library To Utilize AWS API Gateway's Large IP Pool As A Proxy To Generate Pseudo-Infinite IPs For Web Scraping And Brute Forcing](http://www.kitploit.com/2022/04/requests-ip-rotator-python-library-to.html)
