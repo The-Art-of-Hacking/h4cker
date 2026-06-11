@@ -1,0 +1,121 @@
+#compdef lychee
+
+autoload -U is-at-least
+
+_lychee() {
+    typeset -A opt_args
+    typeset -a _arguments_options
+    local ret=1
+
+    if is-at-least 5.2; then
+        _arguments_options=(-s -S -C)
+    else
+        _arguments_options=(-s -C)
+    fi
+
+    local context curcontext="$curcontext" state line
+    _arguments "${_arguments_options[@]}" : \
+'*-c+[Configuration file to use. Can be specified multiple times.  If given multiple times, the configs are merged and later occurrences take precedence over previous occurrences.  \[default\: lychee.toml\]]:FILE_PATH:_files' \
+'*--config=[Configuration file to use. Can be specified multiple times.  If given multiple times, the configs are merged and later occurrences take precedence over previous occurrences.  \[default\: lychee.toml\]]:FILE_PATH:_files' \
+'--files-from=[Read input filenames from the given file or stdin (if path is '\''-'\'').]:PATH:_files' \
+'-n+[Do not show progress bar. This is recommended for non-interactive shells (e.g. for continuous integration)]::false|true:(true false)' \
+'--no-progress=[Do not show progress bar. This is recommended for non-interactive shells (e.g. for continuous integration)]::false|true:(true false)' \
+'--host-stats=[Show per-host statistics at the end of the run]::false|true:(true false)' \
+'--extensions=[A list of file extensions. Files not matching the specified extensions are skipped.]:EXTENSIONS:_default' \
+'--default-extension=[This is the default file extension that is applied to files without an extension.]:EXTENSION:_default' \
+'--cache=[Use request cache stored on disk at \`.lycheecache\`]::false|true:(true false)' \
+'--max-cache-age=[Discard all cached requests older than this duration]:MAX_CACHE_AGE:_default' \
+'--cache-exclude-status=[A list of status codes that will be ignored from the cache]:CACHE_EXCLUDE_STATUS:_default' \
+'--dump=[Don'\''t perform any link checking. Instead, dump all the links extracted from inputs that would be checked]::false|true:(true false)' \
+'--dump-inputs=[Don'\''t perform any link extraction and checking. Instead, dump all input sources from which links would be collected]::false|true:(true false)' \
+'--archive=[Web archive to use to provide suggestions for \`--suggest\`]:ARCHIVE:(wayback)' \
+'--suggest=[Suggest link replacements for broken links, using a web archive. The web archive can be specified with \`--archive\`]::false|true:(true false)' \
+'-m+[Maximum number of allowed redirects]:MAX_REDIRECTS:_default' \
+'--max-redirects=[Maximum number of allowed redirects]:MAX_REDIRECTS:_default' \
+'--max-retries=[Maximum number of retries per request]:MAX_RETRIES:_default' \
+'--min-tls=[Minimum accepted TLS Version]:MIN_TLS:(TLSv1_0 TLSv1_1 TLSv1_2 TLSv1_3)' \
+'--max-concurrency=[Maximum number of concurrent network requests]:MAX_CONCURRENCY:_default' \
+'--host-concurrency=[Default maximum concurrent requests per host (default\: 10)]:HOST_CONCURRENCY:_default' \
+'--host-request-interval=[Minimum interval between requests to the same host (default\: 50ms)]:HOST_REQUEST_INTERVAL:_default' \
+'-T+[Number of threads to utilize. Defaults to number of cores available to the system]:THREADS:_default' \
+'--threads=[Number of threads to utilize. Defaults to number of cores available to the system]:THREADS:_default' \
+'-u+[User agent]:USER_AGENT:_default' \
+'--user-agent=[User agent]:USER_AGENT:_default' \
+'-i+[Proceed for server connections considered insecure (invalid TLS)]::false|true:(true false)' \
+'--insecure=[Proceed for server connections considered insecure (invalid TLS)]::false|true:(true false)' \
+'*-s+[Only test links with the given schemes (e.g. https). Omit to check links with any other scheme. At the moment, we support http, https, file, and mailto.]:SCHEME:_default' \
+'*--scheme=[Only test links with the given schemes (e.g. https). Omit to check links with any other scheme. At the moment, we support http, https, file, and mailto.]:SCHEME:_default' \
+'--offline=[Only check local files and block network requests]::false|true:(true false)' \
+'*--include=[URLs to check (supports regex). Has preference over all excludes]:INCLUDE:_default' \
+'*--exclude=[Exclude URLs and mail addresses from checking. The values are treated as regular expressions]:EXCLUDE:_default' \
+'*--exclude-file=[Deprecated; use \`--exclude-path\` instead]:EXCLUDE_FILE:_default' \
+'*--exclude-path=[Exclude paths from getting checked. The values are treated as regular expressions]:EXCLUDE_PATH:_default' \
+'-E+[Exclude all private IPs from checking. Equivalent to \`--exclude-private --exclude-link-local --exclude-loopback\`]::false|true:(true false)' \
+'--exclude-all-private=[Exclude all private IPs from checking. Equivalent to \`--exclude-private --exclude-link-local --exclude-loopback\`]::false|true:(true false)' \
+'--exclude-private=[Exclude private IP address ranges from checking]::false|true:(true false)' \
+'--exclude-link-local=[Exclude link-local IP address range from checking]::false|true:(true false)' \
+'--exclude-loopback=[Exclude loopback IP address range and localhost from checking]::false|true:(true false)' \
+'--include-mail=[Also check email addresses]::false|true:(true false)' \
+'*--remap=[Remap URI matching pattern to different URI]:REMAP:_default' \
+'*--fallback-extensions=[When checking locally, attempts to locate missing files by trying the given fallback extensions. Multiple extensions can be separated by commas. Extensions will be checked in order of appearance.]:FALLBACK_EXTENSIONS:_default' \
+'*--index-files=[When checking locally, resolves directory links to a separate index file. The argument is a comma-separated list of index file names to search for. Index names are relative to the link'\''s directory and attempted in the order given.]:INDEX_FILES:_default' \
+'*-H+[Set custom header for requests.]:HEADER:VALUE:_default' \
+'*--header=[Set custom header for requests.]:HEADER:VALUE:_default' \
+'-a+[A List of accepted status codes for valid links]:ACCEPT:_default' \
+'--accept=[A List of accepted status codes for valid links]:ACCEPT:_default' \
+'--accept-timeouts=[Accept timed out requests and return exit code 0 when encountering timeouts but not any other errors]::false|true:(true false)' \
+'--include-fragments=[Enable the checking of fragments in links.]::none|anchor-only|text-only|full:_default' \
+'-t+[Website timeout in seconds from connect to response finished]:TIMEOUT:_default' \
+'--timeout=[Website timeout in seconds from connect to response finished]:TIMEOUT:_default' \
+'-r+[Minimum wait time in seconds between retries of failed requests]:RETRY_WAIT_TIME:_default' \
+'--retry-wait-time=[Minimum wait time in seconds between retries of failed requests]:RETRY_WAIT_TIME:_default' \
+'-X+[Request method]:METHOD:_default' \
+'--method=[Request method]:METHOD:_default' \
+'--base=[Deprecated; use \`--base-url\` instead]:BASE:_default' \
+'-b+[Base URL to use when resolving relative URLs in local files. If specified, relative links in local files are interpreted as being relative to the given base URL.]:BASE_URL:_default' \
+'--base-url=[Base URL to use when resolving relative URLs in local files. If specified, relative links in local files are interpreted as being relative to the given base URL.]:BASE_URL:_default' \
+'--root-dir=[Root directory to use when checking absolute links in local files. This option is required if absolute links appear in local files, otherwise those links will be flagged as errors. This must be an absolute path (i.e., one beginning with \`/\`).]:ROOT_DIR:_files' \
+'*--basic-auth=[Basic authentication support. E.g. \`http\://example.com username\:password\`]:BASIC_AUTH:_default' \
+'--github-token=[GitHub API token to use when checking github.com links, to avoid rate limiting]:GITHUB_TOKEN:_default' \
+'--skip-missing=[Skip missing input files (default is to error if they don'\''t exist)]::false|true:(true false)' \
+'--no-ignore=[Do not skip files that would otherwise be ignored by '\''.gitignore'\'', '\''.ignore'\'', or the global ignore file]::false|true:(true false)' \
+'--hidden=[Do not skip hidden directories and files]::false|true:(true false)' \
+'--include-verbatim=[Find links in verbatim sections like \`pre\`- and \`code\` blocks]::false|true:(true false)' \
+'--glob-ignore-case=[Ignore case when expanding filesystem path glob inputs]::false|true:(true false)' \
+'-o+[Output file of status report]:OUTPUT:_files' \
+'--output=[Output file of status report]:OUTPUT:_files' \
+'--mode=[Set the output display mode. Determines how results are presented in the terminal]:MODE:(plain color emoji task)' \
+'-f+[Output format of final status report]:FORMAT:(compact detailed json junit markdown)' \
+'--format=[Output format of final status report]:FORMAT:(compact detailed json junit markdown)' \
+'--generate=[Generate special output (e.g. the man page) instead of performing link checking]:GENERATE:(man complete-bash complete-elvish complete-fish complete-powershell complete-zsh)' \
+'--require-https=[When HTTPS is available, treat HTTP links as errors]::false|true:(true false)' \
+'--cookie-jar=[Read and write cookies using the given file. Cookies will be stored in the cookie jar and sent with requests. New cookies will be stored in the cookie jar and existing cookies will be updated.]:COOKIE_JAR:_files' \
+'--include-wikilinks=[Check WikiLinks in Markdown files, this requires specifying --base-url]::false|true:(true false)' \
+'-p+[Preprocess input files with the given command.]:COMMAND:_default' \
+'--preprocess=[Preprocess input files with the given command.]:COMMAND:_default' \
+'(-q --quiet)*-v[Set verbosity level; more output per occurrence (e.g. \`-v\` or \`-vv\`)]' \
+'(-q --quiet)*--verbose[Set verbosity level; more output per occurrence (e.g. \`-v\` or \`-vv\`)]' \
+'(-v --verbose)*-q[Less output per occurrence (e.g. \`-q\` or \`-qq\`)]' \
+'(-v --verbose)*--quiet[Less output per occurrence (e.g. \`-q\` or \`-qq\`)]' \
+'-h[Print help (see more with '\''--help'\'')]' \
+'--help[Print help (see more with '\''--help'\'')]' \
+'-V[Print version]' \
+'--version[Print version]' \
+'*::inputs -- Inputs for link checking (where to get links to check from).
+These can be\: files (e.g. `README.md`), file globs (e.g. `'\''~/git/*/README.md'\''`),
+remote URLs (e.g. `https\://example.com/README.md`), or standard input (`-`).
+Alternatively, use `--files-from` to read inputs from a file.:_default' \
+&& ret=0
+}
+
+(( $+functions[_lychee_commands] )) ||
+_lychee_commands() {
+    local commands; commands=()
+    _describe -t commands 'lychee commands' commands "$@"
+}
+
+if [ "$funcstack[1]" = "_lychee" ]; then
+    _lychee "$@"
+else
+    compdef _lychee lychee
+fi
