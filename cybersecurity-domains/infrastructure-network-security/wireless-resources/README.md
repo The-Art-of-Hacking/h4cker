@@ -7,7 +7,7 @@ The following are several resources describing different wireless attacks, vulne
 - [Additional Tools and Other Resources](https://github.com/The-Art-of-Hacking/h4cker/blob/master/cybersecurity-domains/infrastructure-network-security/wireless-resources/tools_and_online_resources.md): A collection of additional tools and learning resources.
 
 ## Attacks Against WPA3
-Mathy Vanhoef discovered several vulnerabilties that affect the WPA3 WiFi protocol. There are two categories in these attacks. The first category consists of downgrade attacks against WPA3-capable devices, and the second category consists of weaknesses in the Dragonfly handshake of WPA3, which in the Wi-Fi standard is better known as the Simultaneous Authentication of Equals (SAE) handshake.
+Mathy Vanhoef discovered several vulnerabilities that affect the WPA3 WiFi protocol. There are two categories in these attacks. The first category consists of downgrade attacks against WPA3-capable devices, and the second category consists of weaknesses in the Dragonfly handshake of WPA3, which in the Wi-Fi standard is better known as the Simultaneous Authentication of Equals (SAE) handshake.
 
 ### Dragonfly Handshake and other WPA3 Attacks
 The following are several references to these attacks:

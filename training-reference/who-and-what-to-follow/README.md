@@ -28,7 +28,7 @@ The news archives are published [here](https://github.com/santosomar/cyber-news-
 - [Didier Stevens Blog ](https://blog.didierstevens.com/)
 - [Epic ](https://epic.org/)
 - [Errata Security ](https://blog.erratasec.com/)
-- [Exploit Databse ](https://www.exploit-db.com/)
+- [Exploit Database ](https://www.exploit-db.com/)
 - [F-Secure Safe & Savvy Blog ](http://safeandsavvy.f-secure.com)
 - [FireEye Blog ](https://www.fireeye.com/blog.html)
 - [Fox IT Security Blog ](http://blog.fox-it.com)

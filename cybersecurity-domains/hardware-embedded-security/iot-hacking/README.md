@@ -210,7 +210,7 @@ The Internet of Things (IoT) Hacking Resources refer to an array of tools and fr
 
 ## Base transceiver station (BTS)
 
-- [what is base tranceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
+- [what is base transceiver station](https://en.wikipedia.org/wiki/Base_transceiver_station)
 - [How to Build Your Own Rogue GSM BTS](https://www.evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/)
 
 ## GSM & SS7 Pentesting

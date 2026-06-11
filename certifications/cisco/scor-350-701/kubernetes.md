@@ -38,7 +38,7 @@
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - Run Kubernetes and Docker locally on your Windows PC (Edge Channel)
 * [eksctl](https://eksctl.io/) - The official CLI for Amazon EKS
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostic
-* [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native softwares, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.
+* [KubeSphere](https://github.com/kubesphere/kubesphere) - Install Kubernetes and KubeSphere in multiple instances in an easy way, including full-stack cloud-native software, e.g. istio, ES, Prometheus, Fluent Bit, SonarQube, Jenkins.
 * [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [k3d](https://github.com/rancher/k3d) - A tool for running k3s clusters in container nodes
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”

@@ -19,7 +19,7 @@ One final piece of advice before exploring the dark web: exercise caution with y
 ## Tools and Technologies for Dark Web Research:
 1. [Tor Browser](https://www.torproject.org/): The primary gateway to the dark web, offering anonymity and access to .onion sites.
 2. VPNs: Virtual Private Networks add an extra layer of encryption and mask your IP address.
-3. [Tails](https://tails.boum.org/) or any other privacy oriented ditribution: A live operating system that you can boot from a USB stick or DVD for enhanced privacy.
+3. [Tails](https://tails.boum.org/) or any other privacy oriented distribution: A live operating system that you can boot from a USB stick or DVD for enhanced privacy.
 4. Virtual Machines: Isolate your research activities from your main operating system to prevent malware infections.
 5. Encrypted Communication: Tools like PGP (Pretty Good Privacy) for secure messaging.
 

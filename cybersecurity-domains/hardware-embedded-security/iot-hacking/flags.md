@@ -2,9 +2,9 @@
 
 The following are the CTF flags for the grafana vulnerability in the IoT device:
 
-The vulnerability is caused by plugin module, which is able to serve the static file inside the plugin folder. But for lock of check, attacker can use ../ to step up from the plugin folder to parent foler and download arbitrary files.
+The vulnerability is caused by plugin module, which is able to serve the static file inside the plugin folder. But for lock of check, attacker can use ../ to step up from the plugin folder to parent folder and download arbitrary files.
 
-To exploit the vulnerabilty, you should know a valid plugin id, such as alertlist, here are some of common plugin ids:
+To exploit the vulnerability, you should know a valid plugin id, such as alertlist, here are some of common plugin ids:
 ```
 alertlist
 cloudwatch

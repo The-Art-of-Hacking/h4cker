@@ -76,7 +76,7 @@ Ethical hackers document their findings and provide insights to organizations on
 
 ### Website Exploration and "Google Hacking"
 - censys : https://censys.io
-- Certficate Search: https://crt.sh/
+- Certificate Search: https://crt.sh/
 - ExifTool: https://www.sno.phy.queensu.ca/~phil/exiftool
 - Google Hacking Database (GHDB): https://www.exploit-db.com/google-hacking-database
 - Google Transparency Report: https://transparencyreport.google.com/https/certificates

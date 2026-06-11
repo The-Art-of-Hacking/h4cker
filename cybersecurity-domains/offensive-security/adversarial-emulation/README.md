@@ -20,7 +20,7 @@ Several tools are available for adversary emulation, each offering unique featur
    - Designed for cloud environments (e.g., AWS, Azure, GCP).
    - Covers tactics like initial access, privilege escalation, and exfiltration but has limited scope.
 - **[Security Datasets](https://github.com/OTRF/Security-Datasets)**:
-   - An open-source initiatve that contributes malicious and benign datasets, from different platforms, to the infosec community to expedite data analysis and threat hunting.
+   - An open-source initiative that contributes malicious and benign datasets, from different platforms, to the infosec community to expedite data analysis and threat hunting.
 
 ### **Other Tools**
 - [SCYTHE](https://www.scythe.io/platform)

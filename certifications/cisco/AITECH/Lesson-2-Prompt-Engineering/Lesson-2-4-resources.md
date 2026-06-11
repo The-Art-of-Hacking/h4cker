@@ -67,7 +67,7 @@ Attackers know that defenders run keyword filters for phrases like "ignore previ
 - **Base64, hex, ROT13, or other encodings.** The model can frequently still decode and follow the instruction even when a regex filter sees only opaque text.
 - **Unicode confusables and zero-width characters.** Look-alike characters (Cyrillic vs. Latin) or invisible characters break naive string-matching while remaining meaningful to the tokenizer.
 - **HTML/CSS concealment.** White-on-white text, font-size 0, off-screen positioning, hidden form fields, or ALT/IMG metadata.
-- **Typoglycemia-style scrambling.** Rearranging letters within words ("ignroe pveroius istnructions") that humans skim past but that tokenizers and models still understand.
+- **Typoglycemia-style scrambling.** Rearranging letters within words ("ignore pveroius istnructions") that humans skim past but that tokenizers and models still understand.
 - **Visual / image-based payloads.** Multimodal models can read text inside images; attackers hide instructions in screenshots, banners, or QR codes.
 
 The lesson: filtering on raw substrings is brittle. Defense must combine input handling, model-side instructions, and output checks (covered in Lesson 2-5).

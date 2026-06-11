@@ -18,7 +18,7 @@ The following list includes some of the most popular tools to test crypto implem
 | [chrome-decode](https://en.kali.tools/all/?tool=216) | Chrome web browser decoder tool that demonstrates recovering passwords. |
 | [cipherscan](https://en.kali.tools/all/?tool=222) | A very simple way to find out which SSL ciphersuites are supported by a target. |
 | [ciphertest](https://en.kali.tools/all/?tool=223) | A better SSL cipher checker using gnutls. |
-| [ciphr](https://en.kali.tools/all/?tool=224) | A CLI tool for encoding, decoding, encryption, decryption, and hashing streams of data. |
+| [cipher](https://en.kali.tools/all/?tool=224) | A CLI tool for encoding, decoding, encryption, decryption, and hashing streams of data. |
 | [cisco5crack](https://en.kali.tools/all/?tool=234) | Crypt and decrypt the cisco enable 5 passwords. |
 | [cisco7crack](https://en.kali.tools/all/?tool=235) | Crypt and decrypt the cisco enable 7 passwords. |
 | [cloakify](https://en.kali.tools/all/?tool=240) | Data Exfiltration In Plain Sight; Evade DLP/MLS Devices; Social Engineering of Analysts; Evade AV Detection. |

@@ -14,7 +14,7 @@
 - [Generative AI Lifecycle Patterns](https://dr-arsanjani.medium.com/the-generative-ai-lifecycle-1b0c7d9463ec)
 - [Why do RAG pipelines fail? Advanced RAG Patterns — Part1
 Ozgur Guler](https://cloudatlas.me/why-do-rag-pipelines-fail-advanced-rag-patterns-part1-841faad8b3c2)
-- [How to improve RAG peformance — Advanced RAG Patterns — Part2](https://cloudatlas.me/how-to-improve-rag-peformance-advanced-rag-patterns-part2-0c84e2df66e6)
+- [How to improve RAG performance — Advanced RAG Patterns — Part2](https://cloudatlas.me/how-to-improve-rag-performance-advanced-rag-patterns-part2-0c84e2df66e6)
 - [Patterns for Building LLM-based Systems & Products](https://eugeneyan.com/writing/llm-patterns/)
 - [AI Engineer Summit - Building Blocks for LLM Systems & Products](https://eugeneyan.com/speaking/ai-eng-summit/)
 - [Technical Considerations for Complex RAG](https://medium.com/enterprise-rag/a-first-intro-to-complex-rag-retrieval-augmented-generation-a8624d70090f)
@@ -196,7 +196,7 @@ Qendel AI GoPenAI](https://blog.gopenai.com/rag-pipeline-with-mistral-7b-instruc
 - [Compare PDF Question Answering Systems Build with OpenAI and Google VertexAI](https://medium.com/@kelvin.lu.au/compare-pdf-question-answering-with-openai-and-google-vertexai-46638d62327b)
 
 
-#### Tools and fucntions
+#### Tools and functions
 
 - [Unlocking the Power of the OpenAI API: Master Function-Calling with Practical Examples](https://medium.com/@apollovro/unlocking-the-power-of-the-openai-api-master-function-calling-with-practical-examples-f8b9ab2fceec)
 - [penAI/Chat-GPT Function Calling : for Enhanced AI Interactions](https://levelup.gitconnected.com/openai-chat-gpt-function-calling-for-enhanced-ai-interactions-338be974027)
