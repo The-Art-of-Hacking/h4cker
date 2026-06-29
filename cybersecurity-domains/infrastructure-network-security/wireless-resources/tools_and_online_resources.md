@@ -51,6 +51,12 @@ server and logging to a built-in database.
 
 * [Site](https://github.com/savio-code/ghost-phisher)
 
+## Alfa Arsenal
+
+Policy-gated Wi-Fi (802.11) security auditor for authorized testing.  Captures WPA/WPA2 handshakes and PMKIDs, performs channel-hopping reconnaissance, WPS posture checks, and controlled rogue-AP/beacon validation, with Markdown/HTML/PDF reporting.
+
+* [Site](https://github.com/ardittirana/alfa-arsenal)
+
 # Online Wireless Resources
 
 ## Wigle.net
