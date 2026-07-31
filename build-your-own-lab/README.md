@@ -59,4 +59,6 @@ Ludus is implemented as a server that runs Packer and Ansible to create template
 - [Splunk Attack Range](https://github.com/splunk/attack_range)
 
 ## Additional Resources
+[DLL Injection Lab](https://github.com/bsmensah-ctrl/DLL-Injection-Lab) is a safe, deterministic detection-engineering lab for testing a five-signal process-injection correlation chain with positive and negative-control fixtures. It emits JSON, Markdown, and SARIF without injecting a DLL or accessing live processes.
+
 [This repository from @reswob10](https://github.com/reswob10/HomeLabResources) is an amazing resource. It includes references of blogs and videos that explain different lab setup, tools, and automation.
