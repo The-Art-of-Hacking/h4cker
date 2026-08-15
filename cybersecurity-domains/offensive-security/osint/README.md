@@ -73,6 +73,7 @@ Ethical hackers document their findings and provide insights to organizations on
 | crt.sh              | Certificate Search|
 | vulners.com         | Vulnerabilities    |
 | pulsedive.com       | Threat Intelligence|
+| scanmalware.com     | Threat Intelligence|
 
 ### Website Exploration and "Google Hacking"
 - censys : https://censys.io
