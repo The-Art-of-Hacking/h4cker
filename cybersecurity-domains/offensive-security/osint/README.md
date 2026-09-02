@@ -66,6 +66,7 @@ Ethical hackers document their findings and provide insights to organizations on
 | searchcode.com      | Codes Search       |
 | urlscan.io          | Threat Intelligence|
 | publicwww.com       | Codes Search       |
+| searchwebcode.com   | Source Code Search |
 | fullhunt.io         | Attack Surface     |
 | socradar.io         | Threat Intelligence|
 | binaryedge.io       | Attack Surface     |
