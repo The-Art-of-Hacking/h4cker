@@ -39,6 +39,7 @@ python api_security_assessment.py --url https://api.example.com --token "Bearer 
 The following are a few popular tools that you learned in the video courses part of these series:
 * [Burp Suite](https://portswigger.net/burp)
 * [OWASP Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy)
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform: 50 specialist agents over MCP driving 50+ offensive tools across web, API, Active Directory, Kubernetes and cloud, with proof of exploitation and a privacy gateway that keeps real values off the model.
 * [sqlmap](http://sqlmap.org/)
 * [httrack](https://www.httrack.com/)
 * [skipfish](https://code.google.com/archive/p/skipfish/)
