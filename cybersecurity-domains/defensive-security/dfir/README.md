@@ -249,6 +249,7 @@
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community
 * [Cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api) - A Python library to control a cuckoo-modified sandbox
 * [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Hybrid-Analysis is a free powerful online sandbox by Payload Security
+* [Malwagon](https://malwagon.com) - Malwagon is an online sandbox that detonates files and URLs on instrumented Windows and Linux virtual machines and returns behaviour, indicators and ATT&CK mappings, with a free community tier
 * [Malwr](https://malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats
 * [Metadefender Cloud](https://www.metadefender.com) - Metadefender is a free threat intelligence platform providing multiscanning, data sanitization and vulnerability assesment of files
