@@ -49,6 +49,7 @@ _Products that intercept prompts and responses and apply security or privacy rul
 ## AI Red Teaming Datasets
 - [AttaQ Dataset](https://huggingface.co/datasets/ibm/AttaQ) - a red teaming dataset consisting of 1402 carefully crafted adversarial questions
 - [HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal](https://arxiv.org/pdf/2402.04249)
+- [AgentShield Benchmark](https://github.com/doronp/agentshield-benchmark) - an open Apache-2.0 corpus of 537 test cases (472 agent attacks plus 65 benign over-refusal controls) covering prompt injection, jailbreak, data exfiltration, tool abuse, multi-agent and provenance, with a TypeScript runner that scores agent security guardrail products head to head; maintained by the Agent Guard team, whose own product currently ranks first on it
 
 ## GenAI Security Standards and Solution Landscapes
 
