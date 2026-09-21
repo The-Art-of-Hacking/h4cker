@@ -44,6 +44,7 @@ These tools provide **tracing, metrics, and evaluation** for LLM and GenAI appli
 - [Langfuse](https://langfuse.com/) – open-source observability and analytics for LLM applications (traces, sessions, prompt experiments).
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) – open source observability for LLM apps based on OpenTelemetry, integrates with many backends.
 - [Graphsignal](https://graphsignal.com/) – observability for AI agents and LLM-powered applications (latency, cost, error monitoring, and traces).
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) – records an agent run's raw provider traffic (prompts, tool calls, responses, raw bytes) into a local trace and replays it offline without contacting the provider again, so a suspicious or failed execution can be re-examined, diffed against another run, or forked onto a different model while the original evidence stays local and unmodified.
 
 These tools are a natural complement to the **OWASP GenAI Security Project – Threat Defense COMPASS** and **AI Security Solution Landscape**, which describe what to monitor and defend against at a risk level for GenAI applications ([OWASP GenAI Security Project](https://genai.owasp.org/)).
 
