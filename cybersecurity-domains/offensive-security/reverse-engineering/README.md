@@ -97,6 +97,7 @@
 * [Capstone](http://www.capstone-engine.org/) - Lightweight multi-platform, multi-architecture disassembly framework.
 * [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
 * [Frida](https://www.frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [DeepZero](https://github.com/416rehman/DeepZero) - MIT-licensed Python pipeline for configurable, resumable Windows driver analysis using Ghidra, Semgrep, and optional LLM assessment.
 
 ## Reverse Engineering CTF-like Exercises
 
