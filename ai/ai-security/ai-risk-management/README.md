@@ -47,6 +47,7 @@
 - [Securing Your AI: A Step-by-Step Guide for CISOs](https://hiddenlayer.com/research/how-well-do-you-know-your-ai-environment/)
 - [Securing Your AI: A Step-by-Step Guide for CISOs PT 2](https://hiddenlayer.com/research/securing-your-ai-a-step-by-step-guide-for-cisos-pt2/)
 - [CSA Securing LLM Backed Systems](https://github.com/The-Art-of-Hacking/h4cker/blob/master/ai/ai_risk_management/Securing%20LLM%20Backed%20Systems%20-%20Essential%20Authorization%20Practices%2020240806.pdf)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): Open database of real-world AI agent security incidents (prompt injection, agent supply chain, MCP, rogue agents), each with primary sources and labels for confirmed harm and AI involvement
 ## Industry-Specific Resources
 - [Financial Services AI Risk Management](https://www.federalreserve.gov/supervisionreg/srletters/SR2404.htm): Federal Reserve guidance on AI/ML risk management for banks
 - [Healthcare AI Security Framework](https://www.hhs.gov/about/news/2024/01/09/hhs-announces-new-artificial-intelligence-strategy.html): HHS AI strategy including cybersecurity requirements
