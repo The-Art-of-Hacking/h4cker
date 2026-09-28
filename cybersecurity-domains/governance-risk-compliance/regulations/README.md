@@ -5,3 +5,4 @@
 - [European Union Cyber Resilience Act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
 - [EU CRA Roadmap by Cybersecurity Coallition](EU_CRA_ROADMAP.pdf)
 - [GPT Created by Omar to interact and learn from resources related to the EU CRA](https://chat.openai.com/g/g-A3LajAjOV-eu-cra-assistant)
+- [Book: Cybersecurity for Products and Production – A Practical Guide based on IEC 62443 and EU Cyber Resilience Act (Springer, 2026)](https://www.amazon.com/dp/3662741296)
