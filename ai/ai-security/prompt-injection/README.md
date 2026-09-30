@@ -46,6 +46,7 @@ Anthropic published research on a new jailbreaking technique called [“Best-of-
 - https://www.ibm.com/topics/prompt-injection
 - https://blog.seclify.com/prompt-injection-cheat-sheet/
 - https://learnprompting.org/docs/prompt_hacking/injection
+- https://github.com/Continuum-AI-Corp/OrcaPromptVault
 
 ## Examples
 This is a table with tons of examples of prompt injection techniques:
