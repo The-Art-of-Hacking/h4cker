@@ -98,6 +98,7 @@
 * [rVMI](https://github.com/fireeye/rVMI) - Debugger on steroids; inspect userspace processes, kernel drivers, and preboot environments in a single tool.
 * [Frida](https://www.frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 * [DeepZero](https://github.com/416rehman/DeepZero) - MIT-licensed Python pipeline for configurable, resumable Windows driver analysis using Ghidra, Semgrep, and optional LLM assessment.
+* [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) - Local CLI and MCP server for evidence-backed analysis of native binaries, managed code, and packaged JavaScript applications. Deep native analysis uses a separately installed Hopper, Ghidra, or IDA provider; includes the [reverse-engineer-anything skill](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything).
 
 ## Reverse Engineering CTF-like Exercises
 
