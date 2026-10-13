@@ -47,6 +47,9 @@
 * [NormShield Services](https://services.normshield.com/) - Free API Services
   for detecting possible phishing domains, blacklisted ip addresses and breached
   accounts.
+* [ScanMalware](https://scanmalware.com) - Free URL scanner that renders pages
+  in a sandboxed browser, with a searchable archive of past scans for pivoting
+  by domain, IP, ASN, JARM or favicon hash.
 * [SpamCop](https://www.spamcop.net/bl.shtml) - IP based spam block list.
 * [SpamHaus](https://www.spamhaus.org/lookup/) - Block list based on
   domains and IPs.
