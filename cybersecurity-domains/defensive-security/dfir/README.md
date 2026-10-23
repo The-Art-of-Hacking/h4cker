@@ -47,6 +47,9 @@
 * [NormShield Services](https://services.normshield.com/) - Free API Services
   for detecting possible phishing domains, blacklisted ip addresses and breached
   accounts.
+* [OpenBait Typosquat Check](https://openbait.com/tools/typosquat-check) - Free
+  check of which lookalike domains of a brand are already registered and
+  resolving. No signup.
 * [ScanMalware](https://scanmalware.com) - Free URL scanner that renders pages
   in a sandboxed browser, with a searchable archive of past scans for pivoting
   by domain, IP, ASN, JARM or favicon hash.
