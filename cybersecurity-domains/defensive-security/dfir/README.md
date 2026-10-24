@@ -44,6 +44,9 @@
   hashes and scan reports.
 * [Multi rbl](http://multirbl.valli.org/) - Multiple DNS blacklist and forward
   confirmed reverse DNS lookup over more than 300 RBLs.
+* [NetAPI](https://netapi.com/) - Domain lists per TLD with nameservers, IP and
+  WHOIS dates, daily lists of newly registered domains, domain and reverse IP
+  lookup, and free feeds of compromised domains and IPs (plain text, no signup).
 * [NormShield Services](https://services.normshield.com/) - Free API Services
   for detecting possible phishing domains, blacklisted ip addresses and breached
   accounts.
