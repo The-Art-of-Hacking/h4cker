@@ -4,6 +4,7 @@ The following tools are organized for this category:
 
 ---
 
+- [Kernel Pack - Commercial Windows C2 with an integrated kernel agent and exploit backends](https://www.exploitpack.com/products/kernel-pack)
 - [365Inspect - A PowerShell Script That Automates The Security Assessment Of Microsoft Office 365 Environments](http://www.kitploit.com/2022/04/365inspect-powershell-script-that.html)
 - [APSoft-Web-Scanner-v2 - Powerful Dork Searcher And Vulnerability Scanner For Windows Platform](http://feedproxy.google.com/~r/PentestTools/~3/cfBeM1Puyf0/apsoft-web-scanner-v2-powerful-dork.html)
 - [ATMMalScan -  Tool for Windows which helps to search for malware traces on an ATM during the DFIR process](http://feedproxy.google.com/~r/PentestTools/~3/g2iis8mwiH4/atmmalscan-tool-for-windows-which-helps.html)
