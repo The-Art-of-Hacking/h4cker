@@ -21,12 +21,14 @@ Ethical hackers document their findings and provide insights to organizations on
 
 ## Passive Recon Tools:
 - [AMass](https://github.com/owasp-amass/amass)
+- [Breach House](https://breach.house/) - Search ransomware victims, data breaches and stealer logs by keyword.
 - [Deepinfo (commercial tool)](https://deepinfo.com)
 - [EXIF Editor](https://exifeditor.io)
 - [Exiftool](https://www.sno.phy.queensu.ca/~phil/exiftool/)
 - [ExtractMetadata](http://www.extractmetadata.com)
 - [Findsubdomains](https://findsubdomains.com/)
 - [FOCA](https://elevenpaths.com)
+- [Have I Been Ransomed?](https://haveibeenransom.com/) - Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or data breaches.
 - [IntelTechniques](https://inteltechniques.com)
 - [Maltego](https://www.paterva.com/web7/)
 - [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted OSINT platform with a web dashboard: domains, IPs, emails, phone numbers and usernames across 22+ modules, with an exposure score, entity graph and HTML/PDF reports.
