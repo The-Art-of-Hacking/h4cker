@@ -53,6 +53,7 @@ The following is a collection of vulnerable servers (VMs) or websites that you c
 - [Hack the Box](https://www.hackthebox.eu/)
 - [TryHackMe](https://tryhackme.com/)
 - [PentesterLab](https://pentesterlab.com/)
+- [pwn.guide](https://pwn.guide/)
 
 ## Commercial Learning Providers (require registration)
 - [O'Reilly](https://www.oreilly.com/) - access to thousands of books, learning paths, video courses, labs, and live training.
