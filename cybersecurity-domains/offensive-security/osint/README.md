@@ -118,6 +118,7 @@ Ethical hackers document their findings and provide insights to organizations on
 * [A tool to scrape LinkedIn](https://github.com/dchrastil/TTSL)
 * [cree.py](https://github.com/ilektrojohn/creepy)
 * [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
+* [twtData](https://twtdata.com/) - Export a public X (Twitter) account's followers, following or tweets to CSV (paid per export).
 
 ### Acquisitions and 
 - [OCCRP Aleph](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
