@@ -31,6 +31,7 @@ Ethical hackers document their findings and provide insights to organizations on
 - [Have I Been Ransomed?](https://haveibeenransom.com/) - Check whether an email, phone number or company domain appears in ransomware leaks, stealer logs or data breaches.
 - [IntelTechniques](https://inteltechniques.com)
 - [Maltego](https://www.paterva.com/web7/)
+- [Opsis](https://useopsis.com/) - Finds the accounts linked to an email address, username or domain across 1000+ source modules (reverse email lookup). Freemium.
 - [PRISM](https://github.com/NovaCode37/Prism-platform) - Self-hosted OSINT platform with a web dashboard: domains, IPs, emails, phone numbers and usernames across 22+ modules, with an exposure score, entity graph and HTML/PDF reports.
 - [Recon-NG](https://github.com/lanmaster53/recon-ng)
 - [Scrapy](https://scrapy.org)
