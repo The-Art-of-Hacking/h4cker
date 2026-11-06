@@ -80,7 +80,7 @@
 - [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 - [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 - [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
-
+- [ITB](https://github.com/everanium/itb) - Post-quantum symmetric cryptographic isolator library wrapping standard PRFs (AES, BLAKE2/3, Areion) in a combinatorial and topological barrier (AEAD, Streaming AEAD, Plausible Deniability, and 3-to-8 Multi-KEM), formally verified in Lean 4.
 
 ### Haskell
 
