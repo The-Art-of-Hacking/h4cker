@@ -29,6 +29,7 @@
 - [Endgame Hunt Cycle](http://pages.endgame.com/rs/627-YBU-612/images/Endgame%20Hunt%20Methodology%20POV%203.24.16.pdf)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
 - [Sigma](https://github.com/Neo23x0/sigma) - Generic Signature Format for SIEM Systems
+- [Watchpost](https://github.com/talalkashar/watchpost) - A small SIEM in pure Python with no dependencies: log and syslog ingest, detection rules mapped to MITRE ATT&CK, Sigma rule import, alert correlation, and incident triage.
 
 
 ## Videos
