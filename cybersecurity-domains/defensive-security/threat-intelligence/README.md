@@ -11,3 +11,4 @@ In a landscape where cyber attacks are becoming increasingly sophisticated, thre
 - [Awesome-Threat Intelligence GitHub repository](https://github.com/hslatman/awesome-threat-intelligence)
 - [Threat Intelligence Blogs](https://github.com/muchdogesec/awesome_threat_intel_blogs)
 - [ICHI – Internet Cyber Health Index](https://ichi.global) – free, source-transparent daily barometer of internet-wide cyber health, aggregating open-source threat telemetry, vulnerability feeds, and security news into a single directional signal of the internet's current security posture. Outside-in indicator — not an organizational risk score or deterministic forecast.
+- [Whatoblock](https://whatoblock.com/) – honeypot-based threat intelligence: IPs seen by its sensor network, classified as scanners, botnet C2, proxies, Tor exits and DDoS sources, with firewall-ready blocklists (free tier available).
