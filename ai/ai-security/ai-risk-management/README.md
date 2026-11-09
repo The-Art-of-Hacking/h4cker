@@ -13,6 +13,7 @@
 - [AI Strategy in Europe](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2018%3A237%3AFIN)
 - [European Commission Artificial Intelligence – Questions and Answers](https://ec.europa.eu/commission/presscorner/detail/en/QANDA_21_1683)
 - [EU AI Act Implementation Guide](https://digital-strategy.ec.europa.eu/en/library/artificial-intelligence-act-implementation): Official implementation guidance for organizations
+- [EU AI Act Deployer Checklist](https://standardcompute.com/eu-ai-act-deployer-checklist): 16-item checklist for companies that use AI systems (Art. 4 AI literacy as amended by Regulation (EU) 2026/1744, inventory and Annex III risk classification, Art. 26 deployer duties, Art. 27 FRIA, Art. 50 transparency), each item with its article and how to evidence it, with dates as moved by the Digital Omnibus on AI; Markdown and CSV downloads, published by Standard Compute
 
 ## Canada
 - [Artificial Intelligence and Data Act](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act)
