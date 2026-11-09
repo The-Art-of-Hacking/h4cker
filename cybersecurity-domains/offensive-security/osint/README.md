@@ -123,6 +123,7 @@ Ethical hackers document their findings and provide insights to organizations on
 * [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 * [twtData](https://twtdata.com/) - Export a public X (Twitter) account's followers, following or tweets to CSV (paid per export).
 * [TKMetrics](https://tkmetrics.com/) - Compare public TikTok creators on median views per post and engagement (free searches show 3 creators; filters and CSV export are paid).
+* [IGDataHub](https://igdatahub.com/) - Look up a public Instagram profile, hashtag or place: followers, engagement rate, top posts and follower history (lookups are free; CSV export is paid).
 
 ### Acquisitions and 
 - [OCCRP Aleph](https://aleph.occrp.org/) - The global archive of research material for investigative reporting.
