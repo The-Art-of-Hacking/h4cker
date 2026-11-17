@@ -8,7 +8,7 @@ The repository serves as supplemental material for books, video courses, and liv
 
 ## Directory Overview
 
-- **Cybersecurity Domains**: [cybersecurity-domains](cybersecurity-domains/) contains the main domain taxonomy, including fundamentals, offensive security, defensive security, application security, cloud and container security, infrastructure and network security, cryptography and PKI, hardware and embedded security, governance/risk/compliance, and labs/practice.
+- **Cybersecurity Domains**: [cybersecurity-domains](cybersecurity-domains/) contains the main domain taxonomy, including fundamentals, offensive security, defensive security, threat hunting (including an [AiTM phishing and session hijacking forensics guide](cybersecurity-domains/threat_hunting/mitm_phishing_and_reverse_engineering_forensics.md)), application security, cloud and container security, infrastructure and network security, cryptography and PKI, hardware and embedded security, governance/risk/compliance, and labs/practice.
 - **AI**: [ai](ai/) contains AI security, LLM engineering, AI-assisted incident response and automation, and AI ethics/privacy/governance resources.
 - **Certifications**: [certifications](certifications/) contains certification roadmaps, Cisco SCOR, cloud certifications, Kubernetes/CNCF certifications, CompTIA, ISC2, offensive security certification references, and supplemental exam topics.
 - **Build Your Own Lab**: [build-your-own-lab](build-your-own-lab/) remains a root-level section for lab-building and cyber range resources.
