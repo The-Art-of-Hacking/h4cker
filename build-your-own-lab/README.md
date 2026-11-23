@@ -57,6 +57,7 @@ Ludus is implemented as a server that runs Packer and Ansible to create template
 - [Create A VPS On Google Cloud Platform Or Digital Ocean Easily With The Docker For Pentest](https://github.com/aaaguirrep/offensive-docker-vps)
 - [How to Build a Cloud Hacking Lab](https://www.youtube.com/watch?v=4s_3oNwqImo)
 - [Splunk Attack Range](https://github.com/splunk/attack_range)
+- [SOC Home Lab](https://github.com/szzxli/soc-home-lab): Free, MIT-licensed defensive home lab built on synthetic data. Includes a Terraform AWS mini-SOC (CloudTrail, GuardDuty, Security Hub), a CloudTrail IOC analyzer with an in-browser demo, phishing header analysis, ELF binary triage, and CISA KEV threat-hunting packs.
 
 ## Additional Resources
 [This repository from @reswob10](https://github.com/reswob10/HomeLabResources) is an amazing resource. It includes references of blogs and videos that explain different lab setup, tools, and automation.
