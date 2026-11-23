@@ -5,7 +5,6 @@ Resources in this section are organized by cybersecurity domain.
 - [Fundamentals](fundamentals/) - foundational concepts, methodology, and general learning paths.
 - [Offensive Security](offensive-security/) - reconnaissance, exploitation, payloads, post-exploitation, bug bounty, fuzzing, reverse engineering, and adversarial emulation.
 - [Defensive Security](defensive-security/) - DFIR, threat hunting, threat intelligence, honeypots, hardening, endpoint security, and SBOM resources.
-- [Threat Hunting](threat_hunting/) - forensic threat hunting guides, including [Adversary-in-the-Middle (AiTM) phishing and session hijacking forensics](threat_hunting/mitm_phishing_and_reverse_engineering_forensics.md).
 - [Application Security](application-security/) - web application testing, DevSecOps, secure coding, API security, and scripting for security automation.
 - [Cloud and Container Security](cloud-container-security/) - cloud provider security, Docker, Kubernetes, and container security resources.
 - [Infrastructure and Network Security](infrastructure-network-security/) - networking, wireless, VIRL topologies, and packet capture resources.
