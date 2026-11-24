@@ -12,4 +12,5 @@ See my blog post [AI Agentic Cybersecurity Tools: Reaper, TARS, Fabric Agent Act
 | [**Fabric Agent Action**](https://github.com/xvnpw/fabric-agent-action) | A GitHub Action that integrates the Fabric framework to automate CI/CD workflows using AI-driven patterns for tasks like issue summarization and PR reviews. |
 | [**Floki**](https://github.com/Cyb3rWard0g/floki)     | A framework for building and orchestrating LLM-powered autonomous agents, leveraging Dapr to enable robust multi-agent collaboration for cybersecurity tasks. |
 | [**RedAmon**](https://github.com/samugit83/redamon) | An open-source, self-hosted AI penetration testing framework that maps the attack surface into a Neo4j graph, runs exploitation from a Kali sandbox with human approval gates, and opens pull requests that fix the findings. |
+| [**CybeDefend**](https://github.com/CybeDefend/cybedefend) | An open-source security audit run from a coding agent (Claude Code, Codex, Cursor): it runs Opengrep, Trivy, Gitleaks and zizmor, then has the agent hunt business logic and access-rights flaws and prove each one with an exploit written as a test, with findings in a self-hosted dashboard. |
 
