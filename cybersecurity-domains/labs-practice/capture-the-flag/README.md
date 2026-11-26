@@ -15,3 +15,4 @@ Capture the flag (CTF) is a computer security competition that is designed for e
 * https://challenges.re
 * http://cryptopals.com
 * https://github.com/CTFd/CTFd
+* https://exorvio.com - Free, browser-based CTF practice for beginners: 144 topics, 1,228 original challenges and a daily flag, with nothing to install
